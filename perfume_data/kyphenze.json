@@ -1,0 +1,133 @@
+{
+    "name": "Kyphenzé",
+    "brand": "Pierre Guillaume",
+    "release_year": "2025",
+    "description": "A new perfume byPierre Guillaumefor women and men, released in2025. The scent is synthetic-citrusy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/62/6294e3_kyphenze-pierre-guillaume_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Citrus",
+        "Fresh",
+        "Green",
+        "Woody"
+    ],
+    "top_notes": [
+        "Citrus fruits"
+    ],
+    "heart_notes": [
+        "Liatris spicata",
+        "Sage",
+        "Spices"
+    ],
+    "base_notes": [
+        "Sandarac"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.4",
+            "votes": "15 Ratings"
+        },
+        "durability": {
+            "score": "6.4",
+            "votes": "12 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 5
+            },
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Synthetic",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 9
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Sport",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

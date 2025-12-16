@@ -1,0 +1,129 @@
+{
+    "name": "Remix California Feeling",
+    "brand": "4711",
+    "release_year": "2025",
+    "description": "A new perfume by4711for women and men, released in2025. The scent is citrusy-fresh. It is being marketed byMäurer & Wirtz.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/42/421c97_remix-california-feeling-4711_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Fruity",
+        "Sweet",
+        "Floral"
+    ],
+    "top_notes": [
+        "Bitter orange",
+        "Mandarin orange",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Orange blossom",
+        "Rose"
+    ],
+    "base_notes": [
+        "Musk",
+        "Raspberry",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "31 Ratings"
+        },
+        "durability": {
+            "score": "5.8",
+            "votes": "27 Ratings"
+        },
+        "sillage": {
+            "score": "5.4",
+            "votes": "27 Ratings"
+        },
+        "bottle": {
+            "score": "6.9",
+            "votes": "30 Ratings"
+        },
+        "pricing": {
+            "score": "8.6",
+            "votes": "23 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 16
+            },
+            {
+                "name": "Sweet",
+                "votes": 10
+            },
+            {
+                "name": "Fruity",
+                "votes": 15
+            },
+            {
+                "name": "Fresh",
+                "votes": 16
+            },
+            {
+                "name": "Floral",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 15
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 10
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 16
+            },
+            {
+                "name": "Spring",
+                "votes": 16
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 15
+            },
+            {
+                "name": "Sport",
+                "votes": 13
+            },
+            {
+                "name": "Leisure",
+                "votes": 16
+            },
+            {
+                "name": "Business",
+                "votes": 12
+            }
+        ]
+    }
+}

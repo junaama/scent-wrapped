@@ -1,0 +1,25 @@
+{
+    "name": "Rose Signature",
+    "brand": "Mustang Jeans",
+    "release_year": "2025",
+    "description": "A new perfume byMustang Jeansfor women, released in2025. It is being marketed byLuxess.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b5/b51d67_rose-signature-mustang-jeans_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Mint",
+        "Peach blossom",
+        "Petitgrain"
+    ],
+    "heart_notes": [
+        "Bulgarian rose",
+        "Cherry wood",
+        "Lily of the valley"
+    ],
+    "base_notes": [
+        "Osmanthus",
+        "Patchouli",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

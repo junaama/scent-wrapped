@@ -1,0 +1,137 @@
+{
+    "name": "The Poet",
+    "brand": "Teone Reinthal Natural Perfume",
+    "release_year": "2025",
+    "description": "A new perfume byTeone Reinthal Natural Perfumefor women and men, released in2025. The scent is green-chypre. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/74/740180_the-poet-teone-reinthal-natural-perfume_1200.jpg?width=240&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Chypre",
+        "Floral",
+        "Spicy",
+        "Woody"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "9.1",
+            "votes": "18 Ratings"
+        },
+        "durability": {
+            "score": "8.6",
+            "votes": "16 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "17 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Resinous",
+                "votes": 4
+            },
+            {
+                "name": "Green",
+                "votes": 7
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Earthy",
+                "votes": 3
+            },
+            {
+                "name": "Chypre",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

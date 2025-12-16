@@ -1,0 +1,43 @@
+{
+    "name": "Peachy Queen",
+    "brand": "Voluspa",
+    "release_year": "2025",
+    "description": "A new perfume byVoluspafor women, released in2025. The scent is gourmand-citrusy.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/af/af97b2_peachy-queen-voluspa_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Citrus",
+        "Fruity",
+        "Floral"
+    ],
+    "top_notes": [
+        "Lemon",
+        "Mandarin orange",
+        "Passion fruit"
+    ],
+    "heart_notes": [
+        "Frangipani",
+        "Tuberose",
+        "Yellow peach"
+    ],
+    "base_notes": [
+        "Coconut water",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

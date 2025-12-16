@@ -1,0 +1,51 @@
+{
+    "name": "Celeste Coffee",
+    "brand": "Lana & Hadi Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byLana & Hadi Parfumsfor women and men, released in2025. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e3/e3436b_celeste-coffee-lana-hadi-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Apple",
+        "Apricot",
+        "Peach",
+        "Plum",
+        "Rose",
+        "Violet"
+    ],
+    "heart_notes": [
+        "Butter",
+        "Cocoa",
+        "Coffee",
+        "Hazelnut",
+        "Toffee",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Arabica coffee",
+        "Italian cocoa",
+        "Java vetiver",
+        "Labdanum",
+        "Laotian oud",
+        "Orris absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,121 @@
+{
+    "name": "4 | Four",
+    "brand": "Valjues",
+    "release_year": "2025",
+    "description": "A new perfume byValjuesfor women and men, released in2025. The scent is sweet-creamy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/95/952442_4-four-valjues_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Creamy",
+        "Gourmand",
+        "Green",
+        "Woody"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "97 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "82 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "81 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "70 Ratings"
+        },
+        "pricing": {
+            "score": "7.1",
+            "votes": "55 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 35
+            },
+            {
+                "name": "Woody",
+                "votes": 8
+            },
+            {
+                "name": "Green",
+                "votes": 10
+            },
+            {
+                "name": "Gourmand",
+                "votes": 28
+            },
+            {
+                "name": "Creamy",
+                "votes": 35
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 29
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 26
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 28
+            },
+            {
+                "name": "Fall",
+                "votes": 32
+            },
+            {
+                "name": "Summer",
+                "votes": 15
+            },
+            {
+                "name": "Spring",
+                "votes": 27
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 28
+            },
+            {
+                "name": "Leisure",
+                "votes": 30
+            },
+            {
+                "name": "Night Out",
+                "votes": 16
+            },
+            {
+                "name": "Business",
+                "votes": 19
+            },
+            {
+                "name": "Evening",
+                "votes": 20
+            }
+        ]
+    }
+}

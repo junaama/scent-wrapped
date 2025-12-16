@@ -1,0 +1,150 @@
+{
+    "name": "Terre d'Hermès",
+    "brand": "Hermès",
+    "release_year": "2025",
+    "description": "A new perfume byHermèsfor men, released in2025. The scent is spicy-woody.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/d6/d67f26_terre-d-hermes-eau-de-parfum-intense-hermes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Earthy",
+        "Citrus",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Black pepper",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Liquorice",
+        "Coffee"
+    ],
+    "base_notes": [
+        "Lava rock",
+        "Woody notes"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "331 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "269 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "265 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "254 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "218 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 40
+            },
+            {
+                "name": "Spicy",
+                "votes": 84
+            },
+            {
+                "name": "Sweet",
+                "votes": 20
+            },
+            {
+                "name": "Smoky",
+                "votes": 24
+            },
+            {
+                "name": "Woody",
+                "votes": 75
+            },
+            {
+                "name": "Resinous",
+                "votes": 23
+            },
+            {
+                "name": "Green",
+                "votes": 18
+            },
+            {
+                "name": "Gourmand",
+                "votes": 30
+            },
+            {
+                "name": "Fresh",
+                "votes": 22
+            },
+            {
+                "name": "Earthy",
+                "votes": 70
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 97
+            },
+            {
+                "name": "Feminine",
+                "votes": 12
+            },
+            {
+                "name": "Classic",
+                "votes": 37
+            },
+            {
+                "name": "Modern",
+                "votes": 49
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 63
+            },
+            {
+                "name": "Fall",
+                "votes": 92
+            },
+            {
+                "name": "Summer",
+                "votes": 41
+            },
+            {
+                "name": "Spring",
+                "votes": 68
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 58
+            },
+            {
+                "name": "Leisure",
+                "votes": 77
+            },
+            {
+                "name": "Night Out",
+                "votes": 57
+            },
+            {
+                "name": "Business",
+                "votes": 61
+            },
+            {
+                "name": "Evening",
+                "votes": 66
+            }
+        ]
+    }
+}

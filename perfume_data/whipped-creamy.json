@@ -1,0 +1,101 @@
+{
+    "name": "Whipped & Creamy",
+    "brand": "Valjues",
+    "release_year": "2025",
+    "description": "A new perfume byValjuesfor women and men, released in2025. The scent is gourmand-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e2/e2a110_whipped-creamy-valjues_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Sweet",
+        "Fruity",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Apple",
+        "Brown sugar"
+    ],
+    "heart_notes": [
+        "Cashmere",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

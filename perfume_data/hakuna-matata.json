@@ -1,0 +1,140 @@
+{
+    "name": "Hakuna Matata",
+    "brand": "27 87 Perfumes",
+    "release_year": "2025",
+    "description": "A new perfume by27 87 Perfumesfor women and men, released in2025. The scent is sweet-fruity.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/40/40bd17_hakuna-matata-27-87-perfumes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Floral",
+        "Green",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Green banana peel",
+        "Broom",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Banana",
+        "Chinese jasmine",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Honey",
+        "Labdanum"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "74 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "63 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "64 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "61 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "49 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Synthetic",
+                "votes": 10
+            },
+            {
+                "name": "Sweet",
+                "votes": 24
+            },
+            {
+                "name": "Green",
+                "votes": 12
+            },
+            {
+                "name": "Gourmand",
+                "votes": 11
+            },
+            {
+                "name": "Fruity",
+                "votes": 20
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 13
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 10
+            },
+            {
+                "name": "Feminine",
+                "votes": 17
+            },
+            {
+                "name": "Modern",
+                "votes": 20
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 10
+            },
+            {
+                "name": "Fall",
+                "votes": 15
+            },
+            {
+                "name": "Summer",
+                "votes": 17
+            },
+            {
+                "name": "Spring",
+                "votes": 20
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 20
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 11
+            }
+        ]
+    }
+}

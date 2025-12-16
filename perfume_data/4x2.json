@@ -1,0 +1,119 @@
+{
+    "name": "4x2",
+    "brand": "D'Otto",
+    "release_year": "2025",
+    "description": "A new perfume byD'Ottofor women and men, released in2025. The scent is smoky-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b3/b3192c_4x2-d-otto_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Sweet",
+        "Woody",
+        "Floral",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Milk",
+        "Sicilian bitter almond",
+        "Turkish caramel"
+    ],
+    "heart_notes": [
+        "Bourbon vanilla",
+        "Italian lily of the valley",
+        "Jordan myrrh",
+        "Mexican tuberose"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Australian sandalwood",
+        "Brazilian tonka bean",
+        "Haitian vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Underdog",
+    "brand": "Coquillete",
+    "release_year": "2025",
+    "description": "A new perfume byCoquilletefor women and men, released in2025. The scent is fruity-woody.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8b/8b0258_underdog-coquillete_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Woody",
+        "Animal"
+    ],
+    "top_notes": [
+        "Aquatic notes",
+        "Bergamot",
+        "Grape leaf",
+        "Grapefruit",
+        "White wine"
+    ],
+    "heart_notes": [
+        "Benzoin",
+        "Frankincense",
+        "Tonka bean",
+        "Turkish rose",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Akigalawood®",
+        "Ambergris",
+        "Atlas cedar",
+        "Musk",
+        "Oud",
+        "Tobacco",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

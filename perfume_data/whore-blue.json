@@ -1,0 +1,134 @@
+{
+    "name": "Whore (Blue)",
+    "brand": "Aaron Terence Hughes",
+    "release_year": "2025",
+    "description": "A new perfume byAaron Terence Hughesfor women and men, released in2025. The scent is spicy-sweet. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c0/c0f5a5_whore-blue-aaron-terence-hughes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Sweet",
+        "Resinous",
+        "Citrus",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Elemi resin",
+        "Nutmeg",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Tobacco"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Tonka bean",
+        "Vanilla",
+        "Patchouli",
+        "Vetiver",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "50 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "47 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "48 Ratings"
+        },
+        "bottle": {
+            "score": "6.8",
+            "votes": "50 Ratings"
+        },
+        "pricing": {
+            "score": "7.5",
+            "votes": "48 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 9
+            },
+            {
+                "name": "Spicy",
+                "votes": 13
+            },
+            {
+                "name": "Sweet",
+                "votes": 12
+            },
+            {
+                "name": "Resinous",
+                "votes": 10
+            },
+            {
+                "name": "Fresh",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 14
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 10
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 13
+            },
+            {
+                "name": "Summer",
+                "votes": 10
+            },
+            {
+                "name": "Spring",
+                "votes": 13
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 10
+            },
+            {
+                "name": "Sport",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 13
+            },
+            {
+                "name": "Night Out",
+                "votes": 11
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 11
+            }
+        ]
+    }
+}

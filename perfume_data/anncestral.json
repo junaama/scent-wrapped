@@ -1,0 +1,30 @@
+{
+    "name": "Anncestral",
+    "brand": "Lehmann",
+    "release_year": "2025",
+    "description": "A new perfume byLehmannfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/91/91760c_anncestral-lehmann_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Lemon",
+        "Pepper",
+        "Rose",
+        "Star anise"
+    ],
+    "heart_notes": [
+        "Copal resin",
+        "Myrrh",
+        "Opoponax"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Sandalwood",
+        "Siam benzoin",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

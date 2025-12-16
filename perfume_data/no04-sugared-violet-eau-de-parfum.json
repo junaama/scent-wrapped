@@ -1,0 +1,64 @@
+{
+    "name": "Nº04 Sugared Violet",
+    "brand": "Mix:Bar",
+    "release_year": "2025",
+    "description": "A new perfume byMix:Barfor women and men, released in2025. The scent is floral-sweet. It is being marketed byMaesa.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/23/236807_no04-sugared-violet-eau-de-parfum-mix-bar_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Apple",
+        "Candied violet",
+        "Freesia",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Honeysuckle",
+        "Jasmine tea",
+        "Orchid"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cashmere wood",
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ]
+    }
+}

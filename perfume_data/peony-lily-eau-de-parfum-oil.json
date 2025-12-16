@@ -1,0 +1,34 @@
+{
+    "name": "Peony & Lily",
+    "brand": "Sand + Fog",
+    "release_year": "2025",
+    "description": "A new perfume bySand + Fogfor women, released in2025. The scent is spicy-fruity.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/65/651d0d_peony-lily-eau-de-parfum-oil-sand-fog_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Fruity",
+        "Floral",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Lemon",
+        "Orange",
+        "Pink pepper",
+        "Rhubarb"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Magnolia",
+        "Peach",
+        "Peony",
+        "Rose",
+        "Sage"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Musk",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

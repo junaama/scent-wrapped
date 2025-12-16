@@ -1,0 +1,31 @@
+{
+    "name": "Gula",
+    "brand": "Darkbeat",
+    "release_year": "2025",
+    "description": "A new perfume byDarkbeatfor women and men, released in2025. The scent is woody-gourmand.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/37/37791b_gula-darkbeat_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Gourmand",
+        "Sweet",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Honey",
+        "Rum"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Cappucino"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Tonka bean",
+        "Benzoin",
+        "Himalaya cedar",
+        "Raspberry",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

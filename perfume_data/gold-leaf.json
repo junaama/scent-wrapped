@@ -1,0 +1,42 @@
+{
+    "name": "Gold Leaf",
+    "brand": "Ormonde Jayne",
+    "release_year": "2025",
+    "description": "A new and limited perfume byOrmonde Jaynefor women and men, released in2025. The projection is above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/92/92b24f_gold-leaf-ormonde-jayne_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blackcurrant leaf",
+        "Oolong tea",
+        "Juniper berry"
+    ],
+    "heart_notes": [
+        "Bulgarian rose absolute",
+        "Jasmine sambac absolute"
+    ],
+    "base_notes": [
+        "Cedar",
+        "Haitian vetiver",
+        "Lapsang Souchong tea",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "10",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "9.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {}
+}

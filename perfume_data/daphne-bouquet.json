@@ -1,0 +1,131 @@
+{
+    "name": "Daphne Bouquet",
+    "brand": "Penhaligon's",
+    "release_year": "2025",
+    "description": "A new and limited perfume byPenhaligon'sfor women and men, released in2025. The scent is green-floral. It is being marketed byPuig.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/00/00d43a_daphne-bouquet-penhaligon-s_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Floral",
+        "Fresh",
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Blackcurrant leaf"
+    ],
+    "heart_notes": [
+        "Daphne"
+    ],
+    "base_notes": [
+        "Moss"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "58 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "50 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "48 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "45 Ratings"
+        },
+        "pricing": {
+            "score": "6.1",
+            "votes": "32 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Green",
+                "votes": 31
+            },
+            {
+                "name": "Fresh",
+                "votes": 27
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 30
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 11
+            },
+            {
+                "name": "Feminine",
+                "votes": 28
+            },
+            {
+                "name": "Classic",
+                "votes": 12
+            },
+            {
+                "name": "Modern",
+                "votes": 12
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 27
+            },
+            {
+                "name": "Spring",
+                "votes": 31
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 26
+            },
+            {
+                "name": "Sport",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 25
+            },
+            {
+                "name": "Night Out",
+                "votes": 11
+            },
+            {
+                "name": "Business",
+                "votes": 21
+            },
+            {
+                "name": "Evening",
+                "votes": 12
+            }
+        ]
+    }
+}

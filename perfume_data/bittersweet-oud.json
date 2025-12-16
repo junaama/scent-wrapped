@@ -1,0 +1,125 @@
+{
+    "name": "Bittersweet Oud",
+    "brand": "Loewe",
+    "release_year": "2025",
+    "description": "A new perfume byLoewefor women and men, released in2025. The scent is sweet-spicy. The longevity is above-average. It is being marketed byLVMH.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/29/29b63e_bittersweet-oud-loewe_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Oriental",
+        "Woody",
+        "Smoky"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "9.1",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "9.4",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Smoky",
+                "votes": 3
+            },
+            {
+                "name": "Oriental",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Animal",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

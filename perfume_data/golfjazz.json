@@ -1,0 +1,32 @@
+{
+    "name": "Golfjazz",
+    "brand": "D.S. & Durga",
+    "release_year": "2025",
+    "description": "A new and limited perfume byD.S. & Durgafor men, released in2025.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/f3/f358eb_golfjazz-d-s-durga_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Lime"
+    ],
+    "heart_notes": [
+        "Grass"
+    ],
+    "base_notes": [
+        "Leather"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

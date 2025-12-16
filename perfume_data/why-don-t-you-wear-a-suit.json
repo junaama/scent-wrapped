@@ -1,0 +1,120 @@
+{
+    "name": "Why Don't You Wear a Suit",
+    "brand": "House of Atropa",
+    "release_year": "2025",
+    "description": "A new perfume byHouse of Atropafor women and men, released in2025. The scent is synthetic-green.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/54/5443e0_why-don-t-you-wear-a-suit-house-of-atropa_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Green",
+        "Aquatic",
+        "Citrus",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Aquatic notes",
+        "Lemon",
+        "Metal",
+        "Musk",
+        "Salt"
+    ],
+    "heart_notes": [
+        "Cabreuva",
+        "Cedar",
+        "Everlasting flower",
+        "Formosan cypress",
+        "Jasmine",
+        "Metal",
+        "Moss",
+        "Smoke"
+    ],
+    "base_notes": [
+        "Black spruce",
+        "Musk",
+        "Oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.0",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

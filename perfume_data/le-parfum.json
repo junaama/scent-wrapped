@@ -1,0 +1,25 @@
+{
+    "name": "Le Parfum",
+    "brand": "agnès b.",
+    "release_year": "2025",
+    "description": "A new perfume byagnès b.for women, released in2025. It is being marketed byExtend Beauty / Zylangia.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a3/a3a941_le-parfum-agnes-b_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Green tea CO2",
+        "Lemon",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Mock-orange",
+        "Saffron",
+        "Tuberose absolute"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

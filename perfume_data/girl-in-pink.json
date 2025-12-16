@@ -1,0 +1,32 @@
+{
+    "name": "Girl in Pink",
+    "brand": "The Dua Brand",
+    "release_year": "2025",
+    "description": "A new perfume byThe Dua Brandfor women, released in2025. The perfume is vegan according to the manufacturer.PronunciationCompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/8b/8bd3af_girl-in-pink-the-dua-brand-dua-fragrances_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cherry",
+        "Honey pomelo",
+        "Strawberry nectar"
+    ],
+    "heart_notes": [
+        "Dragon fruit",
+        "Gardenia",
+        "Peony",
+        "Pink magnolia",
+        "Rose"
+    ],
+    "base_notes": [
+        "Cream",
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

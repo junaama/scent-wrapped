@@ -1,0 +1,29 @@
+{
+    "name": "Eden Bond",
+    "brand": "Ode Ona",
+    "release_year": "2025",
+    "description": "A new perfume byOde Onafor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f1/f1fcff_eden-bond-ode-ona_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Ginger",
+        "Nepalese sichuan pepper"
+    ],
+    "heart_notes": [
+        "Angelica",
+        "Jasmine",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Ambrox",
+        "Labdanum",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

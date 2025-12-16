@@ -1,0 +1,140 @@
+{
+    "name": "Sun",
+    "brand": "Michalsky",
+    "release_year": "2025",
+    "description": "A new and limited perfume byMichalskyfor women, released in2025. The scent is sweet-floral. It is being marketed byLifestyle Fragrance & Beauty.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/84/84dd8f_sun-michalsky_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Creamy",
+        "Synthetic",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Coconut milk",
+        "Peach"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Orange blossom",
+        "Ylang-ylang",
+        "Rose"
+    ],
+    "base_notes": [
+        "Musk",
+        "Water lily"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.2",
+            "votes": "26 Ratings"
+        },
+        "durability": {
+            "score": "6.2",
+            "votes": "20 Ratings"
+        },
+        "sillage": {
+            "score": "6.1",
+            "votes": "18 Ratings"
+        },
+        "bottle": {
+            "score": "6.0",
+            "votes": "26 Ratings"
+        },
+        "pricing": {
+            "score": "7.7",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

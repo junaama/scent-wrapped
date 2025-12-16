@@ -1,0 +1,159 @@
+{
+    "name": "Angkor",
+    "brand": "Insolitum Odores",
+    "release_year": "2025",
+    "description": "A new perfume byInsolitum Odoresfor women and men, released in2025. The scent is fruity-animal. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/62/62bf62_angkor-insolitum-odores_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Animal",
+        "Sweet",
+        "Leathery",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Pear",
+        "Strawberry",
+        "Blackcurrant",
+        "Grapefruit"
+    ],
+    "heart_notes": [
+        "Banana",
+        "Raspberry",
+        "Rose",
+        "Cardamom",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Musk",
+        "Cambodian oud",
+        "Tonka bean",
+        "Amber",
+        "Leather",
+        "Gurjum balsam",
+        "Oakmoss",
+        "Patchouli",
+        "Cedar"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.6",
+            "votes": "43 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "37 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "35 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "31 Ratings"
+        },
+        "pricing": {
+            "score": "6.8",
+            "votes": "23 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 11
+            },
+            {
+                "name": "Oriental",
+                "votes": 7
+            },
+            {
+                "name": "Leathery",
+                "votes": 10
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 17
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            },
+            {
+                "name": "Animal",
+                "votes": 12
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 11
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 10
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 10
+            },
+            {
+                "name": "Fall",
+                "votes": 14
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Night Out",
+                "votes": 13
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 12
+            }
+        ]
+    }
+}

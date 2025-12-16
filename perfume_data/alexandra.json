@@ -1,0 +1,27 @@
+{
+    "name": "Alexandra",
+    "brand": "Layr",
+    "release_year": "2025",
+    "description": "A new and limited perfume byLayrfor women and men, released in2025.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/29/295eb3_alexandra-layr_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Clove",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Frankincense",
+        "Heliotrope",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Moss",
+        "Musky notes",
+        "Tonka bean"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

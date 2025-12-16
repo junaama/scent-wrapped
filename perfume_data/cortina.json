@@ -1,0 +1,25 @@
+{
+    "name": "Cortina",
+    "brand": "Alps",
+    "release_year": "2025",
+    "description": "A new perfume byAlpsfor women and men, released in2025. It is being marketed byMavive.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6a/6ac047_cortina-alps_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Indian cardamom",
+        "Italian bergamot",
+        "Italian lemon"
+    ],
+    "heart_notes": [
+        "French cypress",
+        "Ginger CO2",
+        "Lemon petitgrain"
+    ],
+    "base_notes": [
+        "Ambrofix",
+        "Indonesian nutmeg",
+        "Somalian frankincense"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

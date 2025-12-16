@@ -1,0 +1,29 @@
+{
+    "name": "Ambivert",
+    "brand": "Raine Beauty",
+    "release_year": "2025",
+    "description": "A new perfume byRaine Beautyfor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9c/9c1d2b_ambivert-raine-beauty_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Green notes",
+        "Orris root",
+        "Violet"
+    ],
+    "heart_notes": [
+        "Benzoin",
+        "Heliotrope",
+        "Mimosa"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,113 @@
+{
+    "name": "Imperial Tobacco",
+    "brand": "4711",
+    "release_year": "2025",
+    "description": "A new perfume by4711for women and men, released in2025. The scent is spicy-woody. It is being marketed byMäurer & Wirtz.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a4/a4d68e_imperial-tobacco-4711_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Oriental",
+        "Earthy",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Guatemala cardamom",
+        "Grapefruit",
+        "Sri Lankan black tea"
+    ],
+    "heart_notes": [
+        "Lavender",
+        "Tobacco",
+        "Tonka bean absolute"
+    ],
+    "base_notes": [
+        "Amyris",
+        "Gaiac wood",
+        "Spanish labdanum"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "11 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

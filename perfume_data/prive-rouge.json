@@ -1,0 +1,79 @@
+{
+    "name": "Privé Rouge",
+    "brand": "M. Micallef",
+    "release_year": "2025",
+    "description": "A new and limited perfume byM. Micalleffor women and men, released in2025. The scent is gourmand-sweet.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/de/de1add_prive-rouge-m-micallef_1200.jpg?width=240&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Coconut",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Cream",
+        "Lavender",
+        "Pistachio",
+        "Praliné"
+    ],
+    "base_notes": [
+        "Musk",
+        "Woody notes"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

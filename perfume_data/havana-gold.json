@@ -1,0 +1,121 @@
+{
+    "name": "Havana Gold",
+    "brand": "Dries Van Noten",
+    "release_year": "2025",
+    "description": "A new perfume byDries Van Notenfor women and men, released in2025. The scent is spicy-leathery. The longevity is above-average. It is being marketed byPuig.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ae/ae1782_havana-gold-dries-van-noten_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Leathery",
+        "Sweet",
+        "Smoky",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Liquorice",
+        "Mandarin orange",
+        "Star anise"
+    ],
+    "heart_notes": [
+        "Tobacco absolute",
+        "Benzoin",
+        "Cinnamon"
+    ],
+    "base_notes": [
+        "Roasted tonka bean",
+        "Cypriol",
+        "Leather"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "78 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "67 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "65 Ratings"
+        },
+        "bottle": {
+            "score": "9.0",
+            "votes": "63 Ratings"
+        },
+        "pricing": {
+            "score": "6.1",
+            "votes": "40 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 29
+            },
+            {
+                "name": "Sweet",
+                "votes": 20
+            },
+            {
+                "name": "Smoky",
+                "votes": 17
+            },
+            {
+                "name": "Leathery",
+                "votes": 24
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Resinous",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 25
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Modern",
+                "votes": 15
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 30
+            },
+            {
+                "name": "Fall",
+                "votes": 30
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 15
+            },
+            {
+                "name": "Night Out",
+                "votes": 25
+            },
+            {
+                "name": "Evening",
+                "votes": 25
+            }
+        ]
+    }
+}

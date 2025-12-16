@@ -1,0 +1,82 @@
+{
+    "name": "First Love",
+    "brand": "Arabiyat Prestige",
+    "release_year": "2025",
+    "description": "A new perfume byArabiyat Prestigefor women, released in2025. The scent is floral-fresh. It is being marketed byMy Perfumes / MPF (My Perfumes Factory).Compare",
+    "image_url": "https://media.parfumo.com/perfumes/64/643c32_first-love-arabiyat-prestige_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Fruity",
+        "Synthetic",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Cypress",
+        "Lemon",
+        "Peach"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Milky notes",
+        "Violet",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Heliotrope",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

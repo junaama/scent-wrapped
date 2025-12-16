@@ -1,0 +1,45 @@
+{
+    "name": "Thé de Goyave",
+    "brand": "Le Monde Gourmand",
+    "release_year": "2025",
+    "description": "A new perfume byLe Monde Gourmandfor women, released in2025. It is being marketed byTru Fragrance / Romane Fragrances.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/dd/ddc7b6_the-de-goyave-le-monde-gourmand_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Guava",
+        "Lemon",
+        "Plum"
+    ],
+    "heart_notes": [
+        "Green tea",
+        "Lily of the valley",
+        "Orris root",
+        "White tea"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Orcanox",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "4.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "4.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "6.3",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,117 @@
+{
+    "name": "Nina Rouge Crush",
+    "brand": "Nina Ricci",
+    "release_year": "2025",
+    "description": "A new perfume byNina Riccifor women, released in2025. The scent is fruity-gourmand. It is being marketed byPuig.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/79/79ddf0_nina-rouge-crush-nina-ricci_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Gourmand",
+        "Sweet",
+        "Floral",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Cherry",
+        "Lemon",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Damask rose",
+        "Gardenia",
+        "Granny Smith apple"
+    ],
+    "base_notes": [
+        "Bourbon vanilla",
+        "Cedarwood",
+        "Tahitian vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

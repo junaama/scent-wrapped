@@ -1,0 +1,102 @@
+{
+    "name": "Rogue",
+    "brand": "Gissah",
+    "release_year": "2025",
+    "description": "A new perfume byGissahfor men, released in2025. The scent is synthetic-gourmand. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/91/91721b_rogue-gissah_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Gourmand",
+        "Spicy",
+        "Oriental",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Caramel",
+        "Pepper"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Cardamom"
+    ],
+    "base_notes": [
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

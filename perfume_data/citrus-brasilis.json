@@ -1,0 +1,48 @@
+{
+    "name": "Citrus Brasilis",
+    "brand": "Granado",
+    "release_year": "2025",
+    "description": "A new perfume byGranadofor women and men, released in2025. The scent is citrusy-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a6/a64a08_citrus-brasilis-granado_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Floral",
+        "Aquatic",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Lemon",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Kumquat",
+        "Mint"
+    ],
+    "base_notes": [
+        "Musk",
+        "Patchouli",
+        "Violet leaf"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "6.3",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {}
+}

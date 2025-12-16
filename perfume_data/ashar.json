@@ -1,0 +1,156 @@
+{
+    "name": "Ashar",
+    "brand": "Shekor",
+    "release_year": "2025",
+    "description": "A new perfume byShekorfor women and men, released in2025. The scent is citrusy-fresh. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8c/8c8b51_ashar-shekor_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Aquatic",
+        "Green",
+        "Animal"
+    ],
+    "top_notes": [
+        "Citrus notes",
+        "Ozonic notes",
+        "Cadam tree blossom",
+        "Rain accord"
+    ],
+    "heart_notes": [
+        "Bamboo",
+        "Green tea",
+        "Rice"
+    ],
+    "base_notes": [
+        "Amber",
+        "Animalic notes",
+        "Lily of the valley",
+        "Musk",
+        "Salt"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "14 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "11 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "10 Ratings"
+        },
+        "bottle": {
+            "score": "8.8",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Fougère",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            },
+            {
+                "name": "Aquatic",
+                "votes": 3
+            },
+            {
+                "name": "Animal",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

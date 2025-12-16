@@ -1,0 +1,129 @@
+{
+    "name": "Aria",
+    "brand": "Elyon",
+    "release_year": "2025",
+    "description": "A new and limited perfume byElyonfor women and men, released in2025. The scent is sweet-creamy. Projection and longevity are above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/60/6053fd_aria-elyon_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Creamy",
+        "Powdery",
+        "Synthetic",
+        "Floral"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "9.0",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "8.4",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

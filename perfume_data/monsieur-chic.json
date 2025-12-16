@@ -1,0 +1,23 @@
+{
+    "name": "Monsieur Chic",
+    "brand": "Brett Johnson",
+    "release_year": "2025",
+    "description": "A new perfume byBrett Johnsonfor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/19/198f3b_monsieur-chic-brett-johnson_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cardamom",
+        "Cypress"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Musk",
+        "Patchouli"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

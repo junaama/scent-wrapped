@@ -1,0 +1,35 @@
+{
+    "name": "Candelicious",
+    "brand": "Risala",
+    "release_year": "2025",
+    "description": "A new perfume byRisalafor women, released in2025. The scent is fruity-synthetic. It is being marketed bySterling Perfumes Industries LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/91/9160c1_candelicious-risala_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Synthetic",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Apple",
+        "Freesia",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Marshmallow",
+        "Coconut",
+        "Cream",
+        "Strawberry"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Raspberry",
+        "Amber"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "4.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Siren",
+    "brand": "Lovelace Perfumes",
+    "release_year": "2025",
+    "description": "A new perfume byLovelace Perfumesfor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/8c/8c05a4_siren-lovelace-perfumes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Aquatic notes"
+    ],
+    "heart_notes": [
+        "Ginger",
+        "Honey",
+        "Kelp",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Iris",
+        "Orris butter"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

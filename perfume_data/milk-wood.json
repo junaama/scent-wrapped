@@ -1,0 +1,28 @@
+{
+    "name": "Milk Wood",
+    "brand": "Ellis Brooklyn",
+    "release_year": "2025",
+    "description": "A new perfume byEllis Brooklynfor women and men, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/9a/9a9c44_milk-wood-ellis-brooklyn_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Freesia"
+    ],
+    "heart_notes": [
+        "Atlas cedar",
+        "Coconut milk"
+    ],
+    "base_notes": [
+        "Australian sandalwood",
+        "Clearwood™",
+        "Musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

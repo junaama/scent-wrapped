@@ -1,0 +1,117 @@
+{
+    "name": "Ragnarok",
+    "brand": "Nebiru Parfvms",
+    "release_year": "2025",
+    "description": "A new perfume byNebiru Parfvmsfor women and men, released in2025. The scent is woody-animal. Projection and longevity are above-average. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2b/2b4f0d_ragnarok-nebiru-parfvms_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Animal",
+        "Resinous",
+        "Smoky",
+        "Spicy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "52 Ratings"
+        },
+        "durability": {
+            "score": "8.8",
+            "votes": "46 Ratings"
+        },
+        "sillage": {
+            "score": "8.4",
+            "votes": "46 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "42 Ratings"
+        },
+        "pricing": {
+            "score": "7.1",
+            "votes": "38 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 8
+            },
+            {
+                "name": "Smoky",
+                "votes": 10
+            },
+            {
+                "name": "Leathery",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 15
+            },
+            {
+                "name": "Resinous",
+                "votes": 11
+            },
+            {
+                "name": "Earthy",
+                "votes": 6
+            },
+            {
+                "name": "Animal",
+                "votes": 13
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 14
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 14
+            },
+            {
+                "name": "Fall",
+                "votes": 13
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 11
+            },
+            {
+                "name": "Night Out",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 14
+            }
+        ]
+    }
+}

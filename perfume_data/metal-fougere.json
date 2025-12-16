@@ -1,0 +1,30 @@
+{
+    "name": "Metal Fougère",
+    "brand": "Miguel Matos",
+    "release_year": "2025",
+    "description": "A new perfume byMiguel Matosfor women and men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Aldehydes",
+        "Bergamot",
+        "Clove",
+        "Lime",
+        "Nutmeg"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Lavender",
+        "Sclarene"
+    ],
+    "base_notes": [
+        "Cetalox®",
+        "Coumarin",
+        "Iris",
+        "Musk",
+        "Oakmoss",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

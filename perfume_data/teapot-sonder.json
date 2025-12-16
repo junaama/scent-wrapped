@@ -1,0 +1,112 @@
+{
+    "name": "Teapot Sonder",
+    "brand": "Ode Ona",
+    "release_year": "2025",
+    "description": "A new perfume byOde Onafor women and men, released in2025. The scent is floral-powdery.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e0/e09773_teapot-sonder-ode-ona_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Powdery",
+        "Fresh",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Lemon",
+        "Sage",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Hōjicha",
+        "Maté",
+        "Orris root"
+    ],
+    "base_notes": [
+        "Musk",
+        "Gaiac wood",
+        "Orris root"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "8 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "5.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

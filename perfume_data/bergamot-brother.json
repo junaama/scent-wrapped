@@ -1,0 +1,123 @@
+{
+    "name": "Bergamot Brother",
+    "brand": "Liquides Imaginaires",
+    "release_year": "2025",
+    "description": "A new perfume byLiquides Imaginairesfor women and men, released in2025. The scent is sweet-green. The projection is above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/a2/a2a3ac_bergamot-brother-liquides-imaginaires_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Green",
+        "Citrus",
+        "Spicy",
+        "Leathery"
+    ],
+    "top_notes": [
+        "Angelica seed",
+        "Italian bergamot Orpur®",
+        "Italian mandarine Orpur®",
+        "Orange",
+        "Indian cardamom Orpur®"
+    ],
+    "heart_notes": [
+        "Indian ginger Orpur®",
+        "Indonesian white pepper",
+        "Laotian cinnamon Orpur®",
+        "North African orange blossom absolute Orpur®",
+        "Saffron",
+        "Dried fruits"
+    ],
+    "base_notes": [
+        "Ambrocenide®",
+        "Akigalawood®",
+        "Ambrofix",
+        "Atlas cedar",
+        "Cosmone",
+        "Orange",
+        "Siam benzoin",
+        "Leather"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.8",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

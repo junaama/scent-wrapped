@@ -1,0 +1,129 @@
+{
+    "name": "I Want Choo with Love",
+    "brand": "Jimmy Choo",
+    "release_year": "2025",
+    "description": "A new perfume byJimmy Choofor women, released in2025. The scent is sweet-floral. It is being marketed byInterparfums.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3c/3c762d_i-want-choo-with-love-jimmy-choo_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Fruity",
+        "Citrus",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Mandarin orange",
+        "Orange blossom",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Freesia",
+        "Hibiscus",
+        "Rose"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "17 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

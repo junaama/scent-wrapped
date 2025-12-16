@@ -1,0 +1,119 @@
+{
+    "name": "32°",
+    "brand": "Ormaie",
+    "release_year": "2025",
+    "description": "A new perfume byOrmaiefor women and men, released in2025. The scent is floral-sweet. The longevity is above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/30/300c0a_32-ormaie_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Creamy",
+        "Fruity",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Freesia",
+        "Neroli",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Cashmere wood",
+        "Tuberose",
+        "Coconut",
+        "Honeysuckle",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Palo Santo",
+        "Suede",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

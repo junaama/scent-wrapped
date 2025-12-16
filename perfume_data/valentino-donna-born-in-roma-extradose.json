@@ -1,0 +1,130 @@
+{
+    "name": "Valentino Donna Born In Roma Extradose",
+    "brand": "Valentino",
+    "release_year": "2025",
+    "description": "A new perfume byValentinofor women, released in2025. The scent is sweet-fruity. It is being marketed byL'Oréal.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b0/b0f936-valentino-donna-born-in-roma-extradose-valentino_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Gourmand",
+        "Synthetic",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Bergamot",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Rum",
+        "Jasmine sambac absolute"
+    ],
+    "base_notes": [
+        "Bourbon vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "176 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "143 Ratings"
+        },
+        "sillage": {
+            "score": "7.9",
+            "votes": "142 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "145 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "117 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 17
+            },
+            {
+                "name": "Sweet",
+                "votes": 46
+            },
+            {
+                "name": "Gourmand",
+                "votes": 24
+            },
+            {
+                "name": "Fruity",
+                "votes": 44
+            },
+            {
+                "name": "Creamy",
+                "votes": 15
+            },
+            {
+                "name": "Floral",
+                "votes": 11
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 49
+            },
+            {
+                "name": "Classic",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 30
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 43
+            },
+            {
+                "name": "Fall",
+                "votes": 42
+            },
+            {
+                "name": "Summer",
+                "votes": 20
+            },
+            {
+                "name": "Spring",
+                "votes": 36
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 26
+            },
+            {
+                "name": "Leisure",
+                "votes": 33
+            },
+            {
+                "name": "Night Out",
+                "votes": 45
+            },
+            {
+                "name": "Business",
+                "votes": 16
+            },
+            {
+                "name": "Evening",
+                "votes": 41
+            }
+        ]
+    }
+}

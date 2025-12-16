@@ -1,0 +1,101 @@
+{
+    "name": "Light in the Heart",
+    "brand": "Arabiyat Prestige",
+    "release_year": "2025",
+    "description": "A new perfume byArabiyat Prestigefor men, released in2025. The scent is spicy-gourmand. It is being marketed byMy Perfumes / MPF (My Perfumes Factory).Compare",
+    "image_url": "https://media.parfumo.com/perfumes/99/992292_light-in-the-heart-arabiyat-prestige_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Gourmand",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Cinnamon"
+    ],
+    "heart_notes": [
+        "Elemi resin",
+        "Gaiac wood",
+        "Woods"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "11 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "11 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "11 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "13 Ratings"
+        },
+        "pricing": {
+            "score": "8.5",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

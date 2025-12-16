@@ -1,0 +1,142 @@
+{
+    "name": "Dubai Nights Midnight",
+    "brand": "Armaf",
+    "release_year": "2025",
+    "description": "A new perfume byArmaffor women and men, released in2025. The scent is fresh-woody. It is being marketed bySterling Perfumes Industries LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8b/8b7460_dubai-nights-midnight-armaf_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Woody",
+        "Floral",
+        "Sweet",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Lavender"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Patchouli",
+        "Woody notes"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "19 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "16 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "16 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "17 Ratings"
+        },
+        "pricing": {
+            "score": "8.9",
+            "votes": "16 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

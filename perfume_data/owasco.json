@@ -1,0 +1,161 @@
+{
+    "name": "Owasco",
+    "brand": "Jinx",
+    "release_year": "2025",
+    "description": "A new and limited perfume byJinxfor women and men, released in2025. The scent is citrusy-spicy. The longevity is above-average. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/f5/f53688_owasco-jinx_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Spicy",
+        "Woody",
+        "Resinous",
+        "Leathery"
+    ],
+    "top_notes": [
+        "Green mandarin orange",
+        "Peppermint",
+        "Bergamot",
+        "Nutmeg"
+    ],
+    "heart_notes": [
+        "Neroli",
+        "Atlas cedar",
+        "Frankincense",
+        "Myrrh",
+        "Rosewood"
+    ],
+    "base_notes": [
+        "Aniseed",
+        "Haitian vetiver",
+        "Brazilian vetiver",
+        "Indian vetiver",
+        "Oakmoss",
+        "Vetiver",
+        "Leather",
+        "Oud",
+        "Sandalwood",
+        "Snow",
+        "Styrax",
+        "White gingerlily"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "8 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "7.9",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "8.6",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "name": "Corpse of a Star",
+    "brand": "Necros",
+    "release_year": "2025",
+    "description": "A new perfume byNecrosfor women and men, released in2025. The scent is smoky-spicy. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [
+        "Smoky",
+        "Spicy",
+        "Woody",
+        "Earthy",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Ozone",
+        "Smoke"
+    ],
+    "heart_notes": [
+        "Ambergris",
+        "Burnt vanilla",
+        "Dry woods"
+    ],
+    "base_notes": [
+        "Mineral notes",
+        "Resins"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

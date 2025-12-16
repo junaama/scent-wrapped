@@ -1,0 +1,43 @@
+{
+    "name": "Gun Girl",
+    "brand": "CBCB",
+    "release_year": "2025",
+    "description": "A new perfume byCBCBfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/bb/bb1bc0_gun-girl-cbcb_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Flintstone",
+        "Grapefruit",
+        "Italian bergamot",
+        "Juniper berry"
+    ],
+    "heart_notes": [
+        "Labdanum",
+        "Patchouli",
+        "Rhubarb"
+    ],
+    "base_notes": [
+        "Blackcurrant",
+        "Leather",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "name": "Royal Rubis",
+    "brand": "Lou de Pre",
+    "release_year": "2025",
+    "description": "A new perfume byLou de Prefor women, released in2025. The scent is sweet-spicy. It is being marketed byLCC Brands.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3f/3f32fb_royal-rubis-lou-de-pre_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Synthetic",
+        "Woody",
+        "Green"
+    ],
+    "top_notes": [
+        "Jasmine",
+        "Almond",
+        "Saffron",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Amberwood",
+        "Amber",
+        "Brown sugar"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Cashmeran",
+        "Fir resin",
+        "Oakmoss",
+        "Cedarwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.2",
+            "votes": "16 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "14 Ratings"
+        },
+        "sillage": {
+            "score": "6.2",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "6.8",
+            "votes": "16 Ratings"
+        },
+        "pricing": {
+            "score": "7.3",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Chypre",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

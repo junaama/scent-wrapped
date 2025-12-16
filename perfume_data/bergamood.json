@@ -1,0 +1,148 @@
+{
+    "name": "Bergamood",
+    "brand": "BMW",
+    "release_year": "2025",
+    "description": "A new perfume byBMWfor women and men, released in2025. The scent is citrusy-synthetic. It is being marketed byMavive.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ed/ed3e77_bergamood-bmw_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Synthetic",
+        "Fresh",
+        "Spicy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Italian bergamot",
+        "Pink pepper",
+        "Italian mandarin orange"
+    ],
+    "heart_notes": [
+        "Helvetolide®",
+        "Paraguayan petigrain",
+        "Diva lavender"
+    ],
+    "base_notes": [
+        "Ambrox",
+        "Anthamber™"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "16 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "11 Ratings"
+        },
+        "sillage": {
+            "score": "5.9",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "6.3",
+            "votes": "17 Ratings"
+        },
+        "pricing": {
+            "score": "6.8",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

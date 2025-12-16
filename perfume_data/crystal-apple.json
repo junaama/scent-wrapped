@@ -1,0 +1,43 @@
+{
+    "name": "Crystal Apple",
+    "brand": "Flower Knows",
+    "release_year": "2025",
+    "description": "A new perfume byFlower Knowsfor women, released in2025. The scent is green.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9c/9c2d68_crystal-apple-flower-knows_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green"
+    ],
+    "top_notes": [
+        "Galbanum",
+        "Aquatic notes",
+        "Pomegranate",
+        "Yuzu"
+    ],
+    "heart_notes": [
+        "Apple",
+        "Lotus",
+        "Magnolia",
+        "Peony"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Moss",
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Green",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            }
+        ]
+    }
+}

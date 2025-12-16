@@ -1,0 +1,41 @@
+{
+    "name": "Mi Amore",
+    "brand": "Ucca",
+    "release_year": "2025",
+    "description": "A new and limited perfume byUccafor women and men, released in2025.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/2e/2ef91e_mi-amore-ucca_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Jackfruit",
+        "Raspberry",
+        "Strawberry"
+    ],
+    "heart_notes": [
+        "Medan orange",
+        "Osmanthus",
+        "Peach",
+        "Sencha"
+    ],
+    "base_notes": [
+        "Dried mandarin peel",
+        "Green cardamom",
+        "Indonesian green oud",
+        "Myrrh",
+        "Omani green frankincense",
+        "Palo Santo",
+        "Patchouli",
+        "Pu-erh tea",
+        "Red tea",
+        "Sandalwood",
+        "Tea blossom",
+        "Vetiver",
+        "White sage"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

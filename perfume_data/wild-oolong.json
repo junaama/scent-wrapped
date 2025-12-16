@@ -1,0 +1,40 @@
+{
+    "name": "Wild Oolong",
+    "brand": "Skylar",
+    "release_year": "2025",
+    "description": "A new and limited perfume bySkylarfor women and men, released in2025. The scent is fresh-woody. The longevity is above-average.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/ba/ba1db7_wild-oolong-skylar_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Woody",
+        "Spicy",
+        "Citrus",
+        "Green"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Jasmine",
+        "Oolong tea"
+    ],
+    "heart_notes": [
+        "American plum",
+        "Bourbon whiskey",
+        "Freesia"
+    ],
+    "base_notes": [
+        "Haitian vetiver",
+        "Sandalwood",
+        "Woods"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "5.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

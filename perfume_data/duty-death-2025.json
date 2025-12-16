@@ -1,0 +1,111 @@
+{
+    "name": "Duty & Death",
+    "brand": "Hunayn",
+    "release_year": "2025",
+    "description": "A new and limited perfume byHunaynfor women and men, released in2025. The scent is spicy-woody. Projection and longevity are above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/62/622bac_duty-death-2025-hunayn_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Floral",
+        "Animal"
+    ],
+    "top_notes": [
+        "Black pepper",
+        "Cinnamon",
+        "Birch",
+        "Cade juniper",
+        "Clove",
+        "Saffron",
+        "Rum"
+    ],
+    "heart_notes": [
+        "Myrrh",
+        "Omani red frankincense",
+        "Red ginger",
+        "Saffron",
+        "Shamamatul amber attar",
+        "White oud",
+        "Jasmine",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Patchouli",
+        "Frankincense",
+        "Indian oud",
+        "Nagarmotha",
+        "Sandalwood",
+        "Chinese vetiver",
+        "Oud",
+        "Sumatran oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "9.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            }
+        ]
+    }
+}

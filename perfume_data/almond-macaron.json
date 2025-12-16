@@ -1,0 +1,28 @@
+{
+    "name": "Almond Macaron",
+    "brand": "The Sugar Societies",
+    "release_year": "2025",
+    "description": "A new perfume byThe Sugar Societiesfor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/99/9926da_almond-macaron-the-sugar-societies_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Almond",
+        "Sugar powder"
+    ],
+    "heart_notes": [
+        "Almond paste",
+        "Amaretto",
+        "Vanilla ganache"
+    ],
+    "base_notes": [
+        "Musk",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.2",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

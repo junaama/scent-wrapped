@@ -1,0 +1,33 @@
+{
+    "name": "Jardin Botanique",
+    "brand": "Ormonde Jayne",
+    "release_year": "2025",
+    "description": "A new perfume byOrmonde Jaynefor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/f0/f0f571_jardin-botanique-ormonde-jayne_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Black pepper",
+        "Blackcurrant",
+        "Italian bergamot",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Jasmine",
+        "Oud",
+        "Rose"
+    ],
+    "base_notes": [
+        "Bourbon vanilla",
+        "Moss",
+        "Musk",
+        "Patchouli"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.1",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Woody Lychee",
+    "brand": "Dossier",
+    "release_year": "2025",
+    "description": "A new perfume byDossierfor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/61/616eca_woody-lychee-dossier_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Lychee",
+        "Raspberry",
+        "Rhubarb"
+    ],
+    "heart_notes": [
+        "Lily of the valley",
+        "Magnolia",
+        "Rose",
+        "Violet"
+    ],
+    "base_notes": [
+        "Patchouli",
+        "Praliné",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

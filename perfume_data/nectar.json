@@ -1,0 +1,25 @@
+{
+    "name": "Nectar",
+    "brand": "Aroma Studium",
+    "release_year": "2025",
+    "description": "A new perfume byAroma Studiumfor women and men, released in2025. It is being marketed byVenice Olfactory.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/aa/aa63a4_nectar-aroma-studium_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Almond",
+        "Cinnamon",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Rose",
+        "White honey",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Bourbon vanilla",
+        "Cashmeran",
+        "Musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

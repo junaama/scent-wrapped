@@ -1,0 +1,131 @@
+{
+    "name": "Hungarykum",
+    "brand": "Hungarykum",
+    "release_year": "2025",
+    "description": "A new perfume byHungarykumfor women and men, released in2025. The scent is smoky-woody. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/da/dada58_hungarykum-hungarykum_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Woody",
+        "Spicy",
+        "Leathery",
+        "Animal"
+    ],
+    "top_notes": [
+        "Leather",
+        "Smoky notes"
+    ],
+    "heart_notes": [
+        "Animalic notes",
+        "Musk",
+        "Castoreum"
+    ],
+    "base_notes": [
+        "Woody notes",
+        "Floral notes"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.1",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "8.8",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 4
+            },
+            {
+                "name": "Leathery",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Animal",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

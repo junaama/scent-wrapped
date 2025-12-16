@@ -1,0 +1,24 @@
+{
+    "name": "Hala",
+    "brand": "Nabeel",
+    "release_year": "2025",
+    "description": "A new perfume byNabeelfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d1/d11cd2_hala-concentrated-oil-perfume-nabeel_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Ambrette",
+        "Milk"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lily of the valley",
+        "Violet"
+    ],
+    "base_notes": [
+        "Musk",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

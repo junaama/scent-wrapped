@@ -1,0 +1,121 @@
+{
+    "name": "Poetry in the Air",
+    "brand": "Annayake",
+    "release_year": "2025",
+    "description": "A new and limited perfume byAnnayakefor women and men, released in2025. The scent is fruity-fresh.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/af/af8a66_poetry-in-the-air-annayake_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Fresh",
+        "Woody",
+        "Floral"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Buchu"
+    ],
+    "heart_notes": [
+        "Cyclamen",
+        "Indian clove",
+        "Orange blossom",
+        "Violet leaf"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Cedarwood",
+        "Musk",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "5.8",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

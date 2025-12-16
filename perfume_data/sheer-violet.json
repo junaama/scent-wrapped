@@ -1,0 +1,123 @@
+{
+    "name": "Sheer Violet",
+    "brand": "Kitsch",
+    "release_year": "2025",
+    "description": "A new perfume byKitschfor women, released in2025. The scent is fresh-green.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/38/383358_sheer-violet-kitsch_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Green",
+        "Aquatic",
+        "Floral",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Almond",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Italian orris root",
+        "Violet"
+    ],
+    "base_notes": [
+        "Musk",
+        "Ambroxan",
+        "Sugar"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.4",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "4.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "4.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "5.8",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

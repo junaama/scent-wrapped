@@ -1,0 +1,22 @@
+{
+    "name": "Fashionably Late",
+    "brand": "Fine Scents",
+    "release_year": "2025",
+    "description": "A new perfume byFine Scentsfor women, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Tuberose"
+    ],
+    "heart_notes": [
+        "Cashmeran",
+        "Mimosa",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Sandalwood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,128 @@
+{
+    "name": "Chromodoro",
+    "brand": "Astrophil & Stella",
+    "release_year": "2025",
+    "description": "A new perfume byAstrophil & Stellafor women and men, released in2025. The scent is green-fresh. It is being marketed byGida Profumi.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2c/2c9287_chromodoro-astrophil-stella_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Fresh",
+        "Spicy",
+        "Woody",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Tomato leaf",
+        "Angelica root",
+        "Blackcurrant bud absolute",
+        "Basil"
+    ],
+    "heart_notes": [
+        "Absinthe wormwood",
+        "Gin",
+        "Juniper berry",
+        "Egyptian jasmine absolute",
+        "Rum"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Musk",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "36 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "27 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "28 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "34 Ratings"
+        },
+        "pricing": {
+            "score": "6.2",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Green",
+                "votes": 11
+            },
+            {
+                "name": "Fresh",
+                "votes": 9
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 11
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 9
+            },
+            {
+                "name": "Spring",
+                "votes": 11
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

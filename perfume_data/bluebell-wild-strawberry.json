@@ -1,0 +1,141 @@
+{
+    "name": "Bluebell & Wild Strawberry",
+    "brand": "Molton Brown",
+    "release_year": "2025",
+    "description": "A new perfume byMolton Brownfor women and men, released in2025. The scent is floral-fruity. It is being marketed byKao Group.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/66/664dd1_bluebell-wild-strawberry-eau-de-parfum-molton-brown_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fruity",
+        "Fresh",
+        "Synthetic",
+        "Woody"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "6.4",
+            "votes": "35 Ratings"
+        },
+        "durability": {
+            "score": "6.3",
+            "votes": "31 Ratings"
+        },
+        "sillage": {
+            "score": "6.1",
+            "votes": "30 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "31 Ratings"
+        },
+        "pricing": {
+            "score": "6.4",
+            "votes": "17 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 11
+            },
+            {
+                "name": "Sweet",
+                "votes": 9
+            },
+            {
+                "name": "Woody",
+                "votes": 9
+            },
+            {
+                "name": "Green",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 12
+            },
+            {
+                "name": "Fresh",
+                "votes": 11
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 19
+            },
+            {
+                "name": "Aquatic",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 16
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 10
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 11
+            },
+            {
+                "name": "Spring",
+                "votes": 17
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 14
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 15
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 12
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Green Raspberry",
+    "brand": "Fenty",
+    "release_year": "2025",
+    "description": "A new perfume byFentyfor women, released in2025. It is being marketed byLVMH.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f7/f788e1_green-raspberry-fenty_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blackberry cake",
+        "Blackcurrant liqueur",
+        "Raspberry nectar"
+    ],
+    "heart_notes": [
+        "Rose",
+        "Sugar",
+        "White tea"
+    ],
+    "base_notes": [
+        "Peach wood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "2.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "3.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

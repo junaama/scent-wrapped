@@ -1,0 +1,104 @@
+{
+    "name": "Tempesta XIV",
+    "brand": "Inconscio",
+    "release_year": "2025",
+    "description": "A new perfume byInconsciofor women and men, released in2025. The scent is smoky-spicy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6b/6b4966_tempesta-xiv-inconscio_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Spicy",
+        "Oriental",
+        "Leathery",
+        "Woody"
+    ],
+    "top_notes": [
+        "Boozy notes",
+        "Fruity notes",
+        "Peaty whisky"
+    ],
+    "heart_notes": [
+        "Birch smoke",
+        "Labdanum",
+        "Leather",
+        "Oud",
+        "Tobacco"
+    ],
+    "base_notes": [
+        "Amber",
+        "Leather",
+        "Musk",
+        "Tobacco"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "8.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

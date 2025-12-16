@@ -1,0 +1,46 @@
+{
+    "name": "French Cherry",
+    "brand": "Montagne Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byMontagne Parfumsfor women and men, released in2025. The scent is floral-fruity. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/b4/b450c4_french-cherry-montagne-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fruity",
+        "Woody",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Chamomile",
+        "Cherry",
+        "Violet leaf"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Mimosa",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber notes",
+        "Cedarwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "5.9",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {}
+}

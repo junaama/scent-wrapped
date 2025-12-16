@@ -1,0 +1,30 @@
+{
+    "name": "Frida Kahlo Yellow",
+    "brand": "Frida Kahlo",
+    "release_year": "2025",
+    "description": "A new perfume byFrida Kahlofor women, released in2025. It is being marketed byFantasy Fragrances.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c8/c8e246_frida-kahlo-yellow-frida-kahlo_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Mango",
+        "Orange",
+        "Rum"
+    ],
+    "heart_notes": [
+        "Coconut",
+        "Jasmine",
+        "Sea salt"
+    ],
+    "base_notes": [
+        "Amber",
+        "Mexican vanilla",
+        "Musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,36 @@
+{
+    "name": "D Red Le Parfum",
+    "brand": "Diesel",
+    "release_year": "2025",
+    "description": "A new perfume byDieselfor men, released in2025. It is being marketed byL'Oréal.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/44/441e88_d-red-le-parfum-diesel_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Grapefruit"
+    ],
+    "heart_notes": [
+        "Saffron"
+    ],
+    "base_notes": [
+        "Leather"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.3",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "6.6",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {}
+}

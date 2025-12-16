@@ -1,0 +1,140 @@
+{
+    "name": "Sama",
+    "brand": "Nusuk",
+    "release_year": "2025",
+    "description": "A new perfume byNusukfor women and men, released in2025. The scent is fresh-citrusy. It is being marketed byAl Fakhar Perfumes and Cosmetics Trading.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b7/b74fd4_sama-nusuk_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Citrus",
+        "Aquatic",
+        "Green",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Ozonic notes",
+        "Sage",
+        "Geranium"
+    ],
+    "base_notes": [
+        "Musk",
+        "Mineral amber",
+        "Moss"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.7",
+            "votes": "20 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "18 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "18 Ratings"
+        },
+        "bottle": {
+            "score": "6.9",
+            "votes": "20 Ratings"
+        },
+        "pricing": {
+            "score": "9.7",
+            "votes": "20 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 8
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 8
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            },
+            {
+                "name": "Aquatic",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Sport",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            }
+        ]
+    }
+}

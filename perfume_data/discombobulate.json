@@ -1,0 +1,86 @@
+{
+    "name": "Discombobulate",
+    "brand": "Elixir Attar",
+    "release_year": "2025",
+    "description": "A new perfume byElixir Attarfor women and men, released in2025. The scent is gourmand-spicy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/32/32e65d_discombobulate-elixir-attar_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Spicy",
+        "Woody",
+        "Floral",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Cognac"
+    ],
+    "heart_notes": [
+        "Bulgarian rose",
+        "Egyptian jasmine"
+    ],
+    "base_notes": [
+        "Amber",
+        "Ambergris",
+        "Philippine oud",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ]
+    }
+}

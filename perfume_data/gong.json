@@ -1,0 +1,149 @@
+{
+    "name": "Gong",
+    "brand": "Floraïku",
+    "release_year": "2025",
+    "description": "A new perfume byFloraïkufor women and men, released in2025. The scent is citrusy-sweet. It is being marketed byMemo International.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5b/5be12d_gong-floraiku_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Sweet",
+        "Fresh",
+        "Fruity",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Yuzu",
+        "Italian mandarin orange",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Dorayaki",
+        "Black pepper"
+    ],
+    "base_notes": [
+        "Gaiac wood",
+        "Haitian vetiver",
+        "Sandalwood",
+        "Siam benzoin"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "52 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "42 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "41 Ratings"
+        },
+        "bottle": {
+            "score": "9.1",
+            "votes": "60 Ratings"
+        },
+        "pricing": {
+            "score": "5.6",
+            "votes": "30 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 16
+            },
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 14
+            },
+            {
+                "name": "Green",
+                "votes": 6
+            },
+            {
+                "name": "Gourmand",
+                "votes": 7
+            },
+            {
+                "name": "Fruity",
+                "votes": 9
+            },
+            {
+                "name": "Fresh",
+                "votes": 11
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 14
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 12
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 13
+            },
+            {
+                "name": "Spring",
+                "votes": 15
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 15
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 14
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 11
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

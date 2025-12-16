@@ -1,0 +1,130 @@
+{
+    "name": "Cherry Prosecco",
+    "brand": "New Notes",
+    "release_year": "2025",
+    "description": "A new and limited perfume byNew Notesfor women and men, released in2025. The scent is gourmand-spicy. It is being marketed byHIC Beauty.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/f4/f450bd_cherry-prosecco-new-notes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Spicy",
+        "Fruity",
+        "Floral",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Champagne",
+        "Cherry",
+        "Cherry prosecco"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Tuberose",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Patchouli",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "6.7",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

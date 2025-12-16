@@ -1,0 +1,42 @@
+{
+    "name": "El Dorado",
+    "brand": "Matin Martin",
+    "release_year": "2025",
+    "description": "A new perfume byMatin Martinfor women, released in2025. Projection and longevity are above-average. It is being marketed byGulf Orchid Fragrances.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d7/d785c0_el-dorado-matin-martin_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Fennel",
+        "Frankincense",
+        "Red fruits"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Osmanthus",
+        "Peach"
+    ],
+    "base_notes": [
+        "Musk",
+        "Rose",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "9.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

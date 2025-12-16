@@ -1,0 +1,84 @@
+{
+    "name": "Hawas Viper",
+    "brand": "Rasasi",
+    "release_year": "2025",
+    "description": "A new perfume byRasasifor men, released in2025. The scent is earthy-smoky. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a2/a20785_hawas-viper-viper-rasasi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Earthy",
+        "Smoky",
+        "Resinous",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Cannabis",
+        "Davana",
+        "Green notes",
+        "Saffron",
+        "Thyme"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Coffee",
+        "Raspberry",
+        "Tobacco",
+        "Violet"
+    ],
+    "base_notes": [
+        "Gurjum balsam",
+        "Musk",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

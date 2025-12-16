@@ -1,0 +1,77 @@
+{
+    "name": "Open Your Heart",
+    "brand": "Douglas",
+    "release_year": "2025",
+    "description": "A new perfume byDouglasfor women and men, released in2025. The scent is earthy-green.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/0e/0ec01f_open-your-heart-douglas_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Earthy",
+        "Green",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

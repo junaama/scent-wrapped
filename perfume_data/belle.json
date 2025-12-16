@@ -1,0 +1,101 @@
+{
+    "name": "Belle",
+    "brand": "Bath & Body Works",
+    "release_year": "2025",
+    "description": "A new and limited perfume byBath & Body Worksfor women, released in2025. The scent is floral-sweet.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/a4/a4c04f_belle-bath-body-works_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Gourmand",
+        "Synthetic",
+        "Creamy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "6.6",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "4.8",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "5.5",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

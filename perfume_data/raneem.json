@@ -1,0 +1,45 @@
+{
+    "name": "Raneem",
+    "brand": "Hamidi Oud & Perfumes",
+    "release_year": "2025",
+    "description": "A new perfume byHamidi Oud & Perfumesfor women and men, released in2025. It is being marketed bySterling Perfumes Industries LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/66/665c27_raneem-hamidi_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Lilac",
+        "Lily of the valley",
+        "Linden blossom",
+        "Magnolia",
+        "Mandarin orange",
+        "Saffron",
+        "Thyme"
+    ],
+    "heart_notes": [
+        "Bulgarian rose",
+        "Carnation",
+        "Frankincense",
+        "Nutmeg",
+        "Peach",
+        "Tuberose",
+        "Violet",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Amber",
+        "Clove",
+        "Iris",
+        "Leather",
+        "Musk",
+        "Sandalwood",
+        "Suede",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

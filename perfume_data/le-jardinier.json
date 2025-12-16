@@ -1,0 +1,84 @@
+{
+    "name": "Le Jardinier",
+    "brand": "ānti",
+    "release_year": "2025",
+    "description": "A new perfume byāntifor women and men, released in2025. The scent is floral-green.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/63/630035_le-jardinier-anti_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Green"
+    ],
+    "top_notes": [
+        "Grass",
+        "Lentisk"
+    ],
+    "heart_notes": [
+        "Honeysuckle",
+        "Lily",
+        "Magnolia"
+    ],
+    "base_notes": [
+        "Galbanum",
+        "Nettle absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

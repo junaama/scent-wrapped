@@ -1,0 +1,54 @@
+{
+    "name": "Sunset Colada",
+    "brand": "Devertere",
+    "release_year": "2025",
+    "description": "A new perfume byDeverterefor women and men, released in2025. The scent is sweet-creamy. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/73/73f048_sunset-colada-devertere_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Creamy",
+        "Spicy",
+        "Fruity",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Nutmeg",
+        "Piña Colada",
+        "Honey pomelo",
+        "Rum",
+        "Cardamom",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Davana",
+        "Neroli",
+        "Passion fruit",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Bourbon vanilla",
+        "Tonka bean",
+        "Blond tobacco",
+        "Oud",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

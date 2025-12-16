@@ -1,0 +1,142 @@
+{
+    "name": "Ambre Royal",
+    "brand": "Atkinsons",
+    "release_year": "2025",
+    "description": "A new perfume byAtkinsonsfor women and men, released in2025. The scent is spicy-sweet. It is being marketed byEuroItalia.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/1d/1d5f67_ambre-royal-atkinsons_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Sweet",
+        "Resinous",
+        "Floral",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Magnolia",
+        "Ylang-ylang"
+    ],
+    "heart_notes": [
+        "Woods",
+        "Ambre 84 accord",
+        "Ambrostar",
+        "Caramel",
+        "Frankincense",
+        "Labdanum"
+    ],
+    "base_notes": [
+        "Madagascan vetiver",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.2",
+            "votes": "40 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "28 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "31 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "32 Ratings"
+        },
+        "pricing": {
+            "score": "6.3",
+            "votes": "21 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 11
+            },
+            {
+                "name": "Sweet",
+                "votes": 10
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Oriental",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 7
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 10
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 9
+            },
+            {
+                "name": "Fall",
+                "votes": 11
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

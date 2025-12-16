@@ -1,0 +1,47 @@
+{
+    "name": "Rio de Janeiro",
+    "brand": "Memoirs of a Perfume Collector",
+    "release_year": "2025",
+    "description": "A new perfume byMemoirs of a Perfume Collectorfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/1e/1e767a_rio-de-janeiro-memoirs-of-a-perfume-collector_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Almond",
+        "Blackcurrant",
+        "Coconut",
+        "Passion fruit",
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Gaiac wood",
+        "Lily of the valley",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Frankincense",
+        "Musk",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.0",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Black Wolf",
+    "brand": "Nuku",
+    "release_year": "2025",
+    "description": "A new perfume byNukufor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/de/dea77a_black-wolf-nuku_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Orange",
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Damask rose",
+        "Indonesian ylang-ylang",
+        "Jasminum auriculatum"
+    ],
+    "base_notes": [
+        "Air accord",
+        "Ambergris",
+        "Borneo oud",
+        "Castoreum",
+        "Civet",
+        "Frangipani",
+        "Oud concrete",
+        "Sandalwood",
+        "Siberian musk",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

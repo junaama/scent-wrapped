@@ -1,0 +1,36 @@
+{
+    "name": "One of Eight",
+    "brand": "Rôc Parfums",
+    "release_year": "2025",
+    "description": "A new and limited perfume byRôc Parfumsfor women and men, released in2025. The scent is spicy-woody.CompareLimited",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Cinnamon",
+        "Grapefruit",
+        "Honey",
+        "Red mandarin orange",
+        "Rum"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Cocoa",
+        "Oud",
+        "Tobacco",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Oud",
+        "Patchouli",
+        "Tonka bean"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

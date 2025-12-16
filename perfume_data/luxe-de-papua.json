@@ -1,0 +1,130 @@
+{
+    "name": "Luxe de Papua",
+    "brand": "Faizal Privée",
+    "release_year": "2025",
+    "description": "A new perfume byFaizal Privéefor women and men, released in2025. The scent is floral-woody. Projection and longevity are above-average. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/60/603c48_luxe-de-papua-faizal-privee_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Woody",
+        "Oriental",
+        "Fruity",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Thai blue lotus",
+        "Blackcurrant",
+        "Bergamot",
+        "Grapefruit",
+        "Ylang-ylang"
+    ],
+    "heart_notes": [
+        "Papua oud",
+        "Malayan oud"
+    ],
+    "base_notes": [
+        "Spikenard",
+        "Haitian vetiver",
+        "Black pepper"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "13 Ratings"
+        },
+        "durability": {
+            "score": "8.8",
+            "votes": "12 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "11 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

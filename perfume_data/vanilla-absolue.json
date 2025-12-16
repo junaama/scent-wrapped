@@ -1,0 +1,143 @@
+{
+    "name": "Vanilla Absolue",
+    "brand": "Tauer Perfumes",
+    "release_year": "2025",
+    "description": "A new perfume byTauer Perfumesfor women and men, released in2025. The scent is spicy-resinous. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/fe/fe7417_vanilla-absolue-tauer-perfumes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Resinous",
+        "Sweet",
+        "Oriental",
+        "Floral"
+    ],
+    "top_notes": [
+        "Spices",
+        "Dried fruits",
+        "Geranium"
+    ],
+    "heart_notes": [
+        "Vanilla CO2",
+        "Tobacco",
+        "Rose"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Resins",
+        "Coumarin",
+        "Labdanum",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "43 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "40 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "36 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "39 Ratings"
+        },
+        "pricing": {
+            "score": "6.9",
+            "votes": "27 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 14
+            },
+            {
+                "name": "Sweet",
+                "votes": 13
+            },
+            {
+                "name": "Oriental",
+                "votes": 11
+            },
+            {
+                "name": "Resinous",
+                "votes": 13
+            },
+            {
+                "name": "Gourmand",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 13
+            },
+            {
+                "name": "Feminine",
+                "votes": 13
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 14
+            },
+            {
+                "name": "Fall",
+                "votes": 13
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 12
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 13
+            }
+        ]
+    }
+}

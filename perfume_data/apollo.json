@@ -1,0 +1,25 @@
+{
+    "name": "Apollo",
+    "brand": "Velixir",
+    "release_year": "2025",
+    "description": "A new perfume byVelixirfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8c/8ca4a8_apollo-velixir_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Ginger",
+        "Green apple"
+    ],
+    "heart_notes": [
+        "Clary sage",
+        "Juniper berry"
+    ],
+    "base_notes": [
+        "Amberwood",
+        "Cedar",
+        "Tonka bean",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

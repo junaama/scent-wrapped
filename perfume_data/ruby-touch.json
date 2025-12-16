@@ -1,0 +1,43 @@
+{
+    "name": "Ruby Touch",
+    "brand": "H&M",
+    "release_year": "2025",
+    "description": "A new perfume byH&Mfor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/d0/d00dab_ruby-touch-h-m_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Dried fruits",
+        "Orange",
+        "Tagetes"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Saffron",
+        "Violet",
+        "Woods"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Musk",
+        "Oakmoss"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

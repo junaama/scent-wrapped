@@ -1,0 +1,113 @@
+{
+    "name": "The Beloved",
+    "brand": "Teone Reinthal Natural Perfume",
+    "release_year": "2025",
+    "description": "A new perfume byTeone Reinthal Natural Perfumefor women and men, released in2025. The scent is green-woody. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/15/15f6d9_the-beloved-teone-reinthal-natural-perfume_1200.jpg?width=240&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Woody",
+        "Fresh",
+        "Smoky",
+        "Resinous"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

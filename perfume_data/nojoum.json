@@ -1,0 +1,35 @@
+{
+    "name": "Nojoum",
+    "brand": "Zimaya",
+    "release_year": "2025",
+    "description": "A new perfume byZimayafor women and men, released in2025. The longevity is above-average. It is being marketed byAfnan.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/eb/eb0723_nojoum-zimaya_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Caramel",
+        "Lemon",
+        "Vanilla",
+        "White blossoms"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Honey",
+        "Orange blossom",
+        "Panna cotta",
+        "Rum",
+        "Sugar"
+    ],
+    "base_notes": [
+        "Musk",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

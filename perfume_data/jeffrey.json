@@ -1,0 +1,157 @@
+{
+    "name": "Jeffrey",
+    "brand": "Spiritica",
+    "release_year": "2025",
+    "description": "A new perfume bySpiriticafor women and men, released in2025. The scent is animal-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6b/6b8aeb_jeffrey-spiritica_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Animal",
+        "Spicy",
+        "Leathery",
+        "Smoky",
+        "Earthy"
+    ],
+    "top_notes": [
+        "Beer",
+        "Aldehydes",
+        "Yeast",
+        "Poppers",
+        "Ice accord",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Blood",
+        "Carnation",
+        "Carpet",
+        "Dirt",
+        "Sweat",
+        "Metal"
+    ],
+    "base_notes": [
+        "Plastic",
+        "Damp notes",
+        "Vetiver",
+        "Amber",
+        "Birch"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.6",
+            "votes": "17 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "11 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "15 Ratings"
+        },
+        "pricing": {
+            "score": "5.6",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 3
+            },
+            {
+                "name": "Leathery",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            },
+            {
+                "name": "Chypre",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

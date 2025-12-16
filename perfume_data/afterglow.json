@@ -1,0 +1,56 @@
+{
+    "name": "Afterglow",
+    "brand": "Phlur",
+    "release_year": "2025",
+    "description": "A new perfume byPhlurfor women and men, released in2025. The scent is woody-synthetic. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/21/21c12f_afterglow-phlur_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Apricot skin",
+        "Citrus notes",
+        "Coconut"
+    ],
+    "heart_notes": [
+        "Ambrette",
+        "Lavender milk",
+        "Vanilla orchid"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cashmere wood",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.7",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "5.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            }
+        ]
+    }
+}

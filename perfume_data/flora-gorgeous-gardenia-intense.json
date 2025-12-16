@@ -1,0 +1,121 @@
+{
+    "name": "Flora Gorgeous Gardenia Intense",
+    "brand": "Gucci",
+    "release_year": "2025",
+    "description": "A new perfume byGuccifor women, released in2025. The scent is floral-sweet. It is being marketed byCoty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a5/a55914_flora-gorgeous-gardenia-intense-gucci_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Fruity",
+        "Woody",
+        "Creamy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "84 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "63 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "63 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "72 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "55 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 28
+            },
+            {
+                "name": "Woody",
+                "votes": 9
+            },
+            {
+                "name": "Fruity",
+                "votes": 16
+            },
+            {
+                "name": "Creamy",
+                "votes": 7
+            },
+            {
+                "name": "Floral",
+                "votes": 31
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 29
+            },
+            {
+                "name": "Classic",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 14
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 12
+            },
+            {
+                "name": "Fall",
+                "votes": 22
+            },
+            {
+                "name": "Summer",
+                "votes": 13
+            },
+            {
+                "name": "Spring",
+                "votes": 23
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 19
+            },
+            {
+                "name": "Leisure",
+                "votes": 23
+            },
+            {
+                "name": "Night Out",
+                "votes": 21
+            },
+            {
+                "name": "Business",
+                "votes": 18
+            },
+            {
+                "name": "Evening",
+                "votes": 18
+            }
+        ]
+    }
+}

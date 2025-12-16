@@ -1,0 +1,141 @@
+{
+    "name": "Above Us, Steorra",
+    "brand": "Aēsop",
+    "release_year": "2025",
+    "description": "A new perfume byAēsopfor women and men, released in2025. The scent is spicy-resinous. It is being marketed byL'Oréal. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/de/debcb7_above-us-steorra-aesop_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Resinous",
+        "Woody",
+        "Sweet",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Elemi resin",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Labdanum",
+        "Cypriol"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Cinnamon",
+        "Cypriol"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "52 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "44 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "45 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "34 Ratings"
+        },
+        "pricing": {
+            "score": "6.3",
+            "votes": "24 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 19
+            },
+            {
+                "name": "Sweet",
+                "votes": 11
+            },
+            {
+                "name": "Smoky",
+                "votes": 10
+            },
+            {
+                "name": "Woody",
+                "votes": 13
+            },
+            {
+                "name": "Resinous",
+                "votes": 17
+            },
+            {
+                "name": "Green",
+                "votes": 6
+            },
+            {
+                "name": "Fresh",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 19
+            },
+            {
+                "name": "Feminine",
+                "votes": 17
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 16
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 19
+            },
+            {
+                "name": "Fall",
+                "votes": 22
+            },
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 16
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 13
+            },
+            {
+                "name": "Leisure",
+                "votes": 21
+            },
+            {
+                "name": "Night Out",
+                "votes": 12
+            },
+            {
+                "name": "Business",
+                "votes": 14
+            },
+            {
+                "name": "Evening",
+                "votes": 16
+            }
+        ]
+    }
+}

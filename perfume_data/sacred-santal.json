@@ -1,0 +1,121 @@
+{
+    "name": "Sacred Santal",
+    "brand": "Cyklar",
+    "release_year": "2025",
+    "description": "A new perfume byCyklarfor women and men, released in2025. The scent is sweet-woody.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/0b/0b0a95_sacred-santal-cyklar_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Woody",
+        "Creamy",
+        "Resinous",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Ambrette",
+        "Bergamot",
+        "Cardamom"
+    ],
+    "heart_notes": [
+        "Benzoin",
+        "Amber",
+        "Gaiac wood"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Cashmere wood",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.7",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "5.2",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

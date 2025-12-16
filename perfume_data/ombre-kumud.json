@@ -1,0 +1,71 @@
+{
+    "name": "Ombré Kumud",
+    "brand": "Ibn Hossain Perfumery",
+    "release_year": "2025",
+    "description": "A new and limited perfume byIbn Hossain Perfumeryfor women and men, released in2025. The scent is oriental-animal. The longevity is above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/92/925d8c_ombre-kumud-ibn-hossain-perfumery_1200.jpg?width=240&aspect_ratio=1:1",
+    "main_accords": [
+        "Oriental",
+        "Animal",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Blue lotus absolute",
+        "Jasmine sambac",
+        "Oakmoss absolute",
+        "Saffron",
+        "Vetiver"
+    ],
+    "heart_notes": [
+        "Deer musk",
+        "Labdanum",
+        "Peru balsam"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Oud"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

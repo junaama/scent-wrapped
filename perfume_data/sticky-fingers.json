@@ -1,0 +1,139 @@
+{
+    "name": "Sticky Fingers",
+    "brand": "The Rolling Stones",
+    "release_year": "2025",
+    "description": "A new perfume byThe Rolling Stonesfor women and men, released in2025. The scent is sweet-spicy. It is being marketed byNirvana Brands.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3a/3ae83e_sticky-fingers-the-rolling-stones_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Gourmand",
+        "Woody",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Whisky"
+    ],
+    "heart_notes": [
+        "Vanilla orchid",
+        "Frankincense"
+    ],
+    "base_notes": [
+        "Bourbon vanilla",
+        "Musk",
+        "Sandalwood",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.6",
+            "votes": "22 Ratings"
+        },
+        "durability": {
+            "score": "6.4",
+            "votes": "19 Ratings"
+        },
+        "sillage": {
+            "score": "5.9",
+            "votes": "19 Ratings"
+        },
+        "bottle": {
+            "score": "6.0",
+            "votes": "22 Ratings"
+        },
+        "pricing": {
+            "score": "4.6",
+            "votes": "16 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 6
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 6
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

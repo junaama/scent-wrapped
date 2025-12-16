@@ -1,0 +1,40 @@
+{
+    "name": "Labuan",
+    "brand": "Mercadona",
+    "release_year": "2025",
+    "description": "A new and limited perfume byMercadonafor men, released in2025. The scent is synthetic-fougèreartig. It is being marketed byRNB Cosméticos.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/97/973f95_labuan-mercadona_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Fougère",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Sage"
+    ],
+    "heart_notes": [
+        "Cocoa"
+    ],
+    "base_notes": [
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

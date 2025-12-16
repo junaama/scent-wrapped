@@ -1,0 +1,29 @@
+{
+    "name": "The Duchess",
+    "brand": "The Fragrance",
+    "release_year": "2025",
+    "description": "A new perfume byThe Fragrancefor women, released in2025. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/42/42ee19_the-duchess-the-fragrance_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Violet",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Amber",
+        "Vanilla",
+        "Woody notes"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

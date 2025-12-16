@@ -1,0 +1,28 @@
+{
+    "name": "Coat Check",
+    "brand": "Abel",
+    "release_year": "2025",
+    "description": "A new perfume byAbelfor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/c3/c3a020_coat-check-abel_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blackcurrant",
+        "Coffee",
+        "Star anise"
+    ],
+    "heart_notes": [
+        "Cocoa",
+        "Tolu balm"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Tobacco"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

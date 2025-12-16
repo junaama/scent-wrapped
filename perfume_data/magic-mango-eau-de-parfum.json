@@ -1,0 +1,135 @@
+{
+    "name": "Magic Mango",
+    "brand": "Fugazzi",
+    "release_year": "2025",
+    "description": "A new perfume byFugazzifor women and men, released in2025. The scent is fruity-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a6/a6849a_magic-mango-fugazzi_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Spicy",
+        "Synthetic",
+        "Sweet",
+        "Leathery"
+    ],
+    "top_notes": [
+        "Clove",
+        "Mango",
+        "Nutmeg"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Leather",
+        "Moss",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Akigalawood®",
+        "Cypriol",
+        "Patchouli",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "43 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "38 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "37 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "40 Ratings"
+        },
+        "pricing": {
+            "score": "7.2",
+            "votes": "30 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 11
+            },
+            {
+                "name": "Synthetic",
+                "votes": 7
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Leathery",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 14
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 12
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Modern",
+                "votes": 12
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Summer",
+                "votes": 13
+            },
+            {
+                "name": "Spring",
+                "votes": 13
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 13
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

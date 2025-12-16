@@ -1,0 +1,121 @@
+{
+    "name": "05 - Un Samedi à Paris",
+    "brand": "Solférino",
+    "release_year": "2025",
+    "description": "A new perfume bySolférinofor women and men, released in2025. The scent is sweet-gourmand. It is being marketed byInterparfums.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/ce/ceeb27_05-un-samedi-a-paris-solferino_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Spicy",
+        "Creamy",
+        "Earthy"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Black pepper",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Cedar",
+        "Sandalwood",
+        "Vetiver"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Tonka bean",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Fougère",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

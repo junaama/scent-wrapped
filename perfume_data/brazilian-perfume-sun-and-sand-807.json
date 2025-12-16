@@ -1,0 +1,127 @@
+{
+    "name": "Brazilian Perfume Sun and Sand 807#",
+    "brand": "Sttes",
+    "release_year": "2025",
+    "description": "A new perfume bySttesfor women, released in2025. The scent is floral-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4b/4bf136_brazilian-perfume-sun-and-sand-807-sttes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Green",
+        "Gourmand",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Coconut milk",
+        "Sand"
+    ],
+    "heart_notes": [
+        "Sunflower",
+        "Tuberose",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Amber",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.4",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "name": "Niji mat;",
+    "brand": "Masakï Matsushïma",
+    "release_year": "2025",
+    "description": "A new perfume byMasakï Matsushïmafor women, released in2025. The scent is aquatic-fruity. It is being marketed byPanouge.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c7/c7cb36_niji-mat-masaki-matsushima_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Aquatic",
+        "Fruity",
+        "Fresh",
+        "Floral",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Mandarin orange",
+        "Melon",
+        "Pear",
+        "Cherry"
+    ],
+    "heart_notes": [
+        "Marine notes",
+        "Rose",
+        "Ylang-ylang",
+        "Jasmine",
+        "Lily of the valley"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Cashmeran",
+        "Musk",
+        "Vanilla absolute",
+        "Tonka bean absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "5.3",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

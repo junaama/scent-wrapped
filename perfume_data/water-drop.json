@@ -1,0 +1,32 @@
+{
+    "name": "Water Drop",
+    "brand": "H₂O",
+    "release_year": "2025",
+    "description": "A new perfume byH₂Ofor men, released in2025. It is being marketed byDeraah Trading Company.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b6/b66c63_water-drop-h-o_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Pink pepper",
+        "Sage"
+    ],
+    "heart_notes": [
+        "Apple",
+        "Geranium",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Amber",
+        "Frankincense",
+        "Moss",
+        "Patchouli",
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

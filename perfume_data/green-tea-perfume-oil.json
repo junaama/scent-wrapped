@@ -1,0 +1,31 @@
+{
+    "name": "Green Tea",
+    "brand": "Perfumers",
+    "release_year": "2025",
+    "description": "A new perfume byPerfumersfor women and men, released in2025. It is being marketed byKyara Innovate, Inc. / 株式会社キャライノベイト.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/05/057732_green-tea-perfume-oil-perfumers_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Leaf green",
+        "Lemon",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Cardamom",
+        "Gyokuro",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Patchouli",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "4.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

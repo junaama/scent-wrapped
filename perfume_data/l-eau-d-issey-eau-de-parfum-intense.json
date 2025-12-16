@@ -1,0 +1,117 @@
+{
+    "name": "L'Eau d'Issey",
+    "brand": "Issey Miyake",
+    "release_year": "2025",
+    "description": "A new perfume byIssey Miyakefor women, released in2025. The scent is aquatic-fresh. It is being marketed byShiseido Group / Beauté Prestige International.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/66/66318f_l-eau-d-issey-eau-de-parfum-intense-issey-miyake_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Aquatic",
+        "Fresh",
+        "Floral",
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "27 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "20 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "19 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "23 Ratings"
+        },
+        "pricing": {
+            "score": "5.5",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 9
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 8
+            },
+            {
+                "name": "Aquatic",
+                "votes": 10
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 12
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 11
+            },
+            {
+                "name": "Sport",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 11
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            }
+        ]
+    }
+}

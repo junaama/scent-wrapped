@@ -1,0 +1,159 @@
+{
+    "name": "Kawkab",
+    "brand": "Ahmed Al Maghribi",
+    "release_year": "2025",
+    "description": "A new perfume byAhmed Al Maghribifor women and men, released in2025. The scent is oriental-spicy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/db/db0a15_kawkab-ahmed-al-maghribi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Oriental",
+        "Spicy",
+        "Woody",
+        "Fruity",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Grapefruit",
+        "Lemon",
+        "Mango",
+        "Orange blossom",
+        "Peony",
+        "Pink pepper",
+        "Rose",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Black tea",
+        "Iris",
+        "Praliné",
+        "Saffron",
+        "Turkish rose"
+    ],
+    "base_notes": [
+        "Cedar",
+        "Cedarwood",
+        "Cypriol",
+        "Gaiac wood",
+        "Musk",
+        "Oud",
+        "Patchouli",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "15 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "14 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "20 Ratings"
+        },
+        "pricing": {
+            "score": "8.7",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

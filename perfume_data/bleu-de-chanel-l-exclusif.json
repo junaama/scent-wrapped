@@ -1,0 +1,133 @@
+{
+    "name": "Bleu de Chanel L'Exclusif",
+    "brand": "Chanel",
+    "release_year": "2025",
+    "description": "A new perfume byChanelfor men, released in2025. The scent is woody-spicy.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/df/df93f3_bleu-de-chanel-l-exclusif-chanel_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Spicy",
+        "Fresh",
+        "Citrus",
+        "Leathery"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "464 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "398 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "397 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "378 Ratings"
+        },
+        "pricing": {
+            "score": "4.7",
+            "votes": "368 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 52
+            },
+            {
+                "name": "Spicy",
+                "votes": 88
+            },
+            {
+                "name": "Sweet",
+                "votes": 45
+            },
+            {
+                "name": "Leathery",
+                "votes": 49
+            },
+            {
+                "name": "Woody",
+                "votes": 98
+            },
+            {
+                "name": "Resinous",
+                "votes": 35
+            },
+            {
+                "name": "Fresh",
+                "votes": 60
+            },
+            {
+                "name": "Creamy",
+                "votes": 24
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 110
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Classic",
+                "votes": 34
+            },
+            {
+                "name": "Modern",
+                "votes": 60
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 96
+            },
+            {
+                "name": "Fall",
+                "votes": 110
+            },
+            {
+                "name": "Summer",
+                "votes": 35
+            },
+            {
+                "name": "Spring",
+                "votes": 78
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 58
+            },
+            {
+                "name": "Leisure",
+                "votes": 69
+            },
+            {
+                "name": "Night Out",
+                "votes": 91
+            },
+            {
+                "name": "Business",
+                "votes": 72
+            },
+            {
+                "name": "Evening",
+                "votes": 86
+            }
+        ]
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "name": "Enigmatic Aura",
+    "brand": "Reinvēnted",
+    "release_year": "2025",
+    "description": "A new and limited perfume byReinvēntedfor women and men, released in2025. The scent is earthy-woody.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/d3/d35109_enigmatic-aura-reinvented_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Earthy",
+        "Woody",
+        "Spicy",
+        "Resinous",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Nagarmotha",
+        "Spikenard"
+    ],
+    "base_notes": [
+        "Cashmere wood",
+        "Musk",
+        "Amber",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "18 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "15 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "17 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 3
+            },
+            {
+                "name": "Leathery",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Earthy",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

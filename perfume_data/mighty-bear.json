@@ -1,0 +1,147 @@
+{
+    "name": "Mighty Bear",
+    "brand": "MCM",
+    "release_year": "2025",
+    "description": "A new perfume byMCMfor women and men, released in2025. The scent is resinous-woody. It is being marketed byInterparfums.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b8/b8042c_mighty-bear-mcm_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Woody",
+        "Sweet",
+        "Creamy",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Elemi resin",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Patchouli blossom",
+        "Sesame"
+    ],
+    "base_notes": [
+        "Tonka bean",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "29 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "23 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "23 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "30 Ratings"
+        },
+        "pricing": {
+            "score": "6.6",
+            "votes": "18 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 8
+            },
+            {
+                "name": "Resinous",
+                "votes": 8
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 9
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

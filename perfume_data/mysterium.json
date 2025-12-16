@@ -1,0 +1,33 @@
+{
+    "name": "Mysterium",
+    "brand": "Piené",
+    "release_year": "2025",
+    "description": "A new perfume byPienéfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/0a/0a7a64_mysterium-piene_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Black pepper",
+        "Pink pepper",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Cypriol",
+        "Elemi resin",
+        "Leather",
+        "Orris butter",
+        "Woods"
+    ],
+    "base_notes": [
+        "Amber",
+        "Labdanum",
+        "Patchouli",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

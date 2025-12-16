@@ -1,0 +1,27 @@
+{
+    "name": "Vanille Noir",
+    "brand": "Lynx Monarch",
+    "release_year": "2025",
+    "description": "A new and limited perfume byLynx Monarchfor women and men, released in2025.CompareLimited",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Coconut milk"
+    ],
+    "heart_notes": [
+        "Black vanilla absolute",
+        "Jasmine",
+        "Vanilla orchid",
+        "Yellow blossoms"
+    ],
+    "base_notes": [
+        "Amber",
+        "Bourbon vanilla",
+        "Musk",
+        "Sandalwood",
+        "Tonka bean"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

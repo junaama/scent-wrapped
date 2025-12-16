@@ -1,0 +1,37 @@
+{
+    "name": "Ambery Rose",
+    "brand": "Dossier",
+    "release_year": "2025",
+    "description": "A new perfume byDossierfor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/20/202226_ambery-rose-dossier_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Blackcurrant",
+        "Grapefruit",
+        "Lychee"
+    ],
+    "heart_notes": [
+        "Nutmeg",
+        "Plum",
+        "Rose",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Musk",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "5.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

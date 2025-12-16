@@ -1,0 +1,129 @@
+{
+    "name": "Canelo Negro",
+    "brand": "432",
+    "release_year": "2025",
+    "description": "A new perfume by432for women and men, released in2025. The scent is woody-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/01/015308_canelo-negro-432_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Spicy",
+        "Smoky",
+        "Resinous",
+        "Earthy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "21 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "20 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "20 Ratings"
+        },
+        "bottle": {
+            "score": "9.1",
+            "votes": "22 Ratings"
+        },
+        "pricing": {
+            "score": "8.6",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 10
+            },
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Smoky",
+                "votes": 10
+            },
+            {
+                "name": "Woody",
+                "votes": 10
+            },
+            {
+                "name": "Resinous",
+                "votes": 10
+            },
+            {
+                "name": "Green",
+                "votes": 5
+            },
+            {
+                "name": "Earthy",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 9
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 9
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

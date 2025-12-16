@@ -1,0 +1,133 @@
+{
+    "name": "Intenso di Ginestra",
+    "brand": "Carthusia",
+    "release_year": "2025",
+    "description": "A new perfume byCarthusiafor women and men, released in2025. The scent is floral-sweet.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/1d/1de6ab_intenso-di-ginestra-carthusia_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Spicy",
+        "Creamy",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Lemon leaf",
+        "Neroli"
+    ],
+    "heart_notes": [
+        "Broom absolute",
+        "Jasmine absolute",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "17 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "16 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "16 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "17 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

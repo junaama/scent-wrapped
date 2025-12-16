@@ -1,0 +1,67 @@
+{
+    "name": "Berry Bliss",
+    "brand": "DKNY",
+    "release_year": "2025",
+    "description": "A new perfume byDKNYfor women, released in2025. The scent is fruity-sweet. It is being marketed byInterparfums.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/09/099313_be-delicious-ice-pop-berry-bliss-dkny-donna-karan_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Almond blossom",
+        "Mango",
+        "Mint"
+    ],
+    "heart_notes": [
+        "Freesia",
+        "Raspberry",
+        "Strawberry",
+        "Water lily"
+    ],
+    "base_notes": [
+        "Coconut",
+        "Cotton candy",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "4.8",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "5.3",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            }
+        ]
+    }
+}

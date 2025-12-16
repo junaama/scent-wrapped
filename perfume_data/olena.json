@@ -1,0 +1,131 @@
+{
+    "name": "Olena",
+    "brand": "French Avenue",
+    "release_year": "2025",
+    "description": "A new perfume byFrench Avenuefor women, released in2025. The scent is sweet-floral. It is being marketed byFragrance World Trading LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/95/95a7e3_olena-french-avenue_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Creamy",
+        "Gourmand",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Grapefruit",
+        "Mandarin orange",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Blackcurrant",
+        "Orange blossom",
+        "Raspberry"
+    ],
+    "base_notes": [
+        "Ambrette",
+        "Cream",
+        "Marshmallow",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "11 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "11 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "11 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "12 Ratings"
+        },
+        "pricing": {
+            "score": "8.4",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

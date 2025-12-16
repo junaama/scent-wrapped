@@ -1,0 +1,129 @@
+{
+    "name": "Philosopher's Walk",
+    "brand": "Les Abstraits",
+    "release_year": "2025",
+    "description": "A new perfume byLes Abstraitsfor women and men, released in2025. The scent is spicy-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6a/6a46c2_philosopher-s-walk-les-abstraits_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Fresh",
+        "Woody",
+        "Fougère",
+        "Sweet"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.7",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Fougère",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

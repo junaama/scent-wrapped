@@ -1,0 +1,32 @@
+{
+    "name": "Eclipse",
+    "brand": "Oakcha",
+    "release_year": "2025",
+    "description": "A new perfume byOakchafor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/06/06218b_eclipse-oakcha_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Blackcurrant",
+        "Lemon",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Oak",
+        "Plum",
+        "Praliné"
+    ],
+    "base_notes": [
+        "Amber",
+        "Oud",
+        "Papyrus",
+        "Patchouli"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

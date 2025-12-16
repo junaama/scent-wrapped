@@ -1,0 +1,117 @@
+{
+    "name": "Somewhere but Nowhere",
+    "brand": "Lore",
+    "release_year": "2025",
+    "description": "A new perfume byLorefor women and men, released in2025. The scent is woody-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/68/684007_somewhere-but-nowhere-lore_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Fresh",
+        "Leathery",
+        "Spicy",
+        "Synthetic"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "6.2",
+            "votes": "11 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Chypre",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            }
+        ]
+    }
+}

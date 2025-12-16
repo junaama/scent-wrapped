@@ -1,0 +1,33 @@
+{
+    "name": "Beloved",
+    "brand": "Permenent",
+    "release_year": "2025",
+    "description": "A new perfume byPermenentfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/30/30f179_beloved-permenent_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Blackcurrant",
+        "Gardenia",
+        "Mandarin orange",
+        "Ozone"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lactone",
+        "Lily of the valley",
+        "Neroli",
+        "Prune",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Benzoin",
+        "Moss",
+        "Musk",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

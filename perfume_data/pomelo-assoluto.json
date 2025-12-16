@@ -1,0 +1,148 @@
+{
+    "name": "Pomelo Assoluto",
+    "brand": "Gritti",
+    "release_year": "2025",
+    "description": "A new perfume byGrittifor women and men, released in2025. The scent is citrusy-fresh.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/93/93d1d8_pomelo-assoluto-gritti_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Fruity",
+        "Green",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Honey pomelo",
+        "Grapefruit",
+        "Marine notes"
+    ],
+    "heart_notes": [
+        "Green tea",
+        "Juniper berry",
+        "Pink pepper",
+        "Cardamom",
+        "Magnolia",
+        "Rose"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "White musk",
+        "Woody notes"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "507 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "468 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "465 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "441 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "407 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 110
+            },
+            {
+                "name": "Spicy",
+                "votes": 25
+            },
+            {
+                "name": "Sweet",
+                "votes": 43
+            },
+            {
+                "name": "Woody",
+                "votes": 31
+            },
+            {
+                "name": "Green",
+                "votes": 52
+            },
+            {
+                "name": "Fruity",
+                "votes": 86
+            },
+            {
+                "name": "Fresh",
+                "votes": 105
+            },
+            {
+                "name": "Aquatic",
+                "votes": 27
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 104
+            },
+            {
+                "name": "Feminine",
+                "votes": 72
+            },
+            {
+                "name": "Classic",
+                "votes": 12
+            },
+            {
+                "name": "Modern",
+                "votes": 79
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 26
+            },
+            {
+                "name": "Summer",
+                "votes": 120
+            },
+            {
+                "name": "Spring",
+                "votes": 103
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 102
+            },
+            {
+                "name": "Sport",
+                "votes": 52
+            },
+            {
+                "name": "Leisure",
+                "votes": 112
+            },
+            {
+                "name": "Night Out",
+                "votes": 53
+            },
+            {
+                "name": "Business",
+                "votes": 75
+            },
+            {
+                "name": "Evening",
+                "votes": 39
+            }
+        ]
+    }
+}

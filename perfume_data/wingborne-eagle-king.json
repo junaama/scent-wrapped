@@ -1,0 +1,86 @@
+{
+    "name": "Wingborne - Eagle King",
+    "brand": "Ultrabeast",
+    "release_year": "2025",
+    "description": "A new perfume byUltrabeastfor women and men, released in2025. The scent is fresh-citrusy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/0e/0eadf1_wingborne-eagle-king-ultrabeast_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Air accord",
+        "Saffron",
+        "Yuzu"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Oud",
+        "Wild iris"
+    ],
+    "base_notes": [
+        "Black vetiver",
+        "Frankincense resin",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "6.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

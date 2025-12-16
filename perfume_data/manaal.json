@@ -1,0 +1,120 @@
+{
+    "name": "Manaal",
+    "brand": "Ard Al Zaafaran",
+    "release_year": "2025",
+    "description": "A new perfume byArd Al Zaafaranfor women, released in2025. The scent is sweet-green.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ed/ed7d85_manaal-ard-al-zaafaran_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Green",
+        "Powdery",
+        "Woody",
+        "Floral"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Lavender"
+    ],
+    "heart_notes": [
+        "Pistachio",
+        "Almond",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Cocoa",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "6.2",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

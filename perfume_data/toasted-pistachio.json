@@ -1,0 +1,69 @@
+{
+    "name": "Toasted Pistachio",
+    "brand": "Bath & Body Works",
+    "release_year": "2025",
+    "description": "A new perfume byBath & Body Worksfor women, released in2025. The scent is gourmand-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/61/610999_toasted-pistachio-bath-body-works_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Sweet",
+        "Powdery",
+        "Creamy",
+        "Floral"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "bottle": {
+            "score": "5.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

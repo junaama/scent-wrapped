@@ -1,0 +1,87 @@
+{
+    "name": "Rosa Ataraxis III: Black Tripura",
+    "brand": "Hunayn",
+    "release_year": "2025",
+    "description": "A new and limited perfume byHunaynfor women and men, released in2025. The scent is oriental-woody. Projection and longevity are above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/df/dff3f3_rosa-ataraxis-iii-black-tripura-hunayn_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Oriental",
+        "Woody",
+        "Floral"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "9.1",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "9.0",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "8.6",
+            "votes": "10 Ratings"
+        },
+        "bottle": {
+            "score": "9.0",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

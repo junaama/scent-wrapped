@@ -1,0 +1,29 @@
+{
+    "name": "Ayesha",
+    "brand": "Maison Anthony Marmin",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Anthony Marminfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/75/758364_ayesha-maison-anthony-marmin-abdul-karim-al-faransi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Caramel",
+        "Cardamom",
+        "Pepper"
+    ],
+    "heart_notes": [
+        "Indian rose",
+        "Jasmine",
+        "Spikenard"
+    ],
+    "base_notes": [
+        "Indian sandalwood",
+        "Spices"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

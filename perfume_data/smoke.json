@@ -1,0 +1,38 @@
+{
+    "name": "Smoke",
+    "brand": "Coisy B.",
+    "release_year": "2025",
+    "description": "A new perfume byCoisy B.for women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/93/93174a_smoke-coisy-b_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Cistus",
+        "Pink pepper",
+        "Plum",
+        "Rum",
+        "Sage",
+        "Ylang-ylang"
+    ],
+    "heart_notes": [
+        "Brazilian coffee",
+        "Caramel",
+        "Immortelle",
+        "Kashmir Fusion",
+        "Magnolia"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Crystal amber",
+        "Frankincense",
+        "Oak Fusion",
+        "Patchouli",
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla",
+        "Vetiver",
+        "Virginia tobacco"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

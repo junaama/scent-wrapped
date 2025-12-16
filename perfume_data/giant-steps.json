@@ -1,0 +1,40 @@
+{
+    "name": "Giant Steps",
+    "brand": "HöM",
+    "release_year": "2025",
+    "description": "A new perfume byHöMfor women and men, released in2025. The scent is fruity-oriental.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3a/3a2dbe-giant-steps-hom_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Oriental",
+        "Powdery",
+        "Floral"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Bitter orange",
+        "Black pepper",
+        "Black tea",
+        "Lemon",
+        "Neroli"
+    ],
+    "heart_notes": [
+        "Heliotrope",
+        "Iris",
+        "Jasmine sambac",
+        "Labdanum absolute",
+        "May rose",
+        "Moroccan rose otto"
+    ],
+    "base_notes": [
+        "Assam oud",
+        "Castoreum",
+        "Indonesian sandalwood",
+        "Malayan oud",
+        "Mongolian deer musk",
+        "Tonkin musk",
+        "White ambergris"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

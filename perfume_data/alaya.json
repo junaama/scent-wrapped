@@ -1,0 +1,114 @@
+{
+    "name": "Alaya",
+    "brand": "Nimori",
+    "release_year": "2025",
+    "description": "A new perfume byNimorifor women and men, released in2025. The scent is sweet-spicy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/46/46926e_alaya-nimori_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Creamy",
+        "Powdery",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Cinnamon",
+        "Hedione"
+    ],
+    "heart_notes": [
+        "Praliné",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.0",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "9.0",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "8.8",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "8.6",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

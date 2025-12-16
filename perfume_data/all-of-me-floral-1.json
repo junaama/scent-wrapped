@@ -1,0 +1,132 @@
+{
+    "name": "All of Me Floral",
+    "brand": "Narciso Rodriguez",
+    "release_year": "2025",
+    "description": "A new perfume byNarciso Rodriguezfor women, released in2025. The scent is floral-sweet. It is being marketed byShiseido Group / Beauté Prestige International.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/01/01f46b_all-of-me-floral-narciso-rodriguez_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Fruity",
+        "Fresh",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Lychee",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Plum blossom",
+        "Jasmine sambac",
+        "Geranium leaf"
+    ],
+    "base_notes": [
+        "Musk",
+        "Benzoin",
+        "Gaiac wood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "20 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "17 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "17 Ratings"
+        },
+        "bottle": {
+            "score": "6.6",
+            "votes": "18 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Powdery",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 8
+            },
+            {
+                "name": "Fresh",
+                "votes": 7
+            },
+            {
+                "name": "Floral",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 8
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

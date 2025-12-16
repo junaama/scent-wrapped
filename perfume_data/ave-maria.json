@@ -1,0 +1,133 @@
+{
+    "name": "Ave María",
+    "brand": "Bō",
+    "release_year": "2025",
+    "description": "A new perfume byBōfor women and men, released in2025. The scent is floral-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ae/aeea7b_ave-maria-bo_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Aquatic",
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Indonesian jasmine",
+        "Gardenia",
+        "Cashmere"
+    ],
+    "heart_notes": [
+        "Pear",
+        "African neroli",
+        "Rain accord"
+    ],
+    "base_notes": [
+        "Merlot",
+        "Nappa leather",
+        "Oak wood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "64 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "45 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "43 Ratings"
+        },
+        "bottle": {
+            "score": "8.8",
+            "votes": "50 Ratings"
+        },
+        "pricing": {
+            "score": "5.6",
+            "votes": "36 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 12
+            },
+            {
+                "name": "Fruity",
+                "votes": 6
+            },
+            {
+                "name": "Fresh",
+                "votes": 16
+            },
+            {
+                "name": "Creamy",
+                "votes": 11
+            },
+            {
+                "name": "Floral",
+                "votes": 24
+            },
+            {
+                "name": "Aquatic",
+                "votes": 13
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 22
+            },
+            {
+                "name": "Classic",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 10
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Summer",
+                "votes": 22
+            },
+            {
+                "name": "Spring",
+                "votes": 22
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 19
+            },
+            {
+                "name": "Leisure",
+                "votes": 18
+            },
+            {
+                "name": "Night Out",
+                "votes": 12
+            },
+            {
+                "name": "Business",
+                "votes": 14
+            },
+            {
+                "name": "Evening",
+                "votes": 11
+            }
+        ]
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "name": "Angel Baby",
+    "brand": "Overose",
+    "release_year": "2025",
+    "description": "A new perfume byOverosefor women and men, released in2025. The scent is sweet-fruity.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/20/203d51_angel-baby-overose_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Camellia",
+        "Darjeeling tea",
+        "Milk",
+        "Peach cake",
+        "Pear",
+        "Rose"
+    ],
+    "heart_notes": [
+        "Cocoa butter",
+        "Marshmallow",
+        "Soap",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Bubble bath",
+        "Musk",
+        "Sensual skin accord"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "5.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

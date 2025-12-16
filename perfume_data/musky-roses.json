@@ -1,0 +1,20 @@
+{
+    "name": "Musky Roses",
+    "brand": "The Dua Brand",
+    "release_year": "2025",
+    "description": "A new perfume byThe Dua Brandfor women, released in2025. The perfume is vegan according to the manufacturer.PronunciationCompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/f2/f2a4bd_musky-roses-the-dua-brand-dua-fragrances_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Jasmine",
+        "Rose"
+    ],
+    "heart_notes": [
+        "Musk"
+    ],
+    "base_notes": [
+        "Ambergris"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

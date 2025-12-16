@@ -1,0 +1,30 @@
+{
+    "name": "Lunapark",
+    "brand": "Fluez",
+    "release_year": "2025",
+    "description": "A new perfume byFluezfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5f/5f7a36_lunapark-fluez_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Ice cream",
+        "Prickly pear"
+    ],
+    "heart_notes": [
+        "Coconut",
+        "Marshmallow",
+        "Mimosa",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cocoa butter",
+        "White musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,101 @@
+{
+    "name": "Glazed Pumpkin",
+    "brand": "Bath & Body Works",
+    "release_year": "2025",
+    "description": "A new perfume byBath & Body Worksfor women, released in2025. The scent is gourmand-sweet.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/06/06236c_glazed-pumpkin-bath-body-works_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Sweet",
+        "Spicy",
+        "Resinous",
+        "Creamy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "6.0",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "5.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "5.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "6.3",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "name": "Nude",
+    "brand": "Mith",
+    "release_year": "2025",
+    "description": "A new perfume byMithfor women and men, released in2025. The scent is fresh-powdery. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/0f/0f3c48_nude-mith_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Powdery",
+        "Fruity",
+        "Floral",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Peach",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Lily of the valley",
+        "Peony",
+        "Violet leaf"
+    ],
+    "base_notes": [
+        "Moss",
+        "Musk",
+        "Tonka bean",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "name": "Balu",
+    "brand": "Gabar",
+    "release_year": "2025",
+    "description": "A new perfume byGabarfor women and men, released in2025. The scent is gourmand-leathery.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c7/c721c1_balu-gabar_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Leathery",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Blackcurrant leaf",
+        "Date"
+    ],
+    "heart_notes": [
+        "Cocoa",
+        "Condensed milk",
+        "Molasses"
+    ],
+    "base_notes": [
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "4.3",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

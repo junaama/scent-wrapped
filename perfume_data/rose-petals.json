@@ -1,0 +1,66 @@
+{
+    "name": "Rose Petals",
+    "brand": "Paris Corner",
+    "release_year": "2025",
+    "description": "A new perfume byParis Cornerfor women and men, released in2025. The scent is floral-fruity. The projection is above-average. It is being marketed byParis Corner Perfumes.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c7/c75ced_rose-petals-paris-corner_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Lychee",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Aquatic notes",
+        "Cashmere",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber notes",
+        "Musk",
+        "Sandalwood",
+        "Sweet notes"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "name": "Nightfall in the City of Kings",
+    "brand": "Mystikum",
+    "release_year": "2025",
+    "description": "A new perfume byMystikumfor women and men, released in2025. The scent is spicy-woody. It is being marketed byScherk.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/af/afcbcb_nightfall-in-the-city-of-kings-mystikum_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Smoky",
+        "Floral",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Carrot seed",
+        "Peach",
+        "Orange blossom"
+    ],
+    "heart_notes": [
+        "Cumin",
+        "Turkish rose absolute",
+        "Ylang-ylang",
+        "Cinnamon",
+        "Clove",
+        "Freesia"
+    ],
+    "base_notes": [
+        "Ambrarome absolute",
+        "Vanilla",
+        "Castoreum absolute",
+        "Amber",
+        "Cedarwood",
+        "Musk",
+        "Patchouli",
+        "Sandalwood",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "39 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "28 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "28 Ratings"
+        },
+        "bottle": {
+            "score": "8.6",
+            "votes": "31 Ratings"
+        },
+        "pricing": {
+            "score": "6.2",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 12
+            },
+            {
+                "name": "Smoky",
+                "votes": 8
+            },
+            {
+                "name": "Oriental",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 10
+            },
+            {
+                "name": "Resinous",
+                "votes": 7
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 11
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 10
+            },
+            {
+                "name": "Fall",
+                "votes": 11
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 11
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 10
+            }
+        ]
+    }
+}

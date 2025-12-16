@@ -1,0 +1,145 @@
+{
+    "name": "Black Crème",
+    "brand": "Borntostandout",
+    "release_year": "2025",
+    "description": "A new perfume byBorntostandoutfor women and men, released in2025. The scent is woody-creamy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/be/bedea3_black-creme-borntostandout_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Creamy",
+        "Sweet",
+        "Spicy",
+        "Leathery"
+    ],
+    "top_notes": [
+        "Ambrette",
+        "Candle wax",
+        "Iris",
+        "Milk",
+        "Spices"
+    ],
+    "heart_notes": [
+        "Leather",
+        "Myrrh",
+        "Vanilla",
+        "Oud"
+    ],
+    "base_notes": [
+        "Georgywood®",
+        "Amber",
+        "Caramel",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "16 Ratings"
+        },
+        "durability": {
+            "score": "9.1",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "8.6",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "13 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Powdery",
+                "votes": 5
+            },
+            {
+                "name": "Leathery",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

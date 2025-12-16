@@ -1,0 +1,119 @@
+{
+    "name": "Blu V2 Lampung Ltd",
+    "brand": "Lost Tribe",
+    "release_year": "2025",
+    "description": "A new and limited perfume byLost Tribefor women and men, released in2025. The scent is citrusy-floral. Projection and longevity are above-average. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/88/888c6d_blu-v2-lampung-ltd-lost-tribe_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Floral",
+        "Sweet",
+        "Woody"
+    ],
+    "top_notes": [
+        "Aglaia",
+        "Bergamot",
+        "Boronia",
+        "Italian pink grapefruit",
+        "Rose otto",
+        "White ambergris"
+    ],
+    "heart_notes": [
+        "Blue lotus",
+        "Florentine iris",
+        "Gardenia",
+        "Geranium",
+        "Magnolia",
+        "Neroli",
+        "Osmanthus",
+        "Rhododendron",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Civet",
+        "Sumatran oud",
+        "Indonesian sandalwood",
+        "Cedar",
+        "Frankincense",
+        "Jasmine sambac",
+        "Labdanum",
+        "Red sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "8.7",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

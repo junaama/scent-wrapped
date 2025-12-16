@@ -1,0 +1,99 @@
+{
+    "name": "Pocha Bar",
+    "brand": "KST Scent",
+    "release_year": "2025",
+    "description": "A new perfume byKST Scentfor women and men, released in2025. The scent is spicy-smoky.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9d/9d2dbc_pocha-bar-kst-scent_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Smoky",
+        "Earthy",
+        "Gourmand",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Chili",
+        "Grilled meat",
+        "Soy sauce"
+    ],
+    "heart_notes": [
+        "Beer",
+        "Caramelized onion"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Sugar"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

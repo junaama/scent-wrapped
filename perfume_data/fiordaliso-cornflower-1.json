@@ -1,0 +1,150 @@
+{
+    "name": "Fiordaliso",
+    "brand": "L'Erbolario",
+    "release_year": "2025",
+    "description": "A new perfume byL'Erbolariofor women, released in2025. The scent is fresh-floral.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f2/f2458d_fiordaliso-l-erbolario_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Floral",
+        "Sweet",
+        "Powdery",
+        "Green"
+    ],
+    "top_notes": [
+        "Mandarin orange",
+        "Blackcurrant"
+    ],
+    "heart_notes": [
+        "Cornflower",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "19 Ratings"
+        },
+        "durability": {
+            "score": "6.3",
+            "votes": "16 Ratings"
+        },
+        "sillage": {
+            "score": "5.9",
+            "votes": "16 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "19 Ratings"
+        },
+        "pricing": {
+            "score": "8.1",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Powdery",
+                "votes": 4
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 9
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 8
+            },
+            {
+                "name": "Aquatic",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 9
+            },
+            {
+                "name": "Spring",
+                "votes": 8
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Sport",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            }
+        ]
+    }
+}

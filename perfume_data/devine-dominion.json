@@ -1,0 +1,131 @@
+{
+    "name": "Devine Dominion",
+    "brand": "Nebiru Parfvms",
+    "release_year": "2025",
+    "description": "A new perfume byNebiru Parfvmsfor women and men, released in2025. The scent is citrusy-spicy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c3/c38efb_devine-dominion-nebiru-parfvms_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Spicy",
+        "Resinous",
+        "Floral",
+        "Animal"
+    ],
+    "top_notes": [
+        "Clove",
+        "Basil",
+        "Cambodian pepper",
+        "Italian bay leaf",
+        "Italian bergamot",
+        "Italian blood orange"
+    ],
+    "heart_notes": [
+        "African ginger abolute",
+        "Dong quai",
+        "Indian rose",
+        "Jasmine sambac",
+        "Pine",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "African hyrax",
+        "Assam oud",
+        "Bengal Nagarmotha",
+        "Borneo oud resin",
+        "Ceylonese sandalwood",
+        "Ethiopian civet",
+        "Laotian oud",
+        "Myrrh",
+        "Papua oud",
+        "Patchouli",
+        "Tolu balm"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "17 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "14 Ratings"
+        },
+        "sillage": {
+            "score": "8.4",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            },
+            {
+                "name": "Animal",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

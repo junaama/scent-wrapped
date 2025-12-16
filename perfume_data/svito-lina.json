@@ -1,0 +1,30 @@
+{
+    "name": "Svito Lina",
+    "brand": "Puredistance",
+    "release_year": "2025",
+    "description": "A new and limited perfume byPuredistancefor women, released in2025.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/6f/6f389c_svito-lina-puredistance_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Calabrian bergamot",
+        "Macedonian juniper berry",
+        "Sicilian lemon"
+    ],
+    "heart_notes": [
+        "Ceylonese cinnamon",
+        "Ginger CO2",
+        "Provençal lavender"
+    ],
+    "base_notes": [
+        "Amber",
+        "New Caledonian sandalwood",
+        "Venezuelan tonka bean absolute"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

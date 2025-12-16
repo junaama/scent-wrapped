@@ -1,0 +1,114 @@
+{
+    "name": "Pamplona",
+    "brand": "Encantado",
+    "release_year": "2025",
+    "description": "A new perfume byEncantadofor men, released in2025. The scent is fresh-woody. It is being marketed byDiamond International.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/34/3432e7_pamplona-encantado_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Woody",
+        "Spicy",
+        "Citrus",
+        "Green"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Grapefruit",
+        "Lemon",
+        "Mint",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Ginger",
+        "Juniper",
+        "Lily of the valley",
+        "Nepalese sichuan pepper",
+        "Nutmeg",
+        "Rose"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Cedar",
+        "Musk",
+        "Musky notes",
+        "Patchouli",
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

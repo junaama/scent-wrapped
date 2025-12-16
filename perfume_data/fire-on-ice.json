@@ -1,0 +1,146 @@
+{
+    "name": "Fire on Ice",
+    "brand": "Lattafa",
+    "release_year": "2025",
+    "description": "A new perfume byLattafafor women and men, released in2025. The scent is oriental-sweet. It is being marketed byLattafa Perfumes Industries LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/97/97ba16_fire-on-ice-lattafa_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Oriental",
+        "Sweet",
+        "Fruity",
+        "Spicy",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Black raspberry",
+        "Cinnamon",
+        "Cognac"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Frosted rose",
+        "Moss"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Cedarwood",
+        "Myrrh",
+        "Oak wood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "37 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "33 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "33 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "39 Ratings"
+        },
+        "pricing": {
+            "score": "8.5",
+            "votes": "33 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 9
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Resinous",
+                "votes": 4
+            },
+            {
+                "name": "Gourmand",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 9
+            },
+            {
+                "name": "Fall",
+                "votes": 9
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 9
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

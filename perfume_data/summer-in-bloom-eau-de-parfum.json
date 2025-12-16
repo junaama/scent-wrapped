@@ -1,0 +1,25 @@
+{
+    "name": "Summer in Bloom",
+    "brand": "Just Juice",
+    "release_year": "2025",
+    "description": "A new perfume byJust Juicefor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/91/919979_summer-in-bloom-eau-de-parfum-just-juice_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Melon",
+        "Nectarine"
+    ],
+    "heart_notes": [
+        "Jasmine tea",
+        "Water lily",
+        "Wild flowers"
+    ],
+    "base_notes": [
+        "Blond woods",
+        "Musk",
+        "Rose"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

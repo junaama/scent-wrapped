@@ -1,0 +1,73 @@
+{
+    "name": "Rosalie",
+    "brand": "Voluspa",
+    "release_year": "2025",
+    "description": "A new perfume byVoluspafor women, released in2025. The scent is floral-fruity.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/a7/a7e374_rosalie-voluspa_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fruity",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Bulgarian rose",
+        "Orris butter",
+        "Raspberry"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            }
+        ]
+    }
+}

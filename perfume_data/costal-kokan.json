@@ -1,0 +1,74 @@
+{
+    "name": "Costal Kokan",
+    "brand": "Perito Moreno",
+    "release_year": "2025",
+    "description": "A new and limited perfume byPerito Morenofor women and men, released in2025. The scent is floral-fresh. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/d4/d40c1a_costal-kokan-perito-moreno_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Fruity",
+        "Aquatic"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "9.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.5",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

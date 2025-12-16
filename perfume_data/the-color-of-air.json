@@ -1,0 +1,51 @@
+{
+    "name": "The Color of Air",
+    "brand": "Mystikum",
+    "release_year": "2025",
+    "description": "A new perfume byMystikumfor women and men, released in2025. The scent is fruity-fresh. It is being marketed byScherk.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/71/71eed5_the-color-of-air-mystikum_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Fresh",
+        "Green",
+        "Citrus",
+        "Fougère"
+    ],
+    "top_notes": [
+        "Kumquat",
+        "Bitter orange",
+        "Coriander"
+    ],
+    "heart_notes": [
+        "Blackberry",
+        "Frostwood™",
+        "Nepalese sichuan pepper"
+    ],
+    "base_notes": [
+        "Amber",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "23 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "18 Ratings"
+        },
+        "sillage": {
+            "score": "6.4",
+            "votes": "18 Ratings"
+        },
+        "bottle": {
+            "score": "8.9",
+            "votes": "21 Ratings"
+        },
+        "pricing": {
+            "score": "6.1",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {}
+}

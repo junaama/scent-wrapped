@@ -1,0 +1,45 @@
+{
+    "name": "Baklava",
+    "brand": "Azha",
+    "release_year": "2025",
+    "description": "A new perfume byAzhafor women and men, released in2025. It is being marketed byOmniscent Fragrances.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/57/573974_baklava-azha_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Cardamom",
+        "Lavender",
+        "Pistachio"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Hawthorn",
+        "Orange blossom",
+        "Vetiver"
+    ],
+    "base_notes": [
+        "Dry woods",
+        "Moss",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.5",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

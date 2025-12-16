@@ -1,0 +1,126 @@
+{
+    "name": "Orange Hyper Essence/X",
+    "brand": "Parle Moi de Parfum",
+    "release_year": "2025",
+    "description": "A new perfume byParle Moi de Parfumfor women and men, released in2025. The scent is citrusy-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6d/6dca33_orange-hyper-essence-x-parle-moi-de-parfum_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Fruity",
+        "Spicy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Ginger",
+        "Bitter orange"
+    ],
+    "heart_notes": [
+        "Californian orange",
+        "Valencia orange",
+        "Prosecco"
+    ],
+    "base_notes": [
+        "Cardamom"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "16 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "13 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "6.8",
+            "votes": "16 Ratings"
+        },
+        "pricing": {
+            "score": "6.2",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 6
+            },
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Fresh",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Sport",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

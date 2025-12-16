@@ -1,0 +1,35 @@
+{
+    "name": "Autumn Rendezvous",
+    "brand": "Dossier",
+    "release_year": "2025",
+    "description": "A new perfume byDossierfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b9/b99802_autumn-rendezvous-dossier_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Air accord",
+        "Blackcurrant",
+        "Green notes",
+        "Rosemary"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Lavender",
+        "Lily of the valley",
+        "Pine",
+        "Violet"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Fir",
+        "Moss",
+        "Patchouli",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

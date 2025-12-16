@@ -1,0 +1,30 @@
+{
+    "name": "Aurum",
+    "brand": "AENYØ1",
+    "release_year": "2025",
+    "description": "A new perfume byAENYØ1for women and men, released in2025. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3a/3a7fd0_aurum-aenyo1_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Lavender",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Honey",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Tobacco",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,133 @@
+{
+    "name": "Hawas Tropical",
+    "brand": "Rasasi",
+    "release_year": "2025",
+    "description": "A new perfume byRasasifor men, released in2025. The scent is fruity-fresh. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4d/4d635e_hawas-tropical-rasasi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Fresh",
+        "Sweet",
+        "Creamy",
+        "Green"
+    ],
+    "top_notes": [
+        "Fig leaf",
+        "Ginger",
+        "Coconut water"
+    ],
+    "heart_notes": [
+        "Fig",
+        "Coconut",
+        "Mint"
+    ],
+    "base_notes": [
+        "Tonka bean",
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "66 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "63 Ratings"
+        },
+        "sillage": {
+            "score": "7.9",
+            "votes": "62 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "60 Ratings"
+        },
+        "pricing": {
+            "score": "8.7",
+            "votes": "58 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 12
+            },
+            {
+                "name": "Green",
+                "votes": 6
+            },
+            {
+                "name": "Fruity",
+                "votes": 13
+            },
+            {
+                "name": "Fresh",
+                "votes": 12
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 13
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 12
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Summer",
+                "votes": 15
+            },
+            {
+                "name": "Spring",
+                "votes": 12
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 10
+            },
+            {
+                "name": "Sport",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 13
+            },
+            {
+                "name": "Night Out",
+                "votes": 9
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

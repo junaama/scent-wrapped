@@ -1,0 +1,163 @@
+{
+    "name": "Sea",
+    "brand": "Michalsky",
+    "release_year": "2025",
+    "description": "A new and limited perfume byMichalskyfor men, released in2025. The scent is fresh-citrusy. It is being marketed byLifestyle Fragrance & Beauty.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/89/897ea4_sea-michalsky_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Citrus",
+        "Floral",
+        "Fruity",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Mandarin orange",
+        "Lemon",
+        "Geranium",
+        "Blackcurrant",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Rose",
+        "Cedarwood",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Elemi resin",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "29 Ratings"
+        },
+        "durability": {
+            "score": "6.4",
+            "votes": "25 Ratings"
+        },
+        "sillage": {
+            "score": "6.2",
+            "votes": "25 Ratings"
+        },
+        "bottle": {
+            "score": "6.3",
+            "votes": "30 Ratings"
+        },
+        "pricing": {
+            "score": "7.8",
+            "votes": "25 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 5
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 8
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 9
+            },
+            {
+                "name": "Spring",
+                "votes": 8
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Sport",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

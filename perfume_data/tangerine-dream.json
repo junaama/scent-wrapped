@@ -1,0 +1,77 @@
+{
+    "name": "Tangerine Dream",
+    "brand": "Jeanne Arthes",
+    "release_year": "2025",
+    "description": "A new perfume byJeanne Arthesfor women and men, released in2025. The scent is citrusy-synthetic.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f9/f98972_tangerine-dream-jeanne-arthes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Synthetic",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Lemon",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Fruity notes"
+    ],
+    "base_notes": [
+        "Amber",
+        "Vanilla",
+        "Woods"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "4.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            }
+        ]
+    }
+}

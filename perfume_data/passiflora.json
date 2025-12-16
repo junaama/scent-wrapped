@@ -1,0 +1,33 @@
+{
+    "name": "Passiflora",
+    "brand": "Régime des Fleurs",
+    "release_year": "2025",
+    "description": "A new and limited perfume byRégime des Fleursfor women and men, released in2025.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/94/948dbd_passiflora-regime-des-fleurs_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Spearmint",
+        "Star anise",
+        "Cardamom"
+    ],
+    "heart_notes": [
+        "Passion flower",
+        "Coriander",
+        "Frankincense",
+        "Myrrh"
+    ],
+    "base_notes": [
+        "Angelica",
+        "Cypriol",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

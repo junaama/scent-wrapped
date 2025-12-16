@@ -1,0 +1,29 @@
+{
+    "name": "Rice Milk",
+    "brand": "Kira",
+    "release_year": "2025",
+    "description": "A new perfume byKirafor women and men, released in2025. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/da/da5c3c_rice-milk-kira_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Milk",
+        "Rice"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Orris root"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Tonka bean",
+        "Vanilla",
+        "White musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

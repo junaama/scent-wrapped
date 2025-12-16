@@ -1,0 +1,102 @@
+{
+    "name": "honeycakes",
+    "brand": "Amphora Parfum",
+    "release_year": "2025",
+    "description": "A new perfume byAmphora Parfumfor women and men, released in2025. The scent is gourmand-spicy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a3/a3110a_honeycakes-amphora-parfum_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Spicy",
+        "Powdery",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Coffee",
+        "Honey",
+        "Mulling spices",
+        "Nectarine"
+    ],
+    "heart_notes": [
+        "Plum",
+        "Chocolate truffle",
+        "Roasted acorn"
+    ],
+    "base_notes": [
+        "Patchouli",
+        "Blond tobacco",
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.9",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "9.0",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "8.6",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "8.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

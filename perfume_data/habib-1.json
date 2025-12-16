@@ -1,0 +1,48 @@
+{
+    "name": "Habib",
+    "brand": "Arabiyat Prestige",
+    "release_year": "2025",
+    "description": "A new perfume byArabiyat Prestigefor men, released in2025. The scent is resinous-sweet. It is being marketed byMy Perfumes / MPF (My Perfumes Factory).Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ae/ae119e_habib-arabiyat-prestige_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Sweet",
+        "Gourmand",
+        "Powdery",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Lavender",
+        "Mint"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Benzoin",
+        "Pineapple"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Tonka bean",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

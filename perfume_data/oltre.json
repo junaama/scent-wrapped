@@ -1,0 +1,102 @@
+{
+    "name": "Oltre",
+    "brand": "Jijide",
+    "release_year": "2025",
+    "description": "A new perfume byJijidefor women and men, released in2025. The scent is floral-powdery.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/3b/3b1206_oltre-jijide_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Powdery",
+        "Citrus",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Metallic notes",
+        "Steam",
+        "Italian citrus fruits",
+        "Lavender",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Centifolia water",
+        "Ginger",
+        "Lavender",
+        "Parma violet"
+    ],
+    "base_notes": [
+        "Make-up",
+        "White musk",
+        "Benzoin",
+        "Leather",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

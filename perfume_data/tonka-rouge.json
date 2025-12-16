@@ -1,0 +1,127 @@
+{
+    "name": "Tonka Rouge",
+    "brand": "Maison Tahité",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Tahitéfor women and men, released in2025. The scent is gourmand-sweet. It is being marketed byKaon.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e9/e9d478_tonka-rouge-maison-tahite_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Sweet",
+        "Fruity",
+        "Spicy",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Cherry liqueur"
+    ],
+    "heart_notes": [
+        "Liquorice",
+        "Raspberry",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Brandy",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "16 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "11 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

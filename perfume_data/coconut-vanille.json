@@ -1,0 +1,36 @@
+{
+    "name": "Coconut Vanille",
+    "brand": "Adyan",
+    "release_year": "2025",
+    "description": "A new perfume byAdyanfor women and men, released in2025. The scent is fresh-fruity. It is being marketed byOudh Al Anfar Manufacturing L.L.C.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f8/f84255_coconut-vanille-adyan_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Caramel",
+        "Vanilla"
+    ],
+    "heart_notes": [
+        "Coconut",
+        "Coumarin",
+        "Honey"
+    ],
+    "base_notes": [
+        "Ambrette",
+        "Musky notes",
+        "Rose"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

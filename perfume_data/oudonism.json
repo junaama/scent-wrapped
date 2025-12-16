@@ -1,0 +1,124 @@
+{
+    "name": "Oudonism",
+    "brand": "Devertere",
+    "release_year": "2025",
+    "description": "A new perfume byDeverterefor women and men, released in2025. The scent is sweet-oriental. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/42/4275c8_oudonism-devertere_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Oriental",
+        "Floral",
+        "Synthetic",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Lychee puree",
+        "Tagetes",
+        "Sicilian almond",
+        "Blackcurrant",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Rose",
+        "Elemi resin",
+        "Saffron",
+        "Cade juniper",
+        "Styrax"
+    ],
+    "base_notes": [
+        "Musk",
+        "Amber",
+        "Benzoin",
+        "Cypriol",
+        "Leather",
+        "Oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

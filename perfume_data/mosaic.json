@@ -1,0 +1,143 @@
+{
+    "name": "Mosaic",
+    "brand": "Kinetic Perfumes",
+    "release_year": "2025",
+    "description": "A new perfume byKinetic Perfumesfor women and men, released in2025. The scent is woody-spicy. Projection and longevity are above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/5c/5c0ac3_mosaic-kinetic-perfumes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Spicy",
+        "Sweet",
+        "Smoky",
+        "Leathery"
+    ],
+    "top_notes": [
+        "Kumquat",
+        "Saffron",
+        "Sugar",
+        "Rhubarb",
+        "Bitter orange",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Cumin",
+        "Caramel",
+        "Frankincense",
+        "Cedarwood",
+        "Violet leaf"
+    ],
+    "base_notes": [
+        "Suede",
+        "Turmeric",
+        "Oud",
+        "Ambergris",
+        "Ginger",
+        "Moss",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "31 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "29 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "29 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "23 Ratings"
+        },
+        "pricing": {
+            "score": "7.2",
+            "votes": "17 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 11
+            },
+            {
+                "name": "Sweet",
+                "votes": 9
+            },
+            {
+                "name": "Smoky",
+                "votes": 8
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Leathery",
+                "votes": 8
+            },
+            {
+                "name": "Woody",
+                "votes": 11
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 13
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 8
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 9
+            },
+            {
+                "name": "Fall",
+                "votes": 12
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 11
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

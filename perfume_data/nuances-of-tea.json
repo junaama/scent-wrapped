@@ -1,0 +1,137 @@
+{
+    "name": "Nuances of Tea",
+    "brand": "The House of Oud",
+    "release_year": "2025",
+    "description": "A new perfume byThe House of Oudfor women and men, released in2025. The scent is green-sweet. It is being marketed byHIC Beauty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/01/01e043_nuances-of-tea-the-house-of-oud_1200.jpg?width=240&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Sweet",
+        "Fresh",
+        "Fruity",
+        "Woody"
+    ],
+    "top_notes": [
+        "Lemon zest",
+        "Pineapple",
+        "Plum"
+    ],
+    "heart_notes": [
+        "Condensed milk",
+        "Green mango",
+        "Green tea"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedar",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "17 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "13 Ratings"
+        },
+        "bottle": {
+            "score": "8.7",
+            "votes": "22 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

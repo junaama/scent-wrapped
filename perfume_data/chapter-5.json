@@ -1,0 +1,120 @@
+{
+    "name": "Chapter 5",
+    "brand": "Ajmal",
+    "release_year": "2025",
+    "description": "A new perfume byAjmalfor women and men, released in2025. The scent is woody-smoky.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a1/a1efe1_chapter-5-ajmal_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Smoky",
+        "Synthetic",
+        "Spicy",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Drawing ink",
+        "Dry woods"
+    ],
+    "heart_notes": [
+        "Birch",
+        "Frankincense",
+        "Santol"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Crystallised moss",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fougère",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

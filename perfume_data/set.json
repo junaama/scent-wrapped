@@ -1,0 +1,34 @@
+{
+    "name": "Set",
+    "brand": "Aswan",
+    "release_year": "2025",
+    "description": "A new perfume byAswanfor women and men, released in2025. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e8/e8ce2c_set-aswan_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Clary sage",
+        "Mandarin orange",
+        "Orange blossom",
+        "Ylang-ylang"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Iris",
+        "Labdanum",
+        "Vetiver"
+    ],
+    "base_notes": [
+        "Heliotrope",
+        "Patchouli",
+        "Powdery notes",
+        "Tobacco",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

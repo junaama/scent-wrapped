@@ -1,0 +1,122 @@
+{
+    "name": "Sound Of Our Hearts",
+    "brand": "Coachella",
+    "release_year": "2025",
+    "description": "A new perfume byCoachellafor women and men, released in2025. The scent is floral-spicy. The longevity is above-average. It is being marketed byDobner Kosmetik.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9a/9a52c7_sound-of-our-hearts-coachella_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Spicy",
+        "Woody",
+        "Sweet",
+        "Animal"
+    ],
+    "top_notes": [
+        "Rosa centifolia absolute",
+        "Bulgarian rose"
+    ],
+    "heart_notes": [
+        "Saffron",
+        "Black pepper"
+    ],
+    "base_notes": [
+        "Amber",
+        "Oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "14 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "13 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "13 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "15 Ratings"
+        },
+        "pricing": {
+            "score": "8.5",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 8
+            },
+            {
+                "name": "Animal",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

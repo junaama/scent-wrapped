@@ -1,0 +1,103 @@
+{
+    "name": "Odyssey Toffee Coffee",
+    "brand": "Armaf",
+    "release_year": "2025",
+    "description": "A new perfume byArmaffor women and men, released in2025. The scent is gourmand-sweet. It is being marketed bySterling Perfumes Industries LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ef/efa1be_odyssey-toffee-coffee-cafe-edition-armaf_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Sweet",
+        "Creamy",
+        "Spicy",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Coffee",
+        "Dulce de leche",
+        "Honey",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Bulgarian rose",
+        "Milky notes",
+        "Oakmoss",
+        "Toffee",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Amber",
+        "Sugar cane",
+        "Vanilla",
+        "White musk",
+        "Woody notes"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.5",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

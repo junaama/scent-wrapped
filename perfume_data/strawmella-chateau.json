@@ -1,0 +1,55 @@
+{
+    "name": "Strawmella Château",
+    "brand": "Monkoku",
+    "release_year": "2025",
+    "description": "A new perfume byMonkokufor women and men, released in2025. The scent is fruity-gourmand. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a2/a2d7cc_strawmella-chateau-monkoku_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Gourmand",
+        "Synthetic",
+        "Sweet",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Caramel",
+        "Labdanum",
+        "Peach",
+        "Strawberry"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Ginger",
+        "Leather",
+        "Persian saffron",
+        "Rose"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Bourbon vanilla",
+        "Oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "16 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "15 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "21 Ratings"
+        },
+        "pricing": {
+            "score": "8.5",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {}
+}

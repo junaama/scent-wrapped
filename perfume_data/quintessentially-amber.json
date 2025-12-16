@@ -1,0 +1,113 @@
+{
+    "name": "Quintessentially Amber",
+    "brand": "Sultan Pasha Perfumes",
+    "release_year": "2025",
+    "description": "A new perfume bySultan Pasha Perfumesfor women and men, released in2025. The scent is resinous-oriental. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9e/9e3a74_quintessentially-amber-sultan-pasha-perfumes_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Oriental",
+        "Woody",
+        "Sweet",
+        "Spicy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.9",
+            "votes": "31 Ratings"
+        },
+        "durability": {
+            "score": "8.7",
+            "votes": "25 Ratings"
+        },
+        "sillage": {
+            "score": "8.1",
+            "votes": "24 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "25 Ratings"
+        },
+        "pricing": {
+            "score": "6.3",
+            "votes": "18 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Oriental",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Resinous",
+                "votes": 7
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Sugar Bowl",
+    "brand": "Superz.",
+    "release_year": "2025",
+    "description": "A new perfume bySuperz.for women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e2/e296dd_sugar-bowl-superz_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Macaron",
+        "Raspberry",
+        "Strawberry",
+        "Yogurt"
+    ],
+    "heart_notes": [
+        "Coconut",
+        "Crème brûlée",
+        "Suntan lotion"
+    ],
+    "base_notes": [
+        "Cashmere",
+        "Cream",
+        "Milk",
+        "Pineapple",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

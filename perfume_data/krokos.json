@@ -1,0 +1,136 @@
+{
+    "name": "Krokos",
+    "brand": "Florian Pontier",
+    "release_year": "2025",
+    "description": "A new perfume byFlorian Pontierfor women and men, released in2025. The scent is spicy-oriental. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7b/7bfc1c_krokos-florian-pontier_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Oriental",
+        "Leathery",
+        "Woody",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Pink pepper",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Iris",
+        "Leather",
+        "Passion fruit"
+    ],
+    "base_notes": [
+        "Oud",
+        "Patchouli",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "9 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "8.3",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "8.9",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Leathery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

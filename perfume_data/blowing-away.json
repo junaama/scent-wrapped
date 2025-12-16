@@ -1,0 +1,131 @@
+{
+    "name": "Blowing Away",
+    "brand": "Aholic",
+    "release_year": "2025",
+    "description": "A new perfume byAholicfor women and men, released in2025. The scent is leathery-fougèreartig. It is being marketed byGroupe Bogart.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/bf/bfba41_blowing-away-aholic_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Leathery",
+        "Fougère",
+        "Woody",
+        "Oriental",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Tobacco",
+        "Frankincense",
+        "Myrrh",
+        "Rum",
+        "Davana"
+    ],
+    "heart_notes": [
+        "Incense Fusion",
+        "Sandalwood",
+        "Jasmine",
+        "Iris",
+        "Leather"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Gaiac wood",
+        "Musk",
+        "Oud",
+        "Sugar"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "8.8",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fougère",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

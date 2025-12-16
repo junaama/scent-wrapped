@@ -1,0 +1,28 @@
+{
+    "name": "Romano",
+    "brand": "Black Swan Society",
+    "release_year": "2025",
+    "description": "A new perfume byBlack Swan Societyfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ca/ca66f3_romano-eau-de-parfum-black-swan-society_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Hay",
+        "Rosa centifolia"
+    ],
+    "heart_notes": [
+        "Ambrette seed",
+        "Rum"
+    ],
+    "base_notes": [
+        "Musk",
+        "Oak wood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

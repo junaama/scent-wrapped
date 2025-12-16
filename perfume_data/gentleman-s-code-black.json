@@ -1,0 +1,52 @@
+{
+    "name": "Gentleman's Code (Black)",
+    "brand": "Otto Kern",
+    "release_year": "2025",
+    "description": "A new perfume byOtto Kernfor men, released in2025. The scent is synthetic-sweet. It is being marketed byMäurer & Wirtz.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/33/33b988_gentleman-s-code-black-otto-kern_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Sweet",
+        "Spicy",
+        "Creamy",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Pineapple",
+        "Cardamom",
+        "Grapefruit"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Lavender",
+        "Mugwort"
+    ],
+    "base_notes": [
+        "Cistus",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.5",
+            "votes": "11 Ratings"
+        },
+        "durability": {
+            "score": "6.3",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "6.1",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "6.3",
+            "votes": "15 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {}
+}

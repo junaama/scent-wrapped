@@ -1,0 +1,28 @@
+{
+    "name": "Promise Intense",
+    "brand": "Jennifer Lopez",
+    "release_year": "2025",
+    "description": "A new perfume byJennifer Lopezfor women, released in2025. It is being marketed byDesigner Parfums.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/08/08017a_promise-intense-jennifer-lopez_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blackberry",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Orange blossom",
+        "Rose"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.3",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

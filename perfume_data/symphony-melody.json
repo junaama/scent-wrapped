@@ -1,0 +1,125 @@
+{
+    "name": "Symphony Melody",
+    "brand": "Le Falconé",
+    "release_year": "2025",
+    "description": "A new perfume byLe Falconéfor women and men, released in2025. The scent is citrusy-woody. It is being marketed byBeauty & Perfume International Factory LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2f/2f3df4_symphony-melody-le-falcone_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Woody",
+        "Fruity",
+        "Fresh",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Apple",
+        "Orange blossom",
+        "Raspberry",
+        "Violet"
+    ],
+    "heart_notes": [
+        "Iris",
+        "Jasmine",
+        "Lily of the valley",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedar",
+        "Cypress",
+        "Pine",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "5.8",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            }
+        ]
+    }
+}

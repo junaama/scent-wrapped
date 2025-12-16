@@ -1,0 +1,130 @@
+{
+    "name": "Flower Cherry Poppy",
+    "brand": "Kenzo",
+    "release_year": "2025",
+    "description": "A new perfume byKenzofor women, released in2025. The scent is floral-sweet. It is being marketed byLVMH.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/a9/a94a41_flower-cherry-poppy-kenzo_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Fruity",
+        "Fresh",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Black cherry",
+        "Strawberry"
+    ],
+    "heart_notes": [
+        "Damask rose",
+        "Water lily"
+    ],
+    "base_notes": [
+        "White musk",
+        "Virginia cedar wood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.7",
+            "votes": "40 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "29 Ratings"
+        },
+        "sillage": {
+            "score": "6.4",
+            "votes": "27 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "28 Ratings"
+        },
+        "pricing": {
+            "score": "6.9",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 11
+            },
+            {
+                "name": "Powdery",
+                "votes": 9
+            },
+            {
+                "name": "Fruity",
+                "votes": 11
+            },
+            {
+                "name": "Fresh",
+                "votes": 10
+            },
+            {
+                "name": "Floral",
+                "votes": 15
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 12
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 11
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 11
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

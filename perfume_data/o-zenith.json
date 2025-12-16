@@ -1,0 +1,135 @@
+{
+    "name": "Ô Zenith",
+    "brand": "Lancôme",
+    "release_year": "2025",
+    "description": "A new perfume byLancômefor women and men, released in2025. The scent is sweet-citrusy. It is being marketed byL'Oréal.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b3/b3d28e_o-zenith-lancome_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Citrus",
+        "Floral",
+        "Creamy",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Citrus notes"
+    ],
+    "heart_notes": [
+        "French jasmine absolute"
+    ],
+    "base_notes": [
+        "Monoï"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "51 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "40 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "39 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "39 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "26 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 21
+            },
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 22
+            },
+            {
+                "name": "Fruity",
+                "votes": 8
+            },
+            {
+                "name": "Fresh",
+                "votes": 7
+            },
+            {
+                "name": "Creamy",
+                "votes": 9
+            },
+            {
+                "name": "Floral",
+                "votes": 18
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 24
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 15
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 25
+            },
+            {
+                "name": "Spring",
+                "votes": 20
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 22
+            },
+            {
+                "name": "Sport",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 22
+            },
+            {
+                "name": "Night Out",
+                "votes": 9
+            },
+            {
+                "name": "Business",
+                "votes": 14
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

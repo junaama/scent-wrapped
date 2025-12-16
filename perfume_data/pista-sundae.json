@@ -1,0 +1,50 @@
+{
+    "name": "Pista Sundae",
+    "brand": "Fragrance World",
+    "release_year": "2025",
+    "description": "A new perfume byFragrance Worldfor women, released in2025. The scent is synthetic-gourmand. It is being marketed byFragrance World Trading LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/eb/ebb7a4_pista-sundae-fragrance-world_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Gourmand",
+        "Fresh",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Hazelnut",
+        "Pistachio",
+        "Rum"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Lily of the valley",
+        "Pear",
+        "Peony"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Sandalwood",
+        "Sweets",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

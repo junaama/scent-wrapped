@@ -1,0 +1,125 @@
+{
+    "name": "Sweet Dates",
+    "brand": "Jawhara / جوهرة",
+    "release_year": "2025",
+    "description": "A new perfume byJawhara / جوهرةfor women and men, released in2025. The scent is sweet-gourmand. It is being marketed byCoty.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/2f/2f5919_sweet-dates-jawhara_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Fruity",
+        "Oriental",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Vanilla",
+        "Amyris",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Medjoul date",
+        "Davana",
+        "Patchouli"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Virginia cedar wood",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "29 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "26 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "23 Ratings"
+        },
+        "bottle": {
+            "score": "6.9",
+            "votes": "29 Ratings"
+        },
+        "pricing": {
+            "score": "8.7",
+            "votes": "23 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Oriental",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

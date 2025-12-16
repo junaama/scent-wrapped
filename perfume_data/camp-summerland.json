@@ -1,0 +1,153 @@
+{
+    "name": "Camp Summerland",
+    "brand": "Folkwinds",
+    "release_year": "2025",
+    "description": "A new and limited perfume byFolkwindsfor women and men, released in2025. The scent is sweet-fruity. The production was apparently discontinued.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/d6/d6cd66_camp-summerland-folkwinds_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Powdery",
+        "Green",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Peach",
+        "Rainier cherry",
+        "Red grapefruit",
+        "Citron"
+    ],
+    "heart_notes": [
+        "Deer musk",
+        "Iris",
+        "Osmanthus",
+        "Ivy",
+        "Sweet acacia",
+        "Thai oud"
+    ],
+    "base_notes": [
+        "Amber",
+        "Grass",
+        "Resins"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "14 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "13 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "13 Ratings"
+        },
+        "bottle": {
+            "score": "9.0",
+            "votes": "15 Ratings"
+        },
+        "pricing": {
+            "score": "6.5",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

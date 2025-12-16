@@ -1,0 +1,105 @@
+{
+    "name": "Faizal Privée x elkhaldi - AmberChic",
+    "brand": "Faizal Privée",
+    "release_year": "2025",
+    "description": "A new perfume byFaizal Privéefor women and men, released in2025. The scent is animal-sweet. Projection and longevity are above-average. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/79/799fbd_faizal-privee-x-elkhaldi-amberchic-faizal-privee_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Animal",
+        "Sweet",
+        "Green",
+        "Spicy",
+        "Floral"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.7",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "8.7",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "8.7",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Radiant",
+    "brand": "Being",
+    "release_year": "2025",
+    "description": "A new perfume byBeingfor women and men, released in2025. It is being marketed byTFS Buying Limited.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Angelica",
+        "Bergamot",
+        "Juniper berry",
+        "Lemon",
+        "Neroli",
+        "Orange",
+        "Peppermint",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lavender",
+        "Orange blossom",
+        "Rosemary"
+    ],
+    "base_notes": [
+        "Ambrette seed",
+        "Musk",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

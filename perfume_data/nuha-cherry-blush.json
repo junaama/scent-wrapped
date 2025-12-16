@@ -1,0 +1,138 @@
+{
+    "name": "Nuha Cherry Blush",
+    "brand": "Khadlaj",
+    "release_year": "2025",
+    "description": "A new perfume byKhadlajfor women, released in2025. The scent is sweet-synthetic. It is being marketed byKhadlaj Perfumes LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/70/70dccb_nuha-cherry-blush-khadlaj_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Synthetic",
+        "Fruity",
+        "Gourmand",
+        "Floral"
+    ],
+    "top_notes": [
+        "Cherry",
+        "Rum",
+        "Wine"
+    ],
+    "heart_notes": [
+        "Raspberry",
+        "Cedarwood",
+        "Jasmine",
+        "Orris root",
+        "Rose"
+    ],
+    "base_notes": [
+        "Labdanum",
+        "Musky notes",
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "9 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Seraphim",
+    "brand": "Sherwood",
+    "release_year": "2025",
+    "description": "A new and limited perfume bySherwoodfor women and men, released in2025.CompareLimited",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Bulgarian lavender",
+        "Cardamom",
+        "Ceylonese cinnamon",
+        "Clove",
+        "Egyptian geranium",
+        "Italian bergamot",
+        "Kashmiri saffron"
+    ],
+    "heart_notes": [
+        "Birch tar",
+        "Castoreum absolute",
+        "Cypriol",
+        "Jasminum auriculatum",
+        "Leather",
+        "Peach",
+        "Raspberry",
+        "Spanish labdanum absolute",
+        "Turkish rose absolute",
+        "Violet leaf absolute"
+    ],
+    "base_notes": [
+        "Amber",
+        "Beeswax absolute",
+        "Benzoin",
+        "Bourbon vanilla",
+        "East Indian oud",
+        "Frankincense absolute",
+        "Haitian vetiver",
+        "Himalaya cedar",
+        "Mysore sandalwood",
+        "Tobacco absolute",
+        "Tonka bean absolute"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Divinus",
+    "brand": "Parfüm Haus",
+    "release_year": "2025",
+    "description": "A new perfume byParfüm Hausfor women and men, released in2025. The scent is woody-powdery. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6d/6dd0ae_divinus-parfum-haus_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Powdery",
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Caraway",
+        "Lemon",
+        "Pepper"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Orange",
+        "Patchouli",
+        "Tobacco"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Cedarwood",
+        "Musk",
+        "Oud",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "8.3",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

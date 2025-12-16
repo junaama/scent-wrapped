@@ -1,0 +1,22 @@
+{
+    "name": "Hey, Bouquet",
+    "brand": "Fenty",
+    "release_year": "2025",
+    "description": "A new perfume byFentyfor women, released in2025. It is being marketed byLVMH.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/96/96a8aa_hey-bouquet-fenty_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Orange zest",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Rose"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,133 @@
+{
+    "name": "0125",
+    "brand": "Prin",
+    "release_year": "2025",
+    "description": "A new and limited perfume byPrinfor women and men, released in2025. The scent is smoky-animal. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/39/3946ad_0125-prin_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Animal",
+        "Leathery",
+        "Woody",
+        "Resinous"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "15 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "12 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 4
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Resinous",
+                "votes": 4
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

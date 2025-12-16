@@ -1,0 +1,161 @@
+{
+    "name": "Speachless",
+    "brand": "Lorenzo Pazzaglia",
+    "release_year": "2025",
+    "description": "A new perfume byLorenzo Pazzagliafor women and men, released in2025. The scent is sweet-fruity.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e5/e5fb0f_speachless-lorenzo-pazzaglia_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Floral",
+        "Fresh",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Lychee",
+        "Peach",
+        "Apple",
+        "Citron zest",
+        "Ginger",
+        "Lime",
+        "Pink grapefruit",
+        "Bergamot",
+        "Green tea",
+        "Lemon",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Nectarine",
+        "Osmanthus",
+        "Peach blossom",
+        "Clary sage",
+        "Jasmine",
+        "Magnolia",
+        "Rose",
+        "Rosemary",
+        "Saturn peach",
+        "Heliotrope",
+        "Lavender",
+        "Vervain",
+        "Violet",
+        "Absinth"
+    ],
+    "base_notes": [
+        "Elemi resin",
+        "Ambrette seed",
+        "Patchouli",
+        "Sandalwood",
+        "White musk",
+        "Vetiver",
+        "Cannabis",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "74 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "71 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "70 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "65 Ratings"
+        },
+        "pricing": {
+            "score": "6.9",
+            "votes": "57 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 8
+            },
+            {
+                "name": "Synthetic",
+                "votes": 9
+            },
+            {
+                "name": "Sweet",
+                "votes": 21
+            },
+            {
+                "name": "Green",
+                "votes": 7
+            },
+            {
+                "name": "Fruity",
+                "votes": 19
+            },
+            {
+                "name": "Fresh",
+                "votes": 12
+            },
+            {
+                "name": "Floral",
+                "votes": 14
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 17
+            },
+            {
+                "name": "Feminine",
+                "votes": 18
+            },
+            {
+                "name": "Modern",
+                "votes": 17
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 12
+            },
+            {
+                "name": "Summer",
+                "votes": 22
+            },
+            {
+                "name": "Spring",
+                "votes": 19
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 11
+            },
+            {
+                "name": "Leisure",
+                "votes": 20
+            },
+            {
+                "name": "Night Out",
+                "votes": 13
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 11
+            }
+        ]
+    }
+}

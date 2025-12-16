@@ -1,0 +1,134 @@
+{
+    "name": "Bois Obscur",
+    "brand": "Byredo",
+    "release_year": "2025",
+    "description": "A new perfume byByredofor women and men, released in2025. The scent is woody-spicy. It is being marketed byPuig.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7f/7fa924_bois-obscur-byredo_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Spicy",
+        "Resinous",
+        "Smoky",
+        "Floral"
+    ],
+    "top_notes": [
+        "Saffron",
+        "Eucalyptus",
+        "Papyrus"
+    ],
+    "heart_notes": [
+        "Tuberose absolute",
+        "Oud",
+        "Jasmine absolute"
+    ],
+    "base_notes": [
+        "Labdanum",
+        "Patchouli",
+        "Mineral amber",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "18 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "14 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "13 Ratings"
+        },
+        "pricing": {
+            "score": "4.7",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 3
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Resinous",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

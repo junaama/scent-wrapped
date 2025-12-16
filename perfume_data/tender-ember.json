@@ -1,0 +1,34 @@
+{
+    "name": "Tender Ember",
+    "brand": "Casa37",
+    "release_year": "2025",
+    "description": "A new perfume byCasa37for women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9e/9e5459_tender-ember-casa37_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cedar",
+        "Leather",
+        "Orange",
+        "Smoke",
+        "Vanilla"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Iris",
+        "Vetiver"
+    ],
+    "base_notes": [
+        "Frankincense",
+        "Lavender",
+        "Patchouli",
+        "Sandalwood",
+        "Violet"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

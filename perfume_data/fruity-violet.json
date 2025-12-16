@@ -1,0 +1,33 @@
+{
+    "name": "Fruity Violet",
+    "brand": "Dossier",
+    "release_year": "2025",
+    "description": "A new perfume byDossierfor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3f/3fa5c2_fruity-violet-dossier_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Pink pepper",
+        "Strawberry",
+        "Blackcurrant",
+        "Peach"
+    ],
+    "heart_notes": [
+        "Blond woods",
+        "Iris",
+        "Jasmine",
+        "Violet"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Caramel",
+        "Oakmoss",
+        "Honey"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

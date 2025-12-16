@@ -1,0 +1,127 @@
+{
+    "name": "Rose de Soleil Éclat",
+    "brand": "Riiffs",
+    "release_year": "2025",
+    "description": "A new perfume byRiiffsfor women, released in2025. The scent is sweet-green. It is being marketed byAl Fakhar Perfumes and Cosmetics Trading.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/23/236323_rose-de-soleil-eclat-riiffs_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Green",
+        "Citrus",
+        "Spicy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Mango puree",
+        "Pink pepper",
+        "Ginger",
+        "Sicilian lemon",
+        "Wild berries"
+    ],
+    "heart_notes": [
+        "Coumarin",
+        "Jasmine",
+        "Tonka bean",
+        "Vanilla",
+        "Woody notes"
+    ],
+    "base_notes": [
+        "Amber",
+        "Oud",
+        "Vetiver",
+        "White musk",
+        "Cypriol"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Ma Belle Fleur",
+    "brand": "Lawrence",
+    "release_year": "2025",
+    "description": "A new perfume byLawrencefor women, released in2025. It is being marketed byFragrancy Inc..Compare",
+    "image_url": "https://media.parfumo.com/perfumes/29/2906f8_ma-belle-fleur-parfum-lawrence_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cattleya orchid"
+    ],
+    "heart_notes": [
+        "Lily of the valley"
+    ],
+    "base_notes": [
+        "Apple",
+        "Blackcurrant"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

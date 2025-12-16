@@ -1,0 +1,25 @@
+{
+    "name": "Cornaline",
+    "brand": "Glamira",
+    "release_year": "2025",
+    "description": "A new perfume byGlamirafor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/60/60beb6_cornaline-glamira_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Grapefruit",
+        "Rose oxide"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Rose",
+        "Violet"
+    ],
+    "base_notes": [
+        "Musk",
+        "Patchouli",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

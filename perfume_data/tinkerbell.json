@@ -1,0 +1,27 @@
+{
+    "name": "Tinkerbell",
+    "brand": "Grethe",
+    "release_year": "2025",
+    "description": "A new perfume byGrethefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/98/98ab5d_tinkerbell-grethe_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cardamom",
+        "Elemi resin",
+        "Frankincense"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Rose",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Benzoin",
+        "Leather",
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

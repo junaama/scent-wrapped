@@ -1,0 +1,151 @@
+{
+    "name": "Autumn 25",
+    "brand": "Ffern",
+    "release_year": "2025",
+    "description": "A new and limited perfume byFfernfor women and men, released in2025. The scent is spicy-floral.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/fa/fad3b6_autumn-25-ffern_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Floral",
+        "Fresh",
+        "Fruity",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Cognac",
+        "La Réunion pink pepper",
+        "Sicilian lemon zest",
+        "Somalian frankincense",
+        "Crab apple",
+        "Nigerian ginger",
+        "Egyptian chamomile",
+        "Paraguayan petigrain",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Madagascan ylang-ylang",
+        "Indian tuberose",
+        "Calabrian bergamot peel",
+        "Tunisian neroli"
+    ],
+    "base_notes": [
+        "Indian jasminum grandiflorum",
+        "Virginia cedar",
+        "Peruvian ambrette seed",
+        "French oakmoss",
+        "Siam benzoin",
+        "Spanish cistus"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "17 Ratings"
+        },
+        "durability": {
+            "score": "6.2",
+            "votes": "12 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "13 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

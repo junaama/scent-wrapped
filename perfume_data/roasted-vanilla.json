@@ -1,0 +1,109 @@
+{
+    "name": "Roasted Vanilla",
+    "brand": "Loewe",
+    "release_year": "2025",
+    "description": "A new perfume byLoewefor women and men, released in2025. The scent is sweet-spicy. The longevity is above-average. It is being marketed byLVMH.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/bb/bb84c8_roasted-vanilla-loewe_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Woody",
+        "Smoky",
+        "Resinous"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "20 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "7.9",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "8.9",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Smoky",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

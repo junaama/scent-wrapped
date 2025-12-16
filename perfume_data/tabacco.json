@@ -1,0 +1,30 @@
+{
+    "name": "Tabacco",
+    "brand": "Eredi Zucca",
+    "release_year": "2025",
+    "description": "A new perfume byEredi Zuccafor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7d/7d474c_tabacco-eredi-zucca_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Calabrian bergamot",
+        "Geranium",
+        "Sicilian orange"
+    ],
+    "heart_notes": [
+        "Ceylonese cinnamon",
+        "Patchouli",
+        "Tobacco"
+    ],
+    "base_notes": [
+        "Labdanum",
+        "Sandalwood",
+        "Tolu balm"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

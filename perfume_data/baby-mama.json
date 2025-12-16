@@ -1,0 +1,24 @@
+{
+    "name": "Baby Mama",
+    "brand": "The Dua Brand",
+    "release_year": "2025",
+    "description": "A new perfume byThe Dua Brandfor women and men, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/d4/d4f16d_baby-mama-the-dua-brand-dua-fragrances_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Baby powder"
+    ],
+    "heart_notes": [
+        "Iris"
+    ],
+    "base_notes": [
+        "Musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.3",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

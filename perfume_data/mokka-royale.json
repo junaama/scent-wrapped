@@ -1,0 +1,113 @@
+{
+    "name": "Mokka Royale",
+    "brand": "Faizal Privée",
+    "release_year": "2025",
+    "description": "A new perfume byFaizal Privéefor women and men, released in2025. The scent is spicy-oriental. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e1/e1373c_mokka-royale-faizal-privee_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Oriental",
+        "Woody",
+        "Floral",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Mocha",
+        "Bulgarian rose",
+        "Sea salt"
+    ],
+    "heart_notes": [
+        "Black pepper",
+        "Cambodian oud",
+        "Aldehydes"
+    ],
+    "base_notes": [
+        "Musk",
+        "Smoked wood",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

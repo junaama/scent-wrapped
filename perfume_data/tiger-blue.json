@@ -1,0 +1,32 @@
+{
+    "name": "Tiger Blue",
+    "brand": "Bortnikoff",
+    "release_year": "2025",
+    "description": "A new perfume byBortnikofffor women and men, released in2025. The longevity is above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/6e/6ed636_tiger-blue-bortnikoff_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Ginger",
+        "Grapefruit",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Labdanum",
+        "Magnolia",
+        "Violet"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Benzoin",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.3",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

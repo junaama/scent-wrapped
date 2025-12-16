@@ -1,0 +1,133 @@
+{
+    "name": "Coffea",
+    "brand": "Jil Sander",
+    "release_year": "2025",
+    "description": "A new perfume byJil Sanderfor women and men, released in2025. The scent is powdery-gourmand. It is being marketed byCoty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/68/684181_coffea-jil-sander_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Powdery",
+        "Gourmand",
+        "Woody",
+        "Spicy",
+        "Sweet"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "14 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "14 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "6.5",
+            "votes": "25 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Powdery",
+                "votes": 8
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 6
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "name": "1919",
+    "brand": "Aquaflor",
+    "release_year": "2025",
+    "description": "A new and limited perfume byAquaflorfor women and men, released in2025. The scent is spicy-woody. The longevity is above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/c4/c4d4ff_1919-aquaflor_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Citrus",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Vermouth",
+        "Angelica",
+        "Cardamom",
+        "Citrus fruits"
+    ],
+    "heart_notes": [
+        "Rhubarb",
+        "Juniper",
+        "Saffron",
+        "Spices"
+    ],
+    "base_notes": [
+        "Tobacco",
+        "Tonka bean",
+        "Amyris",
+        "Cashmeran",
+        "Myrrh"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "7.9",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

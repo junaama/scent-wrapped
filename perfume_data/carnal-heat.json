@@ -1,0 +1,132 @@
+{
+    "name": "Carnal Heat",
+    "brand": "Aholic",
+    "release_year": "2025",
+    "description": "A new perfume byAholicfor women and men, released in2025. The scent is sweet-synthetic. It is being marketed byGroupe Bogart.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ec/ec7f7e_carnal-heat-aholic_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Synthetic",
+        "Citrus",
+        "Powdery",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Cardamom",
+        "Coconut",
+        "Solar note"
+    ],
+    "heart_notes": [
+        "Frangipani",
+        "Jasminum grandiflorum",
+        "Mugane™",
+        "Orange blossom",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Bourbon vanilla",
+        "Musk",
+        "Tuberose absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

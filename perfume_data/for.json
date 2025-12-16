@@ -1,0 +1,31 @@
+{
+    "name": "for",
+    "brand": "Osaji",
+    "release_year": "2025",
+    "description": "A new perfume byOsajifor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4f/4ff8bc_for-osaji_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Hinoki cypress",
+        "Orange",
+        "Rosemary"
+    ],
+    "heart_notes": [
+        "Cypress",
+        "Eucalyptus",
+        "Hinoki wood"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Sandalwood",
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

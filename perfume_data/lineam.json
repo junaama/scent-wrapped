@@ -1,0 +1,110 @@
+{
+    "name": "Lineam",
+    "brand": "LM Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byLM Parfumsfor women and men, released in2025. The scent is sweet-gourmand. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8f/8f7014_lineam-lm-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Creamy",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Candied fruits",
+        "Citron",
+        "Praliné",
+        "Rum"
+    ],
+    "heart_notes": [
+        "Floral notes",
+        "Myrrh",
+        "Popcorn"
+    ],
+    "base_notes": [
+        "Bourbon vanilla absolute",
+        "Musk",
+        "Siam benzoin"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "13 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "7.9",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

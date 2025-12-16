@@ -1,0 +1,43 @@
+{
+    "name": "Cruelle",
+    "brand": "Wesker",
+    "release_year": "2025",
+    "description": "A new perfume byWeskerfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/30/3017be_cruelle-wesker_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blackberry",
+        "Lilac",
+        "Violet"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Iris",
+        "Plum",
+        "Tobacco"
+    ],
+    "base_notes": [
+        "Labdanum",
+        "Oud",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.7",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {}
+}

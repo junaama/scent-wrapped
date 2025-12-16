@@ -1,0 +1,33 @@
+{
+    "name": "Orange Fruit",
+    "brand": "Onix",
+    "release_year": "2025",
+    "description": "A new perfume byOnixfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/83/83d008_orange-fruit-onix_1200.jpg?width=240&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blackcurrant",
+        "Grapefruit",
+        "Green notes",
+        "Mandarin orange",
+        "Orange",
+        "Strawberry"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lily of the valley",
+        "Rose",
+        "Strawberry",
+        "Violet"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Musk",
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

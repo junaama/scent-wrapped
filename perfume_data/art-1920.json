@@ -1,0 +1,152 @@
+{
+    "name": "Art 1920",
+    "brand": "Bois 1920",
+    "release_year": "2025",
+    "description": "A new perfume byBois 1920for women and men, released in2025. The scent is sweet-fruity. Projection and longevity are above-average. It is being marketed byArnoway.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/39/3967e4_art-1920-bois-1920_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Spicy",
+        "Gourmand",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Grapefruit",
+        "Violet leaf",
+        "Apple",
+        "Blackberry",
+        "Blackcurrant",
+        "Melon",
+        "Peach",
+        "Raspberry",
+        "Green tea",
+        "Guava",
+        "Mango",
+        "Passion fruit",
+        "Plum",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Jasmine sambac",
+        "Lily of the valley",
+        "Rose",
+        "Iris",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Cedarwood",
+        "White musk",
+        "Leather",
+        "Oud",
+        "Labdanum",
+        "Sandalwood",
+        "Siam benzoin",
+        "Tonka bean",
+        "Vanilla",
+        "Frankincense",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "8.1",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "16 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

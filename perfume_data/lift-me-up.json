@@ -1,0 +1,113 @@
+{
+    "name": "Lift Me Up",
+    "brand": "Initio",
+    "release_year": "2025",
+    "description": "A new perfume byInitiofor women and men, released in2025. The scent is floral-creamy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/0f/0fc5cf_lift-me-up-initio_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Creamy",
+        "Sweet",
+        "Fresh",
+        "Woody"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "21 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "18 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "18 Ratings"
+        },
+        "bottle": {
+            "score": "8.6",
+            "votes": "20 Ratings"
+        },
+        "pricing": {
+            "score": "5.9",
+            "votes": "17 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            }
+        ]
+    }
+}

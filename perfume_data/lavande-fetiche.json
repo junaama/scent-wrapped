@@ -1,0 +1,117 @@
+{
+    "name": "Lavande Fétiche",
+    "brand": "Christian Louboutin",
+    "release_year": "2025",
+    "description": "A new perfume byChristian Louboutinfor women and men, released in2025. The scent is floral-leathery. The longevity is above-average. It is being marketed byPuig.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/a5/a5b0b7_lavande-fetiche-christian-louboutin_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Leathery",
+        "Spicy",
+        "Fresh",
+        "Woody"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "12 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Leathery",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 6
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

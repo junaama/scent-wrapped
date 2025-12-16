@@ -1,0 +1,133 @@
+{
+    "name": "Stormy Weather",
+    "brand": "Lush",
+    "release_year": "2025",
+    "description": "A new perfume byLushfor women and men, released in2025. The scent is powdery-fougèreartig.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/21/211868_stormy-weather-lush-cosmetics-to-go_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Powdery",
+        "Fougère",
+        "Green",
+        "Fresh",
+        "Chypre"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "9 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "5.9",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Fougère",
+                "votes": 3
+            },
+            {
+                "name": "Chypre",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            }
+        ]
+    }
+}

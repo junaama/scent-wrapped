@@ -1,0 +1,35 @@
+{
+    "name": "Amalfi",
+    "brand": "D'Qar",
+    "release_year": "2025",
+    "description": "A new perfume byD'Qarfor women and men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Basil",
+        "Bergamot",
+        "Blackcurrant bud",
+        "Grapefruit",
+        "Lemon",
+        "Mandarin orange",
+        "Spearmint",
+        "Tarragon"
+    ],
+    "heart_notes": [
+        "Black pepper",
+        "Clary sage",
+        "Coriander seed",
+        "Jasmine",
+        "Orange blossom",
+        "Shiso"
+    ],
+    "base_notes": [
+        "Amber",
+        "Civet",
+        "Labdanum",
+        "Musk",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

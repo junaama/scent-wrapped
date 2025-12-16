@@ -1,0 +1,37 @@
+{
+    "name": "80th",
+    "brand": "Saponificio Varesino",
+    "release_year": "2025",
+    "description": "A new perfume bySaponificio Varesinofor men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/78/7810fc_80th-aftershave-saponificio-varesino_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Grapefruit",
+        "Lemon",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Cashmere wood",
+        "Gaiac wood",
+        "Lavender",
+        "Patchouli"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Cedarwood",
+        "Myrrh",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

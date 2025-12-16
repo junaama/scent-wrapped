@@ -1,0 +1,40 @@
+{
+    "name": "Bare Sueded Vanilla",
+    "brand": "Victoria's Secret",
+    "release_year": "2025",
+    "description": "A new perfume byVictoria's Secretfor women, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/d8/d80cf8_bare-sueded-vanilla-fragrance-mist-victoria-s-secret_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Sandalwood",
+        "Spicy notes",
+        "Woody notes"
+    ],
+    "base_notes": [
+        "Vanilla milk",
+        "Musk",
+        "Suede"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "5.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "4.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

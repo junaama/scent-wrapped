@@ -1,0 +1,118 @@
+{
+    "name": "Biscotti Melon Misk",
+    "brand": "Khadlaj",
+    "release_year": "2025",
+    "description": "A new perfume byKhadlajfor women, released in2025. The scent is fruity-gourmand. It is being marketed byKhadlaj Perfumes LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f0/f07f2a_biscotti-melon-misk-khadlaj_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Gourmand",
+        "Sweet",
+        "Animal",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Melon",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Coconut milk",
+        "Melon"
+    ],
+    "base_notes": [
+        "Bourbon vanilla",
+        "Honey"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "6.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

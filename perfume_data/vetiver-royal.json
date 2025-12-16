@@ -1,0 +1,114 @@
+{
+    "name": "Vétiver Royal",
+    "brand": "L'Atelier Parfum",
+    "release_year": "2025",
+    "description": "A new perfume byL'Atelier Parfumfor women and men, released in2025. The scent is spicy-oriental. Projection and longevity are above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/f2/f29781_vetiver-royal-l-atelier-parfum_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Oriental",
+        "Woody",
+        "Earthy",
+        "Floral"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Chili",
+        "Elemi resin"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Red berries",
+        "Rose",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Fixyver",
+        "Labdanum",
+        "Moss",
+        "Patchouli",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

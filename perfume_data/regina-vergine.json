@@ -1,0 +1,129 @@
+{
+    "name": "Regina Vergine",
+    "brand": "Cristian Cavagna",
+    "release_year": "2025",
+    "description": "A new perfume byCristian Cavagnafor women and men, released in2025. The scent is smoky-sweet. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e5/e5e2f0_regina-vergine-cristian-cavagna_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Sweet",
+        "Green",
+        "Spicy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Banana leaf",
+        "Bergamot",
+        "Ginger"
+    ],
+    "heart_notes": [
+        "Beeswax",
+        "Hyacinth",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Gaiac wood",
+        "Benzoin",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "14 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "14 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "13 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

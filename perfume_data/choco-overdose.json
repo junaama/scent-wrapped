@@ -1,0 +1,122 @@
+{
+    "name": "Choco Overdose",
+    "brand": "Lattafa",
+    "release_year": "2025",
+    "description": "A new perfume byLattafafor women and men, released in2025. The scent is sweet-gourmand. It is being marketed byLattafa Perfumes Industries LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/bb/bbae75_choco-overdose-lattafa_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Synthetic",
+        "Creamy",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Dark chocolate fudge"
+    ],
+    "heart_notes": [
+        "Cocoa powder",
+        "Cupcake"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Caramel",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "19 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "13 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "25 Ratings"
+        },
+        "pricing": {
+            "score": "7.5",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

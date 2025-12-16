@@ -1,0 +1,125 @@
+{
+    "name": "Gilded Labdanum",
+    "brand": "Sentire",
+    "release_year": "2025",
+    "description": "A new and limited perfume bySentirefor women and men, released in2025. The scent is floral-woody. The longevity is above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/92/927fd2_gilded-labdanum-sentire_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Woody",
+        "Spicy",
+        "Sweet",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Cumin",
+        "Honey",
+        "Immortelle"
+    ],
+    "heart_notes": [
+        "Ylang-ylang",
+        "Beeswax absolute",
+        "Frankincense",
+        "May rose"
+    ],
+    "base_notes": [
+        "Labdanum",
+        "Benzoin",
+        "Tolu balm",
+        "Atlas cedar",
+        "Mysore sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.2",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "9.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "9.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

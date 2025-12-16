@@ -1,0 +1,24 @@
+{
+    "name": "Bondi",
+    "brand": "Asateer",
+    "release_year": "2025",
+    "description": "A new perfume byAsateerfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/06/060f6c_bondi-asateer_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Apple",
+        "Bergamot",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Red fruits",
+        "Violet"
+    ],
+    "base_notes": [
+        "Patchouli",
+        "Praliné"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

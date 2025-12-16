@@ -1,0 +1,131 @@
+{
+    "name": "Mandarine Fauve",
+    "brand": "Atelier Cologne",
+    "release_year": "2025",
+    "description": "A new perfume byAtelier Colognefor women and men, released in2025. The scent is citrusy-fresh. It is being marketed byL'Oréal.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/95/954675-mandarine-fauve-atelier-cologne_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Spicy",
+        "Green",
+        "Woody"
+    ],
+    "top_notes": [
+        "Madagascan mandarin orange"
+    ],
+    "heart_notes": [
+        "Ginger"
+    ],
+    "base_notes": [
+        "Balsam fir"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "31 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "27 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "25 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "34 Ratings"
+        },
+        "pricing": {
+            "score": "5.4",
+            "votes": "18 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 13
+            },
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Green",
+                "votes": 7
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 10
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 12
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 8
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 12
+            },
+            {
+                "name": "Spring",
+                "votes": 11
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 11
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 10
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

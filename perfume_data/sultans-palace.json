@@ -1,0 +1,28 @@
+{
+    "name": "Sultans Palace",
+    "brand": "Faizal Privée",
+    "release_year": "2025",
+    "description": "A new perfume byFaizal Privéefor women and men, released in2025. The longevity is above-average.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Jasmine",
+        "Saffron",
+        "Violet"
+    ],
+    "heart_notes": [
+        "Egyptian jasmine absolute",
+        "Indian oud"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

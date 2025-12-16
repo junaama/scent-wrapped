@@ -1,0 +1,45 @@
+{
+    "name": "Pompelmo Pepe",
+    "brand": "Teatro Fragranze Uniche",
+    "release_year": "2025",
+    "description": "A new perfume byTeatro Fragranze Unichefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/98/98578b_pompelmo-pepe-teatro-fragranze-uniche_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Black pepper",
+        "Cedar bark",
+        "Grapefruit",
+        "Lemon",
+        "Pink pepper",
+        "Yuzu"
+    ],
+    "heart_notes": [
+        "Lily of the valley",
+        "Rose"
+    ],
+    "base_notes": [
+        "Oakmoss",
+        "Patchouli",
+        "Sandalwood",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "8 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {}
+}

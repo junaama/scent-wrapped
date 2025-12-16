@@ -1,0 +1,39 @@
+{
+    "name": "Matcha Irozi",
+    "brand": "Élixir Privé",
+    "release_year": "2025",
+    "description": "A new perfume byÉlixir Privéfor women and men, released in2025. The scent is floral-woody. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d1/d1cb09_matcha-irozi-elixir-prive_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Woody",
+        "Citrus",
+        "Green",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Citron",
+        "Italian bergamot",
+        "South African buchu"
+    ],
+    "heart_notes": [
+        "Matcha",
+        "Chinese eucalyptus",
+        "Egyptian geranium",
+        "Rose",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sandalwood",
+        "White amber"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

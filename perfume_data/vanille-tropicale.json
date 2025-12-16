@@ -1,0 +1,133 @@
+{
+    "name": "Vanille Tropicale",
+    "brand": "Overose",
+    "release_year": "2025",
+    "description": "A new perfume byOverosefor women and men, released in2025. The scent is sweet-creamy.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/ea/eafcb6_vanille-tropicale-overose_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Creamy",
+        "Fruity",
+        "Fresh",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Coconut shell",
+        "Macadamia milk",
+        "Suriname cherry"
+    ],
+    "heart_notes": [
+        "Ambrette seed",
+        "Brown sugar",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Bourbon vanilla absolute",
+        "Salted caramel",
+        "Sumatran benzoin"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.3",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "9.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

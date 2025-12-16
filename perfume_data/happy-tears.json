@@ -1,0 +1,39 @@
+{
+    "name": "Happy Tears",
+    "brand": "5 Sens",
+    "release_year": "2025",
+    "description": "A new perfume by5 Sensfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/fb/fb1964_happy-tears-5-sens_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Mandarin orange",
+        "Orange blossom"
+    ],
+    "heart_notes": [
+        "Jasmine sambac",
+        "Vanilla",
+        "White peach"
+    ],
+    "base_notes": [
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.4",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "6.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

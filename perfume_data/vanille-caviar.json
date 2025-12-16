@@ -1,0 +1,138 @@
+{
+    "name": "Vanille Caviar",
+    "brand": "bdk Parfums",
+    "release_year": "2025",
+    "description": "A new perfume bybdk Parfumsfor women and men, released in2025. The scent is spicy-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d5/d5fbb1_vanille-caviar-bdk-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Sweet",
+        "Smoky",
+        "Resinous",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Calamus",
+        "Blackcurrant bud"
+    ],
+    "heart_notes": [
+        "Vanilla",
+        "Cocoa",
+        "Osmanthus absolute"
+    ],
+    "base_notes": [
+        "Peru balsam",
+        "Bourbon vanilla absolute",
+        "Bourbon vanilla CO2",
+        "Labdanum"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.9",
+            "votes": "97 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "80 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "78 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "83 Ratings"
+        },
+        "pricing": {
+            "score": "5.9",
+            "votes": "61 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 26
+            },
+            {
+                "name": "Sweet",
+                "votes": 21
+            },
+            {
+                "name": "Smoky",
+                "votes": 16
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Resinous",
+                "votes": 15
+            },
+            {
+                "name": "Gourmand",
+                "votes": 10
+            },
+            {
+                "name": "Creamy",
+                "votes": 8
+            },
+            {
+                "name": "Animal",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 23
+            },
+            {
+                "name": "Feminine",
+                "votes": 26
+            },
+            {
+                "name": "Modern",
+                "votes": 19
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 26
+            },
+            {
+                "name": "Fall",
+                "votes": 28
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 13
+            },
+            {
+                "name": "Leisure",
+                "votes": 20
+            },
+            {
+                "name": "Night Out",
+                "votes": 20
+            },
+            {
+                "name": "Business",
+                "votes": 8
+            },
+            {
+                "name": "Evening",
+                "votes": 26
+            }
+        ]
+    }
+}

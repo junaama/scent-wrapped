@@ -1,0 +1,129 @@
+{
+    "name": "Orange Crush",
+    "brand": "Fugazzi",
+    "release_year": "2025",
+    "description": "A new perfume byFugazzifor women and men, released in2025. The scent is fruity-citrusy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e4/e46ec9_orange-crush-extrait-de-parfum-fugazzi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Citrus",
+        "Fresh",
+        "Synthetic",
+        "Sweet"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "64 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "55 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "56 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "52 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "40 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 16
+            },
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 13
+            },
+            {
+                "name": "Sweet",
+                "votes": 13
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 19
+            },
+            {
+                "name": "Fresh",
+                "votes": 15
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 16
+            },
+            {
+                "name": "Feminine",
+                "votes": 18
+            },
+            {
+                "name": "Modern",
+                "votes": 18
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 20
+            },
+            {
+                "name": "Spring",
+                "votes": 19
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 18
+            },
+            {
+                "name": "Sport",
+                "votes": 9
+            },
+            {
+                "name": "Leisure",
+                "votes": 21
+            },
+            {
+                "name": "Night Out",
+                "votes": 9
+            },
+            {
+                "name": "Business",
+                "votes": 16
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

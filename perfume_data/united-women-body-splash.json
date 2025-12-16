@@ -1,0 +1,25 @@
+{
+    "name": "United Women",
+    "brand": "s.Oliver",
+    "release_year": "2025",
+    "description": "A new perfume bys.Oliverfor women, released in2025. It is being marketed byMäurer & Wirtz.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Mandarin orange",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lily of the valley",
+        "Rose"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Musk",
+        "Cashmere wood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

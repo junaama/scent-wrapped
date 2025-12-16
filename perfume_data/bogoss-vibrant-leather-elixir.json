@@ -1,0 +1,113 @@
+{
+    "name": "Bogoss Vibrant Leather Elixir",
+    "brand": "Zara",
+    "release_year": "2025",
+    "description": "A new perfume byZarafor men, released in2025. The scent is fruity-citrusy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7a/7a8df1_bogoss-vibrant-leather-elixir-zara_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Citrus",
+        "Sweet",
+        "Fresh",
+        "Leathery"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "28 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "27 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "27 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "29 Ratings"
+        },
+        "pricing": {
+            "score": "8.5",
+            "votes": "26 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Leathery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 9
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Sport",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

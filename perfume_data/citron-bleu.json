@@ -1,0 +1,55 @@
+{
+    "name": "Citron Bleu",
+    "brand": "olakala",
+    "release_year": "2025",
+    "description": "A new perfume byolakalafor women and men, released in2025. The scent is citrusy-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2d/2d7bf8_citron-bleu-olakala_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Sweet",
+        "Green",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Grapefruit",
+        "Mandarin orange",
+        "Bergamot",
+        "Yuzu"
+    ],
+    "heart_notes": [
+        "Boozy notes",
+        "Guava",
+        "Cocktail",
+        "Pear",
+        "Mango",
+        "Passion fruit"
+    ],
+    "base_notes": [
+        "Musk",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.6",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "6.4",
+            "votes": "10 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "10 Ratings"
+        },
+        "bottle": {
+            "score": "6.4",
+            "votes": "17 Ratings"
+        },
+        "pricing": {
+            "score": "5.2",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {}
+}

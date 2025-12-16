@@ -1,0 +1,140 @@
+{
+    "name": "Nebras Elixir",
+    "brand": "Lattafa Pride",
+    "release_year": "2025",
+    "description": "A new perfume byLattafa Pridefor women and men, released in2025. The scent is sweet-creamy. It is being marketed byLattafa Perfumes Industries LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/de/de402c_nebras-elixir-lattafa-pride_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Creamy",
+        "Gourmand",
+        "Powdery",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Cream",
+        "Sweets",
+        "Milk"
+    ],
+    "heart_notes": [
+        "Heliotrope",
+        "Sugar cane"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Vanilla",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "50 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "42 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "41 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "45 Ratings"
+        },
+        "pricing": {
+            "score": "7.9",
+            "votes": "38 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 6
+            },
+            {
+                "name": "Sweet",
+                "votes": 19
+            },
+            {
+                "name": "Powdery",
+                "votes": 6
+            },
+            {
+                "name": "Gourmand",
+                "votes": 12
+            },
+            {
+                "name": "Creamy",
+                "votes": 18
+            },
+            {
+                "name": "Floral",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 16
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 14
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 15
+            },
+            {
+                "name": "Fall",
+                "votes": 16
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 12
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 16
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Night Out",
+                "votes": 10
+            },
+            {
+                "name": "Business",
+                "votes": 11
+            },
+            {
+                "name": "Evening",
+                "votes": 11
+            }
+        ]
+    }
+}

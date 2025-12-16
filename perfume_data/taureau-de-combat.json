@@ -1,0 +1,139 @@
+{
+    "name": "Taureau de Combat",
+    "brand": "Lattafa Pride",
+    "release_year": "2025",
+    "description": "A new perfume byLattafa Pridefor women and men, released in2025. The scent is sweet-spicy. The longevity is above-average. It is being marketed byLattafa Perfumes Industries LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/20/20314a_taureau-de-combat-lattafa-pride_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Floral",
+        "Woody",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Benzoin",
+        "Cinnamon",
+        "Amber",
+        "Cardamom"
+    ],
+    "heart_notes": [
+        "Cashmere",
+        "Tobacco",
+        "Heliotrope",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Patchouli",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "29 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "28 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "28 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "31 Ratings"
+        },
+        "pricing": {
+            "score": "8.8",
+            "votes": "26 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 6
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

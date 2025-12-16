@@ -1,0 +1,36 @@
+{
+    "name": "02 Opulent",
+    "brand": "Zara",
+    "release_year": "2025",
+    "description": "A new perfume byZarafor men, released in2025. The scent is spicy-woody.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ce/ceaf5b_02-opulent-zara_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Smoky",
+        "Creamy",
+        "Floral"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {}
+}

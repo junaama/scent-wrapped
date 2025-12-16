@@ -1,0 +1,23 @@
+{
+    "name": "Rose Latte",
+    "brand": "PerfumEra",
+    "release_year": "2025",
+    "description": "A new perfume byPerfumErafor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a4/a4ccf3_rose-latte-perfumera_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blossoms",
+        "Rose oil"
+    ],
+    "heart_notes": [
+        "Coffee",
+        "Damask rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Vanilla",
+        "White musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

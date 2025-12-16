@@ -1,0 +1,155 @@
+{
+    "name": "Inverno Russo II",
+    "brand": "Areej Le Doré",
+    "release_year": "2025",
+    "description": "A new perfume byAreej Le Doréfor women and men, released in2025. The scent is floral-spicy. The longevity is above-average. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/76/764a2d_inverno-russo-ii-extrait-de-parfum-areej-le-dore_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Spicy",
+        "Woody",
+        "Animal",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Black pepper",
+        "Omani green frankincense",
+        "Bulgarian Rosa alba",
+        "Omani rose water"
+    ],
+    "heart_notes": [
+        "Siberian deer musk",
+        "Champaca",
+        "Frangipani",
+        "Indian sandalwood",
+        "Osmanthus",
+        "Civet",
+        "Cardamom",
+        "Clove",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Chinese oud",
+        "Indonesian white oud",
+        "Laotian oud",
+        "Benzoin",
+        "Betel leaf"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "89 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "79 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "79 Ratings"
+        },
+        "bottle": {
+            "score": "8.6",
+            "votes": "76 Ratings"
+        },
+        "pricing": {
+            "score": "7.5",
+            "votes": "54 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 22
+            },
+            {
+                "name": "Sweet",
+                "votes": 9
+            },
+            {
+                "name": "Smoky",
+                "votes": 11
+            },
+            {
+                "name": "Woody",
+                "votes": 21
+            },
+            {
+                "name": "Resinous",
+                "votes": 14
+            },
+            {
+                "name": "Creamy",
+                "votes": 19
+            },
+            {
+                "name": "Floral",
+                "votes": 24
+            },
+            {
+                "name": "Animal",
+                "votes": 20
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 20
+            },
+            {
+                "name": "Feminine",
+                "votes": 17
+            },
+            {
+                "name": "Classic",
+                "votes": 15
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 19
+            },
+            {
+                "name": "Fall",
+                "votes": 19
+            },
+            {
+                "name": "Summer",
+                "votes": 10
+            },
+            {
+                "name": "Spring",
+                "votes": 17
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Leisure",
+                "votes": 17
+            },
+            {
+                "name": "Night Out",
+                "votes": 18
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 21
+            }
+        ]
+    }
+}

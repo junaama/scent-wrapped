@@ -1,0 +1,141 @@
+{
+    "name": "Vanille Soleil",
+    "brand": "Roger & Gallet",
+    "release_year": "2025",
+    "description": "A new perfume byRoger & Galletfor women, released in2025. The scent is fresh-creamy. It is being marketed byImpala.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/1a/1a0cfa_vanille-soleil-roger-gallet_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Creamy",
+        "Green",
+        "Sweet",
+        "Floral"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "9 Ratings"
+        },
+        "durability": {
+            "score": "6.4",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

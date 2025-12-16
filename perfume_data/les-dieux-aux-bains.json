@@ -1,0 +1,133 @@
+{
+    "name": "les dieux aux bains",
+    "brand": "Hellenist",
+    "release_year": "2025",
+    "description": "A new perfume byHellenistfor women and men, released in2025. The scent is fresh-aquatic.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/08/08a997_les-dieux-aux-bains-hellenist_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Aquatic",
+        "Green",
+        "Citrus",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Juniper berry",
+        "Eucalyptus",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Flowerpool®",
+        "Aquatic flowers",
+        "Rosemary"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Patchouli",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "50 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "42 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "41 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "45 Ratings"
+        },
+        "pricing": {
+            "score": "7.4",
+            "votes": "29 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 12
+            },
+            {
+                "name": "Synthetic",
+                "votes": 7
+            },
+            {
+                "name": "Green",
+                "votes": 13
+            },
+            {
+                "name": "Fresh",
+                "votes": 20
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            },
+            {
+                "name": "Aquatic",
+                "votes": 17
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 14
+            },
+            {
+                "name": "Feminine",
+                "votes": 12
+            },
+            {
+                "name": "Modern",
+                "votes": 17
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 20
+            },
+            {
+                "name": "Spring",
+                "votes": 19
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 18
+            },
+            {
+                "name": "Sport",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 20
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 16
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

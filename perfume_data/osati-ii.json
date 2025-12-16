@@ -1,0 +1,107 @@
+{
+    "name": "Osati II",
+    "brand": "Mellifluence Perfume",
+    "release_year": "2025",
+    "description": "A new perfume byMellifluence Perfumefor women and men, released in2025. The scent is spicy-oriental. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/97/97c6da_osati-ii-mellifluence-perfume_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Oriental",
+        "Woody",
+        "Floral",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Canadian hemlock",
+        "Davana",
+        "Guaiacol",
+        "Night-blooming jasmine",
+        "White lotus"
+    ],
+    "heart_notes": [
+        "False sandalwood",
+        "Indian tuberose",
+        "Red champaca",
+        "Red myrrh"
+    ],
+    "base_notes": [
+        "Blue tansy",
+        "Civet",
+        "Orris root",
+        "Sweet clover",
+        "Thai oud",
+        "White oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

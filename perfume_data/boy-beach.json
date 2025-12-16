@@ -1,0 +1,79 @@
+{
+    "name": "Boy Beach",
+    "brand": "Atwood",
+    "release_year": "2025",
+    "description": "A new perfume byAtwoodfor women and men, released in2025. The scent is green-aquatic.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/ad/adccbc_boy-beach-atwood_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Aquatic",
+        "Fruity",
+        "Fresh",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Fig"
+    ],
+    "heart_notes": [
+        "Dune grass"
+    ],
+    "base_notes": [
+        "Salty skin",
+        "Sand"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

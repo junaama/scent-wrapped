@@ -1,0 +1,43 @@
+{
+    "name": "Lemon Puff",
+    "brand": "Nette",
+    "release_year": "2025",
+    "description": "A new perfume byNettefor women and men, released in2025. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/94/9421c6_lemon-puff-nette_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Lemon",
+        "Neroli"
+    ],
+    "heart_notes": [
+        "Jasmine sambac",
+        "Meringue",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Bitter almond",
+        "Sandalwood",
+        "Vanilla",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

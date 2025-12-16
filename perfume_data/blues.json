@@ -1,0 +1,42 @@
+{
+    "name": "Blues",
+    "brand": "Zernell Gillie",
+    "release_year": "2025",
+    "description": "A new perfume byZernell Gilliefor women and men, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/41/412460_blues-zernell-gillie_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Apricot",
+        "Coffee",
+        "Magnolia"
+    ],
+    "heart_notes": [
+        "Almond blossom",
+        "Brandy",
+        "Opoponax"
+    ],
+    "base_notes": [
+        "Ebony",
+        "Molasses",
+        "Oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

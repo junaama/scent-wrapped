@@ -1,0 +1,125 @@
+{
+    "name": "Rain",
+    "brand": "Marc O'Polo",
+    "release_year": "2025",
+    "description": "A new perfume byMarc O'Polofor men, released in2025. The scent is fresh-earthy. It is being marketed by2 Pilots.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/58/58b5a5_rain-2025-marc-o-polo_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Earthy",
+        "Citrus",
+        "Green",
+        "Woody"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "14 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "10 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "14 Ratings"
+        },
+        "pricing": {
+            "score": "8.1",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 5
+            },
+            {
+                "name": "Earthy",
+                "votes": 4
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

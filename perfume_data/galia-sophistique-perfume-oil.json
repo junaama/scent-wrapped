@@ -1,0 +1,99 @@
+{
+    "name": "Galia Sophistiqué",
+    "brand": "Elixir Attar",
+    "release_year": "2025",
+    "description": "A new perfume byElixir Attarfor women and men, released in2025. The scent is powdery-leathery. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/0c/0c9311_galia-sophistique-perfume-oil-elixir-attar_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Powdery",
+        "Leathery",
+        "Earthy",
+        "Floral",
+        "Animal"
+    ],
+    "top_notes": [
+        "French lavender",
+        "Star anise"
+    ],
+    "heart_notes": [
+        "Bulgarian rose",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Bangladeshian oud",
+        "Bengal oud",
+        "Cedarwood",
+        "Civet",
+        "Deer musk",
+        "Indian oud",
+        "Iris",
+        "Labdanum",
+        "Oakmoss",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

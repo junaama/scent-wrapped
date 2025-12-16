@@ -1,0 +1,89 @@
+{
+    "name": "Soft Girl Sheer Vanilla",
+    "brand": "Florence by Mills",
+    "release_year": "2025",
+    "description": "A new perfume byFlorence by Millsfor women, released in2025. The scent is gourmand-sweet. It is being marketed byBeach House Group.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/2a/2a38dc_soft-girl-sheer-vanilla-florence-by-mills_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Raspberry nectar",
+        "Vanilla orchid"
+    ],
+    "heart_notes": [
+        "Sugared blossoms"
+    ],
+    "base_notes": [
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

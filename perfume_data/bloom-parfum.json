@@ -1,0 +1,133 @@
+{
+    "name": "Bloom Parfum",
+    "brand": "Gucci",
+    "release_year": "2025",
+    "description": "A new perfume byGuccifor women, released in2025. The scent is floral-spicy. It is being marketed byCoty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f7/f76121_bloom-parfum-gucci_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Spicy",
+        "Sweet",
+        "Creamy",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Guatemala cardamom",
+        "Night-blooming jasmine",
+        "Tuberose",
+        "Apricot"
+    ],
+    "heart_notes": [
+        "Indian jasmine sambac absolute",
+        "Rangoon creeper"
+    ],
+    "base_notes": [
+        "Peru balsam absolute",
+        "Vanilla",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "77 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "60 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "62 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "66 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "48 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 21
+            },
+            {
+                "name": "Sweet",
+                "votes": 20
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 15
+            },
+            {
+                "name": "Floral",
+                "votes": 26
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 24
+            },
+            {
+                "name": "Classic",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 11
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 20
+            },
+            {
+                "name": "Fall",
+                "votes": 24
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 15
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Night Out",
+                "votes": 19
+            },
+            {
+                "name": "Business",
+                "votes": 8
+            },
+            {
+                "name": "Evening",
+                "votes": 22
+            }
+        ]
+    }
+}

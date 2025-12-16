@@ -1,0 +1,133 @@
+{
+    "name": "Clementine Dream",
+    "brand": "The 7 Virtues",
+    "release_year": "2025",
+    "description": "A new perfume byThe 7 Virtuesfor women and men, released in2025. The scent is sweet-citrusy.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/bf/bf2dc6_clementine-dream-the-7-virtues_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Citrus",
+        "Creamy",
+        "Fruity",
+        "Gourmand"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "34 Ratings"
+        },
+        "durability": {
+            "score": "6.1",
+            "votes": "19 Ratings"
+        },
+        "sillage": {
+            "score": "5.9",
+            "votes": "20 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "23 Ratings"
+        },
+        "pricing": {
+            "score": "6.3",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 11
+            },
+            {
+                "name": "Sweet",
+                "votes": 11
+            },
+            {
+                "name": "Gourmand",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 7
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 12
+            },
+            {
+                "name": "Spring",
+                "votes": 10
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 10
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 11
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

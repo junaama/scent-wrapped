@@ -1,0 +1,31 @@
+{
+    "name": "Paris Boutique 312",
+    "brand": "The Dua Brand",
+    "release_year": "2025",
+    "description": "A new perfume byThe Dua Brandfor women and men, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/c3/c37d81_paris-boutique-312-the-dua-brand-dua-fragrances_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Brazilian pink pepper",
+        "French angelica root",
+        "Pink pepper leaf"
+    ],
+    "heart_notes": [
+        "Iris",
+        "Orange blossom",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Amber",
+        "Ambroxan",
+        "Musk",
+        "Thai oud"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "4.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Brazilian Perfume Midnight Jasmine 706#",
+    "brand": "Sttes",
+    "release_year": "2025",
+    "description": "A new perfume bySttesfor women, released in2025. The scent is floral-earthy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/91/913b2d_brazilian-perfume-midnight-jasmine-706-sttes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Earthy",
+        "Fruity",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Pear nectar"
+    ],
+    "heart_notes": [
+        "Freesia",
+        "Jasmine",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Amber",
+        "Crème Caramel",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

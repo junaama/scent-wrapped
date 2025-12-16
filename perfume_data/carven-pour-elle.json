@@ -1,0 +1,99 @@
+{
+    "name": "Carven pour Elle",
+    "brand": "Carven",
+    "release_year": "2025",
+    "description": "A new perfume byCarvenfor women, released in2025. The scent is citrusy-fresh. It is being marketed byGroupe Bogart.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/48/48efb8_pour-elle-carven_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Floral"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Lemon",
+        "Clary sage"
+    ],
+    "heart_notes": [
+        "Mimosa absolute",
+        "Iris",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Ecomusk®",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

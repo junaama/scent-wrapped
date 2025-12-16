@@ -1,0 +1,27 @@
+{
+    "name": "Money",
+    "brand": "Fragrance World",
+    "release_year": "2025",
+    "description": "A new perfume byFragrance Worldfor women and men, released in2025. It is being marketed byFragrance World Trading LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/25/251d86_money-fragrance-world_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Mugwort"
+    ],
+    "heart_notes": [
+        "Benzoin",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

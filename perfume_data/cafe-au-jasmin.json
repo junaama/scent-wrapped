@@ -1,0 +1,45 @@
+{
+    "name": "Café au Jasmin",
+    "brand": "Idiem Lux",
+    "release_year": "2025",
+    "description": "A new and limited perfume byIdiem Luxfor women and men, released in2025. The longevity is above-average. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/70/705440_cafe-au-jasmin-idiem-lux_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cypress",
+        "Jasminum grandiflorum",
+        "Mandarin orange",
+        "Orange blossom"
+    ],
+    "heart_notes": [
+        "Coffee",
+        "Hazelnut",
+        "Jasmine sambac",
+        "New Caledonian sandalwood"
+    ],
+    "base_notes": [
+        "Castoreum",
+        "Cistus",
+        "Oakmoss",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.3",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

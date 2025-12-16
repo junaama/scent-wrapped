@@ -1,0 +1,134 @@
+{
+    "name": "L.12.12 Silver Grey",
+    "brand": "Lacoste",
+    "release_year": "2025",
+    "description": "A new perfume byLacostefor men, released in2025. The scent is fresh-sweet. It is being marketed byInterparfums.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b2/b27d0c_l-12-12-silver-grey-lacoste_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Sweet",
+        "Fruity",
+        "Spicy",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Mandarin orange",
+        "Frankincense"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Ambrox",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.3",
+            "votes": "14 Ratings"
+        },
+        "durability": {
+            "score": "6.4",
+            "votes": "12 Ratings"
+        },
+        "sillage": {
+            "score": "5.8",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "11 Ratings"
+        },
+        "pricing": {
+            "score": "5.7",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Fruity",
+                "votes": 6
+            },
+            {
+                "name": "Fresh",
+                "votes": 8
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 8
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Sport",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            }
+        ]
+    }
+}

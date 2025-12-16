@@ -1,0 +1,154 @@
+{
+    "name": "The Wonderland II",
+    "brand": "Folkwinds",
+    "release_year": "2025",
+    "description": "A new and limited perfume byFolkwindsfor women and men, released in2025. The scent is fruity-creamy. The longevity is above-average. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/e6/e67749_the-wonderland-ii-folkwinds_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Creamy",
+        "Powdery",
+        "Floral",
+        "Chypre"
+    ],
+    "top_notes": [
+        "Bitter almond",
+        "Orris root",
+        "Plum",
+        "Aldehydes"
+    ],
+    "heart_notes": [
+        "Iris",
+        "Thai oud",
+        "Ivy",
+        "Malayan oud",
+        "Narcissus",
+        "Spices"
+    ],
+    "base_notes": [
+        "Orris root",
+        "Castoreum",
+        "Mitti attar",
+        "Moss"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.9",
+            "votes": "28 Ratings"
+        },
+        "durability": {
+            "score": "8.8",
+            "votes": "25 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "25 Ratings"
+        },
+        "bottle": {
+            "score": "9.1",
+            "votes": "26 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "22 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Powdery",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            },
+            {
+                "name": "Chypre",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

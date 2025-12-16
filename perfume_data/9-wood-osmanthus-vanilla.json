@@ -1,0 +1,139 @@
+{
+    "name": "9 - Wood, Osmanthus, Vanilla",
+    "brand": "Rosendo Mateu - Olfactive Expressions",
+    "release_year": "2025",
+    "description": "A new perfume byRosendo Mateu - Olfactive Expressionsfor women and men, released in2025. The scent is spicy-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5d/5d8531_9-wood-osmanthus-vanilla-rosendo-mateu-olfactive-expressions_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Sweet",
+        "Woody",
+        "Powdery",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Citrus notes",
+        "Elemi resin",
+        "Cardamom",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Orris root",
+        "Safranal",
+        "Osmanthus",
+        "Tobacco"
+    ],
+    "base_notes": [
+        "Musk",
+        "Vanilla",
+        "Iris"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "45 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "43 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "42 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "43 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "33 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 19
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 17
+            },
+            {
+                "name": "Powdery",
+                "votes": 10
+            },
+            {
+                "name": "Leathery",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 15
+            },
+            {
+                "name": "Resinous",
+                "votes": 9
+            },
+            {
+                "name": "Floral",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 17
+            },
+            {
+                "name": "Feminine",
+                "votes": 13
+            },
+            {
+                "name": "Modern",
+                "votes": 11
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 21
+            },
+            {
+                "name": "Fall",
+                "votes": 19
+            },
+            {
+                "name": "Spring",
+                "votes": 11
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 10
+            },
+            {
+                "name": "Leisure",
+                "votes": 17
+            },
+            {
+                "name": "Night Out",
+                "votes": 12
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 15
+            }
+        ]
+    }
+}

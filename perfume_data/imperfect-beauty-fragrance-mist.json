@@ -1,0 +1,97 @@
+{
+    "name": "Imperfect Beauty",
+    "brand": "Bath & Body Works",
+    "release_year": "2025",
+    "description": "A new perfume byBath & Body Worksfor women, released in2025. The scent is aquatic-fresh.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/11/11d15a_imperfect-beauty-fragrance-mist-bath-body-works_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Aquatic",
+        "Fresh",
+        "Floral",
+        "Sweet",
+        "Powdery"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "6.3",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            },
+            {
+                "name": "Aquatic",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Sous le Charme",
+    "brand": "Alex Simone",
+    "release_year": "2025",
+    "description": "A new perfume byAlex Simonefor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/68/685d36_sous-le-charme-alex-simone_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Ginger",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Heliotrope",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

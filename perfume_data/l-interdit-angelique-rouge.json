@@ -1,0 +1,135 @@
+{
+    "name": "L'Interdit Angélique Rouge",
+    "brand": "Givenchy",
+    "release_year": "2025",
+    "description": "A new and limited perfume byGivenchyfor women, released in2025. The scent is floral-sweet. It is being marketed byLVMH.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/98/98f140_l-interdit-angelique-rouge-givenchy_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Spicy",
+        "Woody",
+        "Green"
+    ],
+    "top_notes": [
+        "Angelica seed",
+        "Prickly pear",
+        "Ginger"
+    ],
+    "heart_notes": [
+        "Angelica flower",
+        "White blossoms absolute"
+    ],
+    "base_notes": [
+        "Haitian vetiver",
+        "Indonesian patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "32 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "24 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "24 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "27 Ratings"
+        },
+        "pricing": {
+            "score": "6.9",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 10
+            },
+            {
+                "name": "Sweet",
+                "votes": 11
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Green",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 11
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 12
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 8
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 10
+            },
+            {
+                "name": "Night Out",
+                "votes": 10
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 10
+            }
+        ]
+    }
+}

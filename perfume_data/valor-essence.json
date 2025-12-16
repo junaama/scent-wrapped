@@ -1,0 +1,26 @@
+{
+    "name": "Valor Essence",
+    "brand": "Lach'n",
+    "release_year": "2025",
+    "description": "A new perfume byLach'nfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b1/b1810b_valor-essence-lach-n_1200.jpg?width=240&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cinnamon",
+        "Mint",
+        "Pear",
+        "Vanilla"
+    ],
+    "heart_notes": [
+        "Caraway",
+        "Clary sage",
+        "Patchouli"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedar",
+        "Musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,127 @@
+{
+    "name": "Nari Vimala",
+    "brand": "Siam 1928",
+    "release_year": "2025",
+    "description": "A new perfume bySiam 1928for women, released in2025. The scent is sweet-gourmand.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/73/733996_nari-vimala-siam-1928_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Powdery",
+        "Creamy",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Pandanus leaf",
+        "Banana leaf",
+        "Orris root"
+    ],
+    "heart_notes": [
+        "Jasmine rice",
+        "Vanilla",
+        "Coconut milk",
+        "Banana"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Paper",
+        "Sandalwood",
+        "Powdery notes"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "13 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "10 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

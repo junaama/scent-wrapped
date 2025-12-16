@@ -1,0 +1,29 @@
+{
+    "name": "Musc Mango",
+    "brand": "Adyan",
+    "release_year": "2025",
+    "description": "A new perfume byAdyanfor women and men, released in2025. It is being marketed byOudh Al Anfar Manufacturing L.L.C.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/62/628297_musc-mango-adyan_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Amber",
+        "Mango"
+    ],
+    "heart_notes": [
+        "Lily of the valley",
+        "Musk",
+        "Oud"
+    ],
+    "base_notes": [
+        "Bergamot",
+        "Patchouli",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

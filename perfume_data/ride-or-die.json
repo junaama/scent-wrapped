@@ -1,0 +1,30 @@
+{
+    "name": "Ride or Die",
+    "brand": "Perfume Republic",
+    "release_year": "2025",
+    "description": "A new perfume byPerfume Republicfor women and men, released in2025. It is being marketed byC&F Store.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/63/630a12_ride-or-die-perfume-republic_1200.jpg?width=240&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Lemon",
+        "Neroli",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Clary sage",
+        "Rum",
+        "Vetiver"
+    ],
+    "base_notes": [
+        "Styrax",
+        "Tobacco",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

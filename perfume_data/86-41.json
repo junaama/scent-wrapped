@@ -1,0 +1,140 @@
+{
+    "name": "86.41",
+    "brand": "City Rhythm",
+    "release_year": "2025",
+    "description": "A new perfume byCity Rhythmfor women and men, released in2025. The scent is fruity-sweet. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/38/3863d4_86-41-city-rhythm_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Citrus",
+        "Creamy",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Guava",
+        "Mango milk",
+        "Pineapple",
+        "Quince"
+    ],
+    "heart_notes": [
+        "Cane sugar",
+        "Coconut",
+        "Honeydew melon",
+        "Lime"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Driftwood",
+        "Rum",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "24 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "19 Ratings"
+        },
+        "sillage": {
+            "score": "8.1",
+            "votes": "19 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "17 Ratings"
+        },
+        "pricing": {
+            "score": "7.6",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Fruity",
+                "votes": 8
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

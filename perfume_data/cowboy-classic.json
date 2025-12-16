@@ -1,0 +1,44 @@
+{
+    "name": "Cowboy Classic",
+    "brand": "Harry's",
+    "release_year": "2025",
+    "description": "A new perfume byHarry'sfor men, released in2025. The scent is woody. It is being marketed byMammoth Brands.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/24/24179b_cowboy-classic-harry-s_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Cypriol",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Cedarwood",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Leather",
+        "Musk",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "9.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

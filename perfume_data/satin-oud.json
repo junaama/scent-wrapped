@@ -1,0 +1,31 @@
+{
+    "name": "Satin Oud",
+    "brand": "Montagne Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byMontagne Parfumsfor women and men, released in2025. The perfume is vegan according to the manufacturer.PronunciationCompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/1f/1fcf01_satin-oud-montagne-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bulgarian rose",
+        "Strawberry",
+        "Violet"
+    ],
+    "heart_notes": [
+        "Turkish rose absolute"
+    ],
+    "base_notes": [
+        "Amber",
+        "Benzoin",
+        "Caramel",
+        "Cedar",
+        "Oud",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

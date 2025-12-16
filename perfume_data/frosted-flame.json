@@ -1,0 +1,133 @@
+{
+    "name": "Frosted Flame",
+    "brand": "twentysecondofmay",
+    "release_year": "2025",
+    "description": "A new perfume bytwentysecondofmayfor women and men, released in2025. The scent is oriental-woody. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/46/465515_frosted-flame-twentysecondofmay_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Oriental",
+        "Woody",
+        "Resinous",
+        "Powdery",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Bourbon vanilla",
+        "Musk",
+        "Powdery notes"
+    ],
+    "heart_notes": [
+        "Egyptian mimosa",
+        "Jasmine",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Cinnamon",
+        "Indonesian oud",
+        "Madagascan pepper"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "34 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "26 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "25 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "32 Ratings"
+        },
+        "pricing": {
+            "score": "6.5",
+            "votes": "23 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Powdery",
+                "votes": 4
+            },
+            {
+                "name": "Oriental",
+                "votes": 8
+            },
+            {
+                "name": "Woody",
+                "votes": 7
+            },
+            {
+                "name": "Resinous",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

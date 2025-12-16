@@ -1,0 +1,134 @@
+{
+    "name": "Flowerbomb Extreme",
+    "brand": "Viktor & Rolf",
+    "release_year": "2025",
+    "description": "A new perfume byViktor & Rolffor women, released in2025. The scent is sweet-floral. It is being marketed byL'Oréal.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/85/85116e_flowerbomb-extreme-viktor-rolf_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Fruity",
+        "Synthetic",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Raspberry",
+        "Tea",
+        "Calabrian bergamot"
+    ],
+    "heart_notes": [
+        "Freesia",
+        "Jasmine sambac absolute",
+        "Orange blossom absolute",
+        "Rose absolute"
+    ],
+    "base_notes": [
+        "Peru balsam",
+        "Vanilla",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "52 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "39 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "37 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "37 Ratings"
+        },
+        "pricing": {
+            "score": "6.4",
+            "votes": "27 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 13
+            },
+            {
+                "name": "Gourmand",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 10
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 10
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 9
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 8
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 11
+            }
+        ]
+    }
+}

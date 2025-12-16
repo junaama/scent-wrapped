@@ -1,0 +1,131 @@
+{
+    "name": "Summer Daydream for Her",
+    "brand": "Mexx",
+    "release_year": "2025",
+    "description": "A new and limited perfume byMexxfor women, released in2025. The scent is sweet-fresh. It is being marketed byCoty.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/4b/4bbc8b_summer-daydream-for-her-eau-de-toilette-mexx_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fresh",
+        "Fruity",
+        "Synthetic",
+        "Floral"
+    ],
+    "top_notes": [
+        "Pomegranate",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Freesia",
+        "Jasmine",
+        "Rose leaf"
+    ],
+    "base_notes": [
+        "Amber",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "13 Ratings"
+        },
+        "durability": {
+            "score": "5.7",
+            "votes": "11 Ratings"
+        },
+        "sillage": {
+            "score": "5.2",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "6.3",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Fresh",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            }
+        ]
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "name": "Nafais Sharq",
+    "brand": "Khadlaj",
+    "release_year": "2025",
+    "description": "A new perfume byKhadlajfor women, released in2025. The scent is creamy-sweet. It is being marketed byKhadlaj Perfumes LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/09/09c3c7_nafais-sharq-khadlaj_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Creamy",
+        "Sweet",
+        "Floral",
+        "Fruity",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Apricot blossom",
+        "Gardenia",
+        "Vanilla"
+    ],
+    "heart_notes": [
+        "Pear",
+        "Freesia",
+        "White woods"
+    ],
+    "base_notes": [
+        "Bourbon vanilla",
+        "Amber",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 7
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

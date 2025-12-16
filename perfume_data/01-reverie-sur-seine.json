@@ -1,0 +1,148 @@
+{
+    "name": "01 - Rêverie sur Seine",
+    "brand": "Solférino",
+    "release_year": "2025",
+    "description": "A new perfume bySolférinofor women and men, released in2025. The scent is floral-fresh. It is being marketed byInterparfums.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/af/afd88d_01-reverie-sur-seine-solferino_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Fruity",
+        "Creamy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Clary sage",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Orange blossom",
+        "Peony",
+        "Neroli"
+    ],
+    "base_notes": [
+        "Ambrox",
+        "Blond woods",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "6.6",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

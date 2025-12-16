@@ -1,0 +1,146 @@
+{
+    "name": "Felina",
+    "brand": "New Notes",
+    "release_year": "2025",
+    "description": "A new perfume byNew Notesfor women and men, released in2025. The scent is sweet-gourmand. It is being marketed byHIC Beauty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/08/08bc75_felina-new-notes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Spicy",
+        "Synthetic",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Caramel",
+        "Chocolate",
+        "Milk",
+        "Vanilla",
+        "Coffee",
+        "Cinnamon",
+        "Coconut"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Tonka bean",
+        "Powdery notes",
+        "Frankincense",
+        "Juniper",
+        "Tobacco",
+        "Woody notes"
+    ],
+    "base_notes": [
+        "Musk",
+        "Vanilla",
+        "Amber",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.4",
+            "votes": "41 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "29 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "30 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "37 Ratings"
+        },
+        "pricing": {
+            "score": "6.0",
+            "votes": "27 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 10
+            },
+            {
+                "name": "Synthetic",
+                "votes": 9
+            },
+            {
+                "name": "Sweet",
+                "votes": 16
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Oriental",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 12
+            },
+            {
+                "name": "Creamy",
+                "votes": 9
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 16
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 10
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 13
+            },
+            {
+                "name": "Fall",
+                "votes": 15
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 15
+            },
+            {
+                "name": "Evening",
+                "votes": 12
+            }
+        ]
+    }
+}

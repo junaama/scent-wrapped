@@ -1,0 +1,141 @@
+{
+    "name": "Qurashi Blend Blue",
+    "brand": "Abdul Samad Al Qurashi",
+    "release_year": "2025",
+    "description": "A new perfume byAbdul Samad Al Qurashifor women and men, released in2025. The scent is oriental-citrusy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/33/3375ac_qurashi-blend-blue-abdul-samad-al-qurashi_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Oriental",
+        "Citrus",
+        "Woody",
+        "Fruity",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Mandarin orange",
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Lavender",
+        "Morrocan orange blossom"
+    ],
+    "base_notes": [
+        "Musk",
+        "Oud",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 3
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

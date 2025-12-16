@@ -1,0 +1,82 @@
+{
+    "name": "Coco Blanco",
+    "brand": "Gulf Orchid",
+    "release_year": "2025",
+    "description": "A new perfume byGulf Orchidfor women and men, released in2025. The scent is spicy-gourmand. It is being marketed byGulf Orchid Fragrances.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/77/771644_coco-blanco-gulf-orchid_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Gourmand",
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Buttery note",
+        "Caramel",
+        "Coconut"
+    ],
+    "heart_notes": [
+        "Tonka bean",
+        "Honey",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Amber notes",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

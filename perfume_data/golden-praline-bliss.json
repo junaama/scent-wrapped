@@ -1,0 +1,110 @@
+{
+    "name": "Golden Praline Bliss",
+    "brand": "Grandeur",
+    "release_year": "2025",
+    "description": "A new perfume byGrandeurfor women and men, released in2025. The scent is sweet-gourmand. It is being marketed byABC Fragrances.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/98/980067_golden-praline-bliss-grandeur_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Spicy",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Brown sugar",
+        "Buttery note",
+        "Mandarin orange",
+        "Nuts",
+        "Praliné"
+    ],
+    "heart_notes": [
+        "Blackberry",
+        "Creamy notes",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Powdery notes",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

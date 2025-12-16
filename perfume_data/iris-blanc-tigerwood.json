@@ -1,0 +1,147 @@
+{
+    "name": "Iris Blanc: Tigerwood",
+    "brand": "Ensar Oud",
+    "release_year": "2025",
+    "description": "A new perfume byEnsar Oudfor women and men, released in2025. The scent is powdery-creamy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/55/55b59a_iris-blanc-tigerwood-ensar-oud-oriscent_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Powdery",
+        "Creamy",
+        "Floral",
+        "Woody",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Neroli",
+        "Omani green frankincense",
+        "Rice",
+        "White cedar",
+        "White cypress",
+        "White tea"
+    ],
+    "heart_notes": [
+        "Blue lotus",
+        "Jasmine sambac",
+        "Turkish rose",
+        "White champaca"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Malayan oud",
+        "Orris butter absolute",
+        "Sandalwood",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.0",
+            "votes": "11 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "8.1",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 4
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

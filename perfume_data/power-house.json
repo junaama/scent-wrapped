@@ -1,0 +1,25 @@
+{
+    "name": "Power House",
+    "brand": "Alia",
+    "release_year": "2025",
+    "description": "A new perfume byAliafor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c6/c6160d_power-house-alia_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Apple",
+        "Cardamom",
+        "Rum",
+        "Tobacco"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Gaiac wood"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Oud"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

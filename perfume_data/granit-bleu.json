@@ -1,0 +1,93 @@
+{
+    "name": "Granit Bleu",
+    "brand": "Yves Rocher",
+    "release_year": "2025",
+    "description": "A new perfume byYves Rocherfor men, released in2025. The scent is aquatic-citrusy. It is being marketed byGroupe Rocher.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/22/22e8f1_granit-bleu-yves-rocher_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Aquatic",
+        "Citrus",
+        "Fresh",
+        "Synthetic",
+        "Woody"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "6.7",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "6.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "6.3",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            }
+        ]
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "name": "Saddle Up Santal",
+    "brand": "Voluspa",
+    "release_year": "2025",
+    "description": "A new perfume byVoluspafor women and men, released in2025. The scent is gourmand-spicy.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/d1/d146a7_saddle-up-santal-voluspa_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Spicy",
+        "Leathery",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Ginger"
+    ],
+    "heart_notes": [
+        "Mahogany",
+        "Sandalwood",
+        "Violet"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedar",
+        "Honey",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

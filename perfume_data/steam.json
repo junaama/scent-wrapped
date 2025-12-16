@@ -1,0 +1,137 @@
+{
+    "name": "Steam",
+    "brand": "Perfumer H",
+    "release_year": "2025",
+    "description": "A new perfume byPerfumer Hfor women and men, released in2025. The scent is green-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/78/7888e9_steam-perfumer-h_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Fresh",
+        "Spicy",
+        "Smoky",
+        "Woody"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "32 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "23 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "23 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "21 Ratings"
+        },
+        "pricing": {
+            "score": "5.7",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 6
+            },
+            {
+                "name": "Spicy",
+                "votes": 8
+            },
+            {
+                "name": "Synthetic",
+                "votes": 6
+            },
+            {
+                "name": "Smoky",
+                "votes": 8
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Green",
+                "votes": 12
+            },
+            {
+                "name": "Fresh",
+                "votes": 9
+            },
+            {
+                "name": "Earthy",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 9
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 8
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 10
+            },
+            {
+                "name": "Spring",
+                "votes": 11
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 10
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 13
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 11
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

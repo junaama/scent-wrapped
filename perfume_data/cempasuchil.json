@@ -1,0 +1,93 @@
+{
+    "name": "Cempasúchil",
+    "brand": "Lush",
+    "release_year": "2025",
+    "description": "A new and limited perfume byLushfor women and men, released in2025. The scent is sweet-citrusy.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/6a/6a38d5_cempasuchil-lush-cosmetics-to-go_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Citrus",
+        "Fruity",
+        "Fresh",
+        "Creamy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            }
+        ]
+    }
+}

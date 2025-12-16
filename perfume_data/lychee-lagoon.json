@@ -1,0 +1,46 @@
+{
+    "name": "Lychee Lagoon",
+    "brand": "essence",
+    "release_year": "2025",
+    "description": "A new perfume byessencefor women, released in2025. The scent is fruity-sweet. It is being marketed byCosnova.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2d/2dfba4_lychee-lagoon-essence_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Apricot",
+        "Dragon fruit",
+        "Lychee"
+    ],
+    "heart_notes": [
+        "Hibiscus",
+        "Jasminum polyanthum",
+        "White lily"
+    ],
+    "base_notes": [
+        "Musk",
+        "Oakmoss",
+        "Sea salt",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "3.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "3.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "5.3",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

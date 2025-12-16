@@ -1,0 +1,34 @@
+{
+    "name": "In Fabula",
+    "brand": "Élisire",
+    "release_year": "2025",
+    "description": "A new perfume byÉlisirefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/89/89e5b2_in-fabula-elisire_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blackcurrant bud",
+        "Orange blossom",
+        "Mandarin orange",
+        "Red berries"
+    ],
+    "heart_notes": [
+        "Rose absolute",
+        "Amber",
+        "Hazelnut"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Musk",
+        "Oakmoss",
+        "Sandalwood",
+        "Vanilla",
+        "Patchouli"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.3",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {}
+}

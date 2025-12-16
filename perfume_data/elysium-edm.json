@@ -1,0 +1,125 @@
+{
+    "name": "Elysium ÉdM",
+    "brand": "Sulaym",
+    "release_year": "2025",
+    "description": "A new perfume bySulaymfor women and men, released in2025. The scent is oriental-woody. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/32/322d69_elysium-edm-sulaym_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Oriental",
+        "Woody",
+        "Fruity",
+        "Creamy",
+        "Leathery"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "9.6",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "8.6",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

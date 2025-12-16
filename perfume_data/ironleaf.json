@@ -1,0 +1,45 @@
+{
+    "name": "Ironleaf",
+    "brand": "Oakcha",
+    "release_year": "2025",
+    "description": "A new perfume byOakchafor women and men, released in2025. The scent is sweet-green.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9a/9a397d_ironleaf-oakcha_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Green",
+        "Spicy",
+        "Floral",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Cherimoya",
+        "Corn mint",
+        "Lemon",
+        "Violet leaf"
+    ],
+    "heart_notes": [
+        "Jasmine sambac",
+        "Orange blossom",
+        "Vine"
+    ],
+    "base_notes": [
+        "Ironwood",
+        "Moss",
+        "Musk",
+        "Patchouli",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "durability": {
+            "score": "4.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

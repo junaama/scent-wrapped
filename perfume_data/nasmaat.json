@@ -1,0 +1,140 @@
+{
+    "name": "Nasmaat",
+    "brand": "Lattafa",
+    "release_year": "2025",
+    "description": "A new perfume byLattafafor women and men, released in2025. The scent is sweet-earthy. It is being marketed byLattafa Perfumes Industries LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/92/928317_nasmaat-lattafa_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Earthy",
+        "Leathery",
+        "Fruity",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Apricot",
+        "Blackcurrant",
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Cyclamen",
+        "Jasmine",
+        "Magnolia",
+        "Orange blossom",
+        "Rose"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Cashmeran",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.6",
+            "votes": "9 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "6.9",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            }
+        ]
+    }
+}

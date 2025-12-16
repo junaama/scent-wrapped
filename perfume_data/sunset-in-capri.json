@@ -1,0 +1,145 @@
+{
+    "name": "Sunset in Capri",
+    "brand": "Jinkoh Store",
+    "release_year": "2025",
+    "description": "A new perfume byJinkoh Storefor women and men, released in2025. The scent is citrusy-fresh. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a0/a0e690_sunset-in-capri-jinkoh-store_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Aquatic",
+        "Spicy",
+        "Floral"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Green mandarin orange",
+        "Italian lemon",
+        "Quince"
+    ],
+    "heart_notes": [
+        "Bay leaf",
+        "Basil absolute",
+        "Blackcurrant absolute",
+        "Blood orange",
+        "Iris pallida",
+        "Linden blossom",
+        "Myrtle",
+        "Neroli"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Ambrette seed CO2",
+        "Fucus absolute",
+        "Tuscan cypress",
+        "Woody notes"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "15 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "13 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "14 Ratings"
+        },
+        "pricing": {
+            "score": "6.6",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            },
+            {
+                "name": "Aquatic",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

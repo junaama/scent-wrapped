@@ -1,0 +1,117 @@
+{
+    "name": "San Xing Dui",
+    "brand": "Auphorie",
+    "release_year": "2025",
+    "description": "A new and limited perfume byAuphoriefor women and men, released in2025. The scent is animal-earthy. The longevity is above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/72/727417_san-xing-dui-auphorie_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Animal",
+        "Earthy",
+        "Floral",
+        "Sweet",
+        "Powdery"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            },
+            {
+                "name": "Animal",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

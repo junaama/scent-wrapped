@@ -1,0 +1,125 @@
+{
+    "name": "Gladiator's Oath",
+    "brand": "Ministry of Oud",
+    "release_year": "2025",
+    "description": "A new perfume byMinistry of Oudfor women and men, released in2025. The scent is sweet-spicy. It is being marketed byParis Corner Perfumes.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/74/74ddd9_gladiator-s-oath-ministry-of-oud_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Woody",
+        "Floral",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lily of the valley",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Amber",
+        "Caramel",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

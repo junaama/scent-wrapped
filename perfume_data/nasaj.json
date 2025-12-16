@@ -1,0 +1,156 @@
+{
+    "name": "Nasaj",
+    "brand": "Omanluxury",
+    "release_year": "2025",
+    "description": "A new perfume byOmanluxuryfor women and men, released in2025. The scent is floral-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/83/837d92_nasaj-omanluxury_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Fruity",
+        "Woody",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Grapefruit",
+        "Mandarin orange",
+        "Pear",
+        "Pink pepper",
+        "Tangerine",
+        "Cardamom"
+    ],
+    "heart_notes": [
+        "Gardenia",
+        "Lily of the valley",
+        "Jasmine",
+        "Magnolia",
+        "Neroli",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Tonka bean",
+        "Benzoin",
+        "Cypriol",
+        "Omani frankincense",
+        "Patchouli",
+        "Saffiano™",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "15 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "16 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "16 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "16 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

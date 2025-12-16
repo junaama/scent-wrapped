@@ -1,0 +1,25 @@
+{
+    "name": "Caraluna",
+    "brand": "Orchid Lane",
+    "release_year": "2025",
+    "description": "A new perfume byOrchid Lanefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/de/decaf3_caraluna-orchid-lane_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Blood orange",
+        "Grapefruit"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lavender",
+        "Neroli"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

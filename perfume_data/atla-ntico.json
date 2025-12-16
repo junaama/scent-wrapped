@@ -1,0 +1,135 @@
+{
+    "name": "Atlântico",
+    "brand": "19-69",
+    "release_year": "2025",
+    "description": "A new perfume by19-69for women and men, released in2025. The scent is green-aquatic.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/fc/fc8ef5_atla-ntico-19-69_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Aquatic",
+        "Fresh",
+        "Citrus",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Pink pepper",
+        "Bergamot",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Calone",
+        "Grass",
+        "Melonal",
+        "Rose oxide",
+        "Nettle",
+        "Galbanum",
+        "Passion fruit"
+    ],
+    "base_notes": [
+        "Musk",
+        "Ambroxan",
+        "Frankincense",
+        "Cashmeran",
+        "Styrax"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "18 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "15 Ratings"
+        },
+        "bottle": {
+            "score": "6.7",
+            "votes": "16 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 7
+            },
+            {
+                "name": "Fresh",
+                "votes": 6
+            },
+            {
+                "name": "Aquatic",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            }
+        ]
+    }
+}

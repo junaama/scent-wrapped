@@ -1,0 +1,25 @@
+{
+    "name": "Oro Elixir",
+    "brand": "LuNiche",
+    "release_year": "2025",
+    "description": "A new perfume byLuNichefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/36/36d3f4_oro-elixir-luniche_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Fig",
+        "Laurel"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Patchouli",
+        "Vetiver"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Tobacco"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

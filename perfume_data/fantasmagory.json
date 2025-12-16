@@ -1,0 +1,121 @@
+{
+    "name": "Fantasmagory",
+    "brand": "Louis Vuitton",
+    "release_year": "2025",
+    "description": "A new perfume byLouis Vuittonfor women and men, released in2025. The scent is sweet-powdery. The longevity is above-average. It is being marketed byLVMH.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/da/daf74a_fantasmagory-louis-vuitton_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Powdery",
+        "Gourmand",
+        "Creamy",
+        "Synthetic"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "62 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "53 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "51 Ratings"
+        },
+        "bottle": {
+            "score": "9.0",
+            "votes": "57 Ratings"
+        },
+        "pricing": {
+            "score": "4.4",
+            "votes": "46 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 14
+            },
+            {
+                "name": "Powdery",
+                "votes": 10
+            },
+            {
+                "name": "Gourmand",
+                "votes": 8
+            },
+            {
+                "name": "Creamy",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 16
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 8
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 13
+            },
+            {
+                "name": "Fall",
+                "votes": 14
+            },
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 14
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 11
+            }
+        ]
+    }
+}

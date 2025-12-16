@@ -1,0 +1,28 @@
+{
+    "name": "Mango Tango",
+    "brand": "Amaran",
+    "release_year": "2025",
+    "description": "A new perfume byAmaranfor women and men, released in2025. It is being marketed byBeauty & Perfume International Factory LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/00/00e677_mango-tango-amaran_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Coconut milk",
+        "Mango"
+    ],
+    "heart_notes": [
+        "Guava",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

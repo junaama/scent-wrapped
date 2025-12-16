@@ -1,0 +1,75 @@
+{
+    "name": "Chérie je t'aime",
+    "brand": "Kate Spade",
+    "release_year": "2025",
+    "description": "A new perfume byKate Spadefor women, released in2025. The scent is floral-fresh. It is being marketed byInterparfums.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/e7/e7c7b1_cherie-je-t-aime-kate-spade_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Coconut water",
+        "Passion fruit",
+        "Petitgrain"
+    ],
+    "heart_notes": [
+        "Jasmine sambac",
+        "Mimosa",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Cashmeran",
+        "Cedarwood",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "5.2",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            }
+        ]
+    }
+}

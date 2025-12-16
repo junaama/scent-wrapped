@@ -1,0 +1,48 @@
+{
+    "name": "Kafu",
+    "brand": "Amaran",
+    "release_year": "2025",
+    "description": "A new perfume byAmaranfor women and men, released in2025. The scent is fresh-citrusy. It is being marketed byBeauty & Perfume International Factory LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/1a/1aecf1_kafu-amaran_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Citrus",
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Sicilian lemon",
+        "Vanilla"
+    ],
+    "heart_notes": [
+        "Pink pepper",
+        "Sandalwood"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedar",
+        "Musk",
+        "Tahitian vetiver",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.1",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "6.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

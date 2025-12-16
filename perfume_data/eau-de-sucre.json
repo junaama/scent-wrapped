@@ -1,0 +1,28 @@
+{
+    "name": "Eau de Sucre",
+    "brand": "The Sugar Societies",
+    "release_year": "2025",
+    "description": "A new perfume byThe Sugar Societiesfor women, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/c4/c4348c_eau-de-sucre-the-sugar-societies_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Candied violet"
+    ],
+    "heart_notes": [
+        "Candied lavender",
+        "Heliotrope"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.2",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

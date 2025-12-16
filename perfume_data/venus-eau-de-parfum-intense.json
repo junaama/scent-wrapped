@@ -1,0 +1,29 @@
+{
+    "name": "Vénus",
+    "brand": "Nina Ricci",
+    "release_year": "2025",
+    "description": "A new perfume byNina Riccifor women, released in2025. It is being marketed byPuig.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ae/ae0ce1_venus-eau-de-parfum-intense-nina-ricci_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blackcurrant liqueur",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Magnolia",
+        "Tiaré"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Bourbon vanilla",
+        "Patchouli"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.2",
+            "votes": "17 Ratings"
+        }
+    },
+    "community_charts": {}
+}

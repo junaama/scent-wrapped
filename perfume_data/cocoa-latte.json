@@ -1,0 +1,121 @@
+{
+    "name": "Cocoa & Latte",
+    "brand": "Zara",
+    "release_year": "2025",
+    "description": "A new perfume byZarafor women, released in2025. The scent is leathery-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a9/a951dd_cocoa-latte-zara_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Leathery",
+        "Sweet",
+        "Creamy",
+        "Gourmand",
+        "Synthetic"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "52 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "41 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "41 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "45 Ratings"
+        },
+        "pricing": {
+            "score": "9.3",
+            "votes": "39 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 7
+            },
+            {
+                "name": "Sweet",
+                "votes": 17
+            },
+            {
+                "name": "Smoky",
+                "votes": 4
+            },
+            {
+                "name": "Powdery",
+                "votes": 4
+            },
+            {
+                "name": "Leathery",
+                "votes": 18
+            },
+            {
+                "name": "Gourmand",
+                "votes": 13
+            },
+            {
+                "name": "Creamy",
+                "votes": 15
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 9
+            },
+            {
+                "name": "Feminine",
+                "votes": 16
+            },
+            {
+                "name": "Modern",
+                "votes": 12
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 18
+            },
+            {
+                "name": "Fall",
+                "votes": 19
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 12
+            },
+            {
+                "name": "Leisure",
+                "votes": 13
+            },
+            {
+                "name": "Night Out",
+                "votes": 12
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 15
+            }
+        ]
+    }
+}

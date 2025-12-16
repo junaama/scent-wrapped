@@ -1,0 +1,130 @@
+{
+    "name": "Linen Vanilla",
+    "brand": "Mango",
+    "release_year": "2025",
+    "description": "A new perfume byMangofor women, released in2025. The scent is sweet-gourmand.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/68/6852d7_linen-vanilla-mango_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Powdery",
+        "Floral",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Lavender"
+    ],
+    "heart_notes": [
+        "Chocolate",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "8 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

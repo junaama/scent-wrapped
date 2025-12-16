@@ -1,0 +1,99 @@
+{
+    "name": "La Vucciria",
+    "brand": "Inconscio",
+    "release_year": "2025",
+    "description": "A new perfume byInconsciofor women and men, released in2025. The scent is fruity-animal. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2c/2c1cb6_la-vucciria-inconscio_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Animal"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Blood orange",
+        "Galbanum",
+        "Petitgrain",
+        "Pineapple",
+        "Prickly pear"
+    ],
+    "heart_notes": [
+        "Atlas cedar",
+        "Castoreum",
+        "Civet",
+        "Jasmine",
+        "Leather",
+        "Orange blossom",
+        "Oud",
+        "Pineapple"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Animalic notes",
+        "Patchouli",
+        "Tonkin musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

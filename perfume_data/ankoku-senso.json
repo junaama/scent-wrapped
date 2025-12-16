@@ -1,0 +1,52 @@
+{
+    "name": "Ankoku Sensõ",
+    "brand": "Katana",
+    "release_year": "2025",
+    "description": "A new and limited perfume byKatanafor women and men, released in2025. The scent is earthy-woody. Projection and longevity are above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/84/8497a7_ankoku-senso-katana_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Earthy",
+        "Woody",
+        "Animal",
+        "Smoky",
+        "Resinous"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

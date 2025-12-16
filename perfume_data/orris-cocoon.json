@@ -1,0 +1,35 @@
+{
+    "name": "Orris Cocoon",
+    "brand": "Pesade",
+    "release_year": "2025",
+    "description": "A new perfume byPesadefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a3/a3ae7c_orris-cocoon-pesade_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Orange",
+        "Violet leaf"
+    ],
+    "heart_notes": [
+        "Coriander",
+        "Longjing tea",
+        "Orris root",
+        "Rose"
+    ],
+    "base_notes": [
+        "Cashmeran",
+        "Cedarwood",
+        "Musk",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

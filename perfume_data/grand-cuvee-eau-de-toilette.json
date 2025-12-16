@@ -1,0 +1,127 @@
+{
+    "name": "Grand Cuvée",
+    "brand": "Vacation",
+    "release_year": "2025",
+    "description": "A new perfume byVacationfor women and men, released in2025. The scent is sweet-creamy. The perfume is vegan according to the manufacturer.PronunciationCompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/08/087103_grand-cuvee-vacation_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Creamy",
+        "Resinous",
+        "Powdery",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Argania",
+        "Chardonnay",
+        "Peach brandy",
+        "Vanilla"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Cedarwood",
+        "Marine notes",
+        "Sensual skin accord",
+        "Solar note"
+    ],
+    "base_notes": [
+        "Cognac",
+        "Cork"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

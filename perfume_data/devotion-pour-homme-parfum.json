@@ -1,0 +1,131 @@
+{
+    "name": "Devotion pour Homme",
+    "brand": "Dolce & Gabbana",
+    "release_year": "2025",
+    "description": "A new perfume byDolce & Gabbanafor men, released in2025. The scent is sweet-woody.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/0f/0f4f00_devotion-pour-homme-parfum-dolce-gabbana_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Woody",
+        "Creamy",
+        "Spicy",
+        "Fougère"
+    ],
+    "top_notes": [
+        "Lavender"
+    ],
+    "heart_notes": [
+        "Coffee"
+    ],
+    "base_notes": [
+        "Amberwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.9",
+            "votes": "29 Ratings"
+        },
+        "durability": {
+            "score": "6.1",
+            "votes": "21 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "22 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "26 Ratings"
+        },
+        "pricing": {
+            "score": "5.8",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Fougère",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

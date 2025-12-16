@@ -1,0 +1,136 @@
+{
+    "name": "Velvet Vendetta",
+    "brand": "Sarah Baker Perfumes",
+    "release_year": "2025",
+    "description": "A new perfume bySarah Baker Perfumesfor women and men, released in2025. The scent is sweet-smoky. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/22/22fc94_velvet-vendetta-sarah-baker-perfumes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Smoky",
+        "Woody",
+        "Spicy",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Dried fruits",
+        "Gun powder",
+        "Nutmeg",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Black olive",
+        "Bourbon whiskey",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Molasses",
+        "Resins",
+        "Tobacco",
+        "Vanilla",
+        "Weathered wood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "17 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "13 Ratings"
+        },
+        "sillage": {
+            "score": "8.1",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "14 Ratings"
+        },
+        "pricing": {
+            "score": "8.2",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Smoky",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

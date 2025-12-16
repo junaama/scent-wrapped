@@ -1,0 +1,106 @@
+{
+    "name": "Line 618",
+    "brand": "Amouage",
+    "release_year": "2025",
+    "description": "A new perfume byAmouagefor women and men, released in2025. The scent is leathery-animal. It is being marketed bySabco Group / Oman Perfumery.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d2/d200dc_line-618-amouage_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Leathery",
+        "Animal"
+    ],
+    "top_notes": [
+        "Frankincense",
+        "Milky notes",
+        "Peach",
+        "Pineapple",
+        "Plum"
+    ],
+    "heart_notes": [
+        "Heliotrope",
+        "Pine"
+    ],
+    "base_notes": [
+        "Leather",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.1",
+            "votes": "15 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "12 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "17 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "name": "Éclectique",
+    "brand": "Gritti",
+    "release_year": "2025",
+    "description": "A new perfume byGrittifor women, released in2025. The scent is fruity-sweet.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/58/589f2a_eclectique-gritti_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Floral",
+        "Creamy",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Strawberry",
+        "Bergamot",
+        "Coconut",
+        "Melon"
+    ],
+    "heart_notes": [
+        "Blackcurrant",
+        "Heliotrope",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "White musk",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "97 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "87 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "86 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "90 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "69 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 35
+            },
+            {
+                "name": "Powdery",
+                "votes": 18
+            },
+            {
+                "name": "Fruity",
+                "votes": 38
+            },
+            {
+                "name": "Creamy",
+                "votes": 25
+            },
+            {
+                "name": "Floral",
+                "votes": 25
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 37
+            },
+            {
+                "name": "Modern",
+                "votes": 23
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 35
+            },
+            {
+                "name": "Spring",
+                "votes": 38
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 36
+            },
+            {
+                "name": "Leisure",
+                "votes": 39
+            },
+            {
+                "name": "Night Out",
+                "votes": 22
+            },
+            {
+                "name": "Business",
+                "votes": 21
+            },
+            {
+                "name": "Evening",
+                "votes": 19
+            }
+        ]
+    }
+}

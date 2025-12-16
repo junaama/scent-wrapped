@@ -1,0 +1,133 @@
+{
+    "name": "Sierra",
+    "brand": "Attar Collection",
+    "release_year": "2025",
+    "description": "A new perfume byAttar Collectionfor women and men, released in2025. The scent is fresh-synthetic. It is being marketed byMBA Perfumes Manufacturing LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/28/28facc_sierra-attar-collection_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Synthetic",
+        "Floral",
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Ginger",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Mahonial®",
+        "Osmanthus",
+        "Rosyfolia®"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Georgywood®",
+        "Frankincense",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "25 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "23 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "20 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "26 Ratings"
+        },
+        "pricing": {
+            "score": "7.9",
+            "votes": "16 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 9
+            },
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Fresh",
+                "votes": 9
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 9
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 11
+            },
+            {
+                "name": "Spring",
+                "votes": 12
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 12
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 10
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 10
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

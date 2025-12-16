@@ -1,0 +1,38 @@
+{
+    "name": "Bourbon Vanilla",
+    "brand": "Shaman Perfumery",
+    "release_year": "2025",
+    "description": "A new perfume byShaman Perfumeryfor women and men, released in2025. The scent is animal-spicy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c4/c445bc_bourbon-vanilla-shaman-perfumery_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Animal",
+        "Spicy",
+        "Oriental",
+        "Leathery",
+        "Woody"
+    ],
+    "top_notes": [
+        "Amber",
+        "Bourbon vanilla",
+        "Gaiac wood",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Aniseed",
+        "Heliotrope",
+        "Peru balsam",
+        "Sandalwood"
+    ],
+    "base_notes": [
+        "Bourbon vanilla absolute",
+        "Cedarwood",
+        "Labdanum"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

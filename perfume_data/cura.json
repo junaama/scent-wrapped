@@ -1,0 +1,120 @@
+{
+    "name": "Cura",
+    "brand": "Marcoccia",
+    "release_year": "2025",
+    "description": "A new perfume byMarcocciafor women and men, released in2025. The scent is sweet-spicy.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/f2/f2f935_cura-marcoccia_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Powdery",
+        "Oriental",
+        "Floral"
+    ],
+    "top_notes": [
+        "Chestnut honey",
+        "Cinnamon"
+    ],
+    "heart_notes": [
+        "Lily of the valley",
+        "Orange blossom",
+        "Rice pudding"
+    ],
+    "base_notes": [
+        "Cashmeran",
+        "Vanilla",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "6.8",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

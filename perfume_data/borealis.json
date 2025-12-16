@@ -1,0 +1,125 @@
+{
+    "name": "Borealis",
+    "brand": "Buchoed",
+    "release_year": "2025",
+    "description": "A new perfume byBuchoedfor women and men, released in2025. The scent is green-woody.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c8/c8b7fc_borealis-buchod_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Woody",
+        "Fresh",
+        "Resinous",
+        "Citrus"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "30 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "25 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "24 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "19 Ratings"
+        },
+        "pricing": {
+            "score": "6.9",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 7
+            },
+            {
+                "name": "Woody",
+                "votes": 14
+            },
+            {
+                "name": "Resinous",
+                "votes": 8
+            },
+            {
+                "name": "Green",
+                "votes": 14
+            },
+            {
+                "name": "Fresh",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 11
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 11
+            },
+            {
+                "name": "Summer",
+                "votes": 10
+            },
+            {
+                "name": "Spring",
+                "votes": 12
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 11
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 13
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "name": "Opus XVI - Timber",
+    "brand": "Amouage",
+    "release_year": "2025",
+    "description": "A new perfume byAmouagefor women and men, released in2025. The scent is woody-spicy. It is being marketed bySabco Group / Oman Perfumery.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9a/9a973a_opus-xvi-timber-amouage_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Spicy",
+        "Resinous",
+        "Sweet",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Cocoa",
+        "Juniper",
+        "Cypress",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Omani green frankincense",
+        "Fir balsam",
+        "Provençal lavender"
+    ],
+    "base_notes": [
+        "Palo Santo",
+        "Bourbon vanilla",
+        "Cedarwood",
+        "Patchouli",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "125 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "105 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "106 Ratings"
+        },
+        "bottle": {
+            "score": "8.7",
+            "votes": "105 Ratings"
+        },
+        "pricing": {
+            "score": "5.7",
+            "votes": "86 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 28
+            },
+            {
+                "name": "Sweet",
+                "votes": 15
+            },
+            {
+                "name": "Smoky",
+                "votes": 14
+            },
+            {
+                "name": "Woody",
+                "votes": 29
+            },
+            {
+                "name": "Resinous",
+                "votes": 17
+            },
+            {
+                "name": "Green",
+                "votes": 6
+            },
+            {
+                "name": "Earthy",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 26
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 17
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 24
+            },
+            {
+                "name": "Fall",
+                "votes": 29
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 22
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 13
+            },
+            {
+                "name": "Leisure",
+                "votes": 21
+            },
+            {
+                "name": "Night Out",
+                "votes": 21
+            },
+            {
+                "name": "Business",
+                "votes": 16
+            },
+            {
+                "name": "Evening",
+                "votes": 25
+            }
+        ]
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "name": "Spirit of Creamy Coconut",
+    "brand": "Spirit",
+    "release_year": "2025",
+    "description": "A new perfume bySpiritfor women, released in2025. The scent is sweet-gourmand. It is being marketed byLifestyle Fragrance & Beauty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ed/edf56d_spirit-of-creamy-coconut-spirit_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Creamy",
+        "Floral",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Coconut milk",
+        "Apple",
+        "Jasmine"
+    ],
+    "heart_notes": [
+        "Salted caramel",
+        "Freesia",
+        "Teakwood"
+    ],
+    "base_notes": [
+        "Coconut",
+        "Tonka bean",
+        "Vanilla",
+        "Cedarwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "78 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "67 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "65 Ratings"
+        },
+        "bottle": {
+            "score": "6.3",
+            "votes": "66 Ratings"
+        },
+        "pricing": {
+            "score": "8.9",
+            "votes": "65 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 10
+            },
+            {
+                "name": "Sweet",
+                "votes": 27
+            },
+            {
+                "name": "Powdery",
+                "votes": 8
+            },
+            {
+                "name": "Gourmand",
+                "votes": 26
+            },
+            {
+                "name": "Fruity",
+                "votes": 7
+            },
+            {
+                "name": "Creamy",
+                "votes": 25
+            },
+            {
+                "name": "Floral",
+                "votes": 14
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 29
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 23
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 9
+            },
+            {
+                "name": "Fall",
+                "votes": 14
+            },
+            {
+                "name": "Summer",
+                "votes": 29
+            },
+            {
+                "name": "Spring",
+                "votes": 25
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 24
+            },
+            {
+                "name": "Sport",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 25
+            },
+            {
+                "name": "Night Out",
+                "votes": 12
+            },
+            {
+                "name": "Business",
+                "votes": 16
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

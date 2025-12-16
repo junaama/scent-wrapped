@@ -1,0 +1,156 @@
+{
+    "name": "Aamal Metallique",
+    "brand": "The Spirit of Dubai",
+    "release_year": "2025",
+    "description": "A new perfume byThe Spirit of Dubaifor women and men, released in2025. The scent is floral-fresh. Projection and longevity are above-average. It is being marketed byNabeel.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/fa/faaf7f_aamal-metallique-the-spirit-of-dubai_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Green",
+        "Oriental",
+        "Woody"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Blackcurrant",
+        "Coconut",
+        "Lemon",
+        "Nutmeg",
+        "Peach",
+        "Petitgrain"
+    ],
+    "heart_notes": [
+        "Everlasting flower",
+        "Jasmine",
+        "Lily of the valley",
+        "Orchid",
+        "Rose",
+        "Salty notes",
+        "Solar note",
+        "Tiaré",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Amber",
+        "Labdanum",
+        "Oud",
+        "Patchouli",
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "32 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "31 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "31 Ratings"
+        },
+        "bottle": {
+            "score": "9.1",
+            "votes": "38 Ratings"
+        },
+        "pricing": {
+            "score": "6.3",
+            "votes": "29 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Oriental",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Green",
+                "votes": 6
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 9
+            },
+            {
+                "name": "Floral",
+                "votes": 10
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 10
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 9
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

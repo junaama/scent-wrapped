@@ -1,0 +1,110 @@
+{
+    "name": "Iso e Fig",
+    "brand": "Fugazzi",
+    "release_year": "2025",
+    "description": "A new and limited perfume byFugazzifor women and men, released in2025. The scent is fruity-citrusy. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/db/db6289_iso-e-fig-fugazzi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Citrus",
+        "Synthetic",
+        "Aquatic",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Grapefruit",
+        "Orange",
+        "Frosted fig"
+    ],
+    "heart_notes": [
+        "Orange blossom",
+        "White musk",
+        "Fig"
+    ],
+    "base_notes": [
+        "Fig wood",
+        "ISO-E-Super",
+        "Amber",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "6.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            }
+        ]
+    }
+}

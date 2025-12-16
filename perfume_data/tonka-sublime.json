@@ -1,0 +1,141 @@
+{
+    "name": "Tonka Sublime",
+    "brand": "Houbigant",
+    "release_year": "2025",
+    "description": "A new perfume byHoubigantfor women and men, released in2025. The scent is creamy-spicy. It is being marketed byPerris Group.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5d/5d4204_tonka-sublime-houbigant_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Creamy",
+        "Spicy",
+        "Sweet",
+        "Gourmand",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Almond",
+        "Mirabelle plum",
+        "Star anise",
+        "Neroli"
+    ],
+    "heart_notes": [
+        "Tonka bean absolute",
+        "Davana",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Amber",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "33 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "30 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "29 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "32 Ratings"
+        },
+        "pricing": {
+            "score": "7.1",
+            "votes": "20 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 11
+            },
+            {
+                "name": "Sweet",
+                "votes": 11
+            },
+            {
+                "name": "Powdery",
+                "votes": 7
+            },
+            {
+                "name": "Oriental",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Gourmand",
+                "votes": 10
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 12
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 14
+            },
+            {
+                "name": "Modern",
+                "votes": 10
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 13
+            },
+            {
+                "name": "Fall",
+                "votes": 14
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Night Out",
+                "votes": 12
+            },
+            {
+                "name": "Business",
+                "votes": 10
+            },
+            {
+                "name": "Evening",
+                "votes": 14
+            }
+        ]
+    }
+}

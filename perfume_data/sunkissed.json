@@ -1,0 +1,43 @@
+{
+    "name": "Sunkissed",
+    "brand": "Monkoku",
+    "release_year": "2025",
+    "description": "A new perfume byMonkokufor women and men, released in2025. The scent is citrusy-fresh. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/bd/bd848d_sunkissed-monkoku_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Calabrian bergamot",
+        "Lemon",
+        "Sicilian orange"
+    ],
+    "heart_notes": [
+        "Fruity notes"
+    ],
+    "base_notes": [
+        "Amber",
+        "Bourbon vanilla",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {}
+}

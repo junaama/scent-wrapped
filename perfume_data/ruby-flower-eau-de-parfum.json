@@ -1,0 +1,26 @@
+{
+    "name": "Ruby Flower",
+    "brand": "Next Memory",
+    "release_year": "2025",
+    "description": "A new perfume byNext Memoryfor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/b0/b00279_ruby-flower-eau-de-parfum-next-memory_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blackcurrant",
+        "Cinnamon",
+        "Mandarin orange leaf"
+    ],
+    "heart_notes": [
+        "Benzoin",
+        "Red blossoms",
+        "Tonka bean absolute",
+        "Vetiver"
+    ],
+    "base_notes": [
+        "Amber",
+        "Atlas cedar",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

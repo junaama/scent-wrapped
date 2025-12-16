@@ -1,0 +1,67 @@
+{
+    "name": "Faluröd",
+    "brand": "Björk & Berries",
+    "release_year": "2025",
+    "description": "A new perfume byBjörk & Berriesfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9b/9b7383_falurod-bjork-berries_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Black pepper",
+        "Iron"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Oak wood"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Myrrh"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.2",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "name": "My Soul Celestial Night",
+    "brand": "Mercadona",
+    "release_year": "2025",
+    "description": "A new and limited perfume byMercadonafor women, released in2025. Projection and longevity are above-average. It is being marketed byRNB Cosméticos.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/9a/9a53e9_my-soul-celestial-night-mercadona_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Green",
+        "Citrus",
+        "Spicy",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Iris"
+    ],
+    "heart_notes": [
+        "Lily of the valley"
+    ],
+    "base_notes": [
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Fougère",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

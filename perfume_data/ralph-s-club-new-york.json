@@ -1,0 +1,151 @@
+{
+    "name": "Ralph's Club New York",
+    "brand": "Ralph Lauren",
+    "release_year": "2025",
+    "description": "A new perfume byRalph Laurenfor men, released in2025. The scent is sweet-creamy. It is being marketed byL'Oréal.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4b/4bc1ee_ralph-s-club-new-york-ralph-lauren_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Creamy",
+        "Fruity",
+        "Fresh",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Calabrian bergamot",
+        "Italian green mandarin orange",
+        "Leaves",
+        "Blackcurrant"
+    ],
+    "heart_notes": [
+        "Bourbon geranium",
+        "Australian sandalwood",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Moss",
+        "Bourbon vanilla",
+        "Fir balsam absolute",
+        "Fir balsam resinoid"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "57 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "45 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "44 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "50 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "43 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 6
+            },
+            {
+                "name": "Synthetic",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 14
+            },
+            {
+                "name": "Woody",
+                "votes": 7
+            },
+            {
+                "name": "Green",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 11
+            },
+            {
+                "name": "Fresh",
+                "votes": 8
+            },
+            {
+                "name": "Creamy",
+                "votes": 13
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 14
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 12
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 11
+            },
+            {
+                "name": "Fall",
+                "votes": 13
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Sport",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 10
+            },
+            {
+                "name": "Night Out",
+                "votes": 12
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 12
+            }
+        ]
+    }
+}

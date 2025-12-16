@@ -1,0 +1,86 @@
+{
+    "name": "Golconda",
+    "brand": "Faizal Privée",
+    "release_year": "2025",
+    "description": "A new and limited perfume byFaizal Privéefor women and men, released in2025. The scent is animal-sweet.CompareLimited",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [
+        "Animal",
+        "Sweet",
+        "Spicy",
+        "Oriental",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Almond",
+        "Cardamom",
+        "Milk",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Honey",
+        "Patchouli",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Ceylonese sandalwood",
+        "Indian oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

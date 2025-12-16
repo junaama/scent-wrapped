@@ -1,0 +1,148 @@
+{
+    "name": "Angels' Share on the Rocks",
+    "brand": "Kilian",
+    "release_year": "2025",
+    "description": "A new perfume byKilianfor women and men, released in2025. The scent is sweet-citrusy. It is being marketed byEstēe Lauder Companies.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/16/1634b3_angels-share-on-the-rocks-kilian_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Citrus",
+        "Spicy",
+        "Woody",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Lemon",
+        "Bitter orange",
+        "Aldehydes",
+        "Ice accord",
+        "Italian bergamot",
+        "Grapefruit"
+    ],
+    "heart_notes": [
+        "Venezuelan tonka bean absolute",
+        "Amber",
+        "Laotian cinnamon",
+        "Cognac",
+        "Myrrh"
+    ],
+    "base_notes": [
+        "Oak wood absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "318 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "273 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "274 Ratings"
+        },
+        "bottle": {
+            "score": "8.7",
+            "votes": "273 Ratings"
+        },
+        "pricing": {
+            "score": "6.2",
+            "votes": "236 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 58
+            },
+            {
+                "name": "Spicy",
+                "votes": 48
+            },
+            {
+                "name": "Sweet",
+                "votes": 62
+            },
+            {
+                "name": "Woody",
+                "votes": 38
+            },
+            {
+                "name": "Gourmand",
+                "votes": 32
+            },
+            {
+                "name": "Fruity",
+                "votes": 22
+            },
+            {
+                "name": "Fresh",
+                "votes": 38
+            },
+            {
+                "name": "Creamy",
+                "votes": 21
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 60
+            },
+            {
+                "name": "Feminine",
+                "votes": 36
+            },
+            {
+                "name": "Classic",
+                "votes": 9
+            },
+            {
+                "name": "Modern",
+                "votes": 46
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 50
+            },
+            {
+                "name": "Fall",
+                "votes": 64
+            },
+            {
+                "name": "Summer",
+                "votes": 34
+            },
+            {
+                "name": "Spring",
+                "votes": 54
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 38
+            },
+            {
+                "name": "Leisure",
+                "votes": 59
+            },
+            {
+                "name": "Night Out",
+                "votes": 57
+            },
+            {
+                "name": "Business",
+                "votes": 32
+            },
+            {
+                "name": "Evening",
+                "votes": 62
+            }
+        ]
+    }
+}

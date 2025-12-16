@@ -1,0 +1,33 @@
+{
+    "name": "Mi",
+    "brand": "Oscar London",
+    "release_year": "2025",
+    "description": "A new perfume byOscar Londonfor women and men, released in2025. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8e/8e6905_mi-oscar-london_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Ginger",
+        "Lemon",
+        "Meringue",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Bulgarian rose",
+        "Cotton candy",
+        "Jasmine",
+        "Magnolia"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Vanilla",
+        "White musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.7",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {}
+}

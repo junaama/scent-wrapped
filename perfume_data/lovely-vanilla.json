@@ -1,0 +1,104 @@
+{
+    "name": "Lovely Vanilla",
+    "brand": "Balea",
+    "release_year": "2025",
+    "description": "A new perfume byBaleafor women, released in2025. The scent is synthetic-sweet. It is being marketed bydm-drogerie markt GmbH + Co. KG.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2a/2aeeb4_lovely-vanilla-balea_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Sweet",
+        "Gourmand",
+        "Powdery"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "6.3",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "3.3",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "3.0",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "4.4",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

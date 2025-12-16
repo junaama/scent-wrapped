@@ -1,0 +1,76 @@
+{
+    "name": "Primitivo",
+    "brand": "Morph",
+    "release_year": "2025",
+    "description": "A new perfume byMorphfor women and men, released in2025. The scent is powdery-spicy. Projection and longevity are above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/10/10af7f_primitivo-morph_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Powdery",
+        "Spicy",
+        "Gourmand",
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Cumin",
+        "Moldovan rose"
+    ],
+    "heart_notes": [
+        "Fig milk",
+        "Sublimolide™"
+    ],
+    "base_notes": [
+        "Oud",
+        "Sumatran patchouli"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

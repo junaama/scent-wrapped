@@ -1,0 +1,67 @@
+{
+    "name": "Velvet Petals Brûlée",
+    "brand": "Victoria's Secret",
+    "release_year": "2025",
+    "description": "A new and limited perfume byVictoria's Secretfor women, released in2025. The scent is powdery-synthetic.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/9e/9e6b1a_velvet-petals-brulee-victoria-s-secret_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Powdery",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Floral notes"
+    ],
+    "heart_notes": [
+        "Caramelized almond"
+    ],
+    "base_notes": [
+        "Jasmine"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "name": "Imperial",
+    "brand": "Riggs",
+    "release_year": "2025",
+    "description": "A new perfume byRiggsfor men, released in2025. The scent is sweet-gourmand. The longevity is above-average. It is being marketed byConfetti Group.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/70/70fec9_imperial-riggs_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Woody",
+        "Spicy",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Apple",
+        "Coconut"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Lily of the valley"
+    ],
+    "base_notes": [
+        "Musk",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "40 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "36 Ratings"
+        },
+        "sillage": {
+            "score": "7.9",
+            "votes": "36 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "38 Ratings"
+        },
+        "pricing": {
+            "score": "8.3",
+            "votes": "35 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 9
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 7
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 9
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

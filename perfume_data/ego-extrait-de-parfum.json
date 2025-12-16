@@ -1,0 +1,24 @@
+{
+    "name": "Ego",
+    "brand": "Zomething Strange",
+    "release_year": "2025",
+    "description": "A new perfume byZomething Strangefor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/a9/a9d2b7_ego-extrait-de-parfum-zomething-strange_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Cypress"
+    ],
+    "heart_notes": [
+        "Bitter almond",
+        "Jasmine",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Amber",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

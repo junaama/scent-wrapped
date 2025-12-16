@@ -1,0 +1,51 @@
+{
+    "name": "Kiri",
+    "brand": "FreeShape",
+    "release_year": "2025",
+    "description": "A new perfume byFreeShapefor women and men, released in2025. The scent is citrusy-woody. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/06/0632ac_kiri-freeshape_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Woody",
+        "Fruity",
+        "Sweet",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Cherry",
+        "Orange",
+        "Pear",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Jasmine",
+        "Patchouli",
+        "Violet"
+    ],
+    "base_notes": [
+        "Cashmere wood",
+        "Mossy notes",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "8.3",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {}
+}

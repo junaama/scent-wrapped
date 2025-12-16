@@ -1,0 +1,30 @@
+{
+    "name": "Osmin",
+    "brand": "Tola",
+    "release_year": "2025",
+    "description": "A new perfume byTolafor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/18/1825d6_osmin-tola_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Aromatic notes",
+        "Mandarin orange",
+        "Nepalese sichuan pepper",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Aquatic notes",
+        "Cypress",
+        "Geosmin",
+        "Salty notes"
+    ],
+    "base_notes": [
+        "Amber",
+        "Atlas cedar",
+        "Earthy notes",
+        "Oud",
+        "Patchouli",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Marbleous Rose",
+    "brand": "Roberto Cavalli",
+    "release_year": "2025",
+    "description": "A new perfume byRoberto Cavallifor women and men, released in2025. The scent is floral-sweet. It is being marketed byInterparfums.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/21/2111d8_marbleous-rose-roberto-cavalli_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Geranium",
+        "Lavender"
+    ],
+    "heart_notes": [
+        "Clove",
+        "Damask rose",
+        "May rose",
+        "Davana"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Vetiver",
+        "Amber",
+        "Gaiac wood",
+        "Cypriol",
+        "Gurjum balsam",
+        "Patchouli"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.4",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,126 @@
+{
+    "name": "Lune Rousse",
+    "brand": "Les Néréides",
+    "release_year": "2025",
+    "description": "A new perfume byLes Néréidesfor women and men, released in2025. The scent is sweet-spicy. It is being marketed byCBI (Creation Beauté International).PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/4f/4f1641_lune-rousse-les-nereides_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Smoky",
+        "Woody",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Cocoa",
+        "Saffron",
+        "Tobacco"
+    ],
+    "heart_notes": [
+        "Cedar",
+        "Osmanthus",
+        "Rose"
+    ],
+    "base_notes": [
+        "Tonka bean",
+        "Immortelle",
+        "Musk",
+        "Oak barrel"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "13 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "11 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Smoky",
+                "votes": 5
+            },
+            {
+                "name": "Oriental",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

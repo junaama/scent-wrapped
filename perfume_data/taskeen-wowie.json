@@ -1,0 +1,30 @@
+{
+    "name": "Taskeen Wowie",
+    "brand": "Paris Corner",
+    "release_year": "2025",
+    "description": "A new perfume byParis Cornerfor women and men, released in2025. It is being marketed byParis Corner Perfumes.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/f9/f98615_taskeen-wowie-paris-corner_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Aldehydes",
+        "Mandarin orange",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Orris root",
+        "Rum"
+    ],
+    "base_notes": [
+        "Butter",
+        "Caramel",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

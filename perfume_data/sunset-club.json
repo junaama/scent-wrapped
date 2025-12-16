@@ -1,0 +1,133 @@
+{
+    "name": "Sunset Club",
+    "brand": "Gant",
+    "release_year": "2025",
+    "description": "A new perfume byGantfor women, released in2025. The scent is sweet-floral. It is being marketed byE.A. Cosmetics.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f5/f58272_sunset-club-gant_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Fruity",
+        "Fresh",
+        "Woody"
+    ],
+    "top_notes": [
+        "Mandarin orange",
+        "Peach",
+        "Sand"
+    ],
+    "heart_notes": [
+        "Gardenia",
+        "Jasmine",
+        "Rose"
+    ],
+    "base_notes": [
+        "Musk",
+        "Patchouli",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.3",
+            "votes": "12 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            }
+        ]
+    }
+}

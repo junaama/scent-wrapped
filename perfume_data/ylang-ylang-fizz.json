@@ -1,0 +1,67 @@
+{
+    "name": "Ylang Ylang Fizz",
+    "brand": "Régime des Fleurs",
+    "release_year": "2025",
+    "description": "A new and limited perfume byRégime des Fleursfor women and men, released in2025. The scent is floral-fresh.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/74/749316_ylang-ylang-fizz-regime-des-fleurs_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Guava",
+        "Orange blossom",
+        "Pink pepper",
+        "Soda"
+    ],
+    "heart_notes": [
+        "Ylang-ylang",
+        "Star jasmine",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Coriander",
+        "Balsam",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            }
+        ]
+    }
+}

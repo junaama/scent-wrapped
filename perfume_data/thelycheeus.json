@@ -1,0 +1,37 @@
+{
+    "name": "Thelycheeus",
+    "brand": "Epicò",
+    "release_year": "2025",
+    "description": "A new perfume byEpicòfor women and men, released in2025. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/15/15a2fb_thelycheeus-epico_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Lemon",
+        "Lychee",
+        "Mandarin orange",
+        "Orange",
+        "Pink pepper",
+        "Pomegranate"
+    ],
+    "heart_notes": [
+        "Cypress",
+        "Green tea",
+        "Jasmine",
+        "Orris root",
+        "Rose"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Cedarwood",
+        "Musk",
+        "Patchouli"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

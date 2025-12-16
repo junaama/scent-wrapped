@@ -1,0 +1,149 @@
+{
+    "name": "Sunset Blossom",
+    "brand": "Bruno Banani",
+    "release_year": "2025",
+    "description": "A new perfume byBruno Bananifor women, released in2025. The scent is floral-sweet. It is being marketed byCoty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/80/807947_sunset-blossom-bruno-banani_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Fruity",
+        "Creamy",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Orange",
+        "Coconut",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Tuberose",
+        "Frangipani",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "25 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "22 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "22 Ratings"
+        },
+        "bottle": {
+            "score": "6.1",
+            "votes": "24 Ratings"
+        },
+        "pricing": {
+            "score": "9.0",
+            "votes": "20 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Gourmand",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 7
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 9
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 10
+            },
+            {
+                "name": "Spring",
+                "votes": 11
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 10
+            },
+            {
+                "name": "Sport",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 10
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 8
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

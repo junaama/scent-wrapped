@@ -1,0 +1,89 @@
+{
+    "name": "Viva Vanilla",
+    "brand": "essence",
+    "release_year": "2025",
+    "description": "A new perfume byessencefor women, released in2025. The scent is floral-gourmand. It is being marketed byCosnova.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a9/a95be3_viva-vanilla-essence_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Gourmand",
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Candied violet",
+        "Plum"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Vanilla orchid"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "2.0",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "2.5",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "4.0",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

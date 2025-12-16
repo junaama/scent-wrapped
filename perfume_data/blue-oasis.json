@@ -1,0 +1,24 @@
+{
+    "name": "Blue Oasis",
+    "brand": "Rubaza",
+    "release_year": "2025",
+    "description": "A new perfume byRubazafor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/95/95a6d3_blue-oasis-rubaza_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Ginger",
+        "Iris",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Cashmere",
+        "Patchouli"
+    ],
+    "base_notes": [
+        "Exotic woods",
+        "Patchouli"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

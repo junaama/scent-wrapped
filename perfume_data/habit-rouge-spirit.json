@@ -1,0 +1,133 @@
+{
+    "name": "Habit Rouge Spirit",
+    "brand": "Guerlain",
+    "release_year": "2025",
+    "description": "A new and limited perfume byGuerlainfor men, released in2025. The scent is sweet-powdery. Projection and longevity are above-average. It is being marketed byLVMH.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/54/547eb6_habit-rouge-spirit-guerlain_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Powdery",
+        "Woody",
+        "Spicy",
+        "Oriental"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "83 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "71 Ratings"
+        },
+        "sillage": {
+            "score": "8.1",
+            "votes": "71 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "74 Ratings"
+        },
+        "pricing": {
+            "score": "6.9",
+            "votes": "58 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 23
+            },
+            {
+                "name": "Sweet",
+                "votes": 32
+            },
+            {
+                "name": "Smoky",
+                "votes": 9
+            },
+            {
+                "name": "Powdery",
+                "votes": 30
+            },
+            {
+                "name": "Oriental",
+                "votes": 18
+            },
+            {
+                "name": "Woody",
+                "votes": 28
+            },
+            {
+                "name": "Gourmand",
+                "votes": 13
+            },
+            {
+                "name": "Creamy",
+                "votes": 13
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 31
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Classic",
+                "votes": 23
+            },
+            {
+                "name": "Modern",
+                "votes": 12
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 34
+            },
+            {
+                "name": "Fall",
+                "votes": 33
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 13
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Leisure",
+                "votes": 20
+            },
+            {
+                "name": "Night Out",
+                "votes": 31
+            },
+            {
+                "name": "Business",
+                "votes": 12
+            },
+            {
+                "name": "Evening",
+                "votes": 32
+            }
+        ]
+    }
+}

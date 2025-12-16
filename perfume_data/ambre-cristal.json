@@ -1,0 +1,144 @@
+{
+    "name": "Ambre Cristal",
+    "brand": "Nectar Olfactif",
+    "release_year": "2025",
+    "description": "A new perfume byNectar Olfactiffor women and men, released in2025. The scent is spicy-leathery.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/16/166963_ambre-cristal-nectar-olfactif_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Leathery",
+        "Woody",
+        "Resinous",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Pink pepper",
+        "Cardamom",
+        "Cinnamon",
+        "Nutmeg"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Leather",
+        "Rose",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Amberwood",
+        "Oud",
+        "Sandalwood",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "16 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "12 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "10 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "17 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Leathery",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Fiore",
+    "brand": "Teatro Fragranze Uniche",
+    "release_year": "2025",
+    "description": "A new perfume byTeatro Fragranze Unichefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ea/ea7533_fiore-teatro-fragranze-uniche_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Jasmine",
+        "White gardenia",
+        "White narcissus"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Frangipani",
+        "Patchouli",
+        "Rose"
+    ],
+    "base_notes": [
+        "Heliotrope",
+        "White musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

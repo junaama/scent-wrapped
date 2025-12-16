@@ -1,0 +1,135 @@
+{
+    "name": "Noor",
+    "brand": "Riiffs",
+    "release_year": "2025",
+    "description": "A new perfume byRiiffsfor women and men, released in2025. The scent is sweet-creamy. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/71/7196ee_noor-riiffs_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Creamy",
+        "Gourmand",
+        "Powdery",
+        "Floral"
+    ],
+    "top_notes": [
+        "Milk",
+        "Caramel"
+    ],
+    "heart_notes": [
+        "Gourmand notes",
+        "Lily of the valley"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Praliné",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.7",
+            "votes": "26 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "24 Ratings"
+        },
+        "sillage": {
+            "score": "7.9",
+            "votes": "24 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "27 Ratings"
+        },
+        "pricing": {
+            "score": "8.8",
+            "votes": "23 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

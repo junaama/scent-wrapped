@@ -1,0 +1,97 @@
+{
+    "name": "Midnight Church",
+    "brand": "Obscura Fragrancia",
+    "release_year": "2025",
+    "description": "A new perfume byObscura Fragranciafor women and men, released in2025. The scent is smoky-spicy. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8b/8ba49b_midnight-church-obscura-fragrancia_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Spicy",
+        "Oriental",
+        "Woody",
+        "Earthy"
+    ],
+    "top_notes": [
+        "Frankincense",
+        "Palo Santo",
+        "Violet"
+    ],
+    "heart_notes": [
+        "Cade juniper",
+        "Cistus",
+        "Rose"
+    ],
+    "base_notes": [
+        "Frankincense",
+        "Gaiac wood",
+        "Resins"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

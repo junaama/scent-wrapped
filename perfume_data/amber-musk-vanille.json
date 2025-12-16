@@ -1,0 +1,117 @@
+{
+    "name": "Amber Musk Vanille",
+    "brand": "Aerin",
+    "release_year": "2025",
+    "description": "A new and limited perfume byAerinfor women, released in2025. The scent is creamy-sweet. It is being marketed byEstēe Lauder Companies.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/19/1989f7_amber-musk-vanille-aerin_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Creamy",
+        "Sweet",
+        "Floral",
+        "Gourmand",
+        "Powdery"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "26 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "21 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "17 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "30 Ratings"
+        },
+        "pricing": {
+            "score": "7.4",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Powdery",
+                "votes": 4
+            },
+            {
+                "name": "Gourmand",
+                "votes": 6
+            },
+            {
+                "name": "Creamy",
+                "votes": 9
+            },
+            {
+                "name": "Floral",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

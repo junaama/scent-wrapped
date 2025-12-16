@@ -1,0 +1,121 @@
+{
+    "name": "Fiori di Neroli",
+    "brand": "Gucci",
+    "release_year": "2025",
+    "description": "A new perfume byGuccifor women and men, released in2025. The scent is fresh-citrusy. It is being marketed byCoty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d3/d3cef6-fiori-di-neroli-gucci_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Citrus",
+        "Floral",
+        "Green",
+        "Woody"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "32 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "23 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "22 Ratings"
+        },
+        "bottle": {
+            "score": "8.7",
+            "votes": "26 Ratings"
+        },
+        "pricing": {
+            "score": "5.1",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 9
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Green",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 10
+            },
+            {
+                "name": "Floral",
+                "votes": 9
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 11
+            },
+            {
+                "name": "Spring",
+                "votes": 12
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 11
+            },
+            {
+                "name": "Sport",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 11
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 10
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

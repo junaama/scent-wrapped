@@ -1,0 +1,121 @@
+{
+    "name": "Rosa Nigra",
+    "brand": "Buchoed",
+    "release_year": "2025",
+    "description": "A new perfume byBuchoedfor women and men, released in2025. The scent is resinous-floral.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/03/03531e_rosa-nigra-buchod_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Floral",
+        "Sweet",
+        "Spicy",
+        "Woody"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "32 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "27 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "28 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "20 Ratings"
+        },
+        "pricing": {
+            "score": "7.7",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Smoky",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Resinous",
+                "votes": 12
+            },
+            {
+                "name": "Floral",
+                "votes": 11
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 10
+            },
+            {
+                "name": "Fall",
+                "votes": 11
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 10
+            }
+        ]
+    }
+}

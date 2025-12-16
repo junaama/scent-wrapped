@@ -1,0 +1,24 @@
+{
+    "name": "Segreto",
+    "brand": "Brunello Cucinelli",
+    "release_year": "2025",
+    "description": "A new perfume byBrunello Cucinellifor women and men, released in2025. It is being marketed byEuroItalia.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Calabrian bergamot",
+        "Sicilian mandarin orange"
+    ],
+    "heart_notes": [
+        "Neroli",
+        "Orange blossom",
+        "Orange blossom absolute",
+        "Paraguayan petigrain"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Siam benzoin"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,125 @@
+{
+    "name": "Aldebaran",
+    "brand": "Marc-Antoine Barrois",
+    "release_year": "2025",
+    "description": "A new perfume byMarc-Antoine Barroisfor women and men, released in2025. The scent is floral-green. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/04/04ed20_aldebaran-marc-antoine-barrois_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Green",
+        "Creamy",
+        "Synthetic",
+        "Spicy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "6.5",
+            "votes": "360 Ratings"
+        },
+        "durability": {
+            "score": "8.6",
+            "votes": "300 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "299 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "279 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "232 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 34
+            },
+            {
+                "name": "Synthetic",
+                "votes": 34
+            },
+            {
+                "name": "Sweet",
+                "votes": 31
+            },
+            {
+                "name": "Green",
+                "votes": 41
+            },
+            {
+                "name": "Creamy",
+                "votes": 36
+            },
+            {
+                "name": "Floral",
+                "votes": 66
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 48
+            },
+            {
+                "name": "Feminine",
+                "votes": 51
+            },
+            {
+                "name": "Classic",
+                "votes": 10
+            },
+            {
+                "name": "Modern",
+                "votes": 47
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 33
+            },
+            {
+                "name": "Fall",
+                "votes": 58
+            },
+            {
+                "name": "Summer",
+                "votes": 33
+            },
+            {
+                "name": "Spring",
+                "votes": 59
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 28
+            },
+            {
+                "name": "Leisure",
+                "votes": 60
+            },
+            {
+                "name": "Night Out",
+                "votes": 37
+            },
+            {
+                "name": "Business",
+                "votes": 21
+            },
+            {
+                "name": "Evening",
+                "votes": 39
+            }
+        ]
+    }
+}

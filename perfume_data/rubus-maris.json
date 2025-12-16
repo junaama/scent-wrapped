@@ -1,0 +1,131 @@
+{
+    "name": "Rubus Maris",
+    "brand": "Laura Biagiotti",
+    "release_year": "2025",
+    "description": "A new perfume byLaura Biagiottifor women, released in2025. The scent is creamy-sweet. It is being marketed byAB Parfums / Angelini Beauty.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/ee/ee3506_rubus-maris-laura-biagiotti_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Creamy",
+        "Sweet",
+        "Floral",
+        "Fresh",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Italian pear",
+        "Ginger sorbet",
+        "Chamomile",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Sea daffodil",
+        "Magnolia",
+        "Rose absolute",
+        "Salt"
+    ],
+    "base_notes": [
+        "Cashmere wood",
+        "Heliotrope",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.3",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "6.4",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "name": "Black Orchid Reserve",
+    "brand": "Tom Ford",
+    "release_year": "2025",
+    "description": "A new perfume byTom Fordfor women and men, released in2025. The scent is floral-sweet. Projection and longevity are above-average. It is being marketed byEstēe Lauder Companies.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/69/69f83a_black-orchid-reserve-tom-ford_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Earthy",
+        "Fruity",
+        "Creamy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "53 Ratings"
+        },
+        "durability": {
+            "score": "8.8",
+            "votes": "44 Ratings"
+        },
+        "sillage": {
+            "score": "8.3",
+            "votes": "43 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "44 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "34 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 6
+            },
+            {
+                "name": "Sweet",
+                "votes": 9
+            },
+            {
+                "name": "Oriental",
+                "votes": 7
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Resinous",
+                "votes": 4
+            },
+            {
+                "name": "Gourmand",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 8
+            },
+            {
+                "name": "Earthy",
+                "votes": 9
+            },
+            {
+                "name": "Creamy",
+                "votes": 8
+            },
+            {
+                "name": "Floral",
+                "votes": 10
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 9
+            },
+            {
+                "name": "Feminine",
+                "votes": 11
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 8
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 11
+            },
+            {
+                "name": "Fall",
+                "votes": 11
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 12
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 12
+            }
+        ]
+    }
+}

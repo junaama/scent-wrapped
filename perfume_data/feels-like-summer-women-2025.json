@@ -1,0 +1,137 @@
+{
+    "name": "Feels Like Summer Women 2025",
+    "brand": "s.Oliver",
+    "release_year": "2025",
+    "description": "A new and limited perfume bys.Oliverfor women, released in2025. The scent is aquatic-citrusy. It is being marketed byMäurer & Wirtz.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/4c/4cc32b_feels-like-summer-women-2025-s-oliver_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Aquatic",
+        "Citrus",
+        "Fresh",
+        "Floral",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Aquatic notes",
+        "Aquatic plants",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Peony",
+        "Rose"
+    ],
+    "base_notes": [
+        "Cashmere wood",
+        "Amber",
+        "Cedarwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "4.9",
+            "votes": "9 Ratings"
+        },
+        "durability": {
+            "score": "4.8",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "4.6",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "4.5",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            },
+            {
+                "name": "Aquatic",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            }
+        ]
+    }
+}

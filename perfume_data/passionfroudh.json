@@ -1,0 +1,129 @@
+{
+    "name": "Passionfroudh",
+    "brand": "Fugazzi",
+    "release_year": "2025",
+    "description": "A new perfume byFugazzifor women and men, released in2025. The scent is fruity-woody. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/fb/fb42bd_passionfroudh-fugazzi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Woody",
+        "Leathery",
+        "Spicy",
+        "Oriental"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "262 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "236 Ratings"
+        },
+        "sillage": {
+            "score": "8.1",
+            "votes": "236 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "234 Ratings"
+        },
+        "pricing": {
+            "score": "7.8",
+            "votes": "222 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 34
+            },
+            {
+                "name": "Sweet",
+                "votes": 22
+            },
+            {
+                "name": "Smoky",
+                "votes": 14
+            },
+            {
+                "name": "Oriental",
+                "votes": 31
+            },
+            {
+                "name": "Leathery",
+                "votes": 38
+            },
+            {
+                "name": "Woody",
+                "votes": 44
+            },
+            {
+                "name": "Fruity",
+                "votes": 58
+            },
+            {
+                "name": "Animal",
+                "votes": 12
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 55
+            },
+            {
+                "name": "Feminine",
+                "votes": 23
+            },
+            {
+                "name": "Modern",
+                "votes": 48
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 44
+            },
+            {
+                "name": "Fall",
+                "votes": 57
+            },
+            {
+                "name": "Summer",
+                "votes": 33
+            },
+            {
+                "name": "Spring",
+                "votes": 52
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 28
+            },
+            {
+                "name": "Leisure",
+                "votes": 51
+            },
+            {
+                "name": "Night Out",
+                "votes": 57
+            },
+            {
+                "name": "Business",
+                "votes": 18
+            },
+            {
+                "name": "Evening",
+                "votes": 54
+            }
+        ]
+    }
+}

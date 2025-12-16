@@ -1,0 +1,117 @@
+{
+    "name": "Safranal Ambroxan",
+    "brand": "Fugazzi",
+    "release_year": "2025",
+    "description": "A new and limited perfume byFugazzifor women and men, released in2025. The scent is synthetic-fruity. Projection and longevity are above-average. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/3c/3cf8e7_safranal-ambroxan-fugazzi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Fruity",
+        "Fresh",
+        "Leathery",
+        "Spicy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "8.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

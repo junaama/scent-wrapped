@@ -1,0 +1,113 @@
+{
+    "name": "Pistachio Glaze",
+    "brand": "Bath & Body Works",
+    "release_year": "2025",
+    "description": "A new perfume byBath & Body Worksfor women, released in2025. The scent is gourmand-creamy.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/25/25c962_pistachio-glaze-fragrance-mist-bath-body-works_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Creamy",
+        "Sweet",
+        "Powdery",
+        "Oriental"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.7",
+            "votes": "15 Ratings"
+        },
+        "durability": {
+            "score": "6.3",
+            "votes": "12 Ratings"
+        },
+        "sillage": {
+            "score": "6.2",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "13 Ratings"
+        },
+        "pricing": {
+            "score": "8.9",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 10
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 11
+            },
+            {
+                "name": "Creamy",
+                "votes": 10
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

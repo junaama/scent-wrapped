@@ -1,0 +1,124 @@
+{
+    "name": "Breathe",
+    "brand": "Akro",
+    "release_year": "2025",
+    "description": "A new perfume byAkrofor women and men, released in2025. The scent is fresh-citrusy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/73/73821a_breathe-akro_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Citrus",
+        "Aquatic",
+        "Green",
+        "Floral"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Lavender"
+    ],
+    "heart_notes": [
+        "Aquatic notes"
+    ],
+    "base_notes": [
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.7",
+            "votes": "79 Ratings"
+        },
+        "durability": {
+            "score": "5.6",
+            "votes": "59 Ratings"
+        },
+        "sillage": {
+            "score": "5.4",
+            "votes": "59 Ratings"
+        },
+        "bottle": {
+            "score": "6.1",
+            "votes": "54 Ratings"
+        },
+        "pricing": {
+            "score": "5.0",
+            "votes": "46 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 25
+            },
+            {
+                "name": "Synthetic",
+                "votes": 6
+            },
+            {
+                "name": "Green",
+                "votes": 14
+            },
+            {
+                "name": "Fresh",
+                "votes": 34
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            },
+            {
+                "name": "Aquatic",
+                "votes": 25
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 31
+            },
+            {
+                "name": "Feminine",
+                "votes": 13
+            },
+            {
+                "name": "Classic",
+                "votes": 13
+            },
+            {
+                "name": "Modern",
+                "votes": 15
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 35
+            },
+            {
+                "name": "Spring",
+                "votes": 29
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 32
+            },
+            {
+                "name": "Sport",
+                "votes": 21
+            },
+            {
+                "name": "Leisure",
+                "votes": 31
+            },
+            {
+                "name": "Business",
+                "votes": 27
+            }
+        ]
+    }
+}

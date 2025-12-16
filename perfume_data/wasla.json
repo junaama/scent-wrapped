@@ -1,0 +1,31 @@
+{
+    "name": "Wasla",
+    "brand": "Omanluxury",
+    "release_year": "2025",
+    "description": "A new perfume byOmanluxuryfor women and men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Black pepper",
+        "Fig",
+        "Juniper berry",
+        "Lemon",
+        "Pear",
+        "Pink pepper",
+        "Turmeric leaf"
+    ],
+    "heart_notes": [
+        "Clary sage",
+        "Frankincense",
+        "Gun powder"
+    ],
+    "base_notes": [
+        "Gaiac wood",
+        "Musk",
+        "Patchouli",
+        "Tonka bean",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,97 @@
+{
+    "name": "Ludatrix",
+    "brand": "Vyrao",
+    "release_year": "2025",
+    "description": "A new perfume byVyraofor women and men, released in2025. The scent is woody-floral.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c7/c74ecf_ludatrix-vyrao_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Floral",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Ambrette seed absolute",
+        "Lipstick",
+        "Sichuan pepper absolute"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Latex",
+        "Orris concrete",
+        "Rose Essential™"
+    ],
+    "base_notes": [
+        "Ambrox",
+        "Cedarwood",
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "6.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

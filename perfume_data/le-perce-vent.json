@@ -1,0 +1,133 @@
+{
+    "name": "Le perce-vent",
+    "brand": "Serge Lutens",
+    "release_year": "2025",
+    "description": "A new perfume bySerge Lutensfor women and men, released in2025. The scent is fresh-powdery. It is being marketed byShiseido Group / Beauté Prestige International.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/53/530896_le-perce-vent-serge-lutens_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Powdery",
+        "Synthetic",
+        "Floral",
+        "Spicy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "6.4",
+            "votes": "41 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "33 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "32 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "32 Ratings"
+        },
+        "pricing": {
+            "score": "6.3",
+            "votes": "20 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Synthetic",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Powdery",
+                "votes": 9
+            },
+            {
+                "name": "Fresh",
+                "votes": 11
+            },
+            {
+                "name": "Fougère",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 11
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 11
+            },
+            {
+                "name": "Summer",
+                "votes": 9
+            },
+            {
+                "name": "Spring",
+                "votes": 14
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 15
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 11
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 10
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

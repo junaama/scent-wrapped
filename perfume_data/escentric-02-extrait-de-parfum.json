@@ -1,0 +1,159 @@
+{
+    "name": "Escentric 02",
+    "brand": "Escentric Molecules",
+    "release_year": "2025",
+    "description": "A new perfume byEscentric Moleculesfor women and men, released in2025. The scent is fresh-citrusy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/75/757a98_escentric-02-extrait-de-parfum-escentric-molecules_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Citrus",
+        "Spicy",
+        "Synthetic",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Almdudler",
+        "Juniper berry",
+        "Lime",
+        "Bergamot",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Ginger",
+        "Hedione",
+        "Orris root",
+        "Clary sage",
+        "Freesia",
+        "Pink pepper"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Muscone",
+        "Tonka bean",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "32 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "32 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "32 Ratings"
+        },
+        "bottle": {
+            "score": "6.9",
+            "votes": "31 Ratings"
+        },
+        "pricing": {
+            "score": "5.5",
+            "votes": "25 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 12
+            },
+            {
+                "name": "Spicy",
+                "votes": 12
+            },
+            {
+                "name": "Synthetic",
+                "votes": 9
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Fresh",
+                "votes": 13
+            },
+            {
+                "name": "Earthy",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 13
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 8
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 14
+            },
+            {
+                "name": "Spring",
+                "votes": 14
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 12
+            },
+            {
+                "name": "Sport",
+                "votes": 8
+            },
+            {
+                "name": "Leisure",
+                "votes": 13
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 11
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

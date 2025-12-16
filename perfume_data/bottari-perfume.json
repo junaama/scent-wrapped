@@ -1,0 +1,65 @@
+{
+    "name": "Bottari",
+    "brand": "Tamburins",
+    "release_year": "2025",
+    "description": "A new perfume byTamburinsfor women and men, released in2025. The scent is earthy-woody. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/65/657460_bottari-perfume-tamburins_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Earthy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Akigalawood®"
+    ],
+    "heart_notes": [
+        "Ambrette",
+        "Ambroxan"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Moss",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.9",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

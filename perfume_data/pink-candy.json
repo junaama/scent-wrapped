@@ -1,0 +1,41 @@
+{
+    "name": "Pink Candy",
+    "brand": "Zyara",
+    "release_year": "2025",
+    "description": "A new perfume byZyarafor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4a/4ae352_pink-candy-zyara_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Candied pear",
+        "Marshmallow",
+        "Rum",
+        "Vanilla cream",
+        "Violet",
+        "Ylang-ylang"
+    ],
+    "heart_notes": [
+        "Chewing gum",
+        "Jasmine",
+        "Jelly bean",
+        "Labdanum",
+        "White caramel"
+    ],
+    "base_notes": [
+        "Cashmere wood",
+        "Musk",
+        "Patchouli",
+        "Praliné",
+        "Rock sugar",
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

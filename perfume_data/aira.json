@@ -1,0 +1,138 @@
+{
+    "name": "Aira",
+    "brand": "Sospiro",
+    "release_year": "2025",
+    "description": "A new perfume bySospirofor women and men, released in2025. The scent is woody-leathery. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/69/691df0-aira-sospiro_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Leathery",
+        "Resinous",
+        "Earthy",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Patchouli",
+        "Amber",
+        "Frankincense",
+        "Oriental notes"
+    ],
+    "heart_notes": [
+        "Cumin",
+        "Earthy notes",
+        "Labdanum"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Animalic notes",
+        "Oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "46 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "42 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "42 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "43 Ratings"
+        },
+        "pricing": {
+            "score": "6.9",
+            "votes": "34 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Smoky",
+                "votes": 3
+            },
+            {
+                "name": "Oriental",
+                "votes": 4
+            },
+            {
+                "name": "Leathery",
+                "votes": 10
+            },
+            {
+                "name": "Woody",
+                "votes": 10
+            },
+            {
+                "name": "Resinous",
+                "votes": 9
+            },
+            {
+                "name": "Earthy",
+                "votes": 9
+            },
+            {
+                "name": "Animal",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 11
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 10
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

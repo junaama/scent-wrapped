@@ -1,0 +1,42 @@
+{
+    "name": "Fleur Street",
+    "brand": "The Dua Brand",
+    "release_year": "2025",
+    "description": "A new perfume byThe Dua Brandfor women and men, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/2c/2cf61e_fleur-street-the-dua-brand-dua-fragrances_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Freesia",
+        "Green leaves"
+    ],
+    "heart_notes": [
+        "Grasse rose absolute",
+        "Jasmine sambac absolute",
+        "Jasminum grandiflorum absolute",
+        "Peach",
+        "Tuberose absolute"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Oakmoss"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "5.8",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Rose",
+    "brand": "O'Douds",
+    "release_year": "2025",
+    "description": "A new perfume byO'Doudsfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/cd/cd2b54_rose-baume-du-parfum-o-douds_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cardamom",
+        "Mandarin orange",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Davana",
+        "Rose",
+        "Rosewood"
+    ],
+    "base_notes": [
+        "Cocoa",
+        "Tobacco",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

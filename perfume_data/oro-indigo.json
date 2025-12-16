@@ -1,0 +1,24 @@
+{
+    "name": "Oro Indigo",
+    "brand": "LuNiche",
+    "release_year": "2025",
+    "description": "A new perfume byLuNichefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/42/4239c3_oro-indigo-luniche_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Citrus notes",
+        "Lemon",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Marine notes",
+        "Pineapple"
+    ],
+    "base_notes": [
+        "Amber",
+        "Ambergris",
+        "Moss"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

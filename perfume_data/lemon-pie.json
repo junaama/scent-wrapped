@@ -1,0 +1,27 @@
+{
+    "name": "Lemon Pie",
+    "brand": "Toni Cabal",
+    "release_year": "2025",
+    "description": "A new perfume byToni Cabalfor women and men, released in2025. The projection is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4d/4dbfd9_lemon-pie-toni-cabal-drops_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Green mandarin orange",
+        "Spanish lemon"
+    ],
+    "heart_notes": [
+        "Orange blossom",
+        "Water lily"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sugar"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

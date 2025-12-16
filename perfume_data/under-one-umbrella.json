@@ -1,0 +1,29 @@
+{
+    "name": "Under One Umbrella",
+    "brand": "The Dua Brand",
+    "release_year": "2025",
+    "description": "A new perfume byThe Dua Brandfor women and men, released in2025. The perfume is vegan according to the manufacturer.PronunciationCompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/f0/f0083b_under-one-umbrella-the-dua-brand_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blackcurrant bud",
+        "Puffed rice"
+    ],
+    "heart_notes": [
+        "Cyclamen",
+        "Genmaicha"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Musk",
+        "Vanilla",
+        "Woody notes"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "4.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

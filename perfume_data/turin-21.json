@@ -1,0 +1,35 @@
+{
+    "name": "Turin 21",
+    "brand": "The Dua Brand",
+    "release_year": "2025",
+    "description": "A new perfume byThe Dua Brandfor women and men, released in2025. The scent is fresh-citrusy. Projection and longevity are above-average. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/ef/ef4e1a_turin-21-the-dua-brand-dua-fragrances_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Citrus",
+        "Green"
+    ],
+    "top_notes": [
+        "Basil",
+        "Lemon",
+        "Mint",
+        "Rosemary",
+        "Thyme"
+    ],
+    "heart_notes": [
+        "Blackcurrant",
+        "Jasmine",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Musk",
+        "Vervain"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

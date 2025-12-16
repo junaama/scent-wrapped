@@ -1,0 +1,137 @@
+{
+    "name": "Vision",
+    "brand": "Maison Asrar",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Asrarfor women and men, released in2025. The scent is fruity-fresh. It is being marketed byGulf Orchid Fragrances.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e1/e134b7_vision-maison-asrar_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Fresh",
+        "Citrus",
+        "Green",
+        "Aquatic"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Green lemon",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Basil",
+        "Coriander",
+        "White tea"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Moss",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "15 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "14 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "8.9",
+            "votes": "15 Ratings"
+        },
+        "pricing": {
+            "score": "8.9",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 6
+            },
+            {
+                "name": "Fresh",
+                "votes": 6
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

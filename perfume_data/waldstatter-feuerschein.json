@@ -1,0 +1,100 @@
+{
+    "name": "Waldstätter Feuerschein",
+    "brand": "Umbra Helvetica",
+    "release_year": "2025",
+    "description": "A new perfume byUmbra Helveticafor women and men, released in2025. The scent is sweet-smoky. Projection and longevity are above-average. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a7/a7716e_waldstatter-feuerschein-umbra-helvetica_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Apple",
+        "Basil",
+        "Ginger",
+        "Pink pepper",
+        "Rhubarb",
+        "Rose",
+        "Whisky"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Black cherry",
+        "Cinnamon",
+        "Clove",
+        "Honey",
+        "Rum",
+        "Spices",
+        "Sugar",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Beeswax",
+        "Brazilian vetiver",
+        "Castoreum",
+        "Labdanum",
+        "Oakmoss",
+        "Smoke",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "8.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

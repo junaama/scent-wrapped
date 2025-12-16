@@ -1,0 +1,142 @@
+{
+    "name": "La Passeggiata",
+    "brand": "Perris Portofino",
+    "release_year": "2025",
+    "description": "A new perfume byPerris Portofinofor women and men, released in2025. The scent is woody-sweet. It is being marketed byPerris Group.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/5a/5aba34_la-passeggiata-perris-portofino_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Sweet",
+        "Fresh",
+        "Fruity",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Black pepper",
+        "Blood orange",
+        "Lemon leaf"
+    ],
+    "heart_notes": [
+        "Tonka bean",
+        "Cypress",
+        "Fig"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Labdanum",
+        "Patchouli",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "13 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "11 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "11 Ratings"
+        },
+        "bottle": {
+            "score": "6.8",
+            "votes": "16 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

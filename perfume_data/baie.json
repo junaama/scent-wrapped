@@ -1,0 +1,144 @@
+{
+    "name": "Baie",
+    "brand": "French Avenue",
+    "release_year": "2025",
+    "description": "A new perfume byFrench Avenuefor women and men, released in2025. The scent is sweet-fruity. It is being marketed byFragrance World Trading LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c9/c99a85_baie-french-avenue_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Synthetic",
+        "Fresh",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Bergamot",
+        "Rosemary"
+    ],
+    "heart_notes": [
+        "Raspberry",
+        "Vodka",
+        "Basil"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "76 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "67 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "67 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "71 Ratings"
+        },
+        "pricing": {
+            "score": "8.7",
+            "votes": "64 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 8
+            },
+            {
+                "name": "Synthetic",
+                "votes": 12
+            },
+            {
+                "name": "Sweet",
+                "votes": 18
+            },
+            {
+                "name": "Powdery",
+                "votes": 5
+            },
+            {
+                "name": "Gourmand",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 18
+            },
+            {
+                "name": "Fresh",
+                "votes": 10
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 17
+            },
+            {
+                "name": "Modern",
+                "votes": 12
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 17
+            },
+            {
+                "name": "Spring",
+                "votes": 16
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 12
+            },
+            {
+                "name": "Leisure",
+                "votes": 16
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 10
+            }
+        ]
+    }
+}

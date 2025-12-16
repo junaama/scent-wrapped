@@ -1,0 +1,28 @@
+{
+    "name": "Mellow Mood",
+    "brand": "Marley Fragrance",
+    "release_year": "2025",
+    "description": "A new perfume byMarley Fragrancefor men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d4/d4a536_mellow-mood-marley-fragrance_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Citron",
+        "Lemon",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Basil",
+        "Coriander seed",
+        "Geranium",
+        "Ginger zest"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Cedarwood",
+        "Cognac",
+        "Patchouli"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

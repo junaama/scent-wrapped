@@ -1,0 +1,128 @@
+{
+    "name": "Never Look Back",
+    "brand": "Lost Academy",
+    "release_year": "2025",
+    "description": "A new perfume byLost Academyfor men, released in2025. The scent is woody-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ea/ea912d_never-look-back-lost-academy_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Fresh",
+        "Spicy",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Blackcurrant",
+        "Grapefruit",
+        "Grass",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Bulgarian rose",
+        "Cedar",
+        "Osmanthus"
+    ],
+    "base_notes": [
+        "Amber",
+        "Oud",
+        "Sandalwood",
+        "Tobacco",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.1",
+            "votes": "14 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "12 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "11 Ratings"
+        },
+        "bottle": {
+            "score": "5.9",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Fresh",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

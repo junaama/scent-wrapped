@@ -1,0 +1,135 @@
+{
+    "name": "Ilba",
+    "brand": "Tiziana Terenzi",
+    "release_year": "2025",
+    "description": "A new perfume byTiziana Terenzifor women and men, released in2025. The scent is floral-sweet. It is being marketed byCereria Terenzi Evelino.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/be/bea76d_ilba-tiziana-terenzi_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Powdery",
+        "Fresh",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Indian jasmine sambac",
+        "Japanese cherry blossom",
+        "Juniper leaf",
+        "Lavender",
+        "Tuscan apricot blossom"
+    ],
+    "heart_notes": [
+        "Cherry",
+        "Italian magnolia",
+        "Italian peach blossom",
+        "Musk",
+        "Oxygen"
+    ],
+    "base_notes": [
+        "Arbutus",
+        "Ambergris",
+        "Italian juniper",
+        "Red elm",
+        "Tuscan birch"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "30 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "26 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "25 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "33 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Powdery",
+                "votes": 6
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Fresh",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

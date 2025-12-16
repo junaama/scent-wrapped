@@ -1,0 +1,117 @@
+{
+    "name": "Cocoa Bliss",
+    "brand": "Zara",
+    "release_year": "2025",
+    "description": "A new perfume byZarafor women, released in2025. The scent is fruity-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b9/b93fb4_cocoa-bliss-zara_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Gourmand",
+        "Creamy",
+        "Synthetic"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "27 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "20 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "20 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "24 Ratings"
+        },
+        "pricing": {
+            "score": "9.1",
+            "votes": "18 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 12
+            },
+            {
+                "name": "Gourmand",
+                "votes": 11
+            },
+            {
+                "name": "Fruity",
+                "votes": 13
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 11
+            },
+            {
+                "name": "Modern",
+                "votes": 10
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 9
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

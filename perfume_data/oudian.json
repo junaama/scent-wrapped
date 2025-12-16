@@ -1,0 +1,137 @@
+{
+    "name": "Oudian",
+    "brand": "pernoire",
+    "release_year": "2025",
+    "description": "A new perfume bypernoirefor women and men, released in2025. The scent is fruity-woody. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5d/5dc370_oudian-pernoire_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Woody",
+        "Spicy",
+        "Animal",
+        "Leathery"
+    ],
+    "top_notes": [
+        "Tropical fruits",
+        "Durian fruit",
+        "Saffron",
+        "Sichuan pepper"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Labdanum"
+    ],
+    "base_notes": [
+        "Oud",
+        "Leather",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "143 Ratings"
+        },
+        "durability": {
+            "score": "9.0",
+            "votes": "135 Ratings"
+        },
+        "sillage": {
+            "score": "8.7",
+            "votes": "134 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "122 Ratings"
+        },
+        "pricing": {
+            "score": "6.8",
+            "votes": "115 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 23
+            },
+            {
+                "name": "Sweet",
+                "votes": 16
+            },
+            {
+                "name": "Oriental",
+                "votes": 15
+            },
+            {
+                "name": "Leathery",
+                "votes": 18
+            },
+            {
+                "name": "Woody",
+                "votes": 31
+            },
+            {
+                "name": "Fruity",
+                "votes": 40
+            },
+            {
+                "name": "Animal",
+                "votes": 21
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 33
+            },
+            {
+                "name": "Feminine",
+                "votes": 20
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 30
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 33
+            },
+            {
+                "name": "Fall",
+                "votes": 35
+            },
+            {
+                "name": "Summer",
+                "votes": 14
+            },
+            {
+                "name": "Spring",
+                "votes": 21
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 20
+            },
+            {
+                "name": "Night Out",
+                "votes": 34
+            },
+            {
+                "name": "Evening",
+                "votes": 34
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Oak & Amber",
+    "brand": "Kitsch",
+    "release_year": "2025",
+    "description": "A new perfume byKitschfor women and men, released in2025. The scent is synthetic-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8a/8a0aa0_oak-amber-kitsch_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Raspberry",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Wild orchid"
+    ],
+    "base_notes": [
+        "Amber",
+        "Smoked wood",
+        "Sugar",
+        "Tree moss",
+        "Woods"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

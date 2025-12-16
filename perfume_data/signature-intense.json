@@ -1,0 +1,53 @@
+{
+    "name": "Signature Intense",
+    "brand": "bugatti Fashion",
+    "release_year": "2025",
+    "description": "A new perfume bybugatti Fashionfor men, released in2025. The scent is smoky-animal. It is being marketed byLuxess.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/db/db112e_signature-intense-bugatti-fashion_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Animal",
+        "Citrus",
+        "Spicy",
+        "Leathery"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Blackcurrant",
+        "Honey pomelo",
+        "Lemon",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Leather",
+        "Saffron",
+        "Spices",
+        "Orris root"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Tonka bean",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "4.5",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "6.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "6.4",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

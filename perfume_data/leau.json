@@ -1,0 +1,101 @@
+{
+    "name": "Leau",
+    "brand": "Brume Orpin",
+    "release_year": "2025",
+    "description": "A new perfume byBrume Orpinfor women and men, released in2025. The scent is powdery-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/29/296cce_leau-brume-orpin_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Powdery",
+        "Fresh",
+        "Earthy",
+        "Green"
+    ],
+    "top_notes": [
+        "French carrot seed",
+        "Mediterranean galbanum"
+    ],
+    "heart_notes": [
+        "Fennel",
+        "Pearadise®"
+    ],
+    "base_notes": [
+        "Amber",
+        "Ecomusk®"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.0",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "9.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            }
+        ]
+    }
+}

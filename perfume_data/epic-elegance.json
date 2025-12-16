@@ -1,0 +1,51 @@
+{
+    "name": "Epic Elegance",
+    "brand": "House of Thêom",
+    "release_year": "2025",
+    "description": "A new perfume byHouse of Thêomfor women and men, released in2025. The scent is spicy-woody. It is being marketed byNew Flag GmbH.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/30/304529_epic-elegance-house-of-theom_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Sweet",
+        "Leathery",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Fruity notes",
+        "Aromatic notes",
+        "Lavender"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Suede",
+        "Iris"
+    ],
+    "base_notes": [
+        "Tonka bean",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "33 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "28 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "29 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "30 Ratings"
+        },
+        "pricing": {
+            "score": "8.8",
+            "votes": "27 Ratings"
+        }
+    },
+    "community_charts": {}
+}

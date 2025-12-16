@@ -1,0 +1,30 @@
+{
+    "name": "Pomelo Hombre",
+    "brand": "Adolfo Dominguez",
+    "release_year": "2025",
+    "description": "A new and limited perfume byAdolfo Dominguezfor men, released in2025. It is being marketed byPuig.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/b4/b4bb2e_pomelo-hombre-adolfo-dominguez_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Grapefruit",
+        "Lemon grass",
+        "Vervain"
+    ],
+    "heart_notes": [
+        "Elemi resin",
+        "Ginger",
+        "Marine notes"
+    ],
+    "base_notes": [
+        "Ambrox",
+        "Cedar",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Kinesis",
+    "brand": "The Alloy Studio",
+    "release_year": "2025",
+    "description": "A new perfume byThe Alloy Studiofor women and men, released in2025. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a9/a9b2f3_kinesis-the-alloy-studio_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cherry blossom",
+        "Egyptian neroli",
+        "Lavender",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Rose",
+        "White lotus"
+    ],
+    "base_notes": [
+        "Aquatic notes",
+        "Frankincense",
+        "Musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

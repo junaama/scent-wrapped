@@ -1,0 +1,87 @@
+{
+    "name": "40 Tabacco e Incenso",
+    "brand": "Compagnia delle Indie",
+    "release_year": "2025",
+    "description": "A new perfume byCompagnia delle Indiefor women and men, released in2025. The scent is resinous-gourmand. It is being marketed byMyluna.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a8/a82e3b_40-tabacco-e-incenso-compagnia-delle-indie_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Gourmand",
+        "Spicy",
+        "Fresh",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Cannabis"
+    ],
+    "heart_notes": [
+        "Tobacco",
+        "Coffee",
+        "Resins"
+    ],
+    "base_notes": [
+        "Frankincense",
+        "Oud",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

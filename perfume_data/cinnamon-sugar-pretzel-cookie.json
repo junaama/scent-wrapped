@@ -1,0 +1,88 @@
+{
+    "name": "Cinnamon Sugar Pretzel Cookie",
+    "brand": "Bath & Body Works",
+    "release_year": "2025",
+    "description": "A new and limited perfume byBath & Body Worksfor women, released in2025. The scent is gourmand-sweet.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/a3/a39da0_cinnamon-sugar-pretzel-cookie-bath-body-works_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Sweet",
+        "Spicy",
+        "Synthetic"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "8 Ratings"
+        },
+        "durability": {
+            "score": "5.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Gourmand",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

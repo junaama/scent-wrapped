@@ -1,0 +1,142 @@
+{
+    "name": "Sole d'Italia",
+    "brand": "bugatti Fashion",
+    "release_year": "2025",
+    "description": "A new perfume bybugatti Fashionfor women, released in2025. The scent is sweet-floral. It is being marketed byLuxess.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/3a/3aadb2_felicita-sole-d-italia-bugatti-fashion_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Creamy",
+        "Fruity",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Orange blossom",
+        "Mandarin orange",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Tiaré",
+        "Solar note",
+        "Ylang-ylang",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Oakmoss",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "40 Ratings"
+        },
+        "durability": {
+            "score": "6.2",
+            "votes": "34 Ratings"
+        },
+        "sillage": {
+            "score": "6.2",
+            "votes": "34 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "40 Ratings"
+        },
+        "pricing": {
+            "score": "8.5",
+            "votes": "29 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 13
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 8
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 11
+            },
+            {
+                "name": "Floral",
+                "votes": 12
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 14
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 14
+            },
+            {
+                "name": "Spring",
+                "votes": 13
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 11
+            },
+            {
+                "name": "Sport",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 14
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 12
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

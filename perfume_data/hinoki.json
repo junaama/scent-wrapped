@@ -1,0 +1,136 @@
+{
+    "name": "Hinoki",
+    "brand": "Bottega Veneta",
+    "release_year": "2025",
+    "description": "A new perfume byBottega Venetafor women and men, released in2025. The scent is smoky-woody. Projection and longevity are above-average. It is being marketed byKering Beauté.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6c/6cbaa1_hinoki-bottega-veneta_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Woody",
+        "Spicy",
+        "Resinous",
+        "Green"
+    ],
+    "top_notes": [
+        "Frankincense",
+        "Bergamot",
+        "Black pepper"
+    ],
+    "heart_notes": [
+        "Hinoki wood",
+        "Eucalyptus",
+        "Fir balsam",
+        "Clary sage"
+    ],
+    "base_notes": [
+        "Cistus concrete",
+        "Oakmoss",
+        "Oud",
+        "Patchouli",
+        "Labdanum"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "8 Ratings"
+        },
+        "durability": {
+            "score": "9.0",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

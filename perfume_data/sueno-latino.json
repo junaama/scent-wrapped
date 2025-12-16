@@ -1,0 +1,140 @@
+{
+    "name": "Sueño Latino",
+    "brand": "Aedes de Venustas",
+    "release_year": "2025",
+    "description": "A new perfume byAedes de Venustasfor women and men, released in2025. The scent is spicy-fruity.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/1f/1fe45a_sueno-latino-aedes-de-venustas_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Fruity",
+        "Woody",
+        "Green",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Brazilian red pepper",
+        "Peruvian pink pepper",
+        "Bergamot zest",
+        "Davana"
+    ],
+    "heart_notes": [
+        "Fig",
+        "Pink mango"
+    ],
+    "base_notes": [
+        "Suede",
+        "Amber",
+        "Frankincense resin",
+        "Gaiac wood",
+        "Mysore sandalwood",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "37 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "24 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "25 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "27 Ratings"
+        },
+        "pricing": {
+            "score": "6.1",
+            "votes": "20 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 15
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Leathery",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 11
+            },
+            {
+                "name": "Green",
+                "votes": 7
+            },
+            {
+                "name": "Fruity",
+                "votes": 13
+            },
+            {
+                "name": "Fresh",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 13
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Modern",
+                "votes": 11
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 11
+            },
+            {
+                "name": "Spring",
+                "votes": 12
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Leisure",
+                "votes": 14
+            },
+            {
+                "name": "Night Out",
+                "votes": 11
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

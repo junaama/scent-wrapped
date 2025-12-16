@@ -1,0 +1,101 @@
+{
+    "name": "For You",
+    "brand": "Le Falconé",
+    "release_year": "2025",
+    "description": "A new perfume byLe Falconéfor women, released in2025. The scent is synthetic-powdery. It is being marketed byBeauty & Perfume International Factory LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c3/c315ac_for-you-le-falcone_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Powdery",
+        "Floral",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Orange blossom",
+        "Pink pepper",
+        "Coriander",
+        "Honeysuckle",
+        "Neroli"
+    ],
+    "heart_notes": [
+        "Iris",
+        "Marshmallow",
+        "Rose",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Musk",
+        "Vanilla",
+        "Caramel",
+        "Labdanum",
+        "Sugar"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.3",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "5.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "9.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

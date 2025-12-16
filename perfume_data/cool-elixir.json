@@ -1,0 +1,135 @@
+{
+    "name": "Cool Elixir",
+    "brand": "Davidoff",
+    "release_year": "2025",
+    "description": "A new perfume byDavidofffor men, released in2025. The scent is spicy-sweet. It is being marketed byCoty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/28/289633_cool-elixir-davidoff_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Sweet",
+        "Synthetic",
+        "Woody",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Rose oxide"
+    ],
+    "heart_notes": [
+        "Provençal lavender absolute"
+    ],
+    "base_notes": [
+        "Oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "256 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "222 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "221 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "219 Ratings"
+        },
+        "pricing": {
+            "score": "7.3",
+            "votes": "202 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 66
+            },
+            {
+                "name": "Synthetic",
+                "votes": 49
+            },
+            {
+                "name": "Sweet",
+                "votes": 51
+            },
+            {
+                "name": "Oriental",
+                "votes": 30
+            },
+            {
+                "name": "Woody",
+                "votes": 40
+            },
+            {
+                "name": "Fresh",
+                "votes": 19
+            },
+            {
+                "name": "Floral",
+                "votes": 25
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 77
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Classic",
+                "votes": 18
+            },
+            {
+                "name": "Modern",
+                "votes": 46
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 55
+            },
+            {
+                "name": "Fall",
+                "votes": 72
+            },
+            {
+                "name": "Summer",
+                "votes": 22
+            },
+            {
+                "name": "Spring",
+                "votes": 50
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 38
+            },
+            {
+                "name": "Leisure",
+                "votes": 49
+            },
+            {
+                "name": "Night Out",
+                "votes": 56
+            },
+            {
+                "name": "Business",
+                "votes": 34
+            },
+            {
+                "name": "Evening",
+                "votes": 61
+            }
+        ]
+    }
+}

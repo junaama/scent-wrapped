@@ -1,0 +1,141 @@
+{
+    "name": "Kunlun Attar",
+    "brand": "Auphorie",
+    "release_year": "2025",
+    "description": "A new and limited perfume byAuphoriefor women and men, released in2025. The scent is chypreartig-floral. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [
+        "Chypre",
+        "Floral",
+        "Woody",
+        "Sweet",
+        "Animal"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "8.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Chypre",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

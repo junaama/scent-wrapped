@@ -1,0 +1,128 @@
+{
+    "name": "Paradoxe Radical Essence",
+    "brand": "Prada",
+    "release_year": "2025",
+    "description": "A new perfume byPradafor women, released in2025. The scent is sweet-synthetic. It is being marketed byL'Oréal.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7c/7c75d6_paradoxe-radical-essence-prada_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Synthetic",
+        "Floral",
+        "Creamy",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Orange blossom absolute",
+        "Neroli"
+    ],
+    "heart_notes": [
+        "Salted pistachio"
+    ],
+    "base_notes": [
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.0",
+            "votes": "98 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "80 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "76 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "75 Ratings"
+        },
+        "pricing": {
+            "score": "5.3",
+            "votes": "60 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 22
+            },
+            {
+                "name": "Sweet",
+                "votes": 26
+            },
+            {
+                "name": "Gourmand",
+                "votes": 11
+            },
+            {
+                "name": "Creamy",
+                "votes": 13
+            },
+            {
+                "name": "Floral",
+                "votes": 20
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 22
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 16
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 17
+            },
+            {
+                "name": "Fall",
+                "votes": 20
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 10
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 11
+            },
+            {
+                "name": "Leisure",
+                "votes": 19
+            },
+            {
+                "name": "Night Out",
+                "votes": 19
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 14
+            }
+        ]
+    }
+}

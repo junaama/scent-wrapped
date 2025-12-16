@@ -1,0 +1,157 @@
+{
+    "name": "Himaraja",
+    "brand": "Jinx",
+    "release_year": "2025",
+    "description": "A new perfume byJinxfor men, released in2025. The scent is spicy-animal. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a9/a906c9_himaraja-jinx_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Animal",
+        "Citrus",
+        "Floral",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Blackcurrant",
+        "Buchu",
+        "Cardamom",
+        "Cassia",
+        "Clove",
+        "Coriander",
+        "Pimento",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Cocoa",
+        "Lavender",
+        "Rose stem",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Black ambergris",
+        "Burmese oud",
+        "Himalayan deer musk",
+        "Indian oud",
+        "Kashmiri deer musk",
+        "Mongolian deer musk",
+        "Red sandalwood",
+        "Siberian deer musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            },
+            {
+                "name": "Animal",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

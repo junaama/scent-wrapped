@@ -1,0 +1,137 @@
+{
+    "name": "Mandarine Fatale",
+    "brand": "Jardin Bohème",
+    "release_year": "2025",
+    "description": "A new perfume byJardin Bohèmefor women and men, released in2025. The scent is fruity-citrusy.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/05/058984_mandarine-fatale-jardin-boheme_1200.jpg?width=240&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Citrus",
+        "Fresh",
+        "Sweet",
+        "Woody"
+    ],
+    "top_notes": [
+        "Mandarin orange",
+        "Grapefruit",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Pepper",
+        "Clove"
+    ],
+    "base_notes": [
+        "Vetiver",
+        "Benzoin",
+        "Frankincense"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "29 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "21 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "22 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "27 Ratings"
+        },
+        "pricing": {
+            "score": "8.2",
+            "votes": "20 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 10
+            },
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 11
+            },
+            {
+                "name": "Fresh",
+                "votes": 10
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 12
+            },
+            {
+                "name": "Modern",
+                "votes": 8
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 13
+            },
+            {
+                "name": "Spring",
+                "votes": 10
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 10
+            },
+            {
+                "name": "Sport",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 8
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

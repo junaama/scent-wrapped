@@ -1,0 +1,93 @@
+{
+    "name": "Rain Tea",
+    "brand": "Louis Vuitton",
+    "release_year": "2025",
+    "description": "A new perfume byLouis Vuittonfor women and men, released in2025. The scent is floral-fresh. It is being marketed byLVMH.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/88/88f10f_rain-tea-louis-vuitton_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Fruity",
+        "Green"
+    ],
+    "top_notes": [
+        "Lemongrass absolute"
+    ],
+    "heart_notes": [
+        "Grasse rose CO2",
+        "Magnolia absolute"
+    ],
+    "base_notes": [
+        "Hay",
+        "Honey",
+        "Tea"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "11 Ratings"
+        },
+        "durability": {
+            "score": "6.1",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "5.9",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            }
+        ]
+    }
+}

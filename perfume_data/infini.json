@@ -1,0 +1,46 @@
+{
+    "name": "Infini",
+    "brand": "Masira",
+    "release_year": "2025",
+    "description": "A new perfume byMasirafor women, released in2025. The scent is sweet-fruity.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/68/68ae50_infini-masira_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Almond",
+        "Green notes",
+        "Pear",
+        "Strawberry"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lily of the valley",
+        "Rose"
+    ],
+    "base_notes": [
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

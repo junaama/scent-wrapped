@@ -1,0 +1,125 @@
+{
+    "name": "Ensang Noir",
+    "brand": "L'Entropiste",
+    "release_year": "2025",
+    "description": "A new perfume byL'Entropistefor women and men, released in2025. The scent is floral-smoky.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/ff/ff3c5f_ensang-noir-l-entropiste_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Smoky",
+        "Resinous",
+        "Fruity",
+        "Spicy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "23 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "17 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "18 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "27 Ratings"
+        },
+        "pricing": {
+            "score": "5.9",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 6
+            },
+            {
+                "name": "Animal",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "name": "Fraglover's Tea",
+    "brand": "FOMO",
+    "release_year": "2025",
+    "description": "A new perfume byFOMOfor women and men, released in2025. The scent is green-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/44/44bc2a_fraglover-s-tea-fomo_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Sweet",
+        "Woody",
+        "Spicy",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Camphor",
+        "Plum",
+        "Black tea",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Clove",
+        "Floral notes",
+        "Rose"
+    ],
+    "base_notes": [
+        "Musk",
+        "Tonka bean",
+        "Cedarwood",
+        "Olive tree"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "38 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "36 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "36 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "36 Ratings"
+        },
+        "pricing": {
+            "score": "8.7",
+            "votes": "32 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 6
+            },
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 7
+            },
+            {
+                "name": "Fresh",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 8
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

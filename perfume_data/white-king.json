@@ -1,0 +1,31 @@
+{
+    "name": "White King",
+    "brand": "Oscar London",
+    "release_year": "2025",
+    "description": "A new perfume byOscar Londonfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/27/2704e1_white-king-oscar-london_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Ceylonese cinnamon",
+        "Cistus",
+        "Nutmeg"
+    ],
+    "heart_notes": [
+        "Galbanum",
+        "Patchouli",
+        "Rose"
+    ],
+    "base_notes": [
+        "Atlas cedar",
+        "Labdanum",
+        "Leather",
+        "Tolu balm"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

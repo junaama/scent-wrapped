@@ -1,0 +1,133 @@
+{
+    "name": "Honeyed Fantasy",
+    "brand": "Pendora Scents",
+    "release_year": "2025",
+    "description": "A new perfume byPendora Scentsfor women and men, released in2025. The scent is sweet-green. It is being marketed byParis Corner Perfumes.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f2/f23a6d_honeyed-fantasy-pendora-scents_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Green",
+        "Gourmand",
+        "Spicy",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Cinnamon",
+        "Geranium",
+        "Honey"
+    ],
+    "heart_notes": [
+        "Leather",
+        "Myrrh",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Amber",
+        "Oud",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "6.9",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Capicú",
+    "brand": "RDZ Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byRDZ Parfumsfor women and men, released in2025. The scent is fresh-woody. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/bf/bf9508_capicu-rdz-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Woody",
+        "Spicy",
+        "Gourmand",
+        "Sweet"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            }
+        ]
+    }
+}

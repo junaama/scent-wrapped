@@ -1,0 +1,30 @@
+{
+    "name": "Lemuse",
+    "brand": "Zomething Strange",
+    "release_year": "2025",
+    "description": "A new perfume byZomething Strangefor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/76/7623f1_lemuse-extrait-de-parfum-zomething-strange_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Coconut",
+        "Italian lemon",
+        "Peach"
+    ],
+    "heart_notes": [
+        "Freesia",
+        "Gardenia",
+        "Jasmine sambac"
+    ],
+    "base_notes": [
+        "Bourbon vanilla",
+        "Vanilla",
+        "Virginia cedar"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "4.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

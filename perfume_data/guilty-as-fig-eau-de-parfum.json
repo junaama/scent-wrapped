@@ -1,0 +1,97 @@
+{
+    "name": "Guilty as Fig",
+    "brand": "Bath & Body Works",
+    "release_year": "2025",
+    "description": "A new perfume byBath & Body Worksfor women, released in2025. The scent is fruity-floral.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8c/8c1569-guilty-as-fig-eau-de-parfum-bath-body-works_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Floral",
+        "Fresh",
+        "Green",
+        "Creamy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.7",
+            "votes": "9 Ratings"
+        },
+        "durability": {
+            "score": "5.4",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "5.8",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "5.9",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            }
+        ]
+    }
+}

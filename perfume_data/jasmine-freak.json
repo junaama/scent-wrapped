@@ -1,0 +1,137 @@
+{
+    "name": "Jasmine Freak",
+    "brand": "Room 1015",
+    "release_year": "2025",
+    "description": "A new perfume byRoom 1015for women and men, released in2025. The scent is floral-fruity.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/80/804e80_jasmine-freak-room-1015_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fruity",
+        "Sweet",
+        "Creamy",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Mango",
+        "Orange",
+        "Black pepper"
+    ],
+    "heart_notes": [
+        "Egyptian jasmine",
+        "Indian tuberose",
+        "Bourbon ylang-ylang"
+    ],
+    "base_notes": [
+        "Cashmere wood",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "109 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "85 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "84 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "79 Ratings"
+        },
+        "pricing": {
+            "score": "7.4",
+            "votes": "57 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 37
+            },
+            {
+                "name": "Fruity",
+                "votes": 42
+            },
+            {
+                "name": "Fresh",
+                "votes": 12
+            },
+            {
+                "name": "Creamy",
+                "votes": 18
+            },
+            {
+                "name": "Floral",
+                "votes": 44
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 39
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 28
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 10
+            },
+            {
+                "name": "Fall",
+                "votes": 17
+            },
+            {
+                "name": "Summer",
+                "votes": 35
+            },
+            {
+                "name": "Spring",
+                "votes": 36
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 32
+            },
+            {
+                "name": "Leisure",
+                "votes": 31
+            },
+            {
+                "name": "Night Out",
+                "votes": 24
+            },
+            {
+                "name": "Business",
+                "votes": 14
+            },
+            {
+                "name": "Evening",
+                "votes": 23
+            }
+        ]
+    }
+}

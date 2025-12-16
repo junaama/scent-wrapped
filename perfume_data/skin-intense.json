@@ -1,0 +1,121 @@
+{
+    "name": "Skin [Intense]",
+    "brand": "Clean",
+    "release_year": "2025",
+    "description": "A new and limited perfume byCleanfor women and men, released in2025. The scent is floral-sweet. It is being marketed byClean Beauty Collective Inc. / Fusion Brands Inc.. The perfume is vegan according to the manufacturer.PronunciationCompareLimitedVegan",
+    "image_url": "https://media.parfumo.com/perfumes/8a/8ac21d_skin-intense-clean_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Gourmand",
+        "Powdery",
+        "Woody"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Caramel",
+        "Fleur de sel"
+    ],
+    "heart_notes": [
+        "Bourbon vanilla",
+        "Jasmine",
+        "Lily of the valley"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sandalwood",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "8 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "6.4",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

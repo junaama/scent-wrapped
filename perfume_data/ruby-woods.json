@@ -1,0 +1,27 @@
+{
+    "name": "Ruby Woods",
+    "brand": "Piené",
+    "release_year": "2025",
+    "description": "A new perfume byPienéfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/34/347afb_ruby-woods-piene_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Pink pepper",
+        "Pomegranate",
+        "Red mandarin orange"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Raspberry",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Patchouli",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

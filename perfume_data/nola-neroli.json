@@ -1,0 +1,139 @@
+{
+    "name": "Nola Neroli",
+    "brand": "Gather Perfume",
+    "release_year": "2025",
+    "description": "A new and limited perfume byGather Perfumefor women and men, released in2025. The scent is earthy-floral.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/b9/b934b4_nola-neroli-gather-perfume-amrita-aromatics_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Earthy",
+        "Floral",
+        "Citrus",
+        "Animal",
+        "Green"
+    ],
+    "top_notes": [
+        "Neroli"
+    ],
+    "heart_notes": [
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Orris root"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Chypre",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            },
+            {
+                "name": "Animal",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

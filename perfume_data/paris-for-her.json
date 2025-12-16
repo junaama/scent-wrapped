@@ -1,0 +1,143 @@
+{
+    "name": "Paris for Her",
+    "brand": "Rammstein",
+    "release_year": "2025",
+    "description": "A new perfume byRammsteinfor women, released in2025. The scent is fresh-citrusy. It is being marketed by2 Pilots.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/13/1317a7_paris-for-her-rammstein_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Citrus",
+        "Floral",
+        "Woody",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Lime",
+        "Mint"
+    ],
+    "heart_notes": [
+        "Nutmeg",
+        "Turkish rose"
+    ],
+    "base_notes": [
+        "Green musk",
+        "Incense material",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.9",
+            "votes": "29 Ratings"
+        },
+        "durability": {
+            "score": "6.4",
+            "votes": "18 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "17 Ratings"
+        },
+        "bottle": {
+            "score": "6.4",
+            "votes": "31 Ratings"
+        },
+        "pricing": {
+            "score": "6.3",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 7
+            },
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Smoky",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 7
+            },
+            {
+                "name": "Floral",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Pink Marshmallow",
+    "brand": "Quick Flick",
+    "release_year": "2025",
+    "description": "A new perfume byQuick Flickfor women, released in2025. The perfume is vegan according to the manufacturer.PronunciationCompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/41/41a703_pink-marshmallow-quick-flick_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Floral notes",
+        "Fresh notes",
+        "Lemon zest",
+        "Red apple"
+    ],
+    "heart_notes": [
+        "Coconut milk",
+        "Grain",
+        "Marshmallow",
+        "Strawberry"
+    ],
+    "base_notes": [
+        "Mousse de vanille",
+        "Pink musk",
+        "Raspberry"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

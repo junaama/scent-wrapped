@@ -1,0 +1,53 @@
+{
+    "name": "Galia Sophistiqué",
+    "brand": "Elixir Attar",
+    "release_year": "2025",
+    "description": "A new perfume byElixir Attarfor women and men, released in2025. The scent is oriental-woody. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9f/9fe9fc_galia-sophistique-extrait-de-parfum-elixir-attar_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Oriental",
+        "Woody",
+        "Floral",
+        "Animal"
+    ],
+    "top_notes": [
+        "French lavender",
+        "Star anise"
+    ],
+    "heart_notes": [
+        "Bulgarian rose",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Bangladeshian oud",
+        "Bengal oud",
+        "Cedarwood",
+        "Civet",
+        "Deer musk",
+        "Indian oud",
+        "Iris",
+        "Labdanum",
+        "Oakmoss",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "9.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

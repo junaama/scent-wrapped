@@ -1,0 +1,29 @@
+{
+    "name": "Cinisca",
+    "brand": "Agatho",
+    "release_year": "2025",
+    "description": "A new perfume byAgathofor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a9/a9ceb2_cinisca-agatho_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Juniper",
+        "Neroli",
+        "Tuberose"
+    ],
+    "heart_notes": [
+        "Lily",
+        "Pink pepper"
+    ],
+    "base_notes": [
+        "Leather",
+        "Musk",
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

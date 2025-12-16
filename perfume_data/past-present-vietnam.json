@@ -1,0 +1,136 @@
+{
+    "name": "Past & Present Vietnam",
+    "brand": "Lost Tribe",
+    "release_year": "2025",
+    "description": "A new and limited perfume byLost Tribefor women and men, released in2025. The scent is woody-floral. The longevity is above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/4f/4f1ec2_past-present-vietnam-lost-tribe_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Floral",
+        "Fruity",
+        "Creamy",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Bulgarian rose",
+        "Turkish rose otto",
+        "White ambergris"
+    ],
+    "heart_notes": [
+        "Bulgarian rose absolute",
+        "May rose"
+    ],
+    "base_notes": [
+        "Ceylonese sandalwood",
+        "Deer musk",
+        "Vietnamese oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "21 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "19 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "19 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "14 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

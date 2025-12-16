@@ -1,0 +1,156 @@
+{
+    "name": "4 Seasons Orange",
+    "brand": "Christof Maybach",
+    "release_year": "2025",
+    "description": "A new perfume byChristof Maybachfor women and men, released in2025. The scent is fruity-synthetic.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/4b/4b6711_4-seasons-orange-christof-maybach_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Synthetic",
+        "Citrus",
+        "Fresh",
+        "Woody"
+    ],
+    "top_notes": [
+        "Pink pepper",
+        "Apple",
+        "Blackcurrant",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Patchouli",
+        "Pineapple",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Oak wood",
+        "Smoked birch wood",
+        "Cedarwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "3.1",
+            "votes": "26 Ratings"
+        },
+        "durability": {
+            "score": "3.2",
+            "votes": "25 Ratings"
+        },
+        "sillage": {
+            "score": "3.5",
+            "votes": "23 Ratings"
+        },
+        "bottle": {
+            "score": "3.2",
+            "votes": "32 Ratings"
+        },
+        "pricing": {
+            "score": "2.3",
+            "votes": "25 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Fougère",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Chypre",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

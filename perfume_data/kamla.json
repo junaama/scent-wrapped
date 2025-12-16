@@ -1,0 +1,27 @@
+{
+    "name": "Kamla",
+    "brand": "Les Archives",
+    "release_year": "2025",
+    "description": "A new perfume byLes Archivesfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/95/95a4e2_kamla-les-archives_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cardamom",
+        "Italian bergamot",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Chestnut honey",
+        "Medjoul date",
+        "Milk",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Gaiac wood",
+        "Rum",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

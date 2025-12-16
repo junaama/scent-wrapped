@@ -1,0 +1,25 @@
+{
+    "name": "ECCCO",
+    "brand": "Manuel Mathieu",
+    "release_year": "2025",
+    "description": "A new perfume byManuel Mathieufor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/14/14bbba_eccco-manuel-mathieu_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Dried lime",
+        "Lemon",
+        "Turmeric leaf"
+    ],
+    "heart_notes": [
+        "Moss",
+        "Patchouli",
+        "Sandalwood"
+    ],
+    "base_notes": [
+        "Morocco leather",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

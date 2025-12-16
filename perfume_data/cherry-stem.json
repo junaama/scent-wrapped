@@ -1,0 +1,145 @@
+{
+    "name": "Cherry Stem",
+    "brand": "Phlur",
+    "release_year": "2025",
+    "description": "A new perfume byPhlurfor women and men, released in2025. The scent is fruity-leathery. The perfume is vegan according to the manufacturer.PronunciationCompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/09/09b153_cherry-stem-phlur_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Leathery",
+        "Sweet",
+        "Woody",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Orange brandy",
+        "Black cherry"
+    ],
+    "heart_notes": [
+        "Plum nectar",
+        "Sugar",
+        "Jasmine",
+        "Red freesia"
+    ],
+    "base_notes": [
+        "Leather",
+        "Ebony",
+        "Caramel"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "45 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "30 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "29 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "26 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "22 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Leathery",
+                "votes": 7
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 11
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 9
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

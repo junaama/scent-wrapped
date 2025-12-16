@@ -1,0 +1,65 @@
+{
+    "name": "Dapper",
+    "brand": "Comporta",
+    "release_year": "2025",
+    "description": "A new perfume byComportafor men, released in2025. The scent is fresh-woody.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a3/a34a85_dapper-comporta_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Woody",
+        "Spicy",
+        "Citrus",
+        "Green"
+    ],
+    "top_notes": [
+        "Aldehydes",
+        "Bergamot",
+        "Cardamom",
+        "Cucumber",
+        "Grapefruit",
+        "Green mandarin orange",
+        "Lime",
+        "Melon"
+    ],
+    "heart_notes": [
+        "Black pepper",
+        "Hyacinth",
+        "Iris",
+        "Mastic",
+        "Neroli",
+        "Ozonic notes",
+        "Tar",
+        "Thyme",
+        "Tomato leaf",
+        "Violet"
+    ],
+    "base_notes": [
+        "Cade juniper",
+        "Cedarwood",
+        "Costus",
+        "Driftwood",
+        "Leather",
+        "Oakmoss",
+        "Palo Santo",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

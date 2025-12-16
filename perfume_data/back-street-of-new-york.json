@@ -1,0 +1,46 @@
+{
+    "name": "Back Street of New York",
+    "brand": "Le Chameau",
+    "release_year": "2025",
+    "description": "A new perfume byLe Chameaufor women and men, released in2025. It is being marketed byEmper.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/21/21f2df_back-street-of-new-york-le-chameau_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blackcurrant",
+        "Blueberry",
+        "Thyme",
+        "Violet leaf"
+    ],
+    "heart_notes": [
+        "Cedar",
+        "Cinnamon",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Amber",
+        "Caramel",
+        "Oakmoss",
+        "Patchouli",
+        "Suede",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

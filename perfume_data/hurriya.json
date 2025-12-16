@@ -1,0 +1,137 @@
+{
+    "name": "Hurriya",
+    "brand": "Paris Corner",
+    "release_year": "2025",
+    "description": "A new perfume byParis Cornerfor women and men, released in2025. The scent is leathery-oriental. The longevity is above-average. It is being marketed byParis Corner Perfumes.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/01/016fe8_hurriya-paris-corner_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Leathery",
+        "Oriental",
+        "Woody",
+        "Fruity",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Passion fruit",
+        "Bergamot",
+        "Leather"
+    ],
+    "heart_notes": [
+        "Oud",
+        "Rose",
+        "Cistus"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Musk",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "6.9",
+            "votes": "14 Ratings"
+        },
+        "pricing": {
+            "score": "9.1",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 4
+            },
+            {
+                "name": "Leathery",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

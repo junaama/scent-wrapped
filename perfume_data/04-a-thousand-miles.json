@@ -1,0 +1,47 @@
+{
+    "name": "04 A Thousand Miles",
+    "brand": "Concreted",
+    "release_year": "2025",
+    "description": "A new perfume byConcretedfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/42/42e441_04-a-thousand-miles-concreted_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Lemon grass",
+        "Lime",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Daphne odora",
+        "Green notes",
+        "Jasmine",
+        "Lavender",
+        "Metallic notes",
+        "Peppermint",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.7",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Dominateur",
+    "brand": "Xalune",
+    "release_year": "2025",
+    "description": "A new perfume byXalunefor men, released in2025. The scent is citrusy-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d9/d95b2a_dominateur-xalune_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Spicy",
+        "Fresh",
+        "Woody",
+        "Aquatic"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Black pepper",
+        "Cedarwood",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Labdanum",
+        "Tonka bean",
+        "White musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,90 @@
+{
+    "name": "Sérénité en Bourgogne",
+    "brand": "Eight & Bob",
+    "release_year": "2025",
+    "description": "A new perfume byEight & Bobfor women and men, released in2025. The scent is oriental-spicy. The projection is above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/72/72638d_serenite-en-bourgogne-eight-bob_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Oriental",
+        "Spicy",
+        "Gourmand",
+        "Sweet",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Pink pepper CO2",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Myrrh",
+        "Vietnamese oud"
+    ],
+    "base_notes": [
+        "Bourbon vanilla",
+        "Madagascan patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "9 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "8.1",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            }
+        ]
+    }
+}

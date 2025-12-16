@@ -1,0 +1,74 @@
+{
+    "name": "Hiccup",
+    "brand": "Lush",
+    "release_year": "2025",
+    "description": "A new and limited perfume byLushfor women and men, released in2025. The scent is woody-synthetic.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/a1/a1861c_hiccup-lush-cosmetics-to-go_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Synthetic"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "6.7",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "5.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "5.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "3.6",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

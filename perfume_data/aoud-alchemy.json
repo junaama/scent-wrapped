@@ -1,0 +1,30 @@
+{
+    "name": "Aoud Alchemy",
+    "brand": "Fragrance World",
+    "release_year": "2025",
+    "description": "A new perfume byFragrance Worldfor women and men, released in2025. It is being marketed byFragrance World Trading LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/fc/fc0dff_aoud-alchemy-fragrance-world_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Apple",
+        "Lemon",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Orange blossom",
+        "Rose"
+    ],
+    "base_notes": [
+        "Frankincense",
+        "Oud",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

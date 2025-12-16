@@ -1,0 +1,129 @@
+{
+    "name": "Vanilla Firenze",
+    "brand": "Gucci",
+    "release_year": "2025",
+    "description": "A new perfume byGuccifor women and men, released in2025. The scent is sweet-spicy. It is being marketed byCoty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c8/c8fd26-vanilla-firenze-gucci_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Powdery",
+        "Smoky",
+        "Resinous"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "50 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "35 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "34 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "29 Ratings"
+        },
+        "pricing": {
+            "score": "4.8",
+            "votes": "22 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 14
+            },
+            {
+                "name": "Sweet",
+                "votes": 15
+            },
+            {
+                "name": "Smoky",
+                "votes": 9
+            },
+            {
+                "name": "Powdery",
+                "votes": 11
+            },
+            {
+                "name": "Resinous",
+                "votes": 6
+            },
+            {
+                "name": "Gourmand",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 10
+            },
+            {
+                "name": "Feminine",
+                "votes": 14
+            },
+            {
+                "name": "Classic",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 10
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 14
+            },
+            {
+                "name": "Fall",
+                "votes": 16
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 10
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 14
+            },
+            {
+                "name": "Night Out",
+                "votes": 10
+            },
+            {
+                "name": "Business",
+                "votes": 10
+            },
+            {
+                "name": "Evening",
+                "votes": 14
+            }
+        ]
+    }
+}

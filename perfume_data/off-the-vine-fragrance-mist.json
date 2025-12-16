@@ -1,0 +1,101 @@
+{
+    "name": "Off the Vine",
+    "brand": "Bath & Body Works",
+    "release_year": "2025",
+    "description": "A new perfume byBath & Body Worksfor women, released in2025. The scent is green-fresh.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/2f/2f544a_off-the-vine-fragrance-mist-bath-body-works_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Fresh",
+        "Earthy",
+        "Floral",
+        "Fruity"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "14 Ratings"
+        },
+        "durability": {
+            "score": "5.5",
+            "votes": "11 Ratings"
+        },
+        "sillage": {
+            "score": "5.9",
+            "votes": "10 Ratings"
+        },
+        "bottle": {
+            "score": "6.0",
+            "votes": "12 Ratings"
+        },
+        "pricing": {
+            "score": "8.8",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Green",
+                "votes": 9
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 6
+            },
+            {
+                "name": "Earthy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 8
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            }
+        ]
+    }
+}

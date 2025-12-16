@@ -1,0 +1,143 @@
+{
+    "name": "Escapade Tropicale",
+    "brand": "Jardin Bohème",
+    "release_year": "2025",
+    "description": "A new and limited perfume byJardin Bohèmefor women, released in2025. The scent is fruity-fresh. It is being marketed byUltimate Skin Aesthetics.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/df/df0adf_escapade-tropicale-jardin-boheme_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Fresh",
+        "Sweet",
+        "Citrus",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Lemon",
+        "Marine notes",
+        "Vanilla"
+    ],
+    "heart_notes": [
+        "Pear",
+        "Jasmine",
+        "Coconut"
+    ],
+    "base_notes": [
+        "Lemon",
+        "Musk",
+        "Cedar",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.0",
+            "votes": "9 Ratings"
+        },
+        "durability": {
+            "score": "6.1",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "6.3",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

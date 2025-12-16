@@ -1,0 +1,152 @@
+{
+    "name": "Foresta Magica",
+    "brand": "Lorenzo Pazzaglia",
+    "release_year": "2025",
+    "description": "A new perfume byLorenzo Pazzagliafor women and men, released in2025. The scent is green-citrusy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2a/2a8a51_foresta-magica-lorenzo-pazzaglia_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Citrus",
+        "Sweet",
+        "Fougère",
+        "Earthy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Blackcurrant",
+        "Ginger",
+        "Lemon",
+        "Lemon zest",
+        "Lime",
+        "Nepalese sichuan pepper",
+        "Orange",
+        "Pink grapefruit",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Clary sage",
+        "Gardenia",
+        "Jasmine",
+        "Lavender",
+        "Magnolia",
+        "Rosemary",
+        "Vervain"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Ambrette",
+        "Cedarwood",
+        "Musk",
+        "Patchouli",
+        "Styrax",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "13 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "11 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "11 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 5
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Fougère",
+                "votes": 3
+            },
+            {
+                "name": "Earthy",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

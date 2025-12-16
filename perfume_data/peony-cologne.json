@@ -1,0 +1,27 @@
+{
+    "name": "Peony Cologne",
+    "brand": "Archer Farrar",
+    "release_year": "2025",
+    "description": "A new perfume byArcher Farrarfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f6/f61c51_peony-cologne-archer-farrar_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Petitgrain",
+        "Roman chamomile"
+    ],
+    "heart_notes": [
+        "Apple",
+        "Damask rose",
+        "Geranium",
+        "Peony",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Nutmeg",
+        "Sandalwood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

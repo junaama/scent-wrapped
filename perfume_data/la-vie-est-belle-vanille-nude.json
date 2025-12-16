@@ -1,0 +1,128 @@
+{
+    "name": "La Vie est Belle Vanille Nude",
+    "brand": "Lancôme",
+    "release_year": "2025",
+    "description": "A new perfume byLancômefor women, released in2025. The scent is sweet-powdery. It is being marketed byL'Oréal.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5d/5dccd1_la-vie-est-belle-vanille-nude-lancome_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Powdery",
+        "Floral",
+        "Creamy",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Jasminum grandiflorum"
+    ],
+    "heart_notes": [
+        "Bourbon vanilla"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "176 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "137 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "131 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "136 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "102 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 18
+            },
+            {
+                "name": "Sweet",
+                "votes": 44
+            },
+            {
+                "name": "Powdery",
+                "votes": 36
+            },
+            {
+                "name": "Gourmand",
+                "votes": 13
+            },
+            {
+                "name": "Creamy",
+                "votes": 27
+            },
+            {
+                "name": "Floral",
+                "votes": 32
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 47
+            },
+            {
+                "name": "Classic",
+                "votes": 8
+            },
+            {
+                "name": "Modern",
+                "votes": 26
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 35
+            },
+            {
+                "name": "Fall",
+                "votes": 43
+            },
+            {
+                "name": "Summer",
+                "votes": 25
+            },
+            {
+                "name": "Spring",
+                "votes": 33
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 36
+            },
+            {
+                "name": "Leisure",
+                "votes": 38
+            },
+            {
+                "name": "Night Out",
+                "votes": 26
+            },
+            {
+                "name": "Business",
+                "votes": 27
+            },
+            {
+                "name": "Evening",
+                "votes": 29
+            }
+        ]
+    }
+}

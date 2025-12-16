@@ -1,0 +1,121 @@
+{
+    "name": "Bois Talisman",
+    "brand": "Dior",
+    "release_year": "2025",
+    "description": "A new perfume byDiorfor women and men, released in2025. The scent is sweet-woody. It is being marketed byLVMH.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d8/d83ab9-bois-talisman-dior_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Woody",
+        "Smoky",
+        "Spicy",
+        "Gourmand"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "212 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "172 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "172 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "166 Ratings"
+        },
+        "pricing": {
+            "score": "5.5",
+            "votes": "151 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 30
+            },
+            {
+                "name": "Sweet",
+                "votes": 51
+            },
+            {
+                "name": "Smoky",
+                "votes": 41
+            },
+            {
+                "name": "Oriental",
+                "votes": 11
+            },
+            {
+                "name": "Woody",
+                "votes": 46
+            },
+            {
+                "name": "Gourmand",
+                "votes": 23
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 46
+            },
+            {
+                "name": "Feminine",
+                "votes": 35
+            },
+            {
+                "name": "Classic",
+                "votes": 15
+            },
+            {
+                "name": "Modern",
+                "votes": 32
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 57
+            },
+            {
+                "name": "Fall",
+                "votes": 56
+            },
+            {
+                "name": "Spring",
+                "votes": 19
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 17
+            },
+            {
+                "name": "Leisure",
+                "votes": 33
+            },
+            {
+                "name": "Night Out",
+                "votes": 53
+            },
+            {
+                "name": "Business",
+                "votes": 14
+            },
+            {
+                "name": "Evening",
+                "votes": 52
+            }
+        ]
+    }
+}

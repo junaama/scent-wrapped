@@ -1,0 +1,145 @@
+{
+    "name": "Viola",
+    "brand": "Sospiro",
+    "release_year": "2025",
+    "description": "A new perfume bySospirofor women and men, released in2025. The scent is spicy-citrusy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/bf/bf7607-viola-sospiro_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Citrus",
+        "Fresh",
+        "Woody",
+        "Green"
+    ],
+    "top_notes": [
+        "Pepper",
+        "Lemon",
+        "Bergamot",
+        "Clary sage"
+    ],
+    "heart_notes": [
+        "Ambergris",
+        "Frankincense",
+        "Nutmeg",
+        "Rosemary"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Oakmoss",
+        "Sandalwood",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "50 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "46 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "46 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "46 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "35 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 14
+            },
+            {
+                "name": "Spicy",
+                "votes": 14
+            },
+            {
+                "name": "Woody",
+                "votes": 12
+            },
+            {
+                "name": "Green",
+                "votes": 7
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 13
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 17
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 8
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 13
+            },
+            {
+                "name": "Summer",
+                "votes": 11
+            },
+            {
+                "name": "Spring",
+                "votes": 17
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 10
+            },
+            {
+                "name": "Sport",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 15
+            },
+            {
+                "name": "Night Out",
+                "votes": 11
+            },
+            {
+                "name": "Business",
+                "votes": 12
+            },
+            {
+                "name": "Evening",
+                "votes": 12
+            }
+        ]
+    }
+}

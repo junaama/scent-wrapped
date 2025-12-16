@@ -1,0 +1,113 @@
+{
+    "name": "16 Sale di Mare e Legno di Cedro",
+    "brand": "Compagnia delle Indie",
+    "release_year": "2025",
+    "description": "A new perfume byCompagnia delle Indiefor women and men, released in2025. The scent is aquatic-green. It is being marketed byMyluna.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/cb/cb3897_16-sale-di-mare-e-legno-di-cedro-compagnia-delle-indie_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Aquatic",
+        "Green",
+        "Fresh",
+        "Woody",
+        "Spicy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "6.3",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "5.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Aquatic",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            }
+        ]
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "name": "Musc X",
+    "brand": "Borntostandout",
+    "release_year": "2025",
+    "description": "A new perfume byBorntostandoutfor women and men, released in2025. The scent is sweet-synthetic. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f8/f8cb87_musc-x-borntostandout_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Synthetic",
+        "Resinous",
+        "Fresh",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Frankincense resin"
+    ],
+    "heart_notes": [
+        "Cistus absolute",
+        "Cotton candy"
+    ],
+    "base_notes": [
+        "Amber Xtreme™",
+        "Ambrette seed absolute",
+        "Ambroxan",
+        "Benzoin",
+        "Musk",
+        "Sinfonide®"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.3",
+            "votes": "21 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "15 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "16 Ratings"
+        },
+        "pricing": {
+            "score": "6.4",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

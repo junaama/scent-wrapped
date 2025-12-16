@@ -1,0 +1,72 @@
+{
+    "name": "Calyphoria",
+    "brand": "Exceed",
+    "release_year": "2025",
+    "description": "A new perfume byExceedfor women and men, released in2025. The scent is fresh-fruity.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7c/7c7b71_calyphoria-exceed_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Fruity",
+        "Citrus",
+        "Aquatic"
+    ],
+    "top_notes": [
+        "Champagne",
+        "Citrus zest",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Jasmine sambac",
+        "Orange blossom",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Amber",
+        "Ambergris",
+        "Woody notes"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

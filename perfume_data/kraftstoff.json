@@ -1,0 +1,143 @@
+{
+    "name": "Kraftstoff",
+    "brand": "Rammstein",
+    "release_year": "2025",
+    "description": "A new perfume byRammsteinfor men, released in2025. The scent is citrusy-fresh. It is being marketed by2 Pilots.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/60/606630_kraftstoff-rammstein_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Floral",
+        "Spicy",
+        "Leathery"
+    ],
+    "top_notes": [
+        "Ginger",
+        "Bergamot",
+        "Lemon",
+        "Mandarin orange",
+        "Grapefruit"
+    ],
+    "heart_notes": [
+        "Blackcurrant",
+        "Leather",
+        "Geranium",
+        "Neroli"
+    ],
+    "base_notes": [
+        "Musk",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.6",
+            "votes": "38 Ratings"
+        },
+        "durability": {
+            "score": "5.6",
+            "votes": "32 Ratings"
+        },
+        "sillage": {
+            "score": "5.6",
+            "votes": "31 Ratings"
+        },
+        "bottle": {
+            "score": "6.5",
+            "votes": "43 Ratings"
+        },
+        "pricing": {
+            "score": "6.8",
+            "votes": "33 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 10
+            },
+            {
+                "name": "Spicy",
+                "votes": 6
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Leathery",
+                "votes": 5
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 10
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 9
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Summer",
+                "votes": 10
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Sport",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 11
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 8
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

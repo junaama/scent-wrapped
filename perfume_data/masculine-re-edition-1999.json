@@ -1,0 +1,122 @@
+{
+    "name": "Masculine Re-Edition 1999",
+    "brand": "Dolce & Gabbana",
+    "release_year": "2025",
+    "description": "A new perfume byDolce & Gabbanafor men, released in2025. The scent is citrusy-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/af/afef18_masculine-re-edition-1999-dolce-gabbana_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Spicy",
+        "Fresh",
+        "Woody",
+        "Green"
+    ],
+    "top_notes": [
+        "Calabrian bergamot",
+        "Primofiore lemon"
+    ],
+    "heart_notes": [
+        "Lavender",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Patchouli",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

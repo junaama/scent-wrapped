@@ -1,0 +1,117 @@
+{
+    "name": "The Bees",
+    "brand": "Sorce",
+    "release_year": "2025",
+    "description": "A new perfume bySorcefor women and men, released in2025. The scent is resinous-animal. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d4/d4a3d0_the-bees-sorce-sorcellerie-apothecary_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Animal",
+        "Sweet",
+        "Woody",
+        "Earthy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.7",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "8.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Animal",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            }
+        ]
+    }
+}

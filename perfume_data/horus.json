@@ -1,0 +1,111 @@
+{
+    "name": "Horus",
+    "brand": "Aswan",
+    "release_year": "2025",
+    "description": "A new perfume byAswanfor men, released in2025. The scent is smoky-spicy. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/09/09361e_horus-aswan_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Spicy",
+        "Leathery",
+        "Woody",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Apple",
+        "Cardamom",
+        "Cinnamon",
+        "Grapefruit",
+        "Nutmeg",
+        "Rosemary"
+    ],
+    "heart_notes": [
+        "Clove",
+        "Frankincense",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Amber",
+        "Haitian vetiver",
+        "Liquorice",
+        "Patchouli",
+        "Sandalwood",
+        "Yellow nutsedge"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

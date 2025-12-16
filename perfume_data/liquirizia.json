@@ -1,0 +1,30 @@
+{
+    "name": "Liquirizia",
+    "brand": "Carpentieri Profumi",
+    "release_year": "2025",
+    "description": "A new perfume byCarpentieri Profumifor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3e/3e1c1b_liquirizia-carpentieri-profumi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Aniseed",
+        "Eucalyptus",
+        "Mint"
+    ],
+    "heart_notes": [
+        "Amyris",
+        "Liquorice",
+        "Nutmeg"
+    ],
+    "base_notes": [
+        "Amber",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

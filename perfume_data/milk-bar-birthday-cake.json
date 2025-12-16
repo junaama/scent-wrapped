@@ -1,0 +1,92 @@
+{
+    "name": "Milk Bar Birthday Cake",
+    "brand": "Bath & Body Works",
+    "release_year": "2025",
+    "description": "A new and limited perfume byBath & Body Worksfor women, released in2025. The scent is sweet-gourmand.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/6a/6a9365_milk-bar-birthday-cake-bath-body-works_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Creamy",
+        "Synthetic"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "5.8",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "5.8",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            }
+        ]
+    }
+}

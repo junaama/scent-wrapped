@@ -1,0 +1,40 @@
+{
+    "name": "Jetski",
+    "brand": "Marafatto",
+    "release_year": "2025",
+    "description": "A new perfume byMarafattofor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/58/5822af_jetski-marafatto_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Apricot",
+        "Carrot",
+        "Fig",
+        "Mango",
+        "Philippine papaya",
+        "Red mandarin orange",
+        "Watermelon",
+        "Yellow peach"
+    ],
+    "heart_notes": [
+        "Amyris",
+        "Brown algae",
+        "Calone",
+        "Cardamom",
+        "Cumin",
+        "Juniper berry",
+        "Myrtle liqueur",
+        "Pineapple sorbet",
+        "Sea salt"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Indian sandalwood",
+        "Leather",
+        "Musk",
+        "Virginia cedar",
+        "White cedar"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

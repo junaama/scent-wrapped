@@ -1,0 +1,134 @@
+{
+    "name": "Cherry Kokomo",
+    "brand": "Gulf Orchid",
+    "release_year": "2025",
+    "description": "A new perfume byGulf Orchidfor women and men, released in2025. The scent is fruity-sweet. It is being marketed byGulf Orchid Fragrances.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5c/5cb623_cherry-kokomo-gulf-orchid_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Synthetic",
+        "Gourmand",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Mandarin orange",
+        "Cherry",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Cherry",
+        "Rose",
+        "Marshmallow",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "13 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "12 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 9
+            },
+            {
+                "name": "Gourmand",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 9
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 9
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

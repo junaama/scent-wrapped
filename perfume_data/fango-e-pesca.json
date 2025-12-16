@@ -1,0 +1,148 @@
+{
+    "name": "Fango e Pesca",
+    "brand": "Filippo Sorcinelli",
+    "release_year": "2025",
+    "description": "A new perfume byFilippo Sorcinellifor women and men, released in2025. The scent is earthy-fruity. It is being marketed byAlter Duo.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/63/63a8d3_fango-e-pesca-filippo-sorcinelli_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Earthy",
+        "Fruity",
+        "Aquatic",
+        "Fresh",
+        "Floral"
+    ],
+    "top_notes": [
+        "Peach",
+        "Rain accord",
+        "Coriander",
+        "Violet leaf"
+    ],
+    "heart_notes": [
+        "Mud",
+        "Gurjum balsam",
+        "Jasmine",
+        "Osmanthus"
+    ],
+    "base_notes": [
+        "Musk",
+        "Oakmoss",
+        "Patchouli",
+        "Tobacco"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "19 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "14 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "17 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 8
+            },
+            {
+                "name": "Fresh",
+                "votes": 6
+            },
+            {
+                "name": "Earthy",
+                "votes": 9
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            },
+            {
+                "name": "Aquatic",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 10
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

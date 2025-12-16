@@ -1,0 +1,28 @@
+{
+    "name": "Kalós",
+    "brand": "L'etoile",
+    "release_year": "2025",
+    "description": "A new perfume byL'etoilefor men, released in2025. The perfume is vegan according to the manufacturer.CompareSeasonalVegan",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Kunzea",
+        "Lemon",
+        "Litsea cubeba"
+    ],
+    "heart_notes": [
+        "Blue yarrow",
+        "Cypress",
+        "Elemi resin",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Frankincense",
+        "Oakmoss",
+        "Pine",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

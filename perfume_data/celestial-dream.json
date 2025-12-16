@@ -1,0 +1,29 @@
+{
+    "name": "Celestial Dream",
+    "brand": "Ghost",
+    "release_year": "2025",
+    "description": "A new perfume byGhostfor women, released in2025. It is being marketed byDesigner Parfums.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/06/0671ec_celestial-dream-ghost_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Pear",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Orange blossom",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Vanilla",
+        "White moss"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

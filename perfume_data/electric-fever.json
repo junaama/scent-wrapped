@@ -1,0 +1,142 @@
+{
+    "name": "Electric Fever",
+    "brand": "Aaron Terence Hughes",
+    "release_year": "2025",
+    "description": "A new and limited perfume byAaron Terence Hughesfor women and men, released in2025. The scent is citrusy-fresh.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/8f/8fa65d_electric-fever-aaron-terence-hughes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Aquatic",
+        "Woody",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Lemon",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Apple",
+        "Moroccan rosemary",
+        "Sea salt"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "22 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "21 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "22 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "18 Ratings"
+        },
+        "pricing": {
+            "score": "7.1",
+            "votes": "16 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 5
+            },
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 5
+            },
+            {
+                "name": "Aquatic",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Sport",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

@@ -1,0 +1,139 @@
+{
+    "name": "Musk Latte | 41",
+    "brand": "Kayali",
+    "release_year": "2025",
+    "description": "A new perfume byKayalifor women and men, released in2025. The scent is spicy-woody.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/31/31db24_musk-latte-41-kayali_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Gourmand",
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Cinnamon",
+        "Mandarin orange",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Cypriol",
+        "Lavender",
+        "Milk coffee",
+        "Turkish rose"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Chocolate",
+        "Musk",
+        "Praliné",
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "21 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "11 Ratings"
+        },
+        "sillage": {
+            "score": "6.1",
+            "votes": "11 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "10 Ratings"
+        },
+        "pricing": {
+            "score": "6.5",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Gourmand",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 9
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

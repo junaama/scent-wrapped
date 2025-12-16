@@ -1,0 +1,102 @@
+{
+    "name": "Amber Shores",
+    "brand": "Kitsch",
+    "release_year": "2025",
+    "description": "A new perfume byKitschfor women, released in2025. The scent is sweet-aquatic.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/28/280077_amber-shores-kitsch_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Aquatic",
+        "Citrus",
+        "Woody",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Salt",
+        "Wild orchid"
+    ],
+    "heart_notes": [
+        "Italian lemon",
+        "Kumquat"
+    ],
+    "base_notes": [
+        "Black amber",
+        "Driftwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "4.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "3.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "4.8",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

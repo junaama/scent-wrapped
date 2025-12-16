@@ -1,0 +1,149 @@
+{
+    "name": "Nomade Lumière d’Égypte",
+    "brand": "Chloé",
+    "release_year": "2025",
+    "description": "A new perfume byChloéfor women, released in2025. The scent is floral-sweet. It is being marketed byCoty.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/9b/9bd8ef-nomade-lumiere-d-egypte-chloe_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Fresh",
+        "Woody",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Blue lotus"
+    ],
+    "heart_notes": [
+        "Jasminum grandiflorum absolute"
+    ],
+    "base_notes": [
+        "Elemi resin",
+        "Kyphi",
+        "Pink pepper"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "90 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "74 Ratings"
+        },
+        "sillage": {
+            "score": "6.4",
+            "votes": "72 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "75 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "55 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 10
+            },
+            {
+                "name": "Sweet",
+                "votes": 19
+            },
+            {
+                "name": "Woody",
+                "votes": 15
+            },
+            {
+                "name": "Resinous",
+                "votes": 9
+            },
+            {
+                "name": "Green",
+                "votes": 6
+            },
+            {
+                "name": "Fruity",
+                "votes": 6
+            },
+            {
+                "name": "Fresh",
+                "votes": 19
+            },
+            {
+                "name": "Creamy",
+                "votes": 11
+            },
+            {
+                "name": "Floral",
+                "votes": 30
+            },
+            {
+                "name": "Aquatic",
+                "votes": 9
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 34
+            },
+            {
+                "name": "Classic",
+                "votes": 8
+            },
+            {
+                "name": "Modern",
+                "votes": 22
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 10
+            },
+            {
+                "name": "Fall",
+                "votes": 20
+            },
+            {
+                "name": "Summer",
+                "votes": 26
+            },
+            {
+                "name": "Spring",
+                "votes": 27
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 26
+            },
+            {
+                "name": "Leisure",
+                "votes": 29
+            },
+            {
+                "name": "Night Out",
+                "votes": 12
+            },
+            {
+                "name": "Business",
+                "votes": 24
+            },
+            {
+                "name": "Evening",
+                "votes": 19
+            }
+        ]
+    }
+}

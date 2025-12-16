@@ -1,0 +1,37 @@
+{
+    "name": "Soleil Noir",
+    "brand": "Merlin",
+    "release_year": "2025",
+    "description": "A new and limited perfume byMerlinfor women and men, released in2025. The scent is sweet-fresh. The longevity is above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/26/26a6f3_soleil-noir-merlin_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fresh",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Apple",
+        "Cypress",
+        "Mint tea",
+        "Woody notes"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Amber",
+        "Vanillin"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "9.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,145 @@
+{
+    "name": "Remix Vibrant Night",
+    "brand": "4711",
+    "release_year": "2025",
+    "description": "A new perfume by4711for women, released in2025. The scent is sweet-fruity. It is being marketed byMäurer & Wirtz.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/9c/9ce0af_remix-vibrant-night-4711_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Fresh",
+        "Gourmand",
+        "Floral"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Mandarin orange",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Tuberose",
+        "Coconut"
+    ],
+    "base_notes": [
+        "Praliné",
+        "Vanilla",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.5",
+            "votes": "8 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "6.7",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Fresh",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

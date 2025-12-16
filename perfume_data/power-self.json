@@ -1,0 +1,133 @@
+{
+    "name": "Power Self",
+    "brand": "Initio",
+    "release_year": "2025",
+    "description": "A new perfume byInitiofor women and men, released in2025. The scent is floral-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f1/f17035_power-self-initio_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Sweet",
+        "Creamy",
+        "Synthetic"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "257 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "205 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "201 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "197 Ratings"
+        },
+        "pricing": {
+            "score": "5.3",
+            "votes": "166 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 38
+            },
+            {
+                "name": "Sweet",
+                "votes": 56
+            },
+            {
+                "name": "Powdery",
+                "votes": 15
+            },
+            {
+                "name": "Fruity",
+                "votes": 14
+            },
+            {
+                "name": "Fresh",
+                "votes": 57
+            },
+            {
+                "name": "Creamy",
+                "votes": 48
+            },
+            {
+                "name": "Floral",
+                "votes": 76
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 27
+            },
+            {
+                "name": "Feminine",
+                "votes": 72
+            },
+            {
+                "name": "Classic",
+                "votes": 10
+            },
+            {
+                "name": "Modern",
+                "votes": 52
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 16
+            },
+            {
+                "name": "Fall",
+                "votes": 36
+            },
+            {
+                "name": "Summer",
+                "votes": 71
+            },
+            {
+                "name": "Spring",
+                "votes": 78
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 66
+            },
+            {
+                "name": "Sport",
+                "votes": 18
+            },
+            {
+                "name": "Leisure",
+                "votes": 70
+            },
+            {
+                "name": "Night Out",
+                "votes": 35
+            },
+            {
+                "name": "Business",
+                "votes": 54
+            },
+            {
+                "name": "Evening",
+                "votes": 25
+            }
+        ]
+    }
+}

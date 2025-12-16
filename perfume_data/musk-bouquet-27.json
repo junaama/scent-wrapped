@@ -1,0 +1,128 @@
+{
+    "name": "Musk Bouquet | 27",
+    "brand": "Kayali",
+    "release_year": "2025",
+    "description": "A new perfume byKayalifor women and men, released in2025. The scent is floral-powdery. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/c2/c220f2_musk-bouquet-27-kayali_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Powdery",
+        "Sweet",
+        "Creamy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Jasmine",
+        "Pink pepper",
+        "Ylang-ylang"
+    ],
+    "heart_notes": [
+        "Turkish rose",
+        "Musk",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Musk",
+        "Praliné",
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "25 Ratings"
+        },
+        "durability": {
+            "score": "6.1",
+            "votes": "14 Ratings"
+        },
+        "sillage": {
+            "score": "5.7",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "14 Ratings"
+        },
+        "pricing": {
+            "score": "5.0",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

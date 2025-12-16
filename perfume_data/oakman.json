@@ -1,0 +1,117 @@
+{
+    "name": "Oakman",
+    "brand": "Scentiments",
+    "release_year": "2025",
+    "description": "A new perfume byScentimentsfor men, released in2025. The scent is spicy-gourmand. The longevity is above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/4b/4bbf68_oakman-scentiments_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Gourmand",
+        "Sweet",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Cinnamon",
+        "Honey",
+        "Osmanthus"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Benzoin",
+        "Labdanum"
+    ],
+    "base_notes": [
+        "Davana",
+        "Patchouli",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "6.5",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "name": "Purple",
+    "brand": "Fugazzi",
+    "release_year": "2025",
+    "description": "A new perfume byFugazzifor women and men, released in2025. The scent is woody-synthetic.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/da/dad053_purple-fugazzi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Synthetic",
+        "Fresh",
+        "Green",
+        "Spicy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "6.3",
+            "votes": "13 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "13 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "18 Ratings"
+        },
+        "pricing": {
+            "score": "6.2",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Synthetic",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 8
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "name": "Qué Chimba!",
+    "brand": "Lorenzo Pazzaglia",
+    "release_year": "2025",
+    "description": "A new perfume byLorenzo Pazzagliafor women and men, released in2025. The scent is fruity-sweet. Projection and longevity are above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/d3/d37ef9_que-chimba-lorenzo-pazzaglia_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Spicy",
+        "Creamy",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Peach",
+        "Clove",
+        "Guava",
+        "Star anise",
+        "Passion fruit",
+        "Cinnamon",
+        "Ginger"
+    ],
+    "heart_notes": [
+        "Tobacco",
+        "Cattleya orchid",
+        "Damask rose",
+        "Tonka bean",
+        "Heliotrope"
+    ],
+    "base_notes": [
+        "Amber",
+        "Vanilla",
+        "Ambergris",
+        "Benzoin",
+        "Cedarwood",
+        "Patchouli",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "93 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "88 Ratings"
+        },
+        "sillage": {
+            "score": "8.1",
+            "votes": "89 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "85 Ratings"
+        },
+        "pricing": {
+            "score": "7.2",
+            "votes": "74 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 16
+            },
+            {
+                "name": "Sweet",
+                "votes": 17
+            },
+            {
+                "name": "Fruity",
+                "votes": 18
+            },
+            {
+                "name": "Fresh",
+                "votes": 6
+            },
+            {
+                "name": "Creamy",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 13
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 15
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 13
+            },
+            {
+                "name": "Summer",
+                "votes": 12
+            },
+            {
+                "name": "Spring",
+                "votes": 17
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Leisure",
+                "votes": 15
+            },
+            {
+                "name": "Night Out",
+                "votes": 15
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 12
+            }
+        ]
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "name": "Symphony Harmony",
+    "brand": "Le Falconé",
+    "release_year": "2025",
+    "description": "A new perfume byLe Falconéfor women and men, released in2025. The scent is green-spicy. It is being marketed byBeauty & Perfume International Factory LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/27/2748a7_symphony-harmony-le-falcone_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Spicy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Galbanum",
+        "Grapefruit"
+    ],
+    "heart_notes": [
+        "Ginger",
+        "Solar note"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.7",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

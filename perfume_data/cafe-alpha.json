@@ -1,0 +1,29 @@
+{
+    "name": "Cafe Alpha",
+    "brand": "Lana & Hadi Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byLana & Hadi Parfumsfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b2/b246de_cafe-alpha-lana-hadi-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cardamom",
+        "Elemi resin",
+        "Holy basil",
+        "Indian myrrh"
+    ],
+    "heart_notes": [
+        "Indian pineapple",
+        "Jasmine",
+        "Turkish rose",
+        "Violet"
+    ],
+    "base_notes": [
+        "Arabica coffee",
+        "Coffee",
+        "Davana",
+        "Papua oud",
+        "Siberian fir needle"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

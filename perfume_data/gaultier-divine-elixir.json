@@ -1,0 +1,127 @@
+{
+    "name": "Gaultier Divine Elixir",
+    "brand": "Jean Paul Gaultier",
+    "release_year": "2025",
+    "description": "A new perfume byJean Paul Gaultierfor women, released in2025. The scent is sweet-floral. Projection and longevity are above-average. It is being marketed byPuig.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/26/2647ed_gaultier-divine-elixir-jean-paul-gaultier_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Creamy",
+        "Spicy",
+        "Aquatic"
+    ],
+    "top_notes": [
+        "Salty notes"
+    ],
+    "heart_notes": [
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "91 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "75 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "78 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "75 Ratings"
+        },
+        "pricing": {
+            "score": "7.3",
+            "votes": "57 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 15
+            },
+            {
+                "name": "Synthetic",
+                "votes": 6
+            },
+            {
+                "name": "Sweet",
+                "votes": 32
+            },
+            {
+                "name": "Gourmand",
+                "votes": 7
+            },
+            {
+                "name": "Creamy",
+                "votes": 27
+            },
+            {
+                "name": "Floral",
+                "votes": 29
+            },
+            {
+                "name": "Aquatic",
+                "votes": 10
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 38
+            },
+            {
+                "name": "Modern",
+                "votes": 23
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 21
+            },
+            {
+                "name": "Fall",
+                "votes": 25
+            },
+            {
+                "name": "Summer",
+                "votes": 17
+            },
+            {
+                "name": "Spring",
+                "votes": 22
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 13
+            },
+            {
+                "name": "Leisure",
+                "votes": 26
+            },
+            {
+                "name": "Night Out",
+                "votes": 29
+            },
+            {
+                "name": "Business",
+                "votes": 14
+            },
+            {
+                "name": "Evening",
+                "votes": 24
+            }
+        ]
+    }
+}

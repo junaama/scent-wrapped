@@ -1,0 +1,109 @@
+{
+    "name": "27 Note Marine e Bergamotto",
+    "brand": "Compagnia delle Indie",
+    "release_year": "2025",
+    "description": "A new perfume byCompagnia delle Indiefor women and men, released in2025. The scent is citrusy-fresh. It is being marketed byMyluna.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9e/9eecd6_27-note-marine-e-bergamotto-compagnia-delle-indie_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Woody",
+        "Spicy",
+        "Aquatic"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "5.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "5.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "5.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            }
+        ]
+    }
+}

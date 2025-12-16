@@ -1,0 +1,56 @@
+{
+    "name": "Good Trouble",
+    "brand": "Fyrinnae",
+    "release_year": "2025",
+    "description": "A new perfume byFyrinnaefor women and men, released in2025. The scent is fruity-woody.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/66/660a9f_good-trouble-fyrinnae_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Woody"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "4.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            }
+        ]
+    }
+}

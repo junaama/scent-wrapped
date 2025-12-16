@@ -1,0 +1,36 @@
+{
+    "name": "Fa",
+    "brand": "Oscar London",
+    "release_year": "2025",
+    "description": "A new perfume byOscar Londonfor women and men, released in2025. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7d/7dae5c_fa-oscar-london_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Apple",
+        "Bergamot",
+        "Grapefruit",
+        "Mandarin orange",
+        "Vervain"
+    ],
+    "heart_notes": [
+        "Aldehydes",
+        "Clary sage",
+        "Fennel",
+        "Violet",
+        "White rose"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Matcha",
+        "Patchouli",
+        "Vetiver",
+        "White musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.0",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {}
+}

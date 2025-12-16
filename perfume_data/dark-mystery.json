@@ -1,0 +1,145 @@
+{
+    "name": "Dark Mystery",
+    "brand": "Câline",
+    "release_year": "2025",
+    "description": "A new perfume byCâlinefor men, released in2025. The scent is fresh-sweet. It is being marketed byLifestyle Fragrance & Beauty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9c/9ce887_dark-mystery-caline_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Sweet",
+        "Synthetic",
+        "Woody",
+        "Floral"
+    ],
+    "top_notes": [
+        "Pink pepper",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Cashmere wood",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "78 Ratings"
+        },
+        "durability": {
+            "score": "6.3",
+            "votes": "74 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "74 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "75 Ratings"
+        },
+        "pricing": {
+            "score": "9.0",
+            "votes": "73 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 6
+            },
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Synthetic",
+                "votes": 14
+            },
+            {
+                "name": "Sweet",
+                "votes": 17
+            },
+            {
+                "name": "Woody",
+                "votes": 14
+            },
+            {
+                "name": "Fruity",
+                "votes": 8
+            },
+            {
+                "name": "Fresh",
+                "votes": 19
+            },
+            {
+                "name": "Creamy",
+                "votes": 10
+            },
+            {
+                "name": "Floral",
+                "votes": 10
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 17
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 18
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 17
+            },
+            {
+                "name": "Summer",
+                "votes": 15
+            },
+            {
+                "name": "Spring",
+                "votes": 18
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 18
+            },
+            {
+                "name": "Sport",
+                "votes": 11
+            },
+            {
+                "name": "Leisure",
+                "votes": 17
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 15
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

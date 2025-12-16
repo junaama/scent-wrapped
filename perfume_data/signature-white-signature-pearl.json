@@ -1,0 +1,140 @@
+{
+    "name": "Signature White",
+    "brand": "Fragrance World",
+    "release_year": "2025",
+    "description": "A new perfume byFragrance Worldfor women and men, released in2025. The scent is sweet-fruity. It is being marketed byFragrance World Trading LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ba/ba508d_signature-white-signature-pearl-fragrance-world_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Floral",
+        "Creamy",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Mango melon",
+        "Frankincense",
+        "Hazelnut",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Coconut",
+        "Jasmine",
+        "Osmanthus",
+        "Rose"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Labdanum",
+        "Sandalwood",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "11 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "11 Ratings"
+        },
+        "bottle": {
+            "score": "8.6",
+            "votes": "13 Ratings"
+        },
+        "pricing": {
+            "score": "7.2",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

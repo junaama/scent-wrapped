@@ -1,0 +1,134 @@
+{
+    "name": "Sherif",
+    "brand": "Lattafa",
+    "release_year": "2025",
+    "description": "A new perfume byLattafafor men, released in2025. The scent is green-fresh. It is being marketed byLattafa Perfumes Industries LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/1f/1f9306_sherif-lattafa_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Fresh",
+        "Fruity",
+        "Citrus",
+        "Woody"
+    ],
+    "top_notes": [
+        "Apple",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Cashmeran",
+        "Violet"
+    ],
+    "base_notes": [
+        "Amber notes",
+        "Musky notes"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "16 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "15 Ratings"
+        },
+        "bottle": {
+            "score": "6.6",
+            "votes": "17 Ratings"
+        },
+        "pricing": {
+            "score": "8.8",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 6
+            },
+            {
+                "name": "Fruity",
+                "votes": 6
+            },
+            {
+                "name": "Fresh",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

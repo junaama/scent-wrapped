@@ -1,0 +1,141 @@
+{
+    "name": "Immortelle Solaire",
+    "brand": "Les Indémodables",
+    "release_year": "2025",
+    "description": "A new perfume byLes Indémodablesfor women and men, released in2025. The scent is spicy-floral.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9a/9a4c77_immortelle-solaire-les-indemodables_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Floral",
+        "Sweet",
+        "Woody",
+        "Smoky"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "36 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "26 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "28 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "25 Ratings"
+        },
+        "pricing": {
+            "score": "6.2",
+            "votes": "21 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 14
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Smoky",
+                "votes": 7
+            },
+            {
+                "name": "Leathery",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 7
+            },
+            {
+                "name": "Resinous",
+                "votes": 6
+            },
+            {
+                "name": "Gourmand",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Earthy",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 10
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 14
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Classic",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 15
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 11
+            },
+            {
+                "name": "Fall",
+                "votes": 17
+            },
+            {
+                "name": "Summer",
+                "votes": 11
+            },
+            {
+                "name": "Spring",
+                "votes": 13
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 16
+            },
+            {
+                "name": "Night Out",
+                "votes": 11
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 14
+            }
+        ]
+    }
+}

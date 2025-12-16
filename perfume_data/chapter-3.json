@@ -1,0 +1,133 @@
+{
+    "name": "Chapter 3",
+    "brand": "Ajmal",
+    "release_year": "2025",
+    "description": "A new perfume byAjmalfor women and men, released in2025. The scent is fruity-floral.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/be/bec25d_chapter-3-ajmal_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Floral",
+        "Fresh",
+        "Green",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Green notes",
+        "Peach",
+        "Red fruits",
+        "Apricot"
+    ],
+    "heart_notes": [
+        "Osmanthus",
+        "Rose absolute"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sandalwood",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

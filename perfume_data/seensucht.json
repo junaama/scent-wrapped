@@ -1,0 +1,119 @@
+{
+    "name": "Seensucht",
+    "brand": "Acqua di Costanza",
+    "release_year": "2025",
+    "description": "A new perfume byAcqua di Costanzafor women and men, released in2025. The scent is citrusy-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b3/b36f16_seensucht-acqua-di-costanza_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Fruity",
+        "Spicy",
+        "Green"
+    ],
+    "top_notes": [
+        "Calabrian bergamot",
+        "Sicilian lemon",
+        "Sicilian orange"
+    ],
+    "heart_notes": [
+        "Fruity notes"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Vanilla",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

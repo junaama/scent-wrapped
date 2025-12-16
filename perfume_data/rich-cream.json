@@ -1,0 +1,23 @@
+{
+    "name": "Rich Cream",
+    "brand": "Aether Arts Perfume",
+    "release_year": "2025",
+    "description": "A new perfume byAether Arts Perfumefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a6/a61eca_rich-cream-aether-arts-perfume_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cream",
+        "Milk"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

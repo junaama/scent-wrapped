@@ -1,0 +1,137 @@
+{
+    "name": "9PM Coffee",
+    "brand": "Maison Marinelie",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Marineliefor women and men, released in2025. The scent is sweet-gourmand.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/69/69958a_9pm-coffee-maison-marinelie_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Spicy",
+        "Woody",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Espresso Martini",
+        "Blueberry liqueur",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Coffee",
+        "Honey",
+        "Vanilla milk"
+    ],
+    "base_notes": [
+        "Amber",
+        "Sandalwood",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "33 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "30 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "30 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "29 Ratings"
+        },
+        "pricing": {
+            "score": "6.8",
+            "votes": "17 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 9
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Gourmand",
+                "votes": 8
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

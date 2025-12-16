@@ -1,0 +1,148 @@
+{
+    "name": "Folie d'Aix 1924",
+    "brand": "Godet",
+    "release_year": "2025",
+    "description": "A new perfume byGodetfor women and men, released in2025. The scent is spicy-woody.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/68/685567_folie-d-aix-1924-godet_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Green",
+        "Floral",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Herbs",
+        "Lemon",
+        "Rosemary"
+    ],
+    "heart_notes": [
+        "Cistus",
+        "Pine",
+        "Rosebud",
+        "Jasmine",
+        "Lilac",
+        "Wisteria"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Olive wood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Green",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "name": "Rose Exposed",
+    "brand": "Tom Ford",
+    "release_year": "2025",
+    "description": "A new perfume byTom Fordfor women and men, released in2025. The scent is floral-leathery. It is being marketed byEstēe Lauder Companies.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ac/aca1d7-rose-exposed-tom-ford_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Leathery",
+        "Spicy",
+        "Sweet",
+        "Oriental"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "94 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "79 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "80 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "84 Ratings"
+        },
+        "pricing": {
+            "score": "5.4",
+            "votes": "58 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 15
+            },
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 10
+            },
+            {
+                "name": "Smoky",
+                "votes": 5
+            },
+            {
+                "name": "Oriental",
+                "votes": 9
+            },
+            {
+                "name": "Leathery",
+                "votes": 16
+            },
+            {
+                "name": "Woody",
+                "votes": 7
+            },
+            {
+                "name": "Floral",
+                "votes": 23
+            },
+            {
+                "name": "Animal",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 15
+            },
+            {
+                "name": "Feminine",
+                "votes": 17
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 11
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 17
+            },
+            {
+                "name": "Fall",
+                "votes": 20
+            },
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 14
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 14
+            },
+            {
+                "name": "Night Out",
+                "votes": 18
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 17
+            }
+        ]
+    }
+}

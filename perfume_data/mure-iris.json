@@ -1,0 +1,41 @@
+{
+    "name": "Mûre Iris",
+    "brand": "Maison Berliner",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Berlinerfor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/c8/c8c2f6_mure-iris-maison-berliner_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blackberry",
+        "Blackcurrant",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Orris butter"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Musk",
+        "Vanilla",
+        "Woods"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.8",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "3.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "3.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "5.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

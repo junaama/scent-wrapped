@@ -1,0 +1,36 @@
+{
+    "name": "Milk & Sugar Please!",
+    "brand": "Theodoros Kalotinis",
+    "release_year": "2025",
+    "description": "A new perfume byTheodoros Kalotinisfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ac/acca8d_milk-sugar-please-theodoros-kalotinis_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Milk"
+    ],
+    "heart_notes": [
+        "Sugar"
+    ],
+    "base_notes": [
+        "Gourmand notes"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "6.4",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {}
+}

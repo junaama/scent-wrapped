@@ -1,0 +1,144 @@
+{
+    "name": "Warm Glance",
+    "brand": "Zara",
+    "release_year": "2025",
+    "description": "A new perfume byZarafor men, released in2025. The scent is smoky-fruity.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/34/34835c_warm-glance-zara_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Fruity",
+        "Synthetic",
+        "Fresh",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Apple"
+    ],
+    "heart_notes": [
+        "Cashmere wood"
+    ],
+    "base_notes": [
+        "Amber",
+        "Tobacco"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "16 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "12 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "6.9",
+            "votes": "15 Ratings"
+        },
+        "pricing": {
+            "score": "8.5",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Smoky",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Fougère",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

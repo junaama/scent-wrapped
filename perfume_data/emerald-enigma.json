@@ -1,0 +1,101 @@
+{
+    "name": "Emerald Enigma",
+    "brand": "Zara",
+    "release_year": "2025",
+    "description": "A new perfume byZarafor women, released in2025. The scent is resinous-sweet. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ca/ca7ac9_emerald-enigma-zara_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Sweet",
+        "Gourmand",
+        "Spicy",
+        "Creamy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

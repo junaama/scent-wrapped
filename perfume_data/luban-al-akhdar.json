@@ -1,0 +1,131 @@
+{
+    "name": "Luban Al Akhdar",
+    "brand": "Amouage",
+    "release_year": "2025",
+    "description": "A new perfume byAmouagefor women and men, released in2025. The scent is resinous-smoky. Projection and longevity are above-average. It is being marketed bySabco Group / Oman Perfumery.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ff/ff7dca_luban-al-akhdar-amouage_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Smoky",
+        "Woody",
+        "Spicy",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Frankincense"
+    ],
+    "heart_notes": [
+        "Myrrh"
+    ],
+    "base_notes": [
+        "Labdanum"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "9.0",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "8.3",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

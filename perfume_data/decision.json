@@ -1,0 +1,149 @@
+{
+    "name": "Decision",
+    "brand": "Amouage",
+    "release_year": "2025",
+    "description": "A new perfume byAmouagefor women and men, released in2025. The scent is spicy-woody. Projection and longevity are above-average. It is being marketed bySabco Group / Oman Perfumery.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/53/538025_decision-amouage_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Smoky",
+        "Resinous",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Pink pepper",
+        "Bergamot",
+        "Cardamom"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Juniper berry",
+        "Myrrh"
+    ],
+    "base_notes": [
+        "Atlas cedar",
+        "Vanilla",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "347 Ratings"
+        },
+        "durability": {
+            "score": "8.8",
+            "votes": "311 Ratings"
+        },
+        "sillage": {
+            "score": "8.3",
+            "votes": "308 Ratings"
+        },
+        "bottle": {
+            "score": "8.8",
+            "votes": "295 Ratings"
+        },
+        "pricing": {
+            "score": "6.4",
+            "votes": "242 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 25
+            },
+            {
+                "name": "Spicy",
+                "votes": 79
+            },
+            {
+                "name": "Sweet",
+                "votes": 28
+            },
+            {
+                "name": "Smoky",
+                "votes": 56
+            },
+            {
+                "name": "Oriental",
+                "votes": 26
+            },
+            {
+                "name": "Woody",
+                "votes": 70
+            },
+            {
+                "name": "Resinous",
+                "votes": 53
+            },
+            {
+                "name": "Fresh",
+                "votes": 53
+            },
+            {
+                "name": "Creamy",
+                "votes": 30
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 94
+            },
+            {
+                "name": "Feminine",
+                "votes": 29
+            },
+            {
+                "name": "Classic",
+                "votes": 15
+            },
+            {
+                "name": "Modern",
+                "votes": 70
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 64
+            },
+            {
+                "name": "Fall",
+                "votes": 89
+            },
+            {
+                "name": "Summer",
+                "votes": 44
+            },
+            {
+                "name": "Spring",
+                "votes": 87
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 56
+            },
+            {
+                "name": "Leisure",
+                "votes": 79
+            },
+            {
+                "name": "Night Out",
+                "votes": 75
+            },
+            {
+                "name": "Business",
+                "votes": 59
+            },
+            {
+                "name": "Evening",
+                "votes": 74
+            }
+        ]
+    }
+}

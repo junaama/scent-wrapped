@@ -1,0 +1,101 @@
+{
+    "name": "Ramad Louban",
+    "brand": "Arabiyat Prestige",
+    "release_year": "2025",
+    "description": "A new perfume byArabiyat Prestigefor women and men, released in2025. The scent is woody-oriental. The longevity is above-average. It is being marketed byMy Perfumes / MPF (My Perfumes Factory).Compare",
+    "image_url": "https://media.parfumo.com/perfumes/96/961bc8_ramad-louban-louban-arabiyat-prestige_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Oriental",
+        "Spicy",
+        "Earthy"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Cinnamon",
+        "Hazelnut",
+        "Myrrh",
+        "Pepper"
+    ],
+    "heart_notes": [
+        "Cypriol",
+        "Davana",
+        "Labdanum",
+        "Pine"
+    ],
+    "base_notes": [
+        "Amber",
+        "Benzoin",
+        "Cedarwood",
+        "Oakmoss",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "8.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

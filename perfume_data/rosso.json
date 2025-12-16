@@ -1,0 +1,34 @@
+{
+    "name": "Rosso",
+    "brand": "Vince Camuto",
+    "release_year": "2025",
+    "description": "A new perfume byVince Camutofor men, released in2025. It is being marketed byParlux Ltd..Compare",
+    "image_url": "https://media.parfumo.com/perfumes/93/9387a0_rosso-vince-camuto_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Green apple",
+        "Italian bergamot",
+        "Nepalese sichuan pepper",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Lavender",
+        "Spanish thyme",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Amber Xtreme™",
+        "Atlas cedar",
+        "Benzoin",
+        "Bourbon vanilla",
+        "Oakmoss",
+        "Patchouli"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.3",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

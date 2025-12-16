@@ -1,0 +1,134 @@
+{
+    "name": "Violet Venom",
+    "brand": "Gritti",
+    "release_year": "2025",
+    "description": "A new and limited perfume byGrittifor women and men, released in2025. The scent is sweet-floral.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/ad/ade962_violet-venom-gritti_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Synthetic",
+        "Fruity",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Neroli",
+        "Bergamot",
+        "White tea"
+    ],
+    "heart_notes": [
+        "Osmanthus",
+        "Orange blossom",
+        "Sandalwood"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cashmeran",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "32 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "29 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "29 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "29 Ratings"
+        },
+        "pricing": {
+            "score": "5.6",
+            "votes": "20 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 6
+            },
+            {
+                "name": "Sweet",
+                "votes": 9
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

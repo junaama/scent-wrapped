@@ -1,0 +1,102 @@
+{
+    "name": "Sugar on the Rocks",
+    "brand": "Mirisanno",
+    "release_year": "2025",
+    "description": "A new perfume byMirisannofor women and men, released in2025. The scent is gourmand-sweet. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ca/ca466e_sugar-on-the-rocks-mirisanno_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Sweet",
+        "Spicy",
+        "Woody",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Cinnamon",
+        "Coffee",
+        "Cognac"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Amber",
+        "Ambroxan",
+        "Caramel",
+        "Labdanum"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "name": "Haibah Oriental",
+    "brand": "The Spirit of Dubai",
+    "release_year": "2025",
+    "description": "A new perfume byThe Spirit of Dubaifor women and men, released in2025. The scent is oriental-leathery. Projection and longevity are above-average. It is being marketed byNabeel.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/11/113de7_haibah-oriental-the-spirit-of-dubai_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Oriental",
+        "Leathery",
+        "Spicy",
+        "Woody",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Aldehydes",
+        "Apple",
+        "Bergamot",
+        "Blackberry",
+        "Grapefruit",
+        "Passion fruit",
+        "Peach",
+        "Saffron",
+        "Ylang-ylang"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Jasmine",
+        "Pink pepper",
+        "Rose",
+        "Tagetes",
+        "Violet"
+    ],
+    "base_notes": [
+        "Amber",
+        "Ambroxan",
+        "Cashmere wood",
+        "Cedarwood",
+        "Leather",
+        "Mossy notes",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "23 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "22 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "22 Ratings"
+        },
+        "bottle": {
+            "score": "8.8",
+            "votes": "31 Ratings"
+        },
+        "pricing": {
+            "score": "6.3",
+            "votes": "21 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Smoky",
+                "votes": 3
+            },
+            {
+                "name": "Oriental",
+                "votes": 8
+            },
+            {
+                "name": "Leathery",
+                "votes": 8
+            },
+            {
+                "name": "Woody",
+                "votes": 7
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "name": "Narici N°1",
+    "brand": "Narici",
+    "release_year": "2025",
+    "description": "A new and limited perfume byNaricifor women and men, released in2025. The scent is woody-gourmand.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/ea/eac271_narici-n-1-narici_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Gourmand",
+        "Synthetic",
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ]
+    }
+}

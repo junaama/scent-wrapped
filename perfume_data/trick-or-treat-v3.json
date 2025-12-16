@@ -1,0 +1,75 @@
+{
+    "name": "Trick or Treat v3",
+    "brand": "Lost Tribe",
+    "release_year": "2025",
+    "description": "A new and limited perfume byLost Tribefor women and men, released in2025. The scent is floral-animal. Projection and longevity are above-average. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/40/40c20f_trick-or-treat-v3-lost-tribe_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Animal"
+    ],
+    "top_notes": [
+        "French labdanum absolute",
+        "Jasmine sambac",
+        "White ambergris",
+        "Ylang-ylang"
+    ],
+    "heart_notes": [
+        "Bourbon rose",
+        "French oak wood",
+        "Red champaca",
+        "Red frangipani",
+        "White gingerlily"
+    ],
+    "base_notes": [
+        "Civet",
+        "Egyptian chamomile absolute",
+        "French vanilla",
+        "Malayan oud",
+        "Mongolian musk",
+        "Tobacco"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

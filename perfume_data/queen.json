@@ -1,0 +1,23 @@
+{
+    "name": "Queen",
+    "brand": "Valila",
+    "release_year": "2025",
+    "description": "A new perfume byValilafor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7a/7a089d_queen-valila_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Neroli",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Amber",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

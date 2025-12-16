@@ -1,0 +1,129 @@
+{
+    "name": "Forbidden",
+    "brand": "Seduce",
+    "release_year": "2025",
+    "description": "A new perfume bySeducefor women and men, released in2025. The scent is floral-oriental.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/37/37ec23_forbidden-seduce_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Oriental",
+        "Spicy",
+        "Sweet",
+        "Green"
+    ],
+    "top_notes": [
+        "Green notes",
+        "Peach",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Rose",
+        "Saffron",
+        "Violet"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Frankincense"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

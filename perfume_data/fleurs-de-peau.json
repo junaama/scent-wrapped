@@ -1,0 +1,142 @@
+{
+    "name": "Fleurs de Peau",
+    "brand": "Les Néréides",
+    "release_year": "2025",
+    "description": "A new perfume byLes Néréidesfor women and men, released in2025. The scent is sweet-floral. Projection and longevity are above-average. It is being marketed byCBI (Creation Beauté International).PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/a5/a5741c_fleurs-de-peau-les-nereides_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Synthetic",
+        "Gourmand",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Orchid",
+        "White blossoms"
+    ],
+    "heart_notes": [
+        "Blond woods",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amberwood",
+        "Bourbon vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.0",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

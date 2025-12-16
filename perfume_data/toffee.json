@@ -1,0 +1,115 @@
+{
+    "name": "Toffee",
+    "brand": "La Fede",
+    "release_year": "2025",
+    "description": "A new perfume byLa Fedefor women, released in2025. The scent is sweet-gourmand. It is being marketed byKhadlaj Perfumes LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/68/68240a_toffee-la-fede_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Woody",
+        "Earthy",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Caramel",
+        "Coffee"
+    ],
+    "heart_notes": [
+        "Milk",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Honey",
+        "Vanilla",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "5.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "5.8",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

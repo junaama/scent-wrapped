@@ -1,0 +1,139 @@
+{
+    "name": "Sharaf Divine",
+    "brand": "Zimaya",
+    "release_year": "2025",
+    "description": "A new perfume byZimayafor women and men, released in2025. The scent is sweet-fruity. Projection and longevity are above-average. It is being marketed byAfnan.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/af/af24bb_sharaf-divine-zimaya_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Oriental",
+        "Spicy",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Cinnamon",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Apple",
+        "Caramel",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cognac",
+        "Moss",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.7",
+            "votes": "16 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "8.1",
+            "votes": "15 Ratings"
+        },
+        "bottle": {
+            "score": "9.4",
+            "votes": "17 Ratings"
+        },
+        "pricing": {
+            "score": "9.5",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

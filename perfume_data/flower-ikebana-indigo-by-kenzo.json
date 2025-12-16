@@ -1,0 +1,137 @@
+{
+    "name": "Flower Ikebana Indigo by Kenzo",
+    "brand": "Kenzo",
+    "release_year": "2025",
+    "description": "A new perfume byKenzofor women, released in2025. The scent is floral-powdery. It is being marketed byLVMH.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e3/e3e295-flower-ikebana-indigo-by-kenzo-kenzo_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Powdery",
+        "Woody",
+        "Fresh",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Ink"
+    ],
+    "heart_notes": [
+        "Iris pallida",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Cedar",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "69 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "55 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "56 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "47 Ratings"
+        },
+        "pricing": {
+            "score": "6.5",
+            "votes": "31 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 7
+            },
+            {
+                "name": "Sweet",
+                "votes": 9
+            },
+            {
+                "name": "Powdery",
+                "votes": 24
+            },
+            {
+                "name": "Woody",
+                "votes": 18
+            },
+            {
+                "name": "Fresh",
+                "votes": 12
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 32
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 26
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 19
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 12
+            },
+            {
+                "name": "Fall",
+                "votes": 20
+            },
+            {
+                "name": "Summer",
+                "votes": 15
+            },
+            {
+                "name": "Spring",
+                "votes": 27
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 24
+            },
+            {
+                "name": "Leisure",
+                "votes": 24
+            },
+            {
+                "name": "Night Out",
+                "votes": 12
+            },
+            {
+                "name": "Business",
+                "votes": 22
+            },
+            {
+                "name": "Evening",
+                "votes": 11
+            }
+        ]
+    }
+}

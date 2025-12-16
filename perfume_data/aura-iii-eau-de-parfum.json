@@ -1,0 +1,109 @@
+{
+    "name": "Aura III",
+    "brand": "QOT - Question of Time",
+    "release_year": "2025",
+    "description": "A new perfume byQOT - Question of Timefor women and men, released in2025. The scent is aquatic-powdery. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/bb/bb4e48_aura-iii-eau-de-parfum-qot-question-of-time_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Aquatic",
+        "Powdery",
+        "Fresh",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Aldehydes"
+    ],
+    "heart_notes": [
+        "Elemi resin",
+        "Soap",
+        "Violet"
+    ],
+    "base_notes": [
+        "Bamboo",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

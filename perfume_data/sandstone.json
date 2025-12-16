@@ -1,0 +1,114 @@
+{
+    "name": "Sandstone",
+    "brand": "Glossier",
+    "release_year": "2025",
+    "description": "A new perfume byGlossierfor women, released in2025. The scent is green-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/1b/1b9fab_sandstone-glossier_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Fresh",
+        "Floral",
+        "Earthy",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Fig leaf",
+        "Provençal lavender"
+    ],
+    "heart_notes": [
+        "Clary sage",
+        "Geranium"
+    ],
+    "base_notes": [
+        "Coconut milk",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "4.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "5.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "6.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

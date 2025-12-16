@@ -1,0 +1,149 @@
+{
+    "name": "Mangomina D",
+    "brand": "New Notes",
+    "release_year": "2025",
+    "description": "A new perfume byNew Notesfor women and men, released in2025. The scent is fruity-sweet. It is being marketed byHIC Beauty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b9/b9e7eb_mangomina-d-new-notes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Citrus",
+        "Synthetic",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Marine notes",
+        "Mandarin orange",
+        "Mango",
+        "Yuzu"
+    ],
+    "heart_notes": [
+        "Rose",
+        "Solar note",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Cashmere wood",
+        "Musk",
+        "Amber",
+        "Mossy notes",
+        "Patchouli",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "51 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "39 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "38 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "38 Ratings"
+        },
+        "pricing": {
+            "score": "7.5",
+            "votes": "32 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 8
+            },
+            {
+                "name": "Synthetic",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 14
+            },
+            {
+                "name": "Fruity",
+                "votes": 14
+            },
+            {
+                "name": "Fresh",
+                "votes": 8
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 6
+            },
+            {
+                "name": "Aquatic",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 11
+            },
+            {
+                "name": "Feminine",
+                "votes": 13
+            },
+            {
+                "name": "Modern",
+                "votes": 12
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 16
+            },
+            {
+                "name": "Spring",
+                "votes": 13
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 10
+            },
+            {
+                "name": "Sport",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 17
+            },
+            {
+                "name": "Night Out",
+                "votes": 11
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

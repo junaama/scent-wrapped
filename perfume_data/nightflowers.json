@@ -1,0 +1,133 @@
+{
+    "name": "Nightflowers",
+    "brand": "Lingua Planta",
+    "release_year": "2025",
+    "description": "A new perfume byLingua Plantafor women and men, released in2025. The scent is floral-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/1d/1d60ca_nightflowers-lingua-planta_1200.jpg?width=240&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Spicy",
+        "Citrus",
+        "Green",
+        "Powdery"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "8 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "7.9",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "5.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 4
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

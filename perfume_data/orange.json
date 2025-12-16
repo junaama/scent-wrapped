@@ -1,0 +1,27 @@
+{
+    "name": "Orange",
+    "brand": "JMP Artisan Perfumes",
+    "release_year": "2025",
+    "description": "A new perfume byJMP Artisan Perfumesfor women and men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Grapefruit",
+        "Orange zest",
+        "Sicilian orange"
+    ],
+    "heart_notes": [
+        "Blackcurrant",
+        "Grass",
+        "Lily of the valley",
+        "Rose"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "ISO-E-Super",
+        "Sandalwood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Sakura",
+    "brand": "Routine Paris",
+    "release_year": "2025",
+    "description": "A new perfume byRoutine Parisfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/77/778eec_sakura-routine-paris_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bulgarian rose",
+        "Cherry",
+        "Cherry blossom"
+    ],
+    "heart_notes": [
+        "Musk",
+        "Rose",
+        "Tonka bean",
+        "Violet"
+    ],
+    "base_notes": [
+        "Amber",
+        "Rose",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

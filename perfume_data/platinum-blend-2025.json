@@ -1,0 +1,142 @@
+{
+    "name": "Platinum Blend",
+    "brand": "Atkinsons",
+    "release_year": "2025",
+    "description": "A new perfume byAtkinsonsfor women and men, released in2025. The scent is spicy-sweet. It is being marketed byEuroItalia.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6f/6f35b7_platinum-blend-2025-atkinsons_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Sweet",
+        "Woody",
+        "Resinous",
+        "Floral"
+    ],
+    "top_notes": [
+        "Madagascan laurel",
+        "Belanis®"
+    ],
+    "heart_notes": [
+        "Australian sandalwood",
+        "Heliotrope"
+    ],
+    "base_notes": [
+        "Spanish labdanum absolute",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "69 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "56 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "57 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "66 Ratings"
+        },
+        "pricing": {
+            "score": "6.2",
+            "votes": "41 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 22
+            },
+            {
+                "name": "Sweet",
+                "votes": 18
+            },
+            {
+                "name": "Oriental",
+                "votes": 7
+            },
+            {
+                "name": "Woody",
+                "votes": 15
+            },
+            {
+                "name": "Resinous",
+                "votes": 9
+            },
+            {
+                "name": "Fresh",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 18
+            },
+            {
+                "name": "Feminine",
+                "votes": 11
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 16
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 14
+            },
+            {
+                "name": "Fall",
+                "votes": 19
+            },
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 11
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 16
+            },
+            {
+                "name": "Night Out",
+                "votes": 15
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 17
+            }
+        ]
+    }
+}

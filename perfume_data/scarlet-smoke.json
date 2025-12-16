@@ -1,0 +1,44 @@
+{
+    "name": "Scarlet Smoke",
+    "brand": "The Dua Brand",
+    "release_year": "2025",
+    "description": "A new perfume byThe Dua Brandfor women and men, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/48/48f9d1_scarlet-smoke-the-dua-brand-dua-fragrances_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bitter almond",
+        "Davana blossom",
+        "Rose",
+        "Rum"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Clove"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Musk",
+        "Patchouli",
+        "Roasted tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "5.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

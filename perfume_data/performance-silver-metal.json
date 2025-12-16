@@ -1,0 +1,101 @@
+{
+    "name": "Performance Silver Metal",
+    "brand": "bugatti Fashion",
+    "release_year": "2025",
+    "description": "A new perfume bybugatti Fashionfor men, released in2025. The scent is floral-fresh. It is being marketed byLuxess.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e3/e376bb_performance-silver-metal-bugatti-fashion_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Spicy",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Black pepper",
+        "Elemi resin",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Clary sage",
+        "Lavender",
+        "Nutmeg"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Cocoa",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.3",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

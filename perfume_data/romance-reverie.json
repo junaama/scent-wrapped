@@ -1,0 +1,136 @@
+{
+    "name": "Romance Reverie",
+    "brand": "Ministry of Oud",
+    "release_year": "2025",
+    "description": "A new perfume byMinistry of Oudfor women and men, released in2025. The scent is sweet-synthetic. It is being marketed byParis Corner Perfumes.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/fb/fb90ba_romance-reverie-ministry-of-oud_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Synthetic",
+        "Powdery",
+        "Fruity",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Blackberry",
+        "Blackcurrant",
+        "Green apple",
+        "Lychee",
+        "Mandarin orange",
+        "Red fruits"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Liquorice",
+        "Peony",
+        "Violet"
+    ],
+    "base_notes": [
+        "Cashmeran",
+        "Musk",
+        "Amber",
+        "Woody notes",
+        "Patchouli",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "9 Ratings"
+        },
+        "durability": {
+            "score": "6.2",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

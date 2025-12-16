@@ -1,0 +1,140 @@
+{
+    "name": "Veneno Scarlet",
+    "brand": "French Avenue",
+    "release_year": "2025",
+    "description": "A new perfume byFrench Avenuefor women and men, released in2025. The scent is sweet-fruity. Projection and longevity are above-average. It is being marketed byFragrance World Trading LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/fd/fdf2a0_veneno-scarlet-french-avenue_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Leathery",
+        "Spicy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Blackberry",
+        "Caramel",
+        "Strawberry"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Cedar",
+        "Raspberry"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Leather",
+        "Tonka bean",
+        "Fir",
+        "Patchouli",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "24 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "22 Ratings"
+        },
+        "sillage": {
+            "score": "8.1",
+            "votes": "22 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "23 Ratings"
+        },
+        "pricing": {
+            "score": "9.0",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Sweet",
+                "votes": 11
+            },
+            {
+                "name": "Oriental",
+                "votes": 3
+            },
+            {
+                "name": "Leathery",
+                "votes": 9
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 10
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 9
+            },
+            {
+                "name": "Fall",
+                "votes": 11
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "name": "Kohl Opulence",
+    "brand": "Arabiyat Prestige",
+    "release_year": "2025",
+    "description": "A new perfume byArabiyat Prestigefor women and men, released in2025. The scent is citrusy-spicy. The longevity is above-average. It is being marketed byMy Perfumes / MPF (My Perfumes Factory).Compare",
+    "image_url": "https://media.parfumo.com/perfumes/76/766262_kohl-opulence-arabiyat-prestige_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Spicy",
+        "Powdery",
+        "Oriental",
+        "Woody"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Ginger",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Orange blossom",
+        "Woody notes"
+    ],
+    "base_notes": [
+        "Amber notes",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "10 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "10 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "13 Ratings"
+        },
+        "pricing": {
+            "score": "8.5",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

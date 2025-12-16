@@ -1,0 +1,106 @@
+{
+    "name": "Tornado",
+    "brand": "Maison Asrar",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Asrarfor women and men, released in2025. The scent is smoky-sweet. It is being marketed byGulf Orchid Fragrances.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7c/7ca40c_tornado-maison-asrar_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Sweet",
+        "Synthetic",
+        "Green",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Davana",
+        "Lychee",
+        "Peach",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Cashmere",
+        "Frankincense",
+        "Osmanthus"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Musk",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

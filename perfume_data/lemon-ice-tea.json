@@ -1,0 +1,25 @@
+{
+    "name": "Lemon Ice Tea",
+    "brand": "Flower Knows",
+    "release_year": "2025",
+    "description": "A new perfume byFlower Knowsfor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/72/728e47_lemon-ice-tea-flower-knows_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Green tea absolute",
+        "Lemon",
+        "Lime"
+    ],
+    "heart_notes": [
+        "Cardamom",
+        "Peppermint",
+        "Petitgrain"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Labdanum",
+        "Musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

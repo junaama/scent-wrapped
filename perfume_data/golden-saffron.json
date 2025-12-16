@@ -1,0 +1,36 @@
+{
+    "name": "Golden Saffron",
+    "brand": "Bortnikoff",
+    "release_year": "2025",
+    "description": "A new perfume byBortnikofffor women and men, released in2025. Projection and longevity are above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/3f/3fbc3c_golden-saffron-bortnikoff_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Lemon",
+        "Orange",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Jasmine",
+        "Lavender",
+        "Lily of the valley",
+        "Mint",
+        "Nutmeg"
+    ],
+    "base_notes": [
+        "Amber",
+        "Patchouli",
+        "Sugar",
+        "Tobacco",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

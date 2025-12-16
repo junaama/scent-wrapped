@@ -1,0 +1,130 @@
+{
+    "name": "Vanant",
+    "brand": "In Astra",
+    "release_year": "2025",
+    "description": "A new perfume byIn Astrafor women and men, released in2025. The scent is floral-spicy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/67/672c46_vanant-in-astra_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Spicy",
+        "Resinous",
+        "Sweet",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Blackcurrant"
+    ],
+    "heart_notes": [
+        "Black carnation",
+        "Black rose"
+    ],
+    "base_notes": [
+        "Birch tar",
+        "Myrrh",
+        "Opoponax"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "16 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "13 Ratings"
+        },
+        "sillage": {
+            "score": "8.3",
+            "votes": "11 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Smoky",
+                "votes": 3
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

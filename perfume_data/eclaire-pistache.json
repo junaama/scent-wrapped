@@ -1,0 +1,124 @@
+{
+    "name": "Eclaire Pistache",
+    "brand": "Lattafa",
+    "release_year": "2025",
+    "description": "A new perfume byLattafafor women and men, released in2025. The scent is gourmand-sweet. It is being marketed byLattafa Perfumes Industries LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/60/60d402_eclaire-pistache-lattafa_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Sweet",
+        "Creamy",
+        "Synthetic",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Pistachio cream",
+        "Roasted pistachio"
+    ],
+    "heart_notes": [
+        "Cream",
+        "Coconut",
+        "Cocoa"
+    ],
+    "base_notes": [
+        "Milk",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "75 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "63 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "66 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "73 Ratings"
+        },
+        "pricing": {
+            "score": "7.8",
+            "votes": "57 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 7
+            },
+            {
+                "name": "Sweet",
+                "votes": 24
+            },
+            {
+                "name": "Gourmand",
+                "votes": 26
+            },
+            {
+                "name": "Creamy",
+                "votes": 18
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 19
+            },
+            {
+                "name": "Modern",
+                "votes": 17
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 21
+            },
+            {
+                "name": "Fall",
+                "votes": 23
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 15
+            },
+            {
+                "name": "Leisure",
+                "votes": 21
+            },
+            {
+                "name": "Night Out",
+                "votes": 10
+            },
+            {
+                "name": "Business",
+                "votes": 8
+            },
+            {
+                "name": "Evening",
+                "votes": 14
+            }
+        ]
+    }
+}

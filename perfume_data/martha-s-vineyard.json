@@ -1,0 +1,138 @@
+{
+    "name": "Martha's Vineyard",
+    "brand": "City Rhythm",
+    "release_year": "2025",
+    "description": "A new perfume byCity Rhythmfor women and men, released in2025. The scent is sweet-fruity. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4c/4c8b53_martha-s-vineyard-city-rhythm_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Powdery",
+        "Fresh",
+        "Woody"
+    ],
+    "top_notes": [
+        "Plum",
+        "Coconut",
+        "Orange zest"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Woods",
+        "Orris root"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Tobacco",
+        "Driftwood",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "41 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "38 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "38 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "38 Ratings"
+        },
+        "pricing": {
+            "score": "7.3",
+            "votes": "29 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 17
+            },
+            {
+                "name": "Powdery",
+                "votes": 9
+            },
+            {
+                "name": "Woody",
+                "votes": 7
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 16
+            },
+            {
+                "name": "Fresh",
+                "votes": 8
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 14
+            },
+            {
+                "name": "Feminine",
+                "votes": 15
+            },
+            {
+                "name": "Modern",
+                "votes": 11
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 11
+            },
+            {
+                "name": "Summer",
+                "votes": 12
+            },
+            {
+                "name": "Spring",
+                "votes": 14
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Leisure",
+                "votes": 14
+            },
+            {
+                "name": "Night Out",
+                "votes": 11
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 10
+            }
+        ]
+    }
+}

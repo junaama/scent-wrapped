@@ -1,0 +1,122 @@
+{
+    "name": "Continental Retro",
+    "brand": "Grandeur Elite",
+    "release_year": "2025",
+    "description": "A new perfume byGrandeur Elitefor women and men, released in2025. The scent is sweet-smoky. The projection is above-average. It is being marketed byABC Fragrances.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2f/2f7b92_continental-retro-grandeur-elite_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Smoky",
+        "Gourmand",
+        "Synthetic",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Cardamom",
+        "Cinnamon",
+        "Orange blossom"
+    ],
+    "heart_notes": [
+        "Bourbon vanilla",
+        "Elemi resin"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Gaiac wood",
+        "Musk",
+        "Praliné"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

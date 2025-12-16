@@ -1,0 +1,186 @@
+{
+    "name": "Gris Sultani",
+    "brand": "Ensar Oud",
+    "release_year": "2025",
+    "description": "A new perfume byEnsar Oudfor women and men, released in2025. The scent is sweet-smoky.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6a/6a2ab6_gris-sultani-ensar-oud-oriscent_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Smoky",
+        "Fruity",
+        "Aquatic",
+        "Woody"
+    ],
+    "top_notes": [
+        "Angelica",
+        "Bengal pepper",
+        "Bergamot",
+        "Blood orange",
+        "Fig",
+        "Galbanum",
+        "Juniper berry",
+        "Lemon petitgrain",
+        "Mandarin orange",
+        "Raspberry",
+        "Strawberry",
+        "Thyme",
+        "Yuzu"
+    ],
+    "heart_notes": [
+        "Beeswax",
+        "Blue lotus",
+        "Bourbon vanilla",
+        "Cocoa",
+        "Coffee",
+        "Frangipani",
+        "Frankincense",
+        "Iris",
+        "Mushrooms",
+        "Myrrh",
+        "Rose",
+        "Violet leaf"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Cade juniper",
+        "Cambodian oud",
+        "Castoreum",
+        "Indonesian oud",
+        "Papua oud",
+        "Patchouli",
+        "Spikenard",
+        "Sri Lankan oud",
+        "Sumatran oud",
+        "Tibetan musk",
+        "Tobacco",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "15 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "9.3",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Smoky",
+                "votes": 6
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 6
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            },
+            {
+                "name": "Aquatic",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

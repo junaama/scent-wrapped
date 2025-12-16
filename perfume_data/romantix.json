@@ -1,0 +1,24 @@
+{
+    "name": "Romantix",
+    "brand": "SYD Botanica",
+    "release_year": "2025",
+    "description": "A new perfume bySYD Botanicafor women and men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Blackcurrant",
+        "Cherry cola"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Suede",
+        "Tobacco",
+        "Vetiver"
+    ],
+    "base_notes": [
+        "Musk",
+        "Vanilla absolute"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

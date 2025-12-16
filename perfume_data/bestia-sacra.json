@@ -1,0 +1,154 @@
+{
+    "name": "Bestia Sacra",
+    "brand": "Maksim Perfume",
+    "release_year": "2025",
+    "description": "A new perfume byMaksim Perfumefor women and men, released in2025. The scent is smoky-animal.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a3/a3ea98_bestia-sacra-maksim-perfume_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Animal",
+        "Leathery",
+        "Earthy",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Indian frankincense",
+        "Somalian frankincense",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Civet",
+        "Musk",
+        "Castoreum",
+        "Nagarmotha",
+        "Myrrh",
+        "Opoponax"
+    ],
+    "base_notes": [
+        "Nagarmotha",
+        "Labdanum",
+        "Oakmoss",
+        "Sandalwood",
+        "Benzoin"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "16 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "14 Ratings"
+        },
+        "sillage": {
+            "score": "6.4",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "11 Ratings"
+        },
+        "pricing": {
+            "score": "7.6",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Smoky",
+                "votes": 7
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Leathery",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 5
+            },
+            {
+                "name": "Earthy",
+                "votes": 5
+            },
+            {
+                "name": "Animal",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

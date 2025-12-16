@@ -1,0 +1,137 @@
+{
+    "name": "Brutal",
+    "brand": "Pigmentarium",
+    "release_year": "2025",
+    "description": "A new perfume byPigmentariumfor women and men, released in2025. The scent is floral-citrusy. The projection is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/18/188897_brutal-pigmentarium_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Citrus",
+        "Animal",
+        "Sweet",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Cocktail",
+        "Coffee",
+        "Orange blossom"
+    ],
+    "heart_notes": [
+        "May rose",
+        "Tuberose",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Amber",
+        "Bourbon tobacco",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "18 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "17 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "17 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "17 Ratings"
+        },
+        "pricing": {
+            "score": "8.4",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

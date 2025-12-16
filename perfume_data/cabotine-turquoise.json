@@ -1,0 +1,117 @@
+{
+    "name": "Cabotine Turquoise",
+    "brand": "Grès",
+    "release_year": "2025",
+    "description": "A new perfume byGrèsfor women, released in2025. The scent is fresh-aquatic. It is being marketed byLalique Group / Art & Fragrance.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/7e/7e03da_cabotine-turquoise-gres_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Aquatic",
+        "Floral",
+        "Spicy",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Mandarin orange",
+        "Bergamot",
+        "Fig tree",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Aniseed",
+        "Aquatic notes",
+        "Cardamom",
+        "Oleander"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Cedarwood",
+        "Cistus",
+        "Musk",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "6.1",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

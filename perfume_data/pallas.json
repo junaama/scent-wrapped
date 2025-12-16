@@ -1,0 +1,24 @@
+{
+    "name": "Pallas",
+    "brand": "Signa",
+    "release_year": "2025",
+    "description": "A new perfume bySignafor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4b/4beeaa_pallas-signa_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Darjeeling tea",
+        "Earl Grey tea",
+        "Green tea"
+    ],
+    "heart_notes": [
+        "Gardenia",
+        "Jasmine",
+        "White tea"
+    ],
+    "base_notes": [
+        "Dry woods",
+        "Musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

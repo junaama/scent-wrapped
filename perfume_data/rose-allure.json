@@ -1,0 +1,121 @@
+{
+    "name": "Rose Allure",
+    "brand": "Monkoku",
+    "release_year": "2025",
+    "description": "A new perfume byMonkokufor women, released in2025. The scent is green-floral.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/10/1050aa_rose-allure-monkoku_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Floral",
+        "Fruity",
+        "Powdery",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Lychee",
+        "Nutmeg",
+        "Rhubarb"
+    ],
+    "heart_notes": [
+        "Lily of the valley",
+        "Peony",
+        "Turkish rose"
+    ],
+    "base_notes": [
+        "Cashmeran",
+        "Cedarwood",
+        "Frankincense",
+        "Vanilla",
+        "Vetiver",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

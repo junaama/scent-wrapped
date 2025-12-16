@@ -1,0 +1,63 @@
+{
+    "name": "Cherry Red",
+    "brand": "Régime des Fleurs",
+    "release_year": "2025",
+    "description": "A new and limited perfume byRégime des Fleursfor women and men, released in2025. The scent is floral-fruity.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/ef/ef4a9e_cherry-red-regime-des-fleurs_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fruity",
+        "Gourmand"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "bottle": {
+            "score": "8.3",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

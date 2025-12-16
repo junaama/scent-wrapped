@@ -1,0 +1,131 @@
+{
+    "name": "Sybarite",
+    "brand": "Ormonde Jayne",
+    "release_year": "2025",
+    "description": "A new perfume byOrmonde Jaynefor women and men, released in2025. The scent is spicy-sweet. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b5/b5b600_sybarite-ormonde-jayne_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Sweet",
+        "Floral",
+        "Creamy",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Nepalese sichuan pepper",
+        "Hazelnut",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Vanilla",
+        "Jasmine absolute",
+        "Rose absolute",
+        "Orris butter"
+    ],
+    "base_notes": [
+        "Smoked wood",
+        "Vanilla absolute",
+        "Labdanum",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "16 Ratings"
+        },
+        "durability": {
+            "score": "9.1",
+            "votes": "14 Ratings"
+        },
+        "sillage": {
+            "score": "8.3",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "22 Ratings"
+        },
+        "pricing": {
+            "score": "5.8",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Gourmand",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

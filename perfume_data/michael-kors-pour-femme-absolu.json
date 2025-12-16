@@ -1,0 +1,132 @@
+{
+    "name": "Michael Kors pour Femme Absolu",
+    "brand": "Michael Kors",
+    "release_year": "2025",
+    "description": "A new perfume byMichael Korsfor women, released in2025. The scent is floral-fruity. It is being marketed byEuroItalia.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d4/d4e91e_michael-kors-pour-femme-absolu-michael-kors_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fruity",
+        "Sweet",
+        "Citrus",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Italian mandarin orange",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Rosyfolia®",
+        "Damask rose",
+        "Vetiver"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Bourbon vanilla",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "11 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "6.8",
+            "votes": "18 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Paineira Wood",
+    "brand": "Ajmal",
+    "release_year": "2025",
+    "description": "A new perfume byAjmalfor women and men, released in2025. The scent is fruity-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/31/311017_paineira-wood-ajmal_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Synthetic",
+        "Floral"
+    ],
+    "top_notes": [
+        "Cinnamon"
+    ],
+    "heart_notes": [
+        "Rose",
+        "Violet"
+    ],
+    "base_notes": [
+        "Amber",
+        "Caramel",
+        "Moss",
+        "Musk",
+        "Patchouli",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

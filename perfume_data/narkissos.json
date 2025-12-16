@@ -1,0 +1,146 @@
+{
+    "name": "Narkissos",
+    "brand": "Angelos Créations Olfactives",
+    "release_year": "2025",
+    "description": "A new perfume byAngelos Créations Olfactivesfor women and men, released in2025. The scent is sweet-floral. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/46/46cf4f_narkissos-angelos-creations-olfactives_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Spicy",
+        "Leathery",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Narcissus",
+        "Deer musk",
+        "Salted butter",
+        "Chamomile CO2"
+    ],
+    "heart_notes": [
+        "Jonquil",
+        "Orange blossom absolute",
+        "Carnation absolute",
+        "Honey",
+        "Jasmine sambac absolute",
+        "Narcissus absolute",
+        "Geranium absolute"
+    ],
+    "base_notes": [
+        "Leather",
+        "Ambrette seed",
+        "Siam benzoin",
+        "Tobacco",
+        "Fir balsam absolute",
+        "Patchouli absolute",
+        "Vanilla absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "16 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "13 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "13 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "12 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Leathery",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            },
+            {
+                "name": "Animal",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Musk",
+    "brand": "Spirit of Kings",
+    "release_year": "2025",
+    "description": "A new perfume bySpirit of Kingsfor women and men, released in2025. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ff/ff13a6_musk-spirit-of-kings_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Aldehydes",
+        "Lily of the valley",
+        "Musk"
+    ],
+    "heart_notes": [
+        "Powdery notes",
+        "Rose",
+        "Violet",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "9.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "9.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

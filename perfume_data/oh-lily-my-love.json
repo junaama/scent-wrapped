@@ -1,0 +1,30 @@
+{
+    "name": "Oh Lily My Love",
+    "brand": "Freevola",
+    "release_year": "2025",
+    "description": "A new perfume byFreevolafor women, released in2025. It is being marketed byThe First.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/97/9747f0_oh-lily-my-love-freevola_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Coconut",
+        "Fruity notes",
+        "Lily of the valley"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Amber",
+        "Milk",
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

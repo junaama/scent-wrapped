@@ -1,0 +1,107 @@
+{
+    "name": "Ruby Fizz",
+    "brand": "Gulf Orchid",
+    "release_year": "2025",
+    "description": "A new perfume byGulf Orchidfor women and men, released in2025. The scent is synthetic-fruity. It is being marketed byGulf Orchid Fragrances.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/82/829274_ruby-fizz-gulf-orchid_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Fruity",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Apple",
+        "Lychee",
+        "Strawberry"
+    ],
+    "heart_notes": [
+        "Red fruits",
+        "Amber notes",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Musk",
+        "Caramel",
+        "Rose"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.5",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

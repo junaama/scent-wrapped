@@ -1,0 +1,28 @@
+{
+    "name": "Silk Rose",
+    "brand": "Ayat",
+    "release_year": "2025",
+    "description": "A new perfume byAyatfor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e9/e92816_silk-rose-ayat_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Angelica root",
+        "Iris",
+        "Marshmallow",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Honeysuckle",
+        "Jasmine",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Caramel",
+        "Musk",
+        "Sugar",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

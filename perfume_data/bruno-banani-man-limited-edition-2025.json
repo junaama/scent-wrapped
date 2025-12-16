@@ -1,0 +1,146 @@
+{
+    "name": "Bruno Banani Man Limited Edition 2025",
+    "brand": "Bruno Banani",
+    "release_year": "2025",
+    "description": "A new and limited perfume byBruno Bananifor men, released in2025. The scent is fruity-fresh. It is being marketed byCoty.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/77/77fe49_bruno-banani-man-limited-edition-2025-bruno-banani_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Fresh",
+        "Spicy",
+        "Citrus",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Clary sage",
+        "Lemon",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Pineapple",
+        "Lavender",
+        "Geranium",
+        "Salt"
+    ],
+    "base_notes": [
+        "Amberwood",
+        "Mineral notes",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "22 Ratings"
+        },
+        "durability": {
+            "score": "6.3",
+            "votes": "20 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "21 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "24 Ratings"
+        },
+        "pricing": {
+            "score": "8.3",
+            "votes": "21 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 5
+            },
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 6
+            },
+            {
+                "name": "Fresh",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

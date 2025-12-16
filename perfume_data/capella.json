@@ -1,0 +1,139 @@
+{
+    "name": "Capella",
+    "brand": "Attar Collection",
+    "release_year": "2025",
+    "description": "A new perfume byAttar Collectionfor women and men, released in2025. The scent is citrusy-green. It is being marketed byMBA Perfumes Manufacturing LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/1a/1afefa_capella-attar-collection_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Green",
+        "Fresh",
+        "Floral",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Jasmine",
+        "Tea"
+    ],
+    "heart_notes": [
+        "Vetiver",
+        "White pepper"
+    ],
+    "base_notes": [
+        "Amber",
+        "Citrus notes"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "22 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "18 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "18 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "26 Ratings"
+        },
+        "pricing": {
+            "score": "8.3",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 10
+            },
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Green",
+                "votes": 8
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 8
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 10
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Summer",
+                "votes": 10
+            },
+            {
+                "name": "Spring",
+                "votes": 10
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Sport",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 10
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

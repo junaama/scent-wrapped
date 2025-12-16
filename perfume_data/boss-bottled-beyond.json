@@ -1,0 +1,140 @@
+{
+    "name": "Boss Bottled Beyond",
+    "brand": "Hugo Boss",
+    "release_year": "2025",
+    "description": "A new perfume byHugo Bossfor men, released in2025. The scent is fresh-spicy. It is being marketed byCoty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b4/b4b040_boss-bottled-beyond-hugo-boss_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Spicy",
+        "Leathery",
+        "Woody",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Ginger"
+    ],
+    "heart_notes": [
+        "Leather"
+    ],
+    "base_notes": [
+        "Cedar leaf",
+        "Saffron"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "219 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "183 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "186 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "182 Ratings"
+        },
+        "pricing": {
+            "score": "6.8",
+            "votes": "167 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 17
+            },
+            {
+                "name": "Spicy",
+                "votes": 54
+            },
+            {
+                "name": "Synthetic",
+                "votes": 26
+            },
+            {
+                "name": "Sweet",
+                "votes": 20
+            },
+            {
+                "name": "Leathery",
+                "votes": 46
+            },
+            {
+                "name": "Woody",
+                "votes": 42
+            },
+            {
+                "name": "Fresh",
+                "votes": 56
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 61
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Classic",
+                "votes": 13
+            },
+            {
+                "name": "Modern",
+                "votes": 49
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 36
+            },
+            {
+                "name": "Fall",
+                "votes": 60
+            },
+            {
+                "name": "Summer",
+                "votes": 34
+            },
+            {
+                "name": "Spring",
+                "votes": 55
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 48
+            },
+            {
+                "name": "Sport",
+                "votes": 14
+            },
+            {
+                "name": "Leisure",
+                "votes": 52
+            },
+            {
+                "name": "Night Out",
+                "votes": 35
+            },
+            {
+                "name": "Business",
+                "votes": 50
+            },
+            {
+                "name": "Evening",
+                "votes": 36
+            }
+        ]
+    }
+}

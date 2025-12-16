@@ -1,0 +1,89 @@
+{
+    "name": "Love Potion",
+    "brand": "Sand + Fog",
+    "release_year": "2025",
+    "description": "A new perfume bySand + Fogfor women and men, released in2025. The scent is floral-fruity.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/54/548892_love-potion-eau-de-parfum-oil-sand-fog_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fruity",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Orange",
+        "Pepper",
+        "Raspberry",
+        "Strawberry"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lily",
+        "Violet"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Sugar",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

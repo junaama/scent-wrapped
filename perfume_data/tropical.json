@@ -1,0 +1,127 @@
+{
+    "name": "Tropical",
+    "brand": "Arquiste",
+    "release_year": "2025",
+    "description": "A new perfume byArquistefor women and men, released in2025. The scent is floral-fruity.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/79/796436_tropical-arquiste_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fruity",
+        "Green",
+        "Woody",
+        "Fresh"
+    ],
+    "top_notes": [
+        "White frangipani",
+        "Mexican guava",
+        "Key lime",
+        "Ginger"
+    ],
+    "heart_notes": [
+        "Champaca absolute",
+        "Jasmine sambac",
+        "Guava blossom"
+    ],
+    "base_notes": [
+        "Goiabada",
+        "Mahogany",
+        "Mexican vanilla absolute",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "6.4",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Green",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 7
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

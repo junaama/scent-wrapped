@@ -1,0 +1,134 @@
+{
+    "name": "Louis XV 1722 Rosé",
+    "brand": "Xerjoff",
+    "release_year": "2025",
+    "description": "A new perfume byXerjofffor women and men, released in2025. The scent is sweet-fruity.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2f/2f564a_louis-xv-1722-rose-xerjoff_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Floral",
+        "Fresh",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Raspberry",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Cedarwood",
+        "Plum",
+        "Rose"
+    ],
+    "base_notes": [
+        "Musk",
+        "Amyris",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "45 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "41 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "41 Ratings"
+        },
+        "bottle": {
+            "score": "8.9",
+            "votes": "47 Ratings"
+        },
+        "pricing": {
+            "score": "6.1",
+            "votes": "34 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 13
+            },
+            {
+                "name": "Powdery",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 11
+            },
+            {
+                "name": "Fresh",
+                "votes": 8
+            },
+            {
+                "name": "Floral",
+                "votes": 10
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 12
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 9
+            },
+            {
+                "name": "Summer",
+                "votes": 11
+            },
+            {
+                "name": "Spring",
+                "votes": 12
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 10
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Night Out",
+                "votes": 10
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 11
+            }
+        ]
+    }
+}

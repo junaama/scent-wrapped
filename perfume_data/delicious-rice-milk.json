@@ -1,0 +1,119 @@
+{
+    "name": "Delicious Rice Milk",
+    "brand": "Federico Cantelli",
+    "release_year": "2025",
+    "description": "A new perfume byFederico Cantellifor women and men, released in2025. The scent is creamy-sweet. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/74/742acf_delicious-rice-milk-federico-cantelli_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Creamy",
+        "Sweet",
+        "Gourmand",
+        "Powdery",
+        "Woody"
+    ],
+    "top_notes": [
+        "Oat",
+        "Rice milk"
+    ],
+    "heart_notes": [
+        "Green leaves",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Blond woods",
+        "Hazelnut",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "6.0",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

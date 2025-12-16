@@ -1,0 +1,146 @@
+{
+    "name": "Aomak",
+    "brand": "Loumari",
+    "release_year": "2025",
+    "description": "A new perfume byLoumarifor women and men, released in2025. The scent is aquatic-citrusy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e0/e00318_aomak-loumari_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Aquatic",
+        "Citrus",
+        "Fresh",
+        "Woody",
+        "Green"
+    ],
+    "top_notes": [
+        "Bitter orange",
+        "Cardamom",
+        "Ginger",
+        "Mint",
+        "Mojito",
+        "Sage",
+        "Sicilian mandarin orange"
+    ],
+    "heart_notes": [
+        "Everlasting flower",
+        "Jasmine sambac",
+        "Moroccan rose",
+        "Nepalese sichuan pepper",
+        "Neroli"
+    ],
+    "base_notes": [
+        "Amber",
+        "Aromalide™",
+        "Moss",
+        "Patchouli",
+        "Sandalwood",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "12 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "10 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "10 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "11 Ratings"
+        },
+        "pricing": {
+            "score": "6.0",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Aquatic",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

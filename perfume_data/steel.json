@@ -1,0 +1,27 @@
+{
+    "name": "Steel",
+    "brand": "Najah",
+    "release_year": "2025",
+    "description": "A new perfume byNajahfor men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b9/b967e9_steel-najah_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Mandarin orange",
+        "Pink pepper",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Chinese osmanthus",
+        "Suede",
+        "Violet leaf"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Mineral notes",
+        "Musk",
+        "Patchouli"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

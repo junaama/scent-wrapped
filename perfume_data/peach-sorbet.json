@@ -1,0 +1,97 @@
+{
+    "name": "Peach Sorbet",
+    "brand": "Zara",
+    "release_year": "2025",
+    "description": "A new perfume byZarafor women, released in2025. The scent is fresh-fruity.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5f/5f5f89_peach-sorbet-zara_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Fruity",
+        "Aquatic",
+        "Citrus",
+        "Floral"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "6.5",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "5.8",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            }
+        ]
+    }
+}

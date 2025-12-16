@@ -1,0 +1,25 @@
+{
+    "name": "Eros' Ambrosia",
+    "brand": "Noble Otter",
+    "release_year": "2025",
+    "description": "A new perfume byNoble Otterfor men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/60/60ffe4_eros-ambrosia-noble-otter_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Black pepper",
+        "Orange",
+        "Whisky"
+    ],
+    "heart_notes": [
+        "Cardamom",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Musk",
+        "Patchouli"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

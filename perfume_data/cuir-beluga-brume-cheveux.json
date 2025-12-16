@@ -1,0 +1,66 @@
+{
+    "name": "Cuir Béluga",
+    "brand": "Guerlain",
+    "release_year": "2025",
+    "description": "A new perfume byGuerlainfor women and men, released in2025. It is being marketed byLVMH.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f8/f84d3a_cuir-beluga-brume-cheveux-guerlain_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Aldehydes",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Everlasting flower",
+        "Patchouli"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Suede",
+        "Amber",
+        "Heliotrope"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ]
+    }
+}

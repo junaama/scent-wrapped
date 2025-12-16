@@ -1,0 +1,24 @@
+{
+    "name": "Laila",
+    "brand": "Tocca",
+    "release_year": "2025",
+    "description": "A new perfume byToccafor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ab/ab929c_laila-profumo-solido-tocca_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Green mandarin orange",
+        "Rain accord"
+    ],
+    "heart_notes": [
+        "Jasmine nectar",
+        "Lily of the valley"
+    ],
+    "base_notes": [
+        "Amber",
+        "Blond woods",
+        "Toasted vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

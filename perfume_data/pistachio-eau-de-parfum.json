@@ -1,0 +1,45 @@
+{
+    "name": "Pistachio",
+    "brand": "Gulf Orchid",
+    "release_year": "2025",
+    "description": "A new perfume byGulf Orchidfor women and men, released in2025. The scent is powdery-sweet. Projection and longevity are above-average. It is being marketed byGulf Orchid Fragrances.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ac/ac392b_pistachio-musk-gulf-orchid_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Powdery",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Nuts",
+        "Pistachio",
+        "Milk"
+    ],
+    "heart_notes": [
+        "Powdery notes",
+        "Sandalwood",
+        "Rose"
+    ],
+    "base_notes": [
+        "Musk",
+        "Vanilla",
+        "Ambergris"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.3",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

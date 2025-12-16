@@ -1,0 +1,24 @@
+{
+    "name": "Amber Tobacco",
+    "brand": "Aroma De Merrie",
+    "release_year": "2025",
+    "description": "A new perfume byAroma De Merriefor women and men, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Black pepper",
+        "Tobacco"
+    ],
+    "heart_notes": [
+        "Labdanum",
+        "Sandalwood"
+    ],
+    "base_notes": [
+        "Amberwood",
+        "Styrax",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

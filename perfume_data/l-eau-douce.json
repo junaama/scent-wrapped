@@ -1,0 +1,27 @@
+{
+    "name": "L'Eau Douce",
+    "brand": "Marin Montagut",
+    "release_year": "2025",
+    "description": "A new perfume byMarin Montagutfor women and men, released in2025. The scent is floral-fresh.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/13/1367f8_l-eau-douce-marin-montagut_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Lemon",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Mint",
+        "Mandarin orange",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Fig tree",
+        "White musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

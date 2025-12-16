@@ -1,0 +1,137 @@
+{
+    "name": "Shadid",
+    "brand": "Tauer Perfumes",
+    "release_year": "2025",
+    "description": "A new and limited perfume byTauer Perfumesfor women and men, released in2025. The scent is woody-resinous. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/d4/d4c9eb_shadid-tauer-perfumes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Resinous",
+        "Spicy",
+        "Smoky",
+        "Animal"
+    ],
+    "top_notes": [
+        "Coriander",
+        "Castoreum"
+    ],
+    "heart_notes": [
+        "Nagarmotha",
+        "Brazilian rosewood",
+        "Musk"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Sandalwood",
+        "Vanilla",
+        "Cedarwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.6",
+            "votes": "28 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "19 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "16 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "22 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Smoky",
+                "votes": 6
+            },
+            {
+                "name": "Oriental",
+                "votes": 4
+            },
+            {
+                "name": "Leathery",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 9
+            },
+            {
+                "name": "Resinous",
+                "votes": 7
+            },
+            {
+                "name": "Animal",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 10
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

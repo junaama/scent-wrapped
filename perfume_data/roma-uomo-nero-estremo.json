@@ -1,0 +1,147 @@
+{
+    "name": "Roma Uomo Nero Estremo",
+    "brand": "Laura Biagiotti",
+    "release_year": "2025",
+    "description": "A new perfume byLaura Biagiottifor men, released in2025. The scent is sweet-woody. It is being marketed byAB Parfums / Angelini Beauty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8c/8c21a2_roma-uomo-nero-estremo-laura-biagiotti_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Woody",
+        "Spicy",
+        "Creamy",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Belanis®",
+        "Lemon",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Clary sage",
+        "Laurel",
+        "Provençal lavender",
+        "Geranium"
+    ],
+    "base_notes": [
+        "Tonka bean",
+        "Oakmoss",
+        "Vanilla",
+        "Haitian vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "110 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "103 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "104 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "99 Ratings"
+        },
+        "pricing": {
+            "score": "8.0",
+            "votes": "90 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 14
+            },
+            {
+                "name": "Spicy",
+                "votes": 17
+            },
+            {
+                "name": "Synthetic",
+                "votes": 6
+            },
+            {
+                "name": "Sweet",
+                "votes": 23
+            },
+            {
+                "name": "Woody",
+                "votes": 19
+            },
+            {
+                "name": "Fresh",
+                "votes": 6
+            },
+            {
+                "name": "Creamy",
+                "votes": 15
+            },
+            {
+                "name": "Floral",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 24
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 10
+            },
+            {
+                "name": "Modern",
+                "votes": 15
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 13
+            },
+            {
+                "name": "Fall",
+                "votes": 23
+            },
+            {
+                "name": "Summer",
+                "votes": 12
+            },
+            {
+                "name": "Spring",
+                "votes": 19
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 15
+            },
+            {
+                "name": "Leisure",
+                "votes": 19
+            },
+            {
+                "name": "Night Out",
+                "votes": 21
+            },
+            {
+                "name": "Business",
+                "votes": 15
+            },
+            {
+                "name": "Evening",
+                "votes": 19
+            }
+        ]
+    }
+}

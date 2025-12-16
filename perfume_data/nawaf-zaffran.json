@@ -1,0 +1,142 @@
+{
+    "name": "Nawaf Zaffran",
+    "brand": "Ormonde Jayne",
+    "release_year": "2025",
+    "description": "A new and limited perfume byOrmonde Jaynefor women and men, released in2025. The scent is fruity-spicy. Projection and longevity are above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/ab/ab1800-nawaf-zaffran-ormonde-jayne_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Spicy",
+        "Sweet",
+        "Leathery",
+        "Floral"
+    ],
+    "top_notes": [
+        "Pear",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Benzoin",
+        "Cypriol",
+        "Iris"
+    ],
+    "base_notes": [
+        "Amber",
+        "Leather",
+        "Musk",
+        "Patchouli",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

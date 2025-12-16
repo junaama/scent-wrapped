@@ -1,0 +1,146 @@
+{
+    "name": "Polo est. 67",
+    "brand": "Ralph Lauren",
+    "release_year": "2025",
+    "description": "A new perfume byRalph Laurenfor men, released in2025. The scent is fresh-sweet. It is being marketed byL'Oréal.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c9/c92c7e_polo-est-67-eau-de-parfum-ralph-lauren_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Sweet",
+        "Fruity",
+        "Synthetic",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Bergamot",
+        "Green mandarin orange"
+    ],
+    "heart_notes": [
+        "Pineapple",
+        "Provençal lavender",
+        "Sesame",
+        "Cypress"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Benzoin",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "114 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "100 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "103 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "99 Ratings"
+        },
+        "pricing": {
+            "score": "8.1",
+            "votes": "94 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 10
+            },
+            {
+                "name": "Spicy",
+                "votes": 13
+            },
+            {
+                "name": "Synthetic",
+                "votes": 13
+            },
+            {
+                "name": "Sweet",
+                "votes": 23
+            },
+            {
+                "name": "Woody",
+                "votes": 12
+            },
+            {
+                "name": "Green",
+                "votes": 6
+            },
+            {
+                "name": "Fruity",
+                "votes": 19
+            },
+            {
+                "name": "Fresh",
+                "votes": 24
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 30
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 24
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 12
+            },
+            {
+                "name": "Fall",
+                "votes": 28
+            },
+            {
+                "name": "Summer",
+                "votes": 25
+            },
+            {
+                "name": "Spring",
+                "votes": 29
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 28
+            },
+            {
+                "name": "Sport",
+                "votes": 9
+            },
+            {
+                "name": "Leisure",
+                "votes": 28
+            },
+            {
+                "name": "Night Out",
+                "votes": 14
+            },
+            {
+                "name": "Business",
+                "votes": 21
+            },
+            {
+                "name": "Evening",
+                "votes": 11
+            }
+        ]
+    }
+}

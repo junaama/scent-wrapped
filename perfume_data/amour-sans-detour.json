@@ -1,0 +1,95 @@
+{
+    "name": "Amour sans détour",
+    "brand": "Valentino",
+    "release_year": "2025",
+    "description": "A new perfume byValentinofor women and men, released in2025. The scent is floral-leathery. It is being marketed byL'Oréal.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/58/589bc8_amour-sans-detour-valentino_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Leathery",
+        "Woody",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Basil",
+        "Calabrian bergamot"
+    ],
+    "heart_notes": [
+        "Angelica root",
+        "Indian jasminum grandiflorum",
+        "Orris root",
+        "Rose absolute",
+        "Violet"
+    ],
+    "base_notes": [
+        "Ambrette seed absolute",
+        "Bourbon vanilla",
+        "Leather",
+        "Musk",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            }
+        ]
+    }
+}

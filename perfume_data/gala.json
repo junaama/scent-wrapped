@@ -1,0 +1,35 @@
+{
+    "name": "Gala",
+    "brand": "Onix",
+    "release_year": "2025",
+    "description": "A new perfume byOnixfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e2/e27408_gala-onix_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blackcurrant",
+        "Opoponax",
+        "Peach"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Magnolia",
+        "Myrrh",
+        "Oud",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Gaiac wood",
+        "Musk",
+        "Patchouli",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Raiz",
+    "brand": "Natura",
+    "release_year": "2025",
+    "description": "A new perfume byNaturafor women and men, released in2025. It is being marketed byNatura & Co..Compare",
+    "image_url": "https://media.parfumo.com/perfumes/aa/aa31e1_raiz-natura_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Black pepper",
+        "Cardamom",
+        "Nutmeg",
+        "Priprioca"
+    ],
+    "heart_notes": [
+        "Green leaves",
+        "Rosewood",
+        "Vetiver"
+    ],
+    "base_notes": [
+        "Cedar",
+        "Oakmoss",
+        "Sandalwood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

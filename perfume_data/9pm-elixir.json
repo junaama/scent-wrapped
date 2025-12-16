@@ -1,0 +1,138 @@
+{
+    "name": "9pm Elixir",
+    "brand": "Afnan Perfumes",
+    "release_year": "2025",
+    "description": "A new perfume byAfnan Perfumesfor women and men, released in2025. The scent is sweet-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/08/0857c8_9pm-elixir-afnan-perfumes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Oriental",
+        "Leathery",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Nutmeg",
+        "Cardamom",
+        "Elemi resin"
+    ],
+    "heart_notes": [
+        "Leather",
+        "Pimento",
+        "Provençal lavender"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Labdanum",
+        "Patchouli",
+        "Cistus"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "53 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "48 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "47 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "48 Ratings"
+        },
+        "pricing": {
+            "score": "8.4",
+            "votes": "48 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 13
+            },
+            {
+                "name": "Sweet",
+                "votes": 15
+            },
+            {
+                "name": "Oriental",
+                "votes": 11
+            },
+            {
+                "name": "Leathery",
+                "votes": 9
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Resinous",
+                "votes": 7
+            },
+            {
+                "name": "Gourmand",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 16
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 14
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 14
+            },
+            {
+                "name": "Fall",
+                "votes": 14
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 11
+            },
+            {
+                "name": "Night Out",
+                "votes": 14
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 12
+            }
+        ]
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "name": "Vibrant Leather Saline",
+    "brand": "Zara",
+    "release_year": "2025",
+    "description": "A new perfume byZarafor men, released in2025. The scent is citrusy-aquatic.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b7/b7ca8f_vibrant-leather-saline-zara_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Aquatic",
+        "Fresh",
+        "Leathery",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Ozonic notes"
+    ],
+    "heart_notes": [
+        "Aquatic notes",
+        "Aromatic notes",
+        "Black leather"
+    ],
+    "base_notes": [
+        "Sea salt",
+        "Papyrus",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "8 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

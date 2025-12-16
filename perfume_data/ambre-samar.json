@@ -1,0 +1,125 @@
+{
+    "name": "Ambre Samar",
+    "brand": "Guerlain",
+    "release_year": "2025",
+    "description": "A new perfume byGuerlainfor women and men, released in2025. The scent is spicy-sweet. The longevity is above-average. It is being marketed byLVMH.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/81/81cde8_ambre-samar-guerlain_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Sweet",
+        "Oriental",
+        "Resinous",
+        "Gourmand"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "201 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "185 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "180 Ratings"
+        },
+        "bottle": {
+            "score": "8.7",
+            "votes": "172 Ratings"
+        },
+        "pricing": {
+            "score": "6.6",
+            "votes": "128 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 80
+            },
+            {
+                "name": "Sweet",
+                "votes": 76
+            },
+            {
+                "name": "Smoky",
+                "votes": 26
+            },
+            {
+                "name": "Oriental",
+                "votes": 61
+            },
+            {
+                "name": "Woody",
+                "votes": 20
+            },
+            {
+                "name": "Resinous",
+                "votes": 43
+            },
+            {
+                "name": "Gourmand",
+                "votes": 35
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 60
+            },
+            {
+                "name": "Feminine",
+                "votes": 72
+            },
+            {
+                "name": "Classic",
+                "votes": 23
+            },
+            {
+                "name": "Modern",
+                "votes": 45
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 81
+            },
+            {
+                "name": "Fall",
+                "votes": 71
+            },
+            {
+                "name": "Spring",
+                "votes": 18
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 16
+            },
+            {
+                "name": "Leisure",
+                "votes": 51
+            },
+            {
+                "name": "Night Out",
+                "votes": 66
+            },
+            {
+                "name": "Business",
+                "votes": 12
+            },
+            {
+                "name": "Evening",
+                "votes": 73
+            }
+        ]
+    }
+}

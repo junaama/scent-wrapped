@@ -1,0 +1,144 @@
+{
+    "name": "Club Black",
+    "brand": "Mercedes-Benz",
+    "release_year": "2025",
+    "description": "A new perfume byMercedes-Benzfor men, released in2025. The scent is sweet-spicy. It is being marketed byINCC Parfums.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/55/559ac4_club-black-eau-de-parfum-mercedes-benz_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Synthetic",
+        "Resinous",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Calabrian bergamot",
+        "Elemi resin"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Musk",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Amberwood",
+        "Ambrox Super",
+        "Myrrh"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "67 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "56 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "55 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "58 Ratings"
+        },
+        "pricing": {
+            "score": "8.0",
+            "votes": "54 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 8
+            },
+            {
+                "name": "Synthetic",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 10
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Oriental",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Resinous",
+                "votes": 7
+            },
+            {
+                "name": "Gourmand",
+                "votes": 6
+            },
+            {
+                "name": "Animal",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 15
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 11
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 16
+            },
+            {
+                "name": "Fall",
+                "votes": 16
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 12
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 14
+            }
+        ]
+    }
+}

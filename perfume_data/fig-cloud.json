@@ -1,0 +1,29 @@
+{
+    "name": "Fig Cloud",
+    "brand": "Maison Chanceux",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Chanceuxfor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7d/7d2485_fig-cloud-maison-chanceux_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Fig"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Orris root"
+    ],
+    "base_notes": [
+        "Marshmallow",
+        "Musk",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

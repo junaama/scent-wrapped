@@ -1,0 +1,147 @@
+{
+    "name": "Odyssey Ba Ha Mas",
+    "brand": "Armaf",
+    "release_year": "2025",
+    "description": "A new perfume byArmaffor women and men, released in2025. The scent is fruity-fresh. It is being marketed bySterling Perfumes Industries LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/44/4450d4_odyssey-ba-ha-mas-armaf_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Fresh",
+        "Aquatic",
+        "Sweet",
+        "Woody"
+    ],
+    "top_notes": [
+        "Algae",
+        "Cantaloupe",
+        "Granny Smith apple",
+        "Melon",
+        "Pear",
+        "Plum",
+        "Salt"
+    ],
+    "heart_notes": [
+        "Aquatic notes",
+        "Frankincense",
+        "Oakmoss",
+        "Water lily"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Musk",
+        "Sugar"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "13 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "11 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "11 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "12 Ratings"
+        },
+        "pricing": {
+            "score": "8.9",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "name": "Apéro Riviera",
+    "brand": "N•O•A•M",
+    "release_year": "2025",
+    "description": "A new and limited perfume byN•O•A•Mfor women and men, released in2025. The scent is spicy-smoky. The longevity is above-average. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/39/39cb21_apero-riviera-n-o-a-m_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Smoky",
+        "Resinous",
+        "Woody",
+        "Green"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "9.0",
+            "votes": "17 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "14 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Spicy",
+                "votes": 8
+            },
+            {
+                "name": "Smoky",
+                "votes": 8
+            },
+            {
+                "name": "Leathery",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Resinous",
+                "votes": 7
+            },
+            {
+                "name": "Green",
+                "votes": 5
+            },
+            {
+                "name": "Earthy",
+                "votes": 4
+            },
+            {
+                "name": "Aquatic",
+                "votes": 4
+            },
+            {
+                "name": "Animal",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

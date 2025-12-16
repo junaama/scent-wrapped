@@ -1,0 +1,160 @@
+{
+    "name": "Yum Pistachio Gelato | 33",
+    "brand": "Kayali",
+    "release_year": "2025",
+    "description": "A new and limited perfume byKayalifor women, released in2025. The scent is sweet-gourmand. The perfume is vegan according to the manufacturer.CompareLimitedVegan",
+    "image_url": "https://media.parfumo.com/perfumes/dc/dc7ad4_yum-pistachio-gelato-33-all-over-body-spray-kayali_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Powdery",
+        "Creamy",
+        "Floral"
+    ],
+    "top_notes": [
+        "Pistachio ice cream",
+        "Italian bergamot",
+        "Hazelnut",
+        "Rum",
+        "Cardamom"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Jasmine",
+        "Lily of the valley",
+        "White peach",
+        "White peony",
+        "Pear",
+        "Raspberry"
+    ],
+    "base_notes": [
+        "Cotton candy",
+        "Cream",
+        "Lokum",
+        "Marshmallow",
+        "Tonka bean",
+        "Cedarwood",
+        "Sandalwood",
+        "Cocoa"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "3.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "3.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

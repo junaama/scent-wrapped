@@ -1,0 +1,100 @@
+{
+    "name": "Well Dressed Werewolf",
+    "brand": "D.S. & Durga",
+    "release_year": "2025",
+    "description": "A new and limited perfume byD.S. & Durgafor women and men, released in2025. The scent is animal-green.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/8a/8a7ab2_well-dressed-werewolf-d-s-durga_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Animal",
+        "Green",
+        "Woody",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Balkans cedar",
+        "Labdanum",
+        "Hay"
+    ],
+    "heart_notes": [
+        "Fur",
+        "Violet",
+        "Jasmine absolute"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Castoreum",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

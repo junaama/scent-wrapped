@@ -1,0 +1,158 @@
+{
+    "name": "Terra",
+    "brand": "Rayhaan",
+    "release_year": "2025",
+    "description": "A new perfume byRayhaanfor men, released in2025. The scent is resinous-spicy. Projection and longevity are above-average. It is being marketed byA.R.K. Perfumes & Cosmetics Trading.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ed/ed10bc_terra-rayhaan_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Spicy",
+        "Citrus",
+        "Oriental",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Cardamom",
+        "Lemon",
+        "Frankincense",
+        "Sichuan pepper",
+        "Elemi resin"
+    ],
+    "heart_notes": [
+        "Coriander",
+        "Orange blossom",
+        "Aniseed",
+        "Cumin",
+        "Geranium",
+        "Patchouli",
+        "Rose",
+        "Saffron",
+        "Vermouth"
+    ],
+    "base_notes": [
+        "Amber",
+        "Labdanum",
+        "Maltol",
+        "Vanilla",
+        "Benzoin",
+        "Frankincense",
+        "Opoponax",
+        "Ambergris",
+        "Birch",
+        "Musk",
+        "Oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "60 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "54 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "55 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "54 Ratings"
+        },
+        "pricing": {
+            "score": "9.4",
+            "votes": "54 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 6
+            },
+            {
+                "name": "Spicy",
+                "votes": 6
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 6
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

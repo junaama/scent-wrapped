@@ -1,0 +1,33 @@
+{
+    "name": "Cotton Baby",
+    "brand": "Forment",
+    "release_year": "2025",
+    "description": "A new perfume byFormentfor women and men, released in2025. It is being marketed byAPR Co..Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2e/2e4014_cotton-baby-perfume-forment_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Aldehydes",
+        "Cinnamon",
+        "Mandarin orange",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Carnation",
+        "Iris",
+        "Jasmine",
+        "Violet"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Musk",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

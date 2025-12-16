@@ -1,0 +1,47 @@
+{
+    "name": "Iris Patchouli",
+    "brand": "French Avenue",
+    "release_year": "2025",
+    "description": "A new perfume byFrench Avenuefor women and men, released in2025. The scent is earthy-floral. Projection and longevity are above-average. It is being marketed byFragrance World Trading LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6e/6ef4a7_iris-patchouli-french-avenue_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Earthy",
+        "Floral",
+        "Leathery",
+        "Powdery",
+        "Green"
+    ],
+    "top_notes": [
+        "Cinnamon",
+        "Davana"
+    ],
+    "heart_notes": [
+        "Iris",
+        "Violet"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Frankincense",
+        "Leather",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.9",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

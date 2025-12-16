@@ -1,0 +1,165 @@
+{
+    "name": "Oh My Chaï",
+    "brand": "Versȧtıle",
+    "release_year": "2025",
+    "description": "A new perfume byVersȧtılefor women and men, released in2025. The scent is sweet-smoky.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/46/4661b2_oh-my-chai-versatile_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Smoky",
+        "Spicy",
+        "Woody",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Green mandarin orange",
+        "Mandarin aldehyde",
+        "Mandarinal",
+        "Mandora",
+        "Anisaldehyde",
+        "Bacon dithiazine",
+        "Nutmeg",
+        "Diacetyl",
+        "Eugenol",
+        "Gamma octalactone",
+        "Sulfurol"
+    ],
+    "heart_notes": [
+        "Ambroxan",
+        "Ginger",
+        "Heliotropex",
+        "Cardamom",
+        "Carrot seed",
+        "Bicyclononalactone",
+        "Cinnamon",
+        "Damascenone",
+        "Fir balsam",
+        "Furaneol",
+        "Isoeugenol",
+        "Phenyl ethyl acetate",
+        "Prunella®",
+        "Stemone®"
+    ],
+    "base_notes": [
+        "Amberwood",
+        "Cade juniper",
+        "Ethyl maltol",
+        "Ethyl vanillin",
+        "Gaiac wood",
+        "Globalide®",
+        "Habanolide®",
+        "Isobutyl quinoline",
+        "Karmawood®",
+        "Leather",
+        "Maltol isobutyrate",
+        "Maple",
+        "Methyl laitone",
+        "Milk",
+        "Musk ketone",
+        "Musk T®"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "5.9",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Smoky",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

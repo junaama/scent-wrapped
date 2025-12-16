@@ -1,0 +1,142 @@
+{
+    "name": "Rare Reef",
+    "brand": "Afnan Perfumes",
+    "release_year": "2025",
+    "description": "A new perfume byAfnan Perfumesfor women and men, released in2025. The scent is citrusy-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/84/8441ad_rare-reef-afnan-perfumes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Fruity",
+        "Aquatic",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Orange",
+        "Grapefruit",
+        "Mint",
+        "Blackcurrant",
+        "Citron",
+        "Coriander"
+    ],
+    "heart_notes": [
+        "Apricot",
+        "Basil",
+        "Rose",
+        "Violet leaf"
+    ],
+    "base_notes": [
+        "Amberwood",
+        "Ambrette",
+        "Date",
+        "Fig"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "175 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "159 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "160 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "155 Ratings"
+        },
+        "pricing": {
+            "score": "8.8",
+            "votes": "148 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 36
+            },
+            {
+                "name": "Synthetic",
+                "votes": 15
+            },
+            {
+                "name": "Sweet",
+                "votes": 15
+            },
+            {
+                "name": "Green",
+                "votes": 14
+            },
+            {
+                "name": "Fruity",
+                "votes": 30
+            },
+            {
+                "name": "Fresh",
+                "votes": 34
+            },
+            {
+                "name": "Aquatic",
+                "votes": 23
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 37
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Modern",
+                "votes": 27
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 12
+            },
+            {
+                "name": "Summer",
+                "votes": 42
+            },
+            {
+                "name": "Spring",
+                "votes": 31
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 36
+            },
+            {
+                "name": "Sport",
+                "votes": 26
+            },
+            {
+                "name": "Leisure",
+                "votes": 33
+            },
+            {
+                "name": "Night Out",
+                "votes": 11
+            },
+            {
+                "name": "Business",
+                "votes": 20
+            },
+            {
+                "name": "Evening",
+                "votes": 13
+            }
+        ]
+    }
+}

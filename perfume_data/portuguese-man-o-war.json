@@ -1,0 +1,145 @@
+{
+    "name": "Portuguese Man O' War",
+    "brand": "Zoologist",
+    "release_year": "2025",
+    "description": "A new perfume byZoologistfor women and men, released in2025. The scent is spicy-aquatic. The longevity is above-average. The perfume is vegan according to the manufacturer.PronunciationCompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/b6/b60f49_portuguese-man-o-war-zoologist_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Aquatic",
+        "Fresh",
+        "Synthetic",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Ginger",
+        "Saffron",
+        "Immortelle"
+    ],
+    "heart_notes": [
+        "Gun powder",
+        "Geranium",
+        "Jasmine sambac"
+    ],
+    "base_notes": [
+        "Fucus absolute",
+        "Tonka bean",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "41 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "38 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "37 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "38 Ratings"
+        },
+        "pricing": {
+            "score": "6.4",
+            "votes": "23 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 14
+            },
+            {
+                "name": "Synthetic",
+                "votes": 8
+            },
+            {
+                "name": "Smoky",
+                "votes": 8
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 11
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            },
+            {
+                "name": "Aquatic",
+                "votes": 13
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 12
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Modern",
+                "votes": 11
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 12
+            },
+            {
+                "name": "Summer",
+                "votes": 9
+            },
+            {
+                "name": "Spring",
+                "votes": 12
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 13
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

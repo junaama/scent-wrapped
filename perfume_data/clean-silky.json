@@ -1,0 +1,51 @@
+{
+    "name": "Clean & Silky",
+    "brand": "Valjues",
+    "release_year": "2025",
+    "description": "A new perfume byValjuesfor women and men, released in2025. The scent is fresh-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4a/4af423_clean-silk-valjues_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Citrus notes"
+    ],
+    "heart_notes": [
+        "Fresh laundry",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.3",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "5.8",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "6.2",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            }
+        ]
+    }
+}

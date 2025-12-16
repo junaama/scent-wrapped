@@ -1,0 +1,24 @@
+{
+    "name": "Twelve",
+    "brand": "Sapphire Studios",
+    "release_year": "2025",
+    "description": "A new perfume bySapphire Studiosfor men, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/01/01b332_twelve-sapphire-studios_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Lemon",
+        "Pepper"
+    ],
+    "heart_notes": [
+        "Blackcurrant",
+        "Jasmine",
+        "Leather"
+    ],
+    "base_notes": [
+        "Birch",
+        "Cedar",
+        "Moss"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

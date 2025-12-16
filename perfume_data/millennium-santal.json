@@ -1,0 +1,109 @@
+{
+    "name": "Millennium Santal",
+    "brand": "Bortnikoff",
+    "release_year": "2025",
+    "description": "A new perfume byBortnikofffor women and men, released in2025. The scent is fresh-woody. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/17/17c33f_millennium-santal-bortnikoff_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Woody",
+        "Powdery",
+        "Spicy",
+        "Floral"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Jasmine",
+        "Lemon",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Geranium",
+        "Jasmine",
+        "Lily of the valley",
+        "Sandalwood"
+    ],
+    "base_notes": [
+        "Amber",
+        "Oakmoss",
+        "Tobacco",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

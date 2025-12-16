@@ -1,0 +1,132 @@
+{
+    "name": "Angel Stellar",
+    "brand": "Mugler",
+    "release_year": "2025",
+    "description": "A new perfume byMuglerfor women, released in2025. The scent is gourmand-sweet. Projection and longevity are above-average. It is being marketed byL'Oréal.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e5/e5ff35_angel-stellar-mugler_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Sweet",
+        "Creamy",
+        "Woody",
+        "Earthy"
+    ],
+    "top_notes": [
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Pistachio"
+    ],
+    "base_notes": [
+        "Bourbon vanilla",
+        "Woody notes"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "122 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "108 Ratings"
+        },
+        "sillage": {
+            "score": "8.1",
+            "votes": "110 Ratings"
+        },
+        "bottle": {
+            "score": "8.6",
+            "votes": "106 Ratings"
+        },
+        "pricing": {
+            "score": "7.5",
+            "votes": "86 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 38
+            },
+            {
+                "name": "Powdery",
+                "votes": 9
+            },
+            {
+                "name": "Oriental",
+                "votes": 7
+            },
+            {
+                "name": "Woody",
+                "votes": 13
+            },
+            {
+                "name": "Gourmand",
+                "votes": 39
+            },
+            {
+                "name": "Earthy",
+                "votes": 10
+            },
+            {
+                "name": "Creamy",
+                "votes": 29
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 16
+            },
+            {
+                "name": "Feminine",
+                "votes": 37
+            },
+            {
+                "name": "Modern",
+                "votes": 32
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 34
+            },
+            {
+                "name": "Fall",
+                "votes": 41
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 22
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 22
+            },
+            {
+                "name": "Leisure",
+                "votes": 31
+            },
+            {
+                "name": "Night Out",
+                "votes": 32
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 34
+            }
+        ]
+    }
+}

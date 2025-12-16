@@ -1,0 +1,96 @@
+{
+    "name": "Riviera",
+    "brand": "Acqua dell'Elba",
+    "release_year": "2025",
+    "description": "A new perfume byAcqua dell'Elbafor women and men, released in2025. The scent is fresh-citrusy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c5/c5f650_riviera-acqua-dell-elba_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Citrus",
+        "Aquatic",
+        "Floral"
+    ],
+    "top_notes": [
+        "Green mandarin orange",
+        "Lemon leaf",
+        "Pink grapefruit"
+    ],
+    "heart_notes": [
+        "Fig",
+        "Jasmine",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Cashmeran",
+        "Gaiac wood",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "8 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "6.4",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

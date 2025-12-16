@@ -1,0 +1,133 @@
+{
+    "name": "Tales of Torino",
+    "brand": "Birkholz",
+    "release_year": "2025",
+    "description": "A new perfume byBirkholzfor women and men, released in2025. The scent is fruity-sweet.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/be/bec0dc_tales-of-torino-birkholz_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Fresh",
+        "Floral",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Peach",
+        "Lemon",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Cypress",
+        "Geranium",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Amber",
+        "Praliné",
+        "Virginia cedar"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "48 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "41 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "41 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "45 Ratings"
+        },
+        "pricing": {
+            "score": "6.3",
+            "votes": "32 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Fruity",
+                "votes": 7
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

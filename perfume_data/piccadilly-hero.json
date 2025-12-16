@@ -1,0 +1,150 @@
+{
+    "name": "Piccadilly Hero",
+    "brand": "Fabbrica della Musa",
+    "release_year": "2025",
+    "description": "A new perfume byFabbrica della Musafor women and men, released in2025. The scent is floral-fruity. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b6/b6490d_piccadilly-hero-fabbrica-della-musa_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fruity",
+        "Sweet",
+        "Spicy",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Cherry",
+        "Orange blossom",
+        "Pear",
+        "Praliné",
+        "Apple"
+    ],
+    "heart_notes": [
+        "Floral notes",
+        "Sri Lankan black tea",
+        "Egyptian geranium",
+        "Lavender",
+        "Violet"
+    ],
+    "base_notes": [
+        "Balkans tobacco absolute",
+        "Leather",
+        "Saffron",
+        "Gaiac wood",
+        "Patchouli",
+        "Pink pepper",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "22 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "20 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "19 Ratings"
+        },
+        "pricing": {
+            "score": "7.2",
+            "votes": "16 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Oriental",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 7
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

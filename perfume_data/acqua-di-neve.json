@@ -1,0 +1,38 @@
+{
+    "name": "Acqua di Neve",
+    "brand": "Jupilò",
+    "release_year": "2025",
+    "description": "A new perfume byJupilòfor women and men, released in2025. The scent is spicy-citrusy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/58/580e21_acqua-di-neve-jupilo_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Citrus",
+        "Green"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Frankincense",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Lavender",
+        "Neroli"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sandalwood",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

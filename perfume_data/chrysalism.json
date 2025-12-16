@@ -1,0 +1,96 @@
+{
+    "name": "Chrysalism",
+    "brand": "Antagonist",
+    "release_year": "2025",
+    "description": "A new perfume byAntagonistfor women and men, released in2025. The scent is smoky-oriental. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4d/4d253e-chrysalism-antagonist_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Oriental",
+        "Leathery",
+        "Earthy",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Black honey",
+        "Pine",
+        "Pipe tobacco"
+    ],
+    "heart_notes": [
+        "Asphalt",
+        "Balsamic notes",
+        "Burnt tar",
+        "Frankincense",
+        "Grilled meat",
+        "Patchouli",
+        "Woody notes"
+    ],
+    "base_notes": [
+        "Burnt paper",
+        "Cedarwood",
+        "Earthy notes",
+        "Labdanum",
+        "Smoke",
+        "Woody notes"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.8",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

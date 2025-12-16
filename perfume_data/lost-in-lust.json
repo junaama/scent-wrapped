@@ -1,0 +1,117 @@
+{
+    "name": "Lost in Lust",
+    "brand": "Aholic",
+    "release_year": "2025",
+    "description": "A new perfume byAholicfor women and men, released in2025. The scent is spicy-sweet. The longevity is above-average. It is being marketed byGroupe Bogart.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b5/b5df69_lost-in-lust-aholic_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Sweet",
+        "Woody",
+        "Fougère",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Pimento"
+    ],
+    "heart_notes": [
+        "Clove",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Amber",
+        "Gaiac wood",
+        "Musk",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Fougère",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

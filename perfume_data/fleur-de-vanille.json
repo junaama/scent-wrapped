@@ -1,0 +1,25 @@
+{
+    "name": "Fleur de Vanille",
+    "brand": "Maison Louis Marie",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Louis Mariefor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/21/21191d_fleur-de-vanille-maison-louis-marie_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Citron",
+        "Cyclamen",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Cane sugar",
+        "Clove leaf",
+        "Vanilla blossom"
+    ],
+    "base_notes": [
+        "Kashmiri musk",
+        "Oud",
+        "Smoked birch wood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

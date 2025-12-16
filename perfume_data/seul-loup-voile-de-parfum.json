@@ -1,0 +1,125 @@
+{
+    "name": "Seul Loup",
+    "brand": "DSH Perfumes",
+    "release_year": "2025",
+    "description": "A new and limited perfume byDSH Perfumesfor women and men, released in2025. The scent is animal-spicy.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/52/5279cd_seul-loup-voile-de-parfum-dsh-perfumes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Animal",
+        "Spicy",
+        "Earthy",
+        "Floral",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Clary sage"
+    ],
+    "heart_notes": [
+        "Damask rose absolute",
+        "East Indian patchouli",
+        "Egyptian geranium",
+        "Frankincense CO2 absolute",
+        "Iris",
+        "Jasminum grandiflorum",
+        "Labdanum",
+        "Liatris spicata",
+        "Peru balsam",
+        "Sandalwood"
+    ],
+    "base_notes": [
+        "Amber",
+        "Ambergris",
+        "Ambrette seed",
+        "Angelica root",
+        "Copaiba balsam",
+        "Costus",
+        "Deer musk",
+        "Indonesian vetiver",
+        "Musk",
+        "Texas cedar"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

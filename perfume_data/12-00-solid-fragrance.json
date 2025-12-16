@@ -1,0 +1,59 @@
+{
+    "name": "12:00",
+    "brand": "Noyz",
+    "release_year": "2025",
+    "description": "A new perfume byNoyzfor women and men, released in2025. It is being marketed byBeach House Group.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d4/d49e96_12-00-solid-fragrance-noyz_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Australian pink pepper",
+        "Saffron",
+        "Jasmine"
+    ],
+    "heart_notes": [
+        "Raspberry",
+        "Blond woods"
+    ],
+    "base_notes": [
+        "Cotton candy",
+        "Ambroxan",
+        "French oakmoss"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

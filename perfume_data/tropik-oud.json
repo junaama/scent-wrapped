@@ -1,0 +1,31 @@
+{
+    "name": "Tropik Oud",
+    "brand": "Giangregorio Cosimo",
+    "release_year": "2025",
+    "description": "A new perfume byGiangregorio Cosimofor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/40/407ae8_tropik-oud-giangregorio-cosimo_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Mango",
+        "Melon",
+        "Pineapple",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Iris",
+        "Rose",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Oud",
+        "Patchouli"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

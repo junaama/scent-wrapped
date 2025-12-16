@@ -1,0 +1,143 @@
+{
+    "name": "Valentino Uomo Born In Roma Extradose",
+    "brand": "Valentino",
+    "release_year": "2025",
+    "description": "A new perfume byValentinofor men, released in2025. The scent is sweet-synthetic. It is being marketed byL'Oréal.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7b/7bee88-valentino-uomo-born-in-roma-extradose-valentino_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Synthetic",
+        "Spicy",
+        "Fresh",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Spices",
+        "Bergamot",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Provençal lavender",
+        "Salty notes"
+    ],
+    "base_notes": [
+        "Vetiver",
+        "Gaiac wood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "142 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "119 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "120 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "125 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "115 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 24
+            },
+            {
+                "name": "Synthetic",
+                "votes": 27
+            },
+            {
+                "name": "Sweet",
+                "votes": 33
+            },
+            {
+                "name": "Powdery",
+                "votes": 7
+            },
+            {
+                "name": "Woody",
+                "votes": 11
+            },
+            {
+                "name": "Fruity",
+                "votes": 17
+            },
+            {
+                "name": "Fresh",
+                "votes": 21
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 35
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 8
+            },
+            {
+                "name": "Modern",
+                "votes": 27
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 26
+            },
+            {
+                "name": "Fall",
+                "votes": 36
+            },
+            {
+                "name": "Summer",
+                "votes": 16
+            },
+            {
+                "name": "Spring",
+                "votes": 33
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 24
+            },
+            {
+                "name": "Sport",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 30
+            },
+            {
+                "name": "Night Out",
+                "votes": 29
+            },
+            {
+                "name": "Business",
+                "votes": 19
+            },
+            {
+                "name": "Evening",
+                "votes": 27
+            }
+        ]
+    }
+}

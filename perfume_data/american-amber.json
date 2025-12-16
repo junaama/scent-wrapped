@@ -1,0 +1,142 @@
+{
+    "name": "American Amber",
+    "brand": "Folkwinds",
+    "release_year": "2025",
+    "description": "A new and limited perfume byFolkwindsfor women and men, released in2025. The scent is spicy-woody. Projection and longevity are above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/bc/bced7c-american-amber-folkwinds_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Oriental",
+        "Resinous",
+        "Floral"
+    ],
+    "top_notes": [
+        "Rosa rugosa",
+        "Spices",
+        "Red currant"
+    ],
+    "heart_notes": [
+        "Amburana cearensis",
+        "Borneo oud",
+        "Burmese oud",
+        "Carnation",
+        "Papua oud",
+        "Styrax",
+        "Thai oud"
+    ],
+    "base_notes": [
+        "Deer musk",
+        "Oud resin",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "25 Ratings"
+        },
+        "durability": {
+            "score": "9.0",
+            "votes": "22 Ratings"
+        },
+        "sillage": {
+            "score": "8.3",
+            "votes": "23 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "29 Ratings"
+        },
+        "pricing": {
+            "score": "6.3",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 6
+            },
+            {
+                "name": "Oriental",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Resinous",
+                "votes": 4
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            },
+            {
+                "name": "Animal",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

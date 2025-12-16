@@ -1,0 +1,146 @@
+{
+    "name": "Rose Sauvage",
+    "brand": "La Source",
+    "release_year": "2025",
+    "description": "A new perfume byLa Sourcefor women, released in2025. The scent is floral-spicy. It is being marketed byOnivo Cosmetics.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/59/59b5d1_rose-sauvage-la-source_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Spicy",
+        "Earthy",
+        "Woody",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Rose"
+    ],
+    "base_notes": [
+        "Patchouli",
+        "Amber",
+        "Cedarwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.9",
+            "votes": "26 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "24 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "24 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "28 Ratings"
+        },
+        "pricing": {
+            "score": "7.9",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Earthy",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 10
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 11
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 8
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

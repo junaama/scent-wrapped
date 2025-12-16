@@ -1,0 +1,39 @@
+{
+    "name": "Silver Coast",
+    "brand": "Perito Moreno",
+    "release_year": "2025",
+    "description": "A new perfume byPerito Morenofor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/56/56d89d_silver-coast-perito-moreno_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Cardamom",
+        "Galangal",
+        "Ginger",
+        "Grapefruit",
+        "Honey pomelo",
+        "Lime",
+        "Petitgrain",
+        "Sweet lime",
+        "Yuzu"
+    ],
+    "heart_notes": [
+        "Angelica root",
+        "Carrot seed",
+        "Orris root"
+    ],
+    "base_notes": [
+        "Amber",
+        "Benzoin",
+        "Cedar",
+        "Gaiac wood",
+        "Labdanum",
+        "Musk",
+        "Nagarmotha",
+        "Oud",
+        "Patchouli",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

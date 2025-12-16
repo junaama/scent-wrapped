@@ -1,0 +1,150 @@
+{
+    "name": "Ysayo",
+    "brand": "Puredistance",
+    "release_year": "2025",
+    "description": "A new perfume byPuredistancefor women and men, released in2025. The scent is leathery-earthy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/72/729ee0_ysayo-puredistance_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Leathery",
+        "Earthy",
+        "Smoky",
+        "Resinous",
+        "Floral"
+    ],
+    "top_notes": [
+        "Iranian galbanum",
+        "Egyptian chamomile",
+        "Moroccan artemisia",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Egyptian geranium",
+        "French thyme",
+        "Indian celery",
+        "Indian jasminum auriculatum absolute",
+        "Madagascan geranium"
+    ],
+    "base_notes": [
+        "Haitian vetiver",
+        "Indonesian patchouli",
+        "Java vetiver",
+        "Leather",
+        "Spanish cistus absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "9 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 3
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Earthy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

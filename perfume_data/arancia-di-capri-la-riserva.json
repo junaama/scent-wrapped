@@ -1,0 +1,133 @@
+{
+    "name": "Arancia di Capri La Riserva",
+    "brand": "Acqua di Parma",
+    "release_year": "2025",
+    "description": "A new perfume byAcqua di Parmafor women and men, released in2025. The scent is fresh-citrusy. It is being marketed byLVMH.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/16/16b93f_arancia-di-capri-la-riserva-acqua-di-parma_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Citrus",
+        "Woody",
+        "Fruity",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Italian blood orange",
+        "Mandarin orange",
+        "Petitgrain"
+    ],
+    "heart_notes": [
+        "Rosemary",
+        "Basil",
+        "Mineral salt"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Ambrettolide",
+        "Leather"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "73 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "60 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "58 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "59 Ratings"
+        },
+        "pricing": {
+            "score": "6.6",
+            "votes": "48 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 21
+            },
+            {
+                "name": "Spicy",
+                "votes": 11
+            },
+            {
+                "name": "Woody",
+                "votes": 15
+            },
+            {
+                "name": "Fruity",
+                "votes": 14
+            },
+            {
+                "name": "Fresh",
+                "votes": 23
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 22
+            },
+            {
+                "name": "Feminine",
+                "votes": 13
+            },
+            {
+                "name": "Classic",
+                "votes": 9
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 21
+            },
+            {
+                "name": "Spring",
+                "votes": 18
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 20
+            },
+            {
+                "name": "Sport",
+                "votes": 11
+            },
+            {
+                "name": "Leisure",
+                "votes": 20
+            },
+            {
+                "name": "Night Out",
+                "votes": 11
+            },
+            {
+                "name": "Business",
+                "votes": 15
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

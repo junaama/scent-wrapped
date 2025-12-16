@@ -1,0 +1,92 @@
+{
+    "name": "Love Vanilla",
+    "brand": "Bettina Barty",
+    "release_year": "2025",
+    "description": "A new perfume byBettina Bartyfor women, released in2025. The scent is sweet-creamy. It is being marketed byStraub Marbert Beauty Group / Beauty Brands International.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f0/f04d3b_love-vanilla-bettina-barty_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Creamy",
+        "Floral"
+    ],
+    "top_notes": [
+        "Monoï",
+        "Ylang-ylang"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Neroli"
+    ],
+    "base_notes": [
+        "Tuberose",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.3",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "4.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "3.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "4.8",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

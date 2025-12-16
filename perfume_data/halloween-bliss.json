@@ -1,0 +1,112 @@
+{
+    "name": "Halloween Bliss",
+    "brand": "Halloween",
+    "release_year": "2025",
+    "description": "A new perfume byHalloweenfor women, released in2025. The scent is fresh-floral. It is being marketed byPerfumes y Diseño.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f0/f09a19_halloween-bliss-halloween_1200.jpg?width=240&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Floral",
+        "Green",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Italian bergamot",
+        "Mandarin orange",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Peony",
+        "Mahonial®"
+    ],
+    "base_notes": [
+        "Georgywood®",
+        "Musk",
+        "Moss"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.2",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "6.2",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "5.8",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "6.7",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

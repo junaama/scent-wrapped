@@ -1,0 +1,145 @@
+{
+    "name": "Cyprus Shell",
+    "brand": "The Merchant Of Venice",
+    "release_year": "2025",
+    "description": "A new perfume byThe Merchant Of Venicefor women, released in2025. The scent is floral-fresh. It is being marketed byMavive.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7d/7d21d6_cyprus-shell-the-merchant-of-venice_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Fruity",
+        "Aquatic",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Mandarin orange",
+        "Pear",
+        "Salty notes"
+    ],
+    "heart_notes": [
+        "Iris resinoid",
+        "Frankincense",
+        "Rose"
+    ],
+    "base_notes": [
+        "Musk",
+        "Oakmoss",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "39 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "35 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "36 Ratings"
+        },
+        "bottle": {
+            "score": "9.0",
+            "votes": "49 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Powdery",
+                "votes": 7
+            },
+            {
+                "name": "Fruity",
+                "votes": 9
+            },
+            {
+                "name": "Fresh",
+                "votes": 13
+            },
+            {
+                "name": "Floral",
+                "votes": 14
+            },
+            {
+                "name": "Aquatic",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 9
+            },
+            {
+                "name": "Feminine",
+                "votes": 18
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 15
+            },
+            {
+                "name": "Spring",
+                "votes": 14
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 14
+            },
+            {
+                "name": "Sport",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 16
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 12
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

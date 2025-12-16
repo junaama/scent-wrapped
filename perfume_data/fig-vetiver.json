@@ -1,0 +1,129 @@
+{
+    "name": "Fig & Vetiver",
+    "brand": "4711",
+    "release_year": "2025",
+    "description": "A new perfume by4711for women and men, released in2025. The scent is green-fresh. It is being marketed byMäurer & Wirtz.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/bc/bca06b_fig-vetiver-4711_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Fresh",
+        "Fruity",
+        "Creamy",
+        "Floral"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "41 Ratings"
+        },
+        "durability": {
+            "score": "6.1",
+            "votes": "33 Ratings"
+        },
+        "sillage": {
+            "score": "5.7",
+            "votes": "34 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "36 Ratings"
+        },
+        "pricing": {
+            "score": "8.6",
+            "votes": "29 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Green",
+                "votes": 15
+            },
+            {
+                "name": "Fruity",
+                "votes": 11
+            },
+            {
+                "name": "Fresh",
+                "votes": 15
+            },
+            {
+                "name": "Creamy",
+                "votes": 8
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 18
+            },
+            {
+                "name": "Feminine",
+                "votes": 16
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 10
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 18
+            },
+            {
+                "name": "Spring",
+                "votes": 15
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 16
+            },
+            {
+                "name": "Sport",
+                "votes": 8
+            },
+            {
+                "name": "Leisure",
+                "votes": 15
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 14
+            }
+        ]
+    }
+}

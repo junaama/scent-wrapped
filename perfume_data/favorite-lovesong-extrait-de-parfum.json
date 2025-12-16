@@ -1,0 +1,130 @@
+{
+    "name": "Favorite Lovesong",
+    "brand": "Glowcane",
+    "release_year": "2025",
+    "description": "A new perfume byGlowcanefor women, released in2025. The scent is sweet-floral.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5a/5ab7a9_favourite-lovesong-extrait-de-parfum-glowcane_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Fruity",
+        "Synthetic",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Jasmine",
+        "Lychee"
+    ],
+    "heart_notes": [
+        "Lily of the valley",
+        "Orange blossom",
+        "Peony",
+        "Turkish rose"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Cashmere wood",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.4",
+            "votes": "9 Ratings"
+        },
+        "durability": {
+            "score": "5.7",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "6.2",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

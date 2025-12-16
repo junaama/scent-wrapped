@@ -1,0 +1,100 @@
+{
+    "name": "Odyssey Black Forest",
+    "brand": "Armaf",
+    "release_year": "2025",
+    "description": "A new perfume byArmaffor women and men, released in2025. The scent is fruity-gourmand. It is being marketed bySterling Perfumes Industries LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d3/d324ff_odyssey-black-forest-armaf_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Gourmand",
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Cherry",
+        "Caramel",
+        "Cinnamon",
+        "Milky notes",
+        "White blossoms"
+    ],
+    "heart_notes": [
+        "Date",
+        "Honey",
+        "Nutmeg"
+    ],
+    "base_notes": [
+        "Musk",
+        "Praliné",
+        "Roasted tonka bean",
+        "Vanilla",
+        "Woody notes"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.7",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

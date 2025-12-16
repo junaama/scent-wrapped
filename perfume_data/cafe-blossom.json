@@ -1,0 +1,45 @@
+{
+    "name": "Café Blossom",
+    "brand": "Monkoku",
+    "release_year": "2025",
+    "description": "A new perfume byMonkokufor women and men, released in2025. The scent is synthetic-spicy. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/be/be68f5_cafe-blossom-monkoku_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Spicy",
+        "Leathery",
+        "Oriental",
+        "Floral"
+    ],
+    "top_notes": [
+        "Floral notes"
+    ],
+    "heart_notes": [
+        "Coffee",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Vanilla",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "7.9",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {}
+}

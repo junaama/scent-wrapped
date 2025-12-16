@@ -1,0 +1,31 @@
+{
+    "name": "Narciso",
+    "brand": "Eredi Zucca",
+    "release_year": "2025",
+    "description": "A new perfume byEredi Zuccafor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c7/c712ac_narciso-eredi-zucca_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Grapefruit",
+        "Italian bergamot",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lily",
+        "Musk"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Myrrh",
+        "Oud",
+        "Virginia cedar wood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

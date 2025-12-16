@@ -1,0 +1,24 @@
+{
+    "name": "Darling",
+    "brand": "evereden",
+    "release_year": "2025",
+    "description": "A new perfume byeveredenfor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/db/dbd367_darling-evereden_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Peach",
+        "Pineapple",
+        "Strawberry"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lily of the valley",
+        "Rose"
+    ],
+    "base_notes": [
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

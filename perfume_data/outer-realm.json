@@ -1,0 +1,109 @@
+{
+    "name": "Outer Realm",
+    "brand": "Rite of Way",
+    "release_year": "2025",
+    "description": "A new perfume byRite of Wayfor women and men, released in2025. The scent is woody-green.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/74/7419f2_outer-realm-rite-of-way_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Green",
+        "Smoky",
+        "Resinous",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Citron",
+        "Juniper leaf"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Mountain pepper",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Embers",
+        "Lotus"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "name": "Elinor Green",
+    "brand": "French Avenue",
+    "release_year": "2025",
+    "description": "A new perfume byFrench Avenuefor women, released in2025. The scent is fresh-sweet. The longevity is above-average. It is being marketed byFragrance World Trading LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7f/7f3e62_elinor-green-french-avenue_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Sweet",
+        "Fruity",
+        "Woody",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Aquatic notes",
+        "Blackcurrant bud",
+        "Fig"
+    ],
+    "heart_notes": [
+        "Iris",
+        "Jasmine",
+        "Orris root",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Musk",
+        "Patchouli",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            }
+        ]
+    }
+}

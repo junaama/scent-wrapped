@@ -1,0 +1,134 @@
+{
+    "name": "Pizzuta",
+    "brand": "Olfattology",
+    "release_year": "2025",
+    "description": "A new perfume byOlfattologyfor women and men, released in2025. The scent is powdery-creamy. It is being marketed byArnoway.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8c/8cd818_pizzuta-olfattology_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Powdery",
+        "Creamy",
+        "Sweet",
+        "Fresh",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Lemon leaf",
+        "Pink pepper",
+        "Myrtle"
+    ],
+    "heart_notes": [
+        "Almond blossom",
+        "Cotton flower",
+        "Almond",
+        "Dragée",
+        "Milk",
+        "Salted pistachio"
+    ],
+    "base_notes": [
+        "Cotton candy",
+        "Patchouli",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "11 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "10 Ratings"
+        },
+        "sillage": {
+            "score": "6.4",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Powdery",
+                "votes": 6
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

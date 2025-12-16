@@ -1,0 +1,144 @@
+{
+    "name": "It's a Match-a",
+    "brand": "Versȧtıle",
+    "release_year": "2025",
+    "description": "A new perfume byVersȧtılefor women and men, released in2025. The scent is creamy-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/19/190a7e_it-s-a-match-a-versatile_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Creamy",
+        "Sweet",
+        "Synthetic",
+        "Green",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Aldehydes",
+        "Italian bergamot",
+        "Italian lemon",
+        "Matcha",
+        "2-Acetyl pyrazine",
+        "Benzaldehyde"
+    ],
+    "heart_notes": [
+        "Ambroxan",
+        "Heliotropex",
+        "Indian tuberose",
+        "Alpha irone",
+        "Beta ionone",
+        "Coumarin",
+        "Hedione",
+        "Isopropoxyethyl salicylate",
+        "Linalyl acetate"
+    ],
+    "base_notes": [
+        "Musk T®",
+        "Paraguayan gaiac wood",
+        "Bourbon vanilla absolute",
+        "Ethyl maltol",
+        "Globalide®",
+        "Globanone®",
+        "Helvetolide®",
+        "Lactone",
+        "Methyl laitone",
+        "Sandalore",
+        "Undecavertol",
+        "Vanillin",
+        "Vetiveryl acetate"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "9 Ratings"
+        },
+        "durability": {
+            "score": "6.2",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "5.1",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "17 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

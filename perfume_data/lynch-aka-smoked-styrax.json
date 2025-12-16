@@ -1,0 +1,154 @@
+{
+    "name": "Lynch aka Smoked Styrax",
+    "brand": "Spiritica",
+    "release_year": "2025",
+    "description": "A new perfume bySpiriticafor women and men, released in2025. The scent is resinous-sweet. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/78/781604_lynch-aka-smoked-styrax-spiritica_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Sweet",
+        "Spicy",
+        "Fruity",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Clove",
+        "Cherry cake",
+        "Night-blooming jasmine",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Styrax",
+        "Latakia tobacco",
+        "Myrrh",
+        "Oud"
+    ],
+    "base_notes": [
+        "Gourmand notes",
+        "Forest accord",
+        "Latakia tobacco",
+        "Patchouli",
+        "Vanilla",
+        "Benzoin"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.7",
+            "votes": "71 Ratings"
+        },
+        "durability": {
+            "score": "8.9",
+            "votes": "66 Ratings"
+        },
+        "sillage": {
+            "score": "8.7",
+            "votes": "64 Ratings"
+        },
+        "bottle": {
+            "score": "8.7",
+            "votes": "60 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "46 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 12
+            },
+            {
+                "name": "Sweet",
+                "votes": 14
+            },
+            {
+                "name": "Smoky",
+                "votes": 7
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Resinous",
+                "votes": 16
+            },
+            {
+                "name": "Green",
+                "votes": 4
+            },
+            {
+                "name": "Gourmand",
+                "votes": 9
+            },
+            {
+                "name": "Fruity",
+                "votes": 10
+            },
+            {
+                "name": "Fresh",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 17
+            },
+            {
+                "name": "Feminine",
+                "votes": 12
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 13
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 18
+            },
+            {
+                "name": "Fall",
+                "votes": 19
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 12
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 10
+            },
+            {
+                "name": "Night Out",
+                "votes": 16
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 18
+            }
+        ]
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "name": "Sous Les Nuages",
+    "brand": "The Gate",
+    "release_year": "2025",
+    "description": "A new perfume byThe Gatefor women and men, released in2025. The scent is fougèreartig-woody. Projection and longevity are above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/37/37b9e8_sous-les-nuages-extrait-de-parfum-the-gate_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fougère",
+        "Woody",
+        "Spicy",
+        "Citrus",
+        "Aquatic"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Lemon",
+        "Peppermint",
+        "Rosemary",
+        "Yuzu"
+    ],
+    "heart_notes": [
+        "Ginger",
+        "Jasmine",
+        "Pink pepper",
+        "Rose",
+        "Thyme"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Gaiac wood",
+        "Mossy notes",
+        "Musk",
+        "Nagarmotha"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.0",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Fougère",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

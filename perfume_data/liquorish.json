@@ -1,0 +1,25 @@
+{
+    "name": "Liquorish",
+    "brand": "Aroma Studium",
+    "release_year": "2025",
+    "description": "A new perfume byAroma Studiumfor women and men, released in2025. It is being marketed byVenice Olfactory.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4d/4d0312_liquorish-aroma-studium_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Orange",
+        "Rum",
+        "Turkish rose"
+    ],
+    "heart_notes": [
+        "Cardamom",
+        "Roasted coffee",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Afghan licorice",
+        "Amber",
+        "Cedarwood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,101 @@
+{
+    "name": "Duende",
+    "brand": "Anatole Lebreton",
+    "release_year": "2025",
+    "description": "A new perfume byAnatole Lebretonfor women and men, released in2025. The scent is earthy-animal. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/88/882eb6_duende-anatole-lebreton_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Earthy",
+        "Animal",
+        "Gourmand",
+        "Spicy",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Davana",
+        "Pimento"
+    ],
+    "heart_notes": [
+        "Chili",
+        "Clove",
+        "Cocoa",
+        "Laotian oud"
+    ],
+    "base_notes": [
+        "Castoreum",
+        "Civet",
+        "Cypriol"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            },
+            {
+                "name": "Animal",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

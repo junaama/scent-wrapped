@@ -1,0 +1,23 @@
+{
+    "name": "The Library",
+    "brand": "The Dua Brand",
+    "release_year": "2025",
+    "description": "A new perfume byThe Dua Brandfor women and men, released in2025. The perfume is vegan according to the manufacturer.PronunciationCompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/a9/a90a89_the-library-the-dua-brand_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cinnamon",
+        "Plum"
+    ],
+    "heart_notes": [
+        "Leather",
+        "Violet"
+    ],
+    "base_notes": [
+        "Birch",
+        "Patchouli",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

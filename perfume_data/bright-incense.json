@@ -1,0 +1,139 @@
+{
+    "name": "Bright Incense",
+    "brand": "Brooklyn Soap Company",
+    "release_year": "2025",
+    "description": "A new and limited perfume byBrooklyn Soap Companyfor women and men, released in2025. The scent is spicy-resinous.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/a0/a0f14b_bright-incense-brooklyn-soap-company_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Resinous",
+        "Woody",
+        "Powdery",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Absinth",
+        "Juniper"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Iris",
+        "Myrrh"
+    ],
+    "base_notes": [
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "10 Ratings"
+        },
+        "sillage": {
+            "score": "6.4",
+            "votes": "10 Ratings"
+        },
+        "bottle": {
+            "score": "6.4",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 6
+            },
+            {
+                "name": "Smoky",
+                "votes": 3
+            },
+            {
+                "name": "Powdery",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Resinous",
+                "votes": 5
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

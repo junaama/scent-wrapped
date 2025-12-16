@@ -1,0 +1,90 @@
+{
+    "name": "Cedro",
+    "brand": "Tuttotondo",
+    "release_year": "2025",
+    "description": "A new perfume byTuttotondofor women and men, released in2025. The scent is citrusy-leathery. It is being marketed byBeauty San.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/51/51415f_cedro-tuttotondo_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Leathery",
+        "Fruity",
+        "Fresh",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Citron",
+        "Elemi resin",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Blackcurrant",
+        "Neroli",
+        "Suede",
+        "Thyme"
+    ],
+    "base_notes": [
+        "Moss",
+        "Patchouli"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

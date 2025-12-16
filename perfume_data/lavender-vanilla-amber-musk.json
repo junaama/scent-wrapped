@@ -1,0 +1,136 @@
+{
+    "name": "Lavender, Vanilla, Amber, Musk",
+    "brand": "Zielinski & Rozen",
+    "release_year": "2025",
+    "description": "A new perfume byZielinski & Rozenfor women and men, released in2025. The scent is sweet-floral.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ef/ef0177_lavender-vanilla-amber-musk-zielinski-rozen_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Spicy",
+        "Oriental",
+        "Green"
+    ],
+    "top_notes": [
+        "Lavender"
+    ],
+    "heart_notes": [
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "23 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "22 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "22 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "20 Ratings"
+        },
+        "pricing": {
+            "score": "7.8",
+            "votes": "16 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Oriental",
+                "votes": 4
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 9
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

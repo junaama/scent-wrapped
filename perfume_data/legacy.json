@@ -1,0 +1,141 @@
+{
+    "name": "Legacy",
+    "brand": "Maison Asrar",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Asrarfor women and men, released in2025. The scent is fresh-sweet. It is being marketed byGulf Orchid Fragrances.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f1/f1e66b_legacy-maison-asrar_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Sweet",
+        "Floral",
+        "Fruity",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Ginger",
+        "Bergamot zest",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Orange blossom",
+        "Jasmine",
+        "Woody notes"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "41 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "39 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "40 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "38 Ratings"
+        },
+        "pricing": {
+            "score": "8.8",
+            "votes": "38 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 7
+            },
+            {
+                "name": "Fresh",
+                "votes": 8
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 8
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Sport",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

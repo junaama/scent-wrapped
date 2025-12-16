@@ -1,0 +1,123 @@
+{
+    "name": "Flo'97",
+    "brand": "Florian Pontier",
+    "release_year": "2025",
+    "description": "A new perfume byFlorian Pontierfor women and men, released in2025. The scent is gourmand-sweet. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/94/94e280_flo-97-florian-pontier_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Sweet",
+        "Spicy",
+        "Woody",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Apple",
+        "Raspberry",
+        "Red berries"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Jasmine",
+        "Pink pepper",
+        "Rosewood"
+    ],
+    "base_notes": [
+        "Amber",
+        "Balsam",
+        "Cedarwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "14 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "11 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "11 Ratings"
+        },
+        "bottle": {
+            "score": "8.9",
+            "votes": "18 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

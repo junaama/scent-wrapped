@@ -1,0 +1,107 @@
+{
+    "name": "49°48'N 86°35'E - Altai",
+    "brand": "Les Destinations",
+    "release_year": "2025",
+    "description": "A new perfume byLes Destinationsfor men, released in2025. The scent is fresh-citrusy. It is being marketed byMäurer & Wirtz.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b2/b22767_49-48-n-86-35-e-altai-les-destinations_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Citrus",
+        "Aquatic",
+        "Green"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Fir",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Frosted jasmine",
+        "Pine"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Moss",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "8 Ratings"
+        },
+        "durability": {
+            "score": "6.3",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

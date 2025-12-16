@@ -1,0 +1,29 @@
+{
+    "name": "Nº09 Vanilla Bourbon",
+    "brand": "Mix:Bar",
+    "release_year": "2025",
+    "description": "A new perfume byMix:Barfor women and men, released in2025. It is being marketed byMaesa.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/94/946515_no09-vanilla-bourbon-perfume-oil-mix-bar_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Black pepper",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Vanilla orchid",
+        "Apple blossom",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Bourbon vanilla",
+        "Amber",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

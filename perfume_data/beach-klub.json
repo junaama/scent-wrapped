@@ -1,0 +1,147 @@
+{
+    "name": "Beach Klub",
+    "brand": "Kai Porten Parfums Privés",
+    "release_year": "2025",
+    "description": "A new perfume byKai Porten Parfums Privésfor women and men, released in2025. The scent is leathery-spicy.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/34/3420ed_beach-klub-kai-porten-parfums-prives_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Leathery",
+        "Spicy",
+        "Smoky",
+        "Creamy",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Birch tar",
+        "Apple",
+        "Rosewood"
+    ],
+    "heart_notes": [
+        "Leather",
+        "Oregano",
+        "Juniper"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Musk",
+        "Castoreum",
+        "Civet",
+        "Gaiac wood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.7",
+            "votes": "394 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "368 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "368 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "352 Ratings"
+        },
+        "pricing": {
+            "score": "5.7",
+            "votes": "324 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 58
+            },
+            {
+                "name": "Sweet",
+                "votes": 31
+            },
+            {
+                "name": "Smoky",
+                "votes": 55
+            },
+            {
+                "name": "Leathery",
+                "votes": 61
+            },
+            {
+                "name": "Woody",
+                "votes": 32
+            },
+            {
+                "name": "Fruity",
+                "votes": 34
+            },
+            {
+                "name": "Creamy",
+                "votes": 34
+            },
+            {
+                "name": "Animal",
+                "votes": 17
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 65
+            },
+            {
+                "name": "Feminine",
+                "votes": 26
+            },
+            {
+                "name": "Classic",
+                "votes": 9
+            },
+            {
+                "name": "Modern",
+                "votes": 43
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 48
+            },
+            {
+                "name": "Fall",
+                "votes": 65
+            },
+            {
+                "name": "Summer",
+                "votes": 28
+            },
+            {
+                "name": "Spring",
+                "votes": 49
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 12
+            },
+            {
+                "name": "Leisure",
+                "votes": 48
+            },
+            {
+                "name": "Night Out",
+                "votes": 55
+            },
+            {
+                "name": "Business",
+                "votes": 11
+            },
+            {
+                "name": "Evening",
+                "votes": 61
+            }
+        ]
+    }
+}

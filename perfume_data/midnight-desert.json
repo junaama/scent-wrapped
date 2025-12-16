@@ -1,0 +1,147 @@
+{
+    "name": "Midnight Desert",
+    "brand": "Lou de Pre",
+    "release_year": "2025",
+    "description": "A new perfume byLou de Prefor men, released in2025. The scent is aquatic-fresh. It is being marketed byLCC Brands.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/90/90cfe0_midnight-desert-lou-de-pre_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Aquatic",
+        "Fresh",
+        "Citrus",
+        "Synthetic",
+        "Green"
+    ],
+    "top_notes": [
+        "Ginger",
+        "Bergamot",
+        "Apple"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Clary sage",
+        "Juniper berry"
+    ],
+    "base_notes": [
+        "Amberwood",
+        "Vetiver",
+        "Cedarwood",
+        "Frankincense",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "53 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "47 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "47 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "50 Ratings"
+        },
+        "pricing": {
+            "score": "8.7",
+            "votes": "50 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 7
+            },
+            {
+                "name": "Synthetic",
+                "votes": 6
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Green",
+                "votes": 5
+            },
+            {
+                "name": "Fresh",
+                "votes": 8
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            },
+            {
+                "name": "Aquatic",
+                "votes": 9
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 9
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 9
+            },
+            {
+                "name": "Spring",
+                "votes": 8
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Sport",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "name": "La Rosée",
+    "brand": "Ahmed Al Maghribi",
+    "release_year": "2025",
+    "description": "A new perfume byAhmed Al Maghribifor women and men, released in2025. The scent is fruity-floral. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3c/3cc754_la-rosee-ahmed-al-maghribi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Floral",
+        "Earthy",
+        "Woody",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Mandarin orange",
+        "Oud",
+        "Passion fruit",
+        "Peach",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Almond",
+        "Bulgarian rose",
+        "Caramel",
+        "Geranium",
+        "Grasse rose"
+    ],
+    "base_notes": [
+        "Heliotrope",
+        "Moss",
+        "Musk",
+        "Oud",
+        "Patchouli",
+        "Sugar",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "9.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

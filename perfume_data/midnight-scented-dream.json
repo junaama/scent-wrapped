@@ -1,0 +1,141 @@
+{
+    "name": "Midnight Scented Dream",
+    "brand": "Atkinsons",
+    "release_year": "2025",
+    "description": "A new perfume byAtkinsonsfor women and men, released in2025. The scent is floral-woody. It is being marketed byEuroItalia.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3a/3a6c62_midnight-scented-dream-atkinsons_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Woody",
+        "Synthetic",
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Paradisone®",
+        "Calabrian bergamot"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Vanilla",
+        "Queen-of-the-night"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Heliotrope",
+        "Anthamber",
+        "Almond"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "50 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "43 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "42 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "44 Ratings"
+        },
+        "pricing": {
+            "score": "6.1",
+            "votes": "30 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Powdery",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 9
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 8
+            },
+            {
+                "name": "Floral",
+                "votes": 15
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 12
+            },
+            {
+                "name": "Classic",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 14
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 11
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 11
+            },
+            {
+                "name": "Leisure",
+                "votes": 13
+            },
+            {
+                "name": "Night Out",
+                "votes": 10
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

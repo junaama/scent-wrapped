@@ -1,0 +1,105 @@
+{
+    "name": "Musk Empire",
+    "brand": "Areej Le Doré",
+    "release_year": "2025",
+    "description": "A new perfume byAreej Le Doréfor women and men, released in2025. The scent is animal-sweet. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e9/e9a008_musk-empire-areej-le-dore_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Animal",
+        "Sweet",
+        "Gourmand",
+        "Leathery",
+        "Woody"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "9.6",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

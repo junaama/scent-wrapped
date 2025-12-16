@@ -1,0 +1,137 @@
+{
+    "name": "Royal Family",
+    "brand": "Profumuso",
+    "release_year": "2025",
+    "description": "A new perfume byProfumusofor women and men, released in2025. The scent is spicy-fruity. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/52/527a54_royal-family-profumuso_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Fruity",
+        "Sweet",
+        "Fresh",
+        "Green"
+    ],
+    "top_notes": [
+        "Fig",
+        "Pear",
+        "Peach",
+        "Apple",
+        "Cardamom",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Black tea",
+        "Blackcurrant",
+        "Ozone",
+        "Amaretto",
+        "Honey",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Musk",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "8 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

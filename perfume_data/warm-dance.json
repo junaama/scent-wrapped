@@ -1,0 +1,30 @@
+{
+    "name": "Warm Dance",
+    "brand": "La Beauté",
+    "release_year": "2025",
+    "description": "A new perfume byLa Beautéfor women, released in2025. It is being marketed byDeraah Trading Company.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/52/521b3b_warm-dance-la-beaute_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Green leaves",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lily of the valley",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Sandalwood",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

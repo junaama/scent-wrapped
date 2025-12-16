@@ -1,0 +1,42 @@
+{
+    "name": "Mr. Cerulean",
+    "brand": "Atrium Fragrance",
+    "release_year": "2025",
+    "description": "A new perfume byAtrium Fragrancefor men, released in2025. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2d/2d3d1d_mr-cerulean-atrium-fragrance_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blueberry",
+        "Lemon",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Elemi resin",
+        "Green apple",
+        "ISO-E-Super"
+    ],
+    "base_notes": [
+        "Amber",
+        "Ambergris",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

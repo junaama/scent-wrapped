@@ -1,0 +1,49 @@
+{
+    "name": "Juicy Jammy",
+    "brand": "Jinx",
+    "release_year": "2025",
+    "description": "A new and limited perfume byJinxfor women and men, released in2025. The scent is spicy-floral. Projection and longevity are above-average. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/b1/b15633_juicy-jammy-jinx_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Floral",
+        "Oriental",
+        "Citrus",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Rum CO2",
+        "Orange blossom"
+    ],
+    "heart_notes": [
+        "May rose",
+        "Turkish rose",
+        "Fig"
+    ],
+    "base_notes": [
+        "Amber",
+        "Bangladeshian oud",
+        "Mysore sandalwood",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "8.6",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "6.7",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {}
+}

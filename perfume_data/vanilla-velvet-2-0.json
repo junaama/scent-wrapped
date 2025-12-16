@@ -1,0 +1,28 @@
+{
+    "name": "Vanilla Velvet 2.0",
+    "brand": "Ouru",
+    "release_year": "2025",
+    "description": "A new perfume byOurufor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b6/b6b492_vanilla-velvet-2-0-ouru_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Lavender",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Amber",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

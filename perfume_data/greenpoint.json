@@ -1,0 +1,110 @@
+{
+    "name": "Greenpoint",
+    "brand": "Bond No. 9",
+    "release_year": "2025",
+    "description": "A new perfume byBond No. 9for women and men, released in2025. The scent is green-spicy.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/41/41b4b2_greenpoint-bond-no-9_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Spicy",
+        "Fresh",
+        "Floral",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Bergamot zest",
+        "Cardamom",
+        "Pear",
+        "Pimento leaf"
+    ],
+    "heart_notes": [
+        "Magnolia",
+        "Marine notes",
+        "Rose",
+        "Star jasmine"
+    ],
+    "base_notes": [
+        "Ambrettolide",
+        "Baltic amber",
+        "Cedar",
+        "Musk",
+        "Tree moss",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "17 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

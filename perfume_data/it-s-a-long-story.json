@@ -1,0 +1,29 @@
+{
+    "name": "It's a Long Story.",
+    "brand": "Frankly,",
+    "release_year": "2025",
+    "description": "A new perfume byFrankly,for women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/3d/3d7130_it-s-a-long-story-frankly_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Blackcurrant",
+        "Green apple",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Patchouli",
+        "Pineapple"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Ambroxan",
+        "Birch",
+        "Cedarwood",
+        "Musk",
+        "Oakmoss"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Rose Harmony",
+    "brand": "Jesus del Pozo",
+    "release_year": "2025",
+    "description": "A new perfume byJesus del Pozofor women and men, released in2025. It is being marketed byPerfumes y Diseño.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8b/8bb71d_rose-harmony-jesus-del-pozo_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Marron glacé",
+        "Nutmeg",
+        "Sesame"
+    ],
+    "heart_notes": [
+        "Clary sage",
+        "Frankincense",
+        "Jasmine sambac",
+        "Rose"
+    ],
+    "base_notes": [
+        "Musk",
+        "Tonka bean",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.2",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {}
+}

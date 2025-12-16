@@ -1,0 +1,121 @@
+{
+    "name": "001 TAJ",
+    "brand": "UNVAIN",
+    "release_year": "2025",
+    "description": "A new perfume byUNVAINfor women and men, released in2025. The scent is green-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c1/c1dbb9_001-taj-unvain_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Fresh",
+        "Creamy",
+        "Sweet",
+        "Spicy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "48 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "42 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "42 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "39 Ratings"
+        },
+        "pricing": {
+            "score": "7.9",
+            "votes": "37 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Green",
+                "votes": 15
+            },
+            {
+                "name": "Fresh",
+                "votes": 10
+            },
+            {
+                "name": "Creamy",
+                "votes": 10
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 14
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Modern",
+                "votes": 13
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 13
+            },
+            {
+                "name": "Spring",
+                "votes": 15
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 15
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 16
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 10
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

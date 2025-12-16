@@ -1,0 +1,89 @@
+{
+    "name": "Aphrodite",
+    "brand": "Venus Invictus",
+    "release_year": "2025",
+    "description": "A new perfume byVenus Invictusfor women and men, released in2025. The scent is green-aquatic.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [
+        "Green",
+        "Aquatic",
+        "Fruity",
+        "Fresh",
+        "Floral"
+    ],
+    "top_notes": [
+        "Calabrian bergamot",
+        "Fern",
+        "Neroli",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Cucumber",
+        "Iris",
+        "May rose"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Immortelle",
+        "Musk"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            }
+        ]
+    }
+}

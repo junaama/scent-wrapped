@@ -1,0 +1,113 @@
+{
+    "name": "Tiramisu",
+    "brand": "Theodoros Kalotinis",
+    "release_year": "2025",
+    "description": "A new perfume byTheodoros Kalotinisfor women and men, released in2025. The scent is gourmand-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/dc/dc258a_tiramisu-theodoros-kalotinis_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Sweet",
+        "Creamy",
+        "Spicy",
+        "Powdery"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "34 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "26 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "26 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "27 Ratings"
+        },
+        "pricing": {
+            "score": "7.2",
+            "votes": "21 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 13
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 15
+            },
+            {
+                "name": "Creamy",
+                "votes": 9
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 12
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 13
+            },
+            {
+                "name": "Fall",
+                "votes": 12
+            },
+            {
+                "name": "Spring",
+                "votes": 8
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 13
+            }
+        ]
+    }
+}

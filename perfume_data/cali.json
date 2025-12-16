@@ -1,0 +1,132 @@
+{
+    "name": "Cali",
+    "brand": "Mutis - Nueva Granada",
+    "release_year": "2025",
+    "description": "A new perfume byMutis - Nueva Granadafor women and men, released in2025. The scent is fresh-floral.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e2/e2f7bf_cali-mutis-nueva-granada_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Floral",
+        "Sweet",
+        "Fruity",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Mango",
+        "Passion fruit",
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Passion flower",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "6.2",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

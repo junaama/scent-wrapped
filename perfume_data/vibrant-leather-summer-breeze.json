@@ -1,0 +1,136 @@
+{
+    "name": "Vibrant Leather Summer Breeze",
+    "brand": "Zara",
+    "release_year": "2025",
+    "description": "A new perfume byZarafor men, released in2025. The scent is fresh-citrusy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9f/9fa635_vibrant-leather-summer-breeze-zara_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Citrus",
+        "Aquatic",
+        "Woody",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Ginger",
+        "Bergamot",
+        "Citron"
+    ],
+    "heart_notes": [
+        "Neroli",
+        "Black tea",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Tonka bean",
+        "Woody notes"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "61 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "58 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "56 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "56 Ratings"
+        },
+        "pricing": {
+            "score": "9.2",
+            "votes": "55 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 12
+            },
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 13
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            },
+            {
+                "name": "Aquatic",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 12
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 10
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 13
+            },
+            {
+                "name": "Spring",
+                "votes": 8
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 13
+            },
+            {
+                "name": "Sport",
+                "votes": 11
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            }
+        ]
+    }
+}

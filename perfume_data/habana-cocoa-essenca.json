@@ -1,0 +1,106 @@
+{
+    "name": "Habana Cocoa Essenca",
+    "brand": "Duftkumpels",
+    "release_year": "2025",
+    "description": "A new and limited perfume byDuftkumpelsfor women and men, released in2025. The scent is gourmand-smoky. The longevity is above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/28/28c339_habana-cocoa-essenca-duftkumpels_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Smoky",
+        "Leathery",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Virginia tobacco",
+        "Leather"
+    ],
+    "heart_notes": [
+        "Indian cocoa absolute",
+        "Madagascan cocoa absolute"
+    ],
+    "base_notes": [
+        "Siberian castoreum",
+        "Siam benzoin",
+        "Spanish labdanum absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.5",
+            "votes": "13 Ratings"
+        },
+        "durability": {
+            "score": "8.8",
+            "votes": "11 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "11 Ratings"
+        },
+        "bottle": {
+            "score": "8.8",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

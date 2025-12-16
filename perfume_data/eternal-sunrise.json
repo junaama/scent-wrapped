@@ -1,0 +1,146 @@
+{
+    "name": "Eternal Sunrise",
+    "brand": "The Merchant Of Venice",
+    "release_year": "2025",
+    "description": "A new perfume byThe Merchant Of Venicefor women and men, released in2025. The scent is sweet-resinous. The longevity is above-average. It is being marketed byMavive.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a3/a37b6c_eternal-sunrise-the-merchant-of-venice_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Resinous",
+        "Gourmand",
+        "Spicy",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Kyphi",
+        "Frankincense",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Akigalawood®",
+        "Cypriol",
+        "Papyrus",
+        "Ambrofix"
+    ],
+    "base_notes": [
+        "Styrax",
+        "Tonka bean",
+        "Cistus"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "21 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "18 Ratings"
+        },
+        "sillage": {
+            "score": "7.9",
+            "votes": "17 Ratings"
+        },
+        "bottle": {
+            "score": "9.2",
+            "votes": "29 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 4
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

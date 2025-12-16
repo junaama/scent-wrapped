@@ -1,0 +1,129 @@
+{
+    "name": "Café des Délices",
+    "brand": "Maison Mataha",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Matahafor women and men, released in2025. The scent is gourmand-creamy. The perfume is vegan according to the manufacturer.PronunciationCompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/7d/7d1217_cafe-des-delices-maison-mataha_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Creamy",
+        "Sweet",
+        "Spicy",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Biscuit",
+        "Coffee"
+    ],
+    "heart_notes": [
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Tonka bean",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "30 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "20 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "19 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "17 Ratings"
+        },
+        "pricing": {
+            "score": "6.5",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 10
+            },
+            {
+                "name": "Creamy",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 9
+            },
+            {
+                "name": "Fall",
+                "votes": 9
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Fruity Cucumber",
+    "brand": "The Dua Brand",
+    "release_year": "2025",
+    "description": "A new perfume byThe Dua Brandfor women and men, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/d4/d4b9dd_fruity-cucumber-the-dua-brand_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Apple",
+        "Cucumber",
+        "Grapefruit"
+    ],
+    "heart_notes": [
+        "Lily",
+        "Magnolia",
+        "Marine notes",
+        "Rose",
+        "Violet"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.3",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

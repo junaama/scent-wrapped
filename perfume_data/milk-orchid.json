@@ -1,0 +1,136 @@
+{
+    "name": "Milk Orchid",
+    "brand": "Commodity",
+    "release_year": "2025",
+    "description": "A new and limited perfume byCommodityfor women and men, released in2025. The scent is creamy-sweet.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/5f/5fe286_milk-orchid-commodity_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Creamy",
+        "Sweet",
+        "Floral",
+        "Synthetic",
+        "Woody"
+    ],
+    "top_notes": [
+        "Coconut cream",
+        "Almond blossom",
+        "Fig milk"
+    ],
+    "heart_notes": [
+        "Magnolia",
+        "Vanilla orchid",
+        "Cotton"
+    ],
+    "base_notes": [
+        "Macadamia milk",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "84 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "72 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "70 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "59 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "54 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 15
+            },
+            {
+                "name": "Powdery",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 17
+            },
+            {
+                "name": "Floral",
+                "votes": 13
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 16
+            },
+            {
+                "name": "Modern",
+                "votes": 11
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 12
+            },
+            {
+                "name": "Fall",
+                "votes": 14
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 15
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 14
+            },
+            {
+                "name": "Leisure",
+                "votes": 14
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 10
+            }
+        ]
+    }
+}

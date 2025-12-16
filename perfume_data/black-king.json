@@ -1,0 +1,33 @@
+{
+    "name": "Black King",
+    "brand": "Oscar London",
+    "release_year": "2025",
+    "description": "A new perfume byOscar Londonfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e5/e52617_black-king-oscar-london_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Ceylonese cinnamon",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Iris",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Labdanum",
+        "Patchouli",
+        "Rum",
+        "Styrax",
+        "Tobacco",
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,144 @@
+{
+    "name": "L'Air du Désert Marocain Noir",
+    "brand": "Tauer Perfumes",
+    "release_year": "2025",
+    "description": "A new perfume byTauer Perfumesfor women and men, released in2025. The scent is resinous-spicy. Projection and longevity are above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/ac/ac1145_l-air-du-desert-marocain-noir-tauer-perfumes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Spicy",
+        "Woody",
+        "Oriental",
+        "Leathery"
+    ],
+    "top_notes": [
+        "Spices",
+        "Lemon",
+        "Bergamot",
+        "Petitgrain"
+    ],
+    "heart_notes": [
+        "Labdanum",
+        "Leather",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Ambergris",
+        "Oakmoss",
+        "Vetiver",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "73 Ratings"
+        },
+        "durability": {
+            "score": "8.8",
+            "votes": "65 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "65 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "54 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "42 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 8
+            },
+            {
+                "name": "Spicy",
+                "votes": 21
+            },
+            {
+                "name": "Smoky",
+                "votes": 10
+            },
+            {
+                "name": "Oriental",
+                "votes": 19
+            },
+            {
+                "name": "Leathery",
+                "votes": 15
+            },
+            {
+                "name": "Woody",
+                "votes": 19
+            },
+            {
+                "name": "Resinous",
+                "votes": 24
+            },
+            {
+                "name": "Animal",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 23
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 17
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 22
+            },
+            {
+                "name": "Fall",
+                "votes": 24
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 14
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 17
+            },
+            {
+                "name": "Night Out",
+                "votes": 23
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 24
+            }
+        ]
+    }
+}

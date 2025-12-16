@@ -1,0 +1,145 @@
+{
+    "name": "Art of Universe",
+    "brand": "Lattafa Pride",
+    "release_year": "2025",
+    "description": "A new perfume byLattafa Pridefor men, released in2025. The scent is fruity-fresh. It is being marketed byLattafa Perfumes Industries LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b5/b5a6b5_art-of-universe-lattafa-pride_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Fresh",
+        "Sweet",
+        "Citrus",
+        "Woody"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Ginger",
+        "Mandarin orange",
+        "Mint"
+    ],
+    "heart_notes": [
+        "Pear",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Musk",
+        "Amber",
+        "Cedarwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "264 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "244 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "244 Ratings"
+        },
+        "bottle": {
+            "score": "6.9",
+            "votes": "243 Ratings"
+        },
+        "pricing": {
+            "score": "8.4",
+            "votes": "225 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 40
+            },
+            {
+                "name": "Synthetic",
+                "votes": 18
+            },
+            {
+                "name": "Sweet",
+                "votes": 46
+            },
+            {
+                "name": "Woody",
+                "votes": 26
+            },
+            {
+                "name": "Fruity",
+                "votes": 58
+            },
+            {
+                "name": "Fresh",
+                "votes": 53
+            },
+            {
+                "name": "Aquatic",
+                "votes": 13
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 52
+            },
+            {
+                "name": "Feminine",
+                "votes": 31
+            },
+            {
+                "name": "Classic",
+                "votes": 9
+            },
+            {
+                "name": "Modern",
+                "votes": 42
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 26
+            },
+            {
+                "name": "Summer",
+                "votes": 58
+            },
+            {
+                "name": "Spring",
+                "votes": 60
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 56
+            },
+            {
+                "name": "Sport",
+                "votes": 30
+            },
+            {
+                "name": "Leisure",
+                "votes": 56
+            },
+            {
+                "name": "Night Out",
+                "votes": 24
+            },
+            {
+                "name": "Business",
+                "votes": 41
+            },
+            {
+                "name": "Evening",
+                "votes": 27
+            }
+        ]
+    }
+}

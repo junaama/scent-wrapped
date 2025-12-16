@@ -1,0 +1,29 @@
+{
+    "name": "Alymée",
+    "brand": "Lyora",
+    "release_year": "2025",
+    "description": "A new perfume byLyorafor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a9/a99c6d_alymee-lyora_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Magnolia",
+        "Osmanthus",
+        "Pink pepper",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Oud",
+        "Passion fruit",
+        "Patchouli",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Frankincense",
+        "Musk",
+        "Myrrh",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

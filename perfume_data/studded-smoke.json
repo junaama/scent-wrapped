@@ -1,0 +1,67 @@
+{
+    "name": "Studded Smoke",
+    "brand": "Hawthorne",
+    "release_year": "2025",
+    "description": "A new perfume byHawthornefor men, released in2025. The scent is woody-leathery.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/32/32038c_studded-smoke-hawthorne_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Leathery",
+        "Smoky"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "9.3",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "3.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "name": "Sunbeds & Daydreams",
+    "brand": "twentysecondofmay",
+    "release_year": "2025",
+    "description": "A new perfume bytwentysecondofmayfor women and men, released in2025. The scent is fresh-fruity. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8f/8ff896_sunbeds-daydreams-twentysecondofmay_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Fruity",
+        "Aquatic",
+        "Sweet",
+        "Floral"
+    ],
+    "top_notes": [
+        "Pear",
+        "Solar note"
+    ],
+    "heart_notes": [
+        "Marine notes",
+        "Honey",
+        "Jasminum auriculatum"
+    ],
+    "base_notes": [
+        "Amber",
+        "Ambroxan",
+        "Cashmere wood",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "48 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "39 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "40 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "43 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "31 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 9
+            },
+            {
+                "name": "Fruity",
+                "votes": 14
+            },
+            {
+                "name": "Fresh",
+                "votes": 17
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 6
+            },
+            {
+                "name": "Aquatic",
+                "votes": 9
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 14
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 16
+            },
+            {
+                "name": "Spring",
+                "votes": 15
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 13
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 16
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

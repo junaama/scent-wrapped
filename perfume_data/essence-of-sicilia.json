@@ -1,0 +1,87 @@
+{
+    "name": "Essence of Sicilia",
+    "brand": "Brigion",
+    "release_year": "2025",
+    "description": "A new perfume byBrigionfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/74/74b494_essence-of-sicilia-brigion_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Calabrian bergamot",
+        "Sicilian lemon",
+        "Sicilian orange"
+    ],
+    "heart_notes": [
+        "Mediterranean fruits"
+    ],
+    "base_notes": [
+        "Amber",
+        "Bourbon vanilla",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "11 Ratings"
+        },
+        "durability": {
+            "score": "6.2",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "5.9",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "6.0",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

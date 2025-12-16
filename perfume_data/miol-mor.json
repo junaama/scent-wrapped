@@ -1,0 +1,31 @@
+{
+    "name": "Miol Mor",
+    "brand": "Témpt",
+    "release_year": "2025",
+    "description": "A new perfume byTémptfor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/e2/e2257c_miol-mor-tempt_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Aldehydes",
+        "Bergamot",
+        "Marine notes"
+    ],
+    "heart_notes": [
+        "Lily of the valley",
+        "Orange blossom",
+        "Rosemary"
+    ],
+    "base_notes": [
+        "Akigalawood®",
+        "Ambroxan",
+        "Oud",
+        "Patchouli"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

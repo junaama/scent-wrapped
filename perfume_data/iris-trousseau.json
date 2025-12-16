@@ -1,0 +1,125 @@
+{
+    "name": "Iris Trousseau",
+    "brand": "Danner & Flemming",
+    "release_year": "2025",
+    "description": "A new and limited perfume byDanner & Flemmingfor women and men, released in2025. The scent is powdery-woody.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/2b/2bb3bd_iris-trousseau-danner-flemming_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Powdery",
+        "Woody",
+        "Creamy",
+        "Spicy",
+        "Floral"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "197 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "163 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "163 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "144 Ratings"
+        },
+        "pricing": {
+            "score": "6.6",
+            "votes": "118 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 31
+            },
+            {
+                "name": "Sweet",
+                "votes": 24
+            },
+            {
+                "name": "Powdery",
+                "votes": 62
+            },
+            {
+                "name": "Woody",
+                "votes": 51
+            },
+            {
+                "name": "Creamy",
+                "votes": 48
+            },
+            {
+                "name": "Floral",
+                "votes": 26
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 39
+            },
+            {
+                "name": "Feminine",
+                "votes": 63
+            },
+            {
+                "name": "Classic",
+                "votes": 43
+            },
+            {
+                "name": "Modern",
+                "votes": 21
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 49
+            },
+            {
+                "name": "Fall",
+                "votes": 64
+            },
+            {
+                "name": "Summer",
+                "votes": 30
+            },
+            {
+                "name": "Spring",
+                "votes": 62
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 52
+            },
+            {
+                "name": "Leisure",
+                "votes": 46
+            },
+            {
+                "name": "Night Out",
+                "votes": 37
+            },
+            {
+                "name": "Business",
+                "votes": 49
+            },
+            {
+                "name": "Evening",
+                "votes": 44
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Macaron Doré",
+    "brand": "Maison Rochette",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Rochettefor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/7e/7ea306_macaron-dore-maison-rochette_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Liqueur",
+        "Peach",
+        "Red berries"
+    ],
+    "heart_notes": [
+        "Blackcurrant",
+        "Cinnamon",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Patchouli",
+        "Vanilla",
+        "Virginia cedar"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

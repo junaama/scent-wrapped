@@ -1,0 +1,94 @@
+{
+    "name": "Cuir Caramelo",
+    "brand": "Yzkïne",
+    "release_year": "2025",
+    "description": "A new perfume byYzkïnefor women and men, released in2025. The scent is powdery-sweet. Projection and longevity are above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/5c/5c9e78_cuir-caramelo-yzkine_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Powdery",
+        "Sweet",
+        "Smoky",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Black pepper",
+        "Pink pepper",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Leather",
+        "Sage",
+        "Smoky notes"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cashmere wood",
+        "Suede",
+        "Tonka bean absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

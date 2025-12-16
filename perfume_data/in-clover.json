@@ -1,0 +1,69 @@
+{
+    "name": "In Clover",
+    "brand": "Régime des Fleurs",
+    "release_year": "2025",
+    "description": "A new and limited perfume byRégime des Fleursfor women and men, released in2025. The scent is fresh-green. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/5d/5dc6be_in-clover-regime-des-fleurs_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Green"
+    ],
+    "top_notes": [
+        "Banana leaf",
+        "Spearmint",
+        "Basil",
+        "Violet leaf"
+    ],
+    "heart_notes": [
+        "Clover",
+        "Angelica",
+        "Galbanum",
+        "Jasmine sambac",
+        "Shizuka apple"
+    ],
+    "base_notes": [
+        "Cedar",
+        "Cucumber peel",
+        "Irish moss"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.2",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            }
+        ]
+    }
+}

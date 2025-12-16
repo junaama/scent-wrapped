@@ -1,0 +1,31 @@
+{
+    "name": "Crush Hour",
+    "brand": "The Dua Brand",
+    "release_year": "2025",
+    "description": "A new perfume byThe Dua Brandfor women and men, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/d2/d2a0b1_crush-hour-the-dua-brand_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Citrus fruits"
+    ],
+    "heart_notes": [
+        "Egyptian jasmine",
+        "Ginger",
+        "Moroccan rose",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Amber",
+        "Oakmoss",
+        "Sandalwood",
+        "Vanilla",
+        "White musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

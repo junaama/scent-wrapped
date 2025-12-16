@@ -1,0 +1,136 @@
+{
+    "name": "Petite Fleur",
+    "brand": "La Source",
+    "release_year": "2025",
+    "description": "A new perfume byLa Sourcefor women, released in2025. The scent is floral-fresh. It is being marketed byOnivo Cosmetics.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/98/986cab_petite-fleur-la-source_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Green",
+        "Aquatic",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Apple",
+        "Violet leaf",
+        "Wild berries"
+    ],
+    "heart_notes": [
+        "White blossoms",
+        "Mimosa"
+    ],
+    "base_notes": [
+        "Musk",
+        "Powdery notes",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "48 Ratings"
+        },
+        "durability": {
+            "score": "6.3",
+            "votes": "44 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "44 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "48 Ratings"
+        },
+        "pricing": {
+            "score": "8.9",
+            "votes": "38 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Green",
+                "votes": 12
+            },
+            {
+                "name": "Fresh",
+                "votes": 20
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 20
+            },
+            {
+                "name": "Aquatic",
+                "votes": 10
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 22
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 16
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 20
+            },
+            {
+                "name": "Spring",
+                "votes": 20
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 20
+            },
+            {
+                "name": "Sport",
+                "votes": 11
+            },
+            {
+                "name": "Leisure",
+                "votes": 22
+            },
+            {
+                "name": "Business",
+                "votes": 19
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

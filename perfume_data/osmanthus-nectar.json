@@ -1,0 +1,132 @@
+{
+    "name": "Osmanthus Nectar",
+    "brand": "Gucci",
+    "release_year": "2025",
+    "description": "A new perfume byGuccifor women and men, released in2025. The scent is fruity-sweet. It is being marketed byCoty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/13/1361d0-osmanthus-nectar-gucci_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Woody",
+        "Creamy",
+        "Floral"
+    ],
+    "top_notes": [
+        "Apricot",
+        "Guatemala cardamom",
+        "Italian bergamot"
+    ],
+    "heart_notes": [
+        "Osmanthus",
+        "Tea"
+    ],
+    "base_notes": [
+        "Z11™ HD",
+        "Virginia cedar",
+        "Dominican amyris"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "27 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "19 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "18 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "18 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Fruity",
+                "votes": 9
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

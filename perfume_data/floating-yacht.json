@@ -1,0 +1,23 @@
+{
+    "name": "Floating Yacht",
+    "brand": "Taylor Scents",
+    "release_year": "2025",
+    "description": "A new perfume byTaylor Scentsfor women and men, released in2025. It is being marketed byCJ Group.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/90/907f8f_floating-yacht-taylor-scents_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Fig leaf",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Blackberry",
+        "Fig",
+        "Rose"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Sandalwood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

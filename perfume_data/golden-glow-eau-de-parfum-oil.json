@@ -1,0 +1,30 @@
+{
+    "name": "Golden Glow",
+    "brand": "Sand + Fog",
+    "release_year": "2025",
+    "description": "A new perfume bySand + Fogfor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/56/56df0c_golden-glow-sand-fog_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blackcurrant",
+        "Mandarin orange",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Orange blossom",
+        "Pink pepper"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

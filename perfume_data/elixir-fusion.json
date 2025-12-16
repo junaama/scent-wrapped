@@ -1,0 +1,33 @@
+{
+    "name": "Elixir Fusion",
+    "brand": "Sapil",
+    "release_year": "2025",
+    "description": "A new perfume bySapilfor women and men, released in2025. Projection and longevity are above-average. It is being marketed bySAPG (Swiss Arabian Perfumes Group).Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9c/9ce8ac_elixir-fusion-sapil_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cinnamon",
+        "Mandarin orange",
+        "Orange blossom",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Rose",
+        "Sandalwood",
+        "Violet"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Pastry",
+        "Vanilla",
+        "White musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

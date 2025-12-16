@@ -1,0 +1,109 @@
+{
+    "name": "Concrete Lightning",
+    "brand": "D.S. & Durga",
+    "release_year": "2025",
+    "description": "A new and limited perfume byD.S. & Durgafor women and men, released in2025. The scent is synthetic-fresh.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/26/2648de_concrete-lightning-d-s-durga_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Fresh",
+        "Aquatic",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Electro-statical accord",
+        "Grass"
+    ],
+    "heart_notes": [
+        "Ozone",
+        "Rain accord"
+    ],
+    "base_notes": [
+        "Concrete",
+        "Steam"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "name": "Leather, Sandalwood, Amber",
+    "brand": "Zielinski & Rozen",
+    "release_year": "2025",
+    "description": "A new perfume byZielinski & Rozenfor women and men, released in2025. The scent is leathery-synthetic.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/35/35b9dd_leather-sandalwood-amber-zielinski-rozen_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Leathery",
+        "Synthetic",
+        "Sweet",
+        "Fruity",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Leather"
+    ],
+    "heart_notes": [
+        "Sandalwood"
+    ],
+    "base_notes": [
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "5.6",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Leathery",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

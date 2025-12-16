@@ -1,0 +1,107 @@
+{
+    "name": "Fielder's Leather",
+    "brand": "Blocki",
+    "release_year": "2025",
+    "description": "A new perfume byBlockifor women and men, released in2025. The scent is earthy-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6a/6a6a95_fielder-s-leather-blocki_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Earthy",
+        "Spicy",
+        "Leathery",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Green mandarin orange"
+    ],
+    "heart_notes": [
+        "Leather",
+        "Solar note",
+        "Wild flowers"
+    ],
+    "base_notes": [
+        "Amber",
+        "Atlas cedar",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "4.5",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "5.3",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

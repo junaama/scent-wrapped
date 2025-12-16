@@ -1,0 +1,36 @@
+{
+    "name": "Galone",
+    "brand": "Gabar",
+    "release_year": "2025",
+    "description": "A new perfume byGabarfor women and men, released in2025. The projection is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/51/518589_galone-gabar_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Nutmeg",
+        "Sesame"
+    ],
+    "heart_notes": [
+        "Smoked nuts",
+        "Caramel"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sandalwood",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "5.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "9.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

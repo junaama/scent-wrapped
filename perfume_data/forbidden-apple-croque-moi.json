@@ -1,0 +1,135 @@
+{
+    "name": "Forbidden Apple Croque Moi",
+    "brand": "Chris Collins",
+    "release_year": "2025",
+    "description": "A new perfume byChris Collinsfor women and men, released in2025. The scent is sweet-fruity.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/80/802aeb_forbidden-apple-croque-moi-chris-collins_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Gourmand",
+        "Creamy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Brown sugar",
+        "Red apple",
+        "Pink pepper",
+        "Strawberry blossom"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Fenugreek",
+        "Pomegranate",
+        "White rum"
+    ],
+    "base_notes": [
+        "Bourbon vanilla absolute",
+        "Fir balsam",
+        "Haitian vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "12 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "10 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "10 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 7
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

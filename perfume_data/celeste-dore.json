@@ -1,0 +1,119 @@
+{
+    "name": "Celeste Doré",
+    "brand": "Agar Aura",
+    "release_year": "2025",
+    "description": "A new and limited perfume byAgar Aurafor women and men, released in2025. The scent is spicy-sweet. The longevity is above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/da/dac0d8_celeste-dore-agar-aura_1200.jpg?width=240&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Sweet",
+        "Oriental",
+        "Woody",
+        "Floral"
+    ],
+    "top_notes": [
+        "Basil",
+        "Citrus notes",
+        "Lavender",
+        "Spices"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Rose",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Cambodian oud",
+        "Dry woods",
+        "Orris root",
+        "Resins"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.2",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "8.6",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "7.9",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

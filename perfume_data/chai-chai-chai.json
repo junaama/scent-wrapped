@@ -1,0 +1,25 @@
+{
+    "name": "Chai Chai Chai",
+    "brand": "Anjali Perfumes",
+    "release_year": "2025",
+    "description": "A new perfume byAnjali Perfumesfor women and men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Biscuit",
+        "Cardamom",
+        "Ginger"
+    ],
+    "heart_notes": [
+        "Black tea",
+        "Milk",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Loam",
+        "Musk",
+        "Sugar"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

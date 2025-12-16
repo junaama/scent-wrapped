@@ -1,0 +1,52 @@
+{
+    "name": "Velvet Whisper",
+    "brand": "House of Thêom",
+    "release_year": "2025",
+    "description": "A new perfume byHouse of Thêomfor women and men, released in2025. The scent is fresh-floral. It is being marketed byNew Flag GmbH.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5f/5f63e7_velvet-whisper-house-of-theom_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Floral",
+        "Synthetic",
+        "Fruity",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Mandarin orange",
+        "Bergamot zest",
+        "Rhubarb"
+    ],
+    "heart_notes": [
+        "Lily",
+        "Orange blossom",
+        "Peach"
+    ],
+    "base_notes": [
+        "Musk",
+        "Amber",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "37 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "34 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "34 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "35 Ratings"
+        },
+        "pricing": {
+            "score": "8.5",
+            "votes": "33 Ratings"
+        }
+    },
+    "community_charts": {}
+}

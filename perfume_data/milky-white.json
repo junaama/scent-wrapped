@@ -1,0 +1,87 @@
+{
+    "name": "Milky White",
+    "brand": "Dossier",
+    "release_year": "2025",
+    "description": "A new perfume byDossierfor women and men, released in2025. The scent is floral-gourmand.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/40/405e58_milky-white-dossier_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Gourmand",
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Coconut",
+        "Lily of the valley"
+    ],
+    "heart_notes": [
+        "Hazelnut",
+        "Milky notes",
+        "Jasmine",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Blond woods",
+        "Tonka bean",
+        "Vanilla",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "2.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "5.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

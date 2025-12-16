@@ -1,0 +1,150 @@
+{
+    "name": "Hypnorange",
+    "brand": "Coreterno",
+    "release_year": "2025",
+    "description": "A new perfume byCoreternofor women and men, released in2025. The scent is citrusy-spicy. It is being marketed byRiot Group.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/1f/1ff85a_hypnorange-coreterno_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Spicy",
+        "Smoky",
+        "Sweet",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Coconut",
+        "Bitter orange",
+        "Grapefruit",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Orange blossom",
+        "Tobacco"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Benzoin",
+        "Black amber",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "28 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "21 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "20 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "26 Ratings"
+        },
+        "pricing": {
+            "score": "6.2",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 6
+            },
+            {
+                "name": "Spicy",
+                "votes": 6
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Smoky",
+                "votes": 5
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

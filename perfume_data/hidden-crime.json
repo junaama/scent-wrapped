@@ -1,0 +1,78 @@
+{
+    "name": "Hidden Crime",
+    "brand": "Monkoku",
+    "release_year": "2025",
+    "description": "A new perfume byMonkokufor women and men, released in2025. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b8/b833bf_hidden-crime-monkoku_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Mandarin orange",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Osmanthus absolute",
+        "Violet"
+    ],
+    "base_notes": [
+        "Akigalawood®",
+        "Immortelle"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.7",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "8.8",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "8.4",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

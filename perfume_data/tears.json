@@ -1,0 +1,31 @@
+{
+    "name": "Tears",
+    "brand": "Kitschy",
+    "release_year": "2025",
+    "description": "A new perfume byKitschyfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/cc/ccf7d0_tears-kitschy_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Amber",
+        "Floral notes",
+        "Woody notes"
+    ],
+    "heart_notes": [
+        "Coconut",
+        "Patchouli",
+        "Spicy notes"
+    ],
+    "base_notes": [
+        "Creamy notes",
+        "Musk",
+        "Powder",
+        "Velvet"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

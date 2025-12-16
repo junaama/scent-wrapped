@@ -1,0 +1,49 @@
+{
+    "name": "Was",
+    "brand": "Neandertal",
+    "release_year": "2025",
+    "description": "A new and limited perfume byNeandertalfor women and men, released in2025.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/99/9963da_was-neandertal_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Cardamom",
+        "Maté",
+        "Nutmeg"
+    ],
+    "heart_notes": [
+        "Cistus",
+        "Diviniris®",
+        "Geranium",
+        "Clove"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Sandalwood",
+        "Styrax",
+        "Vetiver",
+        "Amber",
+        "Cedarwood",
+        "Musk",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {}
+}

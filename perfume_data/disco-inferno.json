@@ -1,0 +1,34 @@
+{
+    "name": "Disco Inferno",
+    "brand": "Maison Matine",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Matinefor women and men, released in2025. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c3/c3db17_disco-inferno-maison-matine_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Peach blossom",
+        "Pear blossom",
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Frangipani",
+        "Orange blossom",
+        "Rose"
+    ],
+    "base_notes": [
+        "Cashmere wood",
+        "Indonesian patchouli",
+        "Oud Assafi™"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

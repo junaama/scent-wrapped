@@ -1,0 +1,133 @@
+{
+    "name": "Midnight Raspberry",
+    "brand": "Day Three Fragrances",
+    "release_year": "2025",
+    "description": "A new perfume byDay Three Fragrancesfor women and men, released in2025. The scent is fruity-resinous. The longevity is above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/43/437479_midnight-raspberry-day-three-fragrances_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Resinous",
+        "Sweet",
+        "Spicy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Brazilian pink pepper",
+        "Coriander"
+    ],
+    "heart_notes": [
+        "Patchouli",
+        "Raspberry",
+        "Vietnamese oud"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Cedar",
+        "Musk",
+        "Saffron"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "9.0",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

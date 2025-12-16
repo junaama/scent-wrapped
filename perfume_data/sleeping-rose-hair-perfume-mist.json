@@ -1,0 +1,25 @@
+{
+    "name": "Sleeping Rose",
+    "brand": "Sennok",
+    "release_year": "2025",
+    "description": "A new perfume bySennokfor women and men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Black pepper",
+        "Peach",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Lily",
+        "Orchid",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Woods"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

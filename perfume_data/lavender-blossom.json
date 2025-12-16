@@ -1,0 +1,22 @@
+{
+    "name": "Lavender Blossom",
+    "brand": "Arlyn",
+    "release_year": "2025",
+    "description": "A new perfume byArlynfor women, released in2025. It is being marketed byBellevue Parfums. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/a1/a160d7_lavender-blossom-arlyn_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Lavender"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,140 @@
+{
+    "name": "Kirkè Overdose",
+    "brand": "Tiziana Terenzi",
+    "release_year": "2025",
+    "description": "A new perfume byTiziana Terenzifor women and men, released in2025. The scent is sweet-fruity. Projection and longevity are above-average. It is being marketed byCereria Terenzi Evelino.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ba/ba2db8_kirke-overdose-tiziana-terenzi_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Creamy",
+        "Floral",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Brazilian passion fruit",
+        "Italian peach",
+        "Bulgarian rose",
+        "Italian raspberry"
+    ],
+    "heart_notes": [
+        "Italian blackcurrant",
+        "Japanese gardenia",
+        "Indian jasmine sambac",
+        "Sand",
+        "Alpine lily of the valley",
+        "West Siberian lily of the valley"
+    ],
+    "base_notes": [
+        "Italian heliotrope",
+        "Musk",
+        "Australian sandalwood",
+        "Bourbon vanilla",
+        "Indian patchouli",
+        "Ambergris"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "62 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "55 Ratings"
+        },
+        "sillage": {
+            "score": "8.1",
+            "votes": "54 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "67 Ratings"
+        },
+        "pricing": {
+            "score": "6.0",
+            "votes": "47 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 16
+            },
+            {
+                "name": "Fruity",
+                "votes": 16
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 10
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 15
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 11
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 12
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 10
+            },
+            {
+                "name": "Night Out",
+                "votes": 11
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 11
+            }
+        ]
+    }
+}

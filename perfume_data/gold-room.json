@@ -1,0 +1,155 @@
+{
+    "name": "Gold Room",
+    "brand": "Grauton Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byGrauton Parfumsfor women and men, released in2025. The scent is spicy-woody. The longevity is above-average. The production was apparently discontinued.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/47/47bc5c_gold-room-grauton-parfums_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Citrus",
+        "Sweet",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Rum CO2",
+        "Bitter orange",
+        "Cardamom",
+        "Cinnamon",
+        "Lemon",
+        "Bergamot",
+        "Lime",
+        "Nutmeg",
+        "Davana",
+        "Geranium",
+        "Ginger",
+        "Neroli"
+    ],
+    "heart_notes": [
+        "Atlas cedar absolute",
+        "Texas cedar",
+        "Tobacco absolute",
+        "Fir balsam absolute",
+        "Virginia cedar"
+    ],
+    "base_notes": [
+        "Bourbon vanilla absolute",
+        "Tonka bean absolute",
+        "Cypriol",
+        "Patchouli",
+        "Dark chocolate",
+        "Haitian vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "244 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "228 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "227 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "200 Ratings"
+        },
+        "pricing": {
+            "score": "8.0",
+            "votes": "184 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 56
+            },
+            {
+                "name": "Spicy",
+                "votes": 67
+            },
+            {
+                "name": "Sweet",
+                "votes": 53
+            },
+            {
+                "name": "Smoky",
+                "votes": 38
+            },
+            {
+                "name": "Woody",
+                "votes": 60
+            },
+            {
+                "name": "Resinous",
+                "votes": 25
+            },
+            {
+                "name": "Gourmand",
+                "votes": 17
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 68
+            },
+            {
+                "name": "Feminine",
+                "votes": 24
+            },
+            {
+                "name": "Classic",
+                "votes": 24
+            },
+            {
+                "name": "Modern",
+                "votes": 41
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 68
+            },
+            {
+                "name": "Fall",
+                "votes": 66
+            },
+            {
+                "name": "Summer",
+                "votes": 9
+            },
+            {
+                "name": "Spring",
+                "votes": 39
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 18
+            },
+            {
+                "name": "Leisure",
+                "votes": 45
+            },
+            {
+                "name": "Night Out",
+                "votes": 58
+            },
+            {
+                "name": "Business",
+                "votes": 23
+            },
+            {
+                "name": "Evening",
+                "votes": 66
+            }
+        ]
+    }
+}

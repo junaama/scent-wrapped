@@ -1,0 +1,72 @@
+{
+    "name": "Notes Classics",
+    "brand": "Fragrance World",
+    "release_year": "2025",
+    "description": "A new perfume byFragrance Worldfor women and men, released in2025. The scent is fruity-leathery. It is being marketed byFragrance World Trading LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8e/8e7919_notes-classics-fragrance-world_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Leathery",
+        "Spicy",
+        "Sweet",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Cherry",
+        "Bergamot",
+        "Blood orange",
+        "Cumin"
+    ],
+    "heart_notes": [
+        "Davana",
+        "Osmanthus"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Leather",
+        "Patchouli",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            }
+        ]
+    }
+}

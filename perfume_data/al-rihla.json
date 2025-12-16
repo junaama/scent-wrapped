@@ -1,0 +1,124 @@
+{
+    "name": "Al Rihla",
+    "brand": "Farmacia SS. Annunziata",
+    "release_year": "2025",
+    "description": "A new and limited perfume byFarmacia SS. Annunziatafor women and men, released in2025. The scent is spicy-woody. Projection and longevity are above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/1f/1f8b7d_al-rihla-farmacia-ss-annunziata_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Fruity",
+        "Earthy",
+        "Floral"
+    ],
+    "top_notes": [
+        "Lily of the valley",
+        "Orange blossom",
+        "Iris",
+        "Galbanum",
+        "Plum"
+    ],
+    "heart_notes": [
+        "Osmanthus",
+        "Rose",
+        "Tuberose",
+        "Ylang-ylang",
+        "Labdanum",
+        "Mango"
+    ],
+    "base_notes": [
+        "Honey",
+        "Vetiver",
+        "Cambodian oud",
+        "Date",
+        "Patchouli",
+        "Saffron",
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "13 Ratings"
+        },
+        "durability": {
+            "score": "8.7",
+            "votes": "10 Ratings"
+        },
+        "sillage": {
+            "score": "8.3",
+            "votes": "10 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

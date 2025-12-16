@@ -1,0 +1,141 @@
+{
+    "name": "Matador",
+    "brand": "Ramón Monegal",
+    "release_year": "2025",
+    "description": "A new perfume byRamón Monegalfor women and men, released in2025. The scent is sweet-synthetic.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d5/d53a61_matador-ramon-monegal_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Synthetic",
+        "Floral",
+        "Creamy",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Cumin",
+        "Frankincense",
+        "Rosewood"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Magnolia",
+        "Rose"
+    ],
+    "base_notes": [
+        "Coconut",
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "4.9",
+            "votes": "15 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "13 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "6.4",
+            "votes": "18 Ratings"
+        },
+        "pricing": {
+            "score": "4.0",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

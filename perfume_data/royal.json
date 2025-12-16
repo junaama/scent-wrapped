@@ -1,0 +1,29 @@
+{
+    "name": "Royal",
+    "brand": "Aoera",
+    "release_year": "2025",
+    "description": "A new perfume byAoerafor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/e5/e5f10a_royal-aoera_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blackcurrant",
+        "Passion fruit",
+        "Peach",
+        "Pear",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Heliotrope",
+        "Lily of the valley"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Patchouli",
+        "Sandalwood",
+        "Vanilla",
+        "Woody notes"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

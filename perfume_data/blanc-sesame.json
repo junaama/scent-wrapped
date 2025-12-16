@@ -1,0 +1,138 @@
+{
+    "name": "Blanc Sesame",
+    "brand": "Majouri",
+    "release_year": "2025",
+    "description": "A new perfume byMajourifor women and men, released in2025. The scent is sweet-creamy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3f/3fb2df_blanc-sesame-majouri_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Creamy",
+        "Floral",
+        "Powdery",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Roasted sesame absolute",
+        "Italian mandarin orange",
+        "Neroli"
+    ],
+    "heart_notes": [
+        "Orange blossom",
+        "Coffee",
+        "Rose",
+        "Tonka bean absolute"
+    ],
+    "base_notes": [
+        "Dry woods",
+        "Cream",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "19 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "17 Ratings"
+        },
+        "sillage": {
+            "score": "6.2",
+            "votes": "17 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "16 Ratings"
+        },
+        "pricing": {
+            "score": "7.5",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 10
+            },
+            {
+                "name": "Powdery",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 8
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 11
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 9
+            },
+            {
+                "name": "Fall",
+                "votes": 11
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 10
+            },
+            {
+                "name": "Leisure",
+                "votes": 11
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 10
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

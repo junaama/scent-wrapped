@@ -1,0 +1,34 @@
+{
+    "name": "Poseidon",
+    "brand": "Yasmin Beauty",
+    "release_year": "2025",
+    "description": "A new perfume byYasmin Beautyfor men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/16/1618dd_poseidon-yasmin-beauty_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Elemi resin",
+        "Grapefruit",
+        "Marine notes",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Egyptian geranium",
+        "Guatemala cardamom",
+        "Haitian vetiver",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Patchouli",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

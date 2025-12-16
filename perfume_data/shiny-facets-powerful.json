@@ -1,0 +1,129 @@
+{
+    "name": "Shiny Facets Powerful",
+    "brand": "Twenty4Tim",
+    "release_year": "2025",
+    "description": "A new perfume byTwenty4Timfor women and men, released in2025. The scent is sweet-fruity. The projection is above-average. It is being marketed byParfumlovers / ars Parfum.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Gourmand",
+        "Fresh",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Almond",
+        "Brown sugar",
+        "Lingonberry"
+    ],
+    "heart_notes": [
+        "Black cherry",
+        "Rum",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Amber",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "5.7",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "8.5",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

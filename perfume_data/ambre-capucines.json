@@ -1,0 +1,153 @@
+{
+    "name": "Ambre Capucines",
+    "brand": "Maître Parfumeur et Gantier",
+    "release_year": "2025",
+    "description": "A new perfume byMaître Parfumeur et Gantierfor women and men, released in2025. The scent is resinous-powdery. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8f/8f90fe_ambre-capucines-maitre-parfumeur-et-gantier_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Powdery",
+        "Spicy",
+        "Sweet",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Cistus",
+        "Coriander",
+        "Orange",
+        "Thyme"
+    ],
+    "heart_notes": [
+        "Tonka bean",
+        "Vanilla",
+        "Geranium",
+        "Heliotrope",
+        "Patchouli"
+    ],
+    "base_notes": [
+        "Peru balsam",
+        "Musk",
+        "Myrrh",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "20 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "18 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "18 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "17 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Spicy",
+                "votes": 9
+            },
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Powdery",
+                "votes": 9
+            },
+            {
+                "name": "Oriental",
+                "votes": 6
+            },
+            {
+                "name": "Resinous",
+                "votes": 11
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Earthy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 9
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Classic",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 11
+            },
+            {
+                "name": "Fall",
+                "votes": 11
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Leisure",
+                "votes": 11
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 10
+            }
+        ]
+    }
+}

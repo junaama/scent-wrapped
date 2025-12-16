@@ -1,0 +1,49 @@
+{
+    "name": "Rosa Animalica II",
+    "brand": "Elixir Attar",
+    "release_year": "2025",
+    "description": "A new perfume byElixir Attarfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/09/09c319_rosa-animalica-ii-elixir-attar_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Calabrian bergamot",
+        "Cognac",
+        "Tarragon"
+    ],
+    "heart_notes": [
+        "Bourbon rose",
+        "Bulgarian rose",
+        "Egyptian rose",
+        "English rose",
+        "French white rose",
+        "Honey",
+        "Indian rose",
+        "Israeli rose",
+        "Jasmine",
+        "Lily of the valley",
+        "May rose",
+        "Narcissus",
+        "Rose CO2",
+        "Taif rose",
+        "Tunisian rose"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Civet",
+        "Clove",
+        "Deer musk",
+        "Iris",
+        "Patchouli",
+        "Powder",
+        "Sandalwood",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

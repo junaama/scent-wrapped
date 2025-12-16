@@ -1,0 +1,117 @@
+{
+    "name": "W",
+    "brand": "Arabian Oud",
+    "release_year": "2025",
+    "description": "A new perfume byArabian Oudfor men, released in2025. The scent is sweet-woody.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4b/4b5aa8_w-arabian-oud_1200.jpg?width=240&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Woody",
+        "Spicy",
+        "Fresh",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Nutmeg"
+    ],
+    "heart_notes": [
+        "Cashmeran",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Oakmoss",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "12 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

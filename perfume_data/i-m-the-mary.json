@@ -1,0 +1,93 @@
+{
+    "name": "I'm the Mary",
+    "brand": "Zomething Strange",
+    "release_year": "2025",
+    "description": "A new and limited perfume byZomething Strangefor women and men, released in2025. The scent is spicy-woody. The longevity is above-average.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/fe/fe48d2_i-m-the-mary-zomething-strange_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Gourmand",
+        "Floral",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Lily",
+        "Nutmeg",
+        "Valencia orange"
+    ],
+    "heart_notes": [
+        "Coconut cream",
+        "Shea butter",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Honey",
+        "Vanilla orchid",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

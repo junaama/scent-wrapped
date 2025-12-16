@@ -1,0 +1,140 @@
+{
+    "name": "Brezza Leggera",
+    "brand": "Filippo Sorcinelli",
+    "release_year": "2025",
+    "description": "A new perfume byFilippo Sorcinellifor women and men, released in2025. The scent is spicy-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8a/8a2478_brezza-leggera-filippo-sorcinelli_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Fresh",
+        "Aquatic",
+        "Resinous",
+        "Woody"
+    ],
+    "top_notes": [
+        "Air accord",
+        "Pine",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Artemisia",
+        "Mediterranean everlasting flower"
+    ],
+    "base_notes": [
+        "Labdanum",
+        "Musk",
+        "Myrrh"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "22 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "19 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "19 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "20 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 8
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Resinous",
+                "votes": 6
+            },
+            {
+                "name": "Green",
+                "votes": 5
+            },
+            {
+                "name": "Fresh",
+                "votes": 8
+            },
+            {
+                "name": "Aquatic",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 10
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 9
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 10
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

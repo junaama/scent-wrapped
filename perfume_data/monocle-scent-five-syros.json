@@ -1,0 +1,143 @@
+{
+    "name": "Monocle Scent Five: Syros",
+    "brand": "Comme des Garçons",
+    "release_year": "2025",
+    "description": "A new perfume byComme des Garçonsfor women and men, released in2025. The scent is spicy-woody. It is being marketed byPuig.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c3/c3ea9d_monocle-scent-five-syros-comme-des-garcons_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Green",
+        "Earthy",
+        "Floral"
+    ],
+    "top_notes": [
+        "Rosemary",
+        "Spanish white thyme Orpur®",
+        "Turmeric"
+    ],
+    "heart_notes": [
+        "Everlasting flower absolute",
+        "Vetiver CO2"
+    ],
+    "base_notes": [
+        "Indonesian patchouli",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "17 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "15 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "18 Ratings"
+        },
+        "pricing": {
+            "score": "6.0",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 10
+            },
+            {
+                "name": "Smoky",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 8
+            },
+            {
+                "name": "Green",
+                "votes": 7
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 9
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 8
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 9
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 10
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

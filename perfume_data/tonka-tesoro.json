@@ -1,0 +1,45 @@
+{
+    "name": "Tonka Tesoro",
+    "brand": "Amoros",
+    "release_year": "2025",
+    "description": "A new perfume byAmorosfor women and men, released in2025. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/24/24e408_tonka-tesoro-amoros_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Austrian clary sage",
+        "Saffron",
+        "Sicilian bergamot"
+    ],
+    "heart_notes": [
+        "Egyptian geranium",
+        "Jasmine",
+        "Raspberry"
+    ],
+    "base_notes": [
+        "Brazilian tonka bean absolute",
+        "Indonesian patchouli",
+        "Mysore sandalwood",
+        "Vanilla",
+        "Virginia cedar",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "8.3",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

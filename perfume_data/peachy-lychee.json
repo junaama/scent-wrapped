@@ -1,0 +1,55 @@
+{
+    "name": "Peachy Lychee",
+    "brand": "Touchland",
+    "release_year": "2025",
+    "description": "A new perfume byTouchlandfor women and men, released in2025. The scent is fruity.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/90/909726_peachy-lychee-touchland_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity"
+    ],
+    "top_notes": [
+        "Lychee",
+        "Wild berries"
+    ],
+    "heart_notes": [
+        "Musk",
+        "Orchid",
+        "Sugar"
+    ],
+    "base_notes": [
+        "Amber",
+        "Peach"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Fruity",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

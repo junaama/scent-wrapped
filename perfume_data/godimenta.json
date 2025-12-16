@@ -1,0 +1,153 @@
+{
+    "name": "Godimenta",
+    "brand": "Coreterno",
+    "release_year": "2025",
+    "description": "A new perfume byCoreternofor women and men, released in2025. The scent is fresh-green. The longevity is above-average. It is being marketed byRiot Group.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7e/7ebc7f_godimenta-coreterno_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Green",
+        "Fruity",
+        "Woody",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Peppermint",
+        "Bergamot",
+        "Lemon leaf",
+        "Ginger"
+    ],
+    "heart_notes": [
+        "Metallic notes",
+        "Raspberry leaf",
+        "Jasmine",
+        "Rose",
+        "Silver fir balsam"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Musk",
+        "Woods",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "23 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "21 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "20 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "29 Ratings"
+        },
+        "pricing": {
+            "score": "7.4",
+            "votes": "16 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Green",
+                "votes": 8
+            },
+            {
+                "name": "Fruity",
+                "votes": 6
+            },
+            {
+                "name": "Fresh",
+                "votes": 10
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Summer",
+                "votes": 9
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

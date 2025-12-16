@@ -1,0 +1,151 @@
+{
+    "name": "Dentro",
+    "brand": "Jijide",
+    "release_year": "2025",
+    "description": "A new perfume byJijidefor women and men, released in2025. The scent is smoky-animal. The longevity is above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/94/94f222_dentro-jijide_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Animal",
+        "Green",
+        "Spicy",
+        "Leathery"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Coffee",
+        "Fig leaf",
+        "Mocha",
+        "White fir"
+    ],
+    "heart_notes": [
+        "Honey",
+        "Tobacco",
+        "Cocoa",
+        "Fig",
+        "Osmanthus"
+    ],
+    "base_notes": [
+        "Suede",
+        "Vetiver",
+        "Benzoin",
+        "Frankincense",
+        "Oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.0",
+            "votes": "13 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "6.5",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 3
+            },
+            {
+                "name": "Leathery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fougère",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            },
+            {
+                "name": "Animal",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

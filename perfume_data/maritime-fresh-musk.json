@@ -1,0 +1,148 @@
+{
+    "name": "Maritime Fresh Musk",
+    "brand": "Duftanker MGO Duftmanufaktur",
+    "release_year": "2025",
+    "description": "A new perfume byDuftanker MGO Duftmanufakturfor women and men, released in2025. The scent is aquatic-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/79/79c732_maritime-fresh-musk-duftanker-mgo-duftmanufaktur_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Aquatic",
+        "Fresh",
+        "Spicy",
+        "Woody",
+        "Floral"
+    ],
+    "top_notes": [
+        "Violet leaf",
+        "Bergamot",
+        "Blackcurrant"
+    ],
+    "heart_notes": [
+        "Marine notes",
+        "Iris"
+    ],
+    "base_notes": [
+        "Musk",
+        "Cedarwood",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            },
+            {
+                "name": "Aquatic",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

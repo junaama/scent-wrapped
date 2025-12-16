@@ -1,0 +1,92 @@
+{
+    "name": "Rotate",
+    "brand": "Caia",
+    "release_year": "2025",
+    "description": "A new and limited perfume byCaiafor women, released in2025. The scent is citrusy-spicy. Projection and longevity are above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/71/713e4e_rotate-caia_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Spicy",
+        "Fresh",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Grapefruit",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Elemi resin",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Leather",
+        "Tobacco"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "4.8",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            }
+        ]
+    }
+}

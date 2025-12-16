@@ -1,0 +1,120 @@
+{
+    "name": "Minoas",
+    "brand": "Lyora",
+    "release_year": "2025",
+    "description": "A new perfume byLyorafor men, released in2025. The scent is sweet-powdery.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e5/e56e36_minoas-lyora_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Powdery",
+        "Woody",
+        "Fruity",
+        "Floral"
+    ],
+    "top_notes": [
+        "Bulgarian rose",
+        "Plum"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Cashmere wood",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "15 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "14 Ratings"
+        },
+        "sillage": {
+            "score": "7.9",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "14 Ratings"
+        },
+        "pricing": {
+            "score": "7.6",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Scarlett Lady",
+    "brand": "Statik Olfactive",
+    "release_year": "2025",
+    "description": "A new perfume byStatik Olfactivefor women, released in2025. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/1e/1e6bb9_scarlett-lady-statik-olfactive_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Marshmallow",
+        "May rose",
+        "Rose",
+        "Tuberose"
+    ],
+    "heart_notes": [
+        "Gin",
+        "Iris",
+        "Suede",
+        "Tobacco"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Musk",
+        "Sagebrush"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,129 @@
+{
+    "name": "Barénia",
+    "brand": "Hermès",
+    "release_year": "2025",
+    "description": "A new perfume byHermèsfor women, released in2025. The scent is woody-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/70/703bc3_barenia-eau-de-parfum-intense-hermes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Spicy",
+        "Leathery",
+        "Floral",
+        "Fruity"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "75 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "61 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "61 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "50 Ratings"
+        },
+        "pricing": {
+            "score": "7.3",
+            "votes": "44 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 18
+            },
+            {
+                "name": "Smoky",
+                "votes": 6
+            },
+            {
+                "name": "Leathery",
+                "votes": 18
+            },
+            {
+                "name": "Woody",
+                "votes": 23
+            },
+            {
+                "name": "Fruity",
+                "votes": 13
+            },
+            {
+                "name": "Chypre",
+                "votes": 12
+            },
+            {
+                "name": "Floral",
+                "votes": 17
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 11
+            },
+            {
+                "name": "Feminine",
+                "votes": 27
+            },
+            {
+                "name": "Classic",
+                "votes": 14
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 21
+            },
+            {
+                "name": "Fall",
+                "votes": 25
+            },
+            {
+                "name": "Summer",
+                "votes": 9
+            },
+            {
+                "name": "Spring",
+                "votes": 17
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 20
+            },
+            {
+                "name": "Leisure",
+                "votes": 19
+            },
+            {
+                "name": "Night Out",
+                "votes": 19
+            },
+            {
+                "name": "Business",
+                "votes": 14
+            },
+            {
+                "name": "Evening",
+                "votes": 20
+            }
+        ]
+    }
+}

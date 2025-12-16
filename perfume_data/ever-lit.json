@@ -1,0 +1,145 @@
+{
+    "name": "Ever Lit",
+    "brand": "Ojar",
+    "release_year": "2025",
+    "description": "A new perfume byOjarfor women and men, released in2025. The scent is woody-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9e/9e9026_ever-lit-ojar_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Fresh",
+        "Spicy",
+        "Green",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Apple",
+        "Cypress",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Marine notes",
+        "Sandalwood",
+        "Cistus"
+    ],
+    "base_notes": [
+        "Frankincense",
+        "Akigalawood®",
+        "Benzoin"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "46 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "38 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "37 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "36 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "31 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 10
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 5
+            },
+            {
+                "name": "Fresh",
+                "votes": 8
+            },
+            {
+                "name": "Aquatic",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 11
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 10
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 9
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

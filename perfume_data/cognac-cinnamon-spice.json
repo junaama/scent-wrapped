@@ -1,0 +1,87 @@
+{
+    "name": "Cognac & Cinnamon Spice",
+    "brand": "Monkoku",
+    "release_year": "2025",
+    "description": "A new perfume byMonkokufor women and men, released in2025. The scent is gourmand. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/65/658991_cognac-cinnamon-spice-monkoku_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Cognac"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Oak wood",
+        "Tonka bean absolute"
+    ],
+    "base_notes": [
+        "Praliné",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "11 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "10 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "10 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "13 Ratings"
+        },
+        "pricing": {
+            "score": "9.0",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Gourmand",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Carthage",
+    "brand": "Note Lab",
+    "release_year": "2025",
+    "description": "A new perfume byNote Labfor women and men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Clary sage",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Honey",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Musk",
+        "Oud",
+        "Tonka bean",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

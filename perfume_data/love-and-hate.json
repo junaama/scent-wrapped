@@ -1,0 +1,31 @@
+{
+    "name": "Love and Hate",
+    "brand": "CGS",
+    "release_year": "2025",
+    "description": "A new perfume byCGSfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e4/e4a894_love-and-hate-cgs_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cardamom",
+        "Coriander",
+        "Pine",
+        "Tea tree"
+    ],
+    "heart_notes": [
+        "Artemisia",
+        "Cypress",
+        "Geranium",
+        "Jasmine",
+        "Rose"
+    ],
+    "base_notes": [
+        "Frankincense",
+        "Musk",
+        "Oud",
+        "Patchouli",
+        "Rum",
+        "Sage"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

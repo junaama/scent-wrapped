@@ -1,0 +1,129 @@
+{
+    "name": "Sun-Kissed Island",
+    "brand": "Zaharoff",
+    "release_year": "2025",
+    "description": "A new and limited perfume byZaharofffor women and men, released in2025.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/32/32476d_sun-kissed-island-zaharoff_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Green",
+        "Sweet",
+        "Citrus",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Ginger",
+        "Lime",
+        "Mint",
+        "Red kelp"
+    ],
+    "heart_notes": [
+        "Grasse rose",
+        "Jasmine sambac",
+        "Tequila",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Amber",
+        "Blond woods",
+        "Coconut milk",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "14 Ratings"
+        },
+        "durability": {
+            "score": "6.4",
+            "votes": "10 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "11 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "12 Ratings"
+        },
+        "pricing": {
+            "score": "6.6",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Chypre",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            }
+        ]
+    }
+}

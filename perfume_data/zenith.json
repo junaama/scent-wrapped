@@ -1,0 +1,39 @@
+{
+    "name": "Zenith",
+    "brand": "Vanitas Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byVanitas Parfumsfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2d/2dd837_zenith-vanitas-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Apple",
+        "Calabrian bergamot",
+        "Ivy",
+        "Mandarin petitgrain",
+        "Pineapple",
+        "Pink pepper CO2",
+        "Sicilian green mandarin orange",
+        "Sicilian tangerine"
+    ],
+    "heart_notes": [
+        "Clary sage absolute",
+        "Jasmine sambac absolute",
+        "May rose absolute",
+        "Turkish rose absolute",
+        "Virginia cedar wood"
+    ],
+    "base_notes": [
+        "Amber",
+        "Ambergris",
+        "Amyris",
+        "Frankincense",
+        "Leather",
+        "Musk",
+        "Oakmoss absolute",
+        "Patchouli",
+        "Sandalwood",
+        "Tobacco absolute"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

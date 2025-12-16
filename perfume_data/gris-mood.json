@@ -1,0 +1,51 @@
+{
+    "name": "Gris Mood",
+    "brand": "The Glass Atelier",
+    "release_year": "2025",
+    "description": "A new perfume byThe Glass Atelierfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/77/77fe1d_gris-mood-the-glass-atelier_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Honey",
+        "Jasmine sambac",
+        "Oolong tea",
+        "Violet"
+    ],
+    "heart_notes": [
+        "Ambergris",
+        "Damask rose",
+        "Frankincense",
+        "Iris",
+        "Jasminum grandiflorum",
+        "Kashmiri musk",
+        "Magnolia",
+        "Mimosa",
+        "Orris butter",
+        "Osmanthus"
+    ],
+    "base_notes": [
+        "Castoreum",
+        "Civet",
+        "Frankincense",
+        "Myrrh"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

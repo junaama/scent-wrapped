@@ -1,0 +1,145 @@
+{
+    "name": "Ateeq",
+    "brand": "Nusuk",
+    "release_year": "2025",
+    "description": "A new perfume byNusukfor women and men, released in2025. The scent is sweet-spicy. Projection and longevity are above-average. It is being marketed byAl Fakhar Perfumes and Cosmetics Trading.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ca/cae1c3_ateeq-nusuk_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Creamy",
+        "Gourmand",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Amber",
+        "Cinnamon",
+        "Honey",
+        "Lime",
+        "Grapefruit"
+    ],
+    "heart_notes": [
+        "Tobacco",
+        "Jasmine",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Tonka bean",
+        "Vanilla orchid",
+        "Coumarin",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.1",
+            "votes": "111 Ratings"
+        },
+        "durability": {
+            "score": "8.8",
+            "votes": "105 Ratings"
+        },
+        "sillage": {
+            "score": "8.7",
+            "votes": "104 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "103 Ratings"
+        },
+        "pricing": {
+            "score": "9.6",
+            "votes": "102 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 9
+            },
+            {
+                "name": "Spicy",
+                "votes": 15
+            },
+            {
+                "name": "Sweet",
+                "votes": 21
+            },
+            {
+                "name": "Smoky",
+                "votes": 4
+            },
+            {
+                "name": "Oriental",
+                "votes": 7
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Gourmand",
+                "votes": 13
+            },
+            {
+                "name": "Creamy",
+                "votes": 14
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 17
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 13
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 19
+            },
+            {
+                "name": "Fall",
+                "votes": 20
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 18
+            },
+            {
+                "name": "Business",
+                "votes": 10
+            },
+            {
+                "name": "Evening",
+                "votes": 17
+            }
+        ]
+    }
+}

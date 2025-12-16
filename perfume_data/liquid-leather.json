@@ -1,0 +1,56 @@
+{
+    "name": "Liquid Leather",
+    "brand": "Barzakh",
+    "release_year": "2025",
+    "description": "A new perfume byBarzakhfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/dd/dd5856_liquid-leather-barzakh_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Aldehydes",
+        "Blood orange",
+        "Lime",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Gaiac wood",
+        "Indian rose",
+        "Jasmine sambac",
+        "Nutmeg",
+        "Spices",
+        "Violet",
+        "Virginia cedar wood"
+    ],
+    "base_notes": [
+        "Amber",
+        "Ambergris",
+        "Castoreum",
+        "Civet",
+        "Hyraceum",
+        "Leather",
+        "Malayan oud",
+        "Oakmoss",
+        "Patchouli",
+        "Siberian musk",
+        "Thai oud",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

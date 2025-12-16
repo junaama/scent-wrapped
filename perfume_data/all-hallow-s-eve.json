@@ -1,0 +1,124 @@
+{
+    "name": "All Hallow's Eve",
+    "brand": "Dark Tales",
+    "release_year": "2025",
+    "description": "A new and limited perfume byDark Talesfor women and men, released in2025. The scent is smoky-sweet.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/e2/e214f1_all-hallow-s-eve-dark-tales_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Sweet",
+        "Gourmand",
+        "Spicy",
+        "Earthy"
+    ],
+    "top_notes": [
+        "Burnt pumpkin",
+        "Air accord",
+        "Bitter orange",
+        "Candied lemon peel",
+        "Citrus zest",
+        "Clove"
+    ],
+    "heart_notes": [
+        "Liquorice",
+        "Caramelized apple",
+        "Candle wax",
+        "Elemi resin",
+        "Frankincense",
+        "Myrrh",
+        "Patchouli",
+        "Smoke"
+    ],
+    "base_notes": [
+        "Ash",
+        "Benzoin",
+        "Cedar",
+        "Charred wood",
+        "Damp soil",
+        "Gaiac wood",
+        "Labdanum",
+        "Leather",
+        "Musk",
+        "Oak wood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "6.2",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

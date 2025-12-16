@@ -1,0 +1,94 @@
+{
+    "name": "Iris Cashmere",
+    "brand": "Mango",
+    "release_year": "2025",
+    "description": "A new perfume byMangofor women, released in2025. The scent is fresh-green.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e9/e9447c_iris-cashmere-mango_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Green",
+        "Floral",
+        "Aquatic"
+    ],
+    "top_notes": [
+        "Iris",
+        "Juniper"
+    ],
+    "heart_notes": [
+        "Aquatic notes",
+        "Lily"
+    ],
+    "base_notes": [
+        "Amber",
+        "Ambergris",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            }
+        ]
+    }
+}

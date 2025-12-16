@@ -1,0 +1,30 @@
+{
+    "name": "Nohr",
+    "brand": "The O.B.A.",
+    "release_year": "2025",
+    "description": "A new perfume byThe O.B.A.for women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/df/dffe94_nohr-the-o-b-a_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cocoa",
+        "Iris",
+        "Suede"
+    ],
+    "heart_notes": [
+        "Clary sage",
+        "Cotton candy",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Gaiac wood",
+        "Oud",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

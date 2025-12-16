@@ -1,0 +1,36 @@
+{
+    "name": "Sealed Nectar",
+    "brand": "Sulaym",
+    "release_year": "2025",
+    "description": "A new perfume bySulaymfor women and men, released in2025. The scent is spicy-powdery. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4d/4d0be9_sealed-nectar-sulaym_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Powdery",
+        "Oriental",
+        "Woody",
+        "Fruity"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "9.0",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "8.8",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {}
+}

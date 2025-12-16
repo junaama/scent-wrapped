@@ -1,0 +1,97 @@
+{
+    "name": "Mrs. Smith",
+    "brand": "Phlur",
+    "release_year": "2025",
+    "description": "A new perfume byPhlurfor women and men, released in2025. The scent is green-synthetic. The perfume is vegan according to the manufacturer.PronunciationCompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/e2/e2ed8a_mrs-smith-phlur_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Synthetic",
+        "Fruity",
+        "Fresh",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Granny Smith apple",
+        "Watermelon",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Dragon fruit",
+        "Apple blossom",
+        "Cripps Pink apple",
+        "Violet"
+    ],
+    "base_notes": [
+        "Musk",
+        "Praliné"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "6.3",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "5.8",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

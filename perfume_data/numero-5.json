@@ -1,0 +1,17 @@
+{
+    "name": "Numero 5",
+    "brand": "Posh",
+    "release_year": "2025",
+    "description": "A new perfume byPoshfor women and men, released in2025. The scent is spicy-smoky.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d0/d0d8ba_numero-5-posh_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Smoky",
+        "Resinous"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {},
+    "community_charts": {}
+}

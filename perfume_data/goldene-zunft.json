@@ -1,0 +1,87 @@
+{
+    "name": "Goldene Zunft",
+    "brand": "Umbra Helvetica",
+    "release_year": "2025",
+    "description": "A new perfume byUmbra Helveticafor women and men, released in2025. The scent is oriental-spicy. Projection and longevity are above-average. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/75/75c499_goldene-zunft-umbra-helvetica_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Oriental",
+        "Spicy",
+        "Animal"
+    ],
+    "top_notes": [
+        "Butterscotch",
+        "Caramel",
+        "Rum"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Honey",
+        "Milk",
+        "Roasted nuts"
+    ],
+    "base_notes": [
+        "Cambodian oud",
+        "Indian oud",
+        "Labdanum",
+        "Oud",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "10",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "10",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

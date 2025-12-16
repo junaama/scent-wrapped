@@ -1,0 +1,152 @@
+{
+    "name": "Musk Matcha| 45",
+    "brand": "Kayali",
+    "release_year": "2025",
+    "description": "A new perfume byKayalifor women and men, released in2025. The scent is sweet-green.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4a/4ace70_musk-matcha-45-kayali_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Green",
+        "Powdery",
+        "Gourmand",
+        "Woody"
+    ],
+    "top_notes": [
+        "Matcha",
+        "Maté",
+        "Green apple",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Oat milk",
+        "Coffee",
+        "Vanilla",
+        "Praliné"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Amber",
+        "Musk",
+        "Patchouli",
+        "Praliné",
+        "Sandalwood",
+        "Tonka bean",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "29 Ratings"
+        },
+        "durability": {
+            "score": "6.3",
+            "votes": "18 Ratings"
+        },
+        "sillage": {
+            "score": "6.1",
+            "votes": "18 Ratings"
+        },
+        "bottle": {
+            "score": "6.9",
+            "votes": "18 Ratings"
+        },
+        "pricing": {
+            "score": "5.4",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Powdery",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Green",
+                "votes": 5
+            },
+            {
+                "name": "Gourmand",
+                "votes": 5
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Modern",
+                "votes": 8
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Summit",
+    "brand": "Kayana",
+    "release_year": "2025",
+    "description": "A new perfume byKayanafor women and men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Citrus notes",
+        "Green notes",
+        "Mist note"
+    ],
+    "heart_notes": [
+        "Floral notes",
+        "Musk"
+    ],
+    "base_notes": [
+        "Soil",
+        "Woods"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

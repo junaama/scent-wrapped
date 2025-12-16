@@ -1,0 +1,141 @@
+{
+    "name": "IconiQ Platinum",
+    "brand": "bugatti Fashion",
+    "release_year": "2025",
+    "description": "A new perfume bybugatti Fashionfor men, released in2025. The scent is synthetic-green. It is being marketed byLuxess.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ce/ce0426_iconiq-platinum-bugatti-fashion_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Green",
+        "Woody",
+        "Fresh",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Elemi resin",
+        "Ginger",
+        "Saffron",
+        "Violet leaf"
+    ],
+    "heart_notes": [
+        "Cashmere wood",
+        "Cedarwood",
+        "Lavender",
+        "Patchouli"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cistus",
+        "Gaiac wood",
+        "Moss",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.9",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "5.8",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "6.1",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

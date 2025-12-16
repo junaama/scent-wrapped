@@ -1,0 +1,46 @@
+{
+    "name": "Tropical Pop",
+    "brand": "Monkoku",
+    "release_year": "2025",
+    "description": "A new perfume byMonkokufor women, released in2025. The scent is gourmand-spicy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/09/090645_tropical-pop-monkoku_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Spicy",
+        "Powdery",
+        "Oriental",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Almond",
+        "Roasted pistachio"
+    ],
+    "heart_notes": [
+        "Heliotrope",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Salted caramel",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

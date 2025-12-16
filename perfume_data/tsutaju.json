@@ -1,0 +1,47 @@
+{
+    "name": "Tsutaju",
+    "brand": "J-Scent",
+    "release_year": "2025",
+    "description": "A new and limited perfume byJ-Scentfor women and men, released in2025. The scent is spicy-floral. It is being marketed byLUZ / 有限会社ルズ.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/4c/4c42c6_tsutaju-j-scent_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Floral",
+        "Chypre",
+        "Fresh",
+        "Green"
+    ],
+    "top_notes": [
+        "Ginger",
+        "Japanese ivy",
+        "Violet"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Oakmoss",
+        "Patchouli",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.9",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "5.5",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "5.8",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,99 @@
+{
+    "name": "Strawberry Milk Shake",
+    "brand": "Flower Knows",
+    "release_year": "2025",
+    "description": "A new perfume byFlower Knowsfor women, released in2025. The scent is fruity-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/0a/0aaa60-strawberry-milk-shake-flower-knows_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Gourmand",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Strawberry"
+    ],
+    "heart_notes": [
+        "Caramel"
+    ],
+    "base_notes": [
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "3.3",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "3.6",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "9.8",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            }
+        ]
+    }
+}

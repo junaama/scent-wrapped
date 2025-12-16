@@ -1,0 +1,30 @@
+{
+    "name": "Black Jewel",
+    "brand": "Jeanne Arthes",
+    "release_year": "2025",
+    "description": "A new perfume byJeanne Arthesfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6c/6cd65f_black-jewel-jeanne-arthes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blackcurrant",
+        "Orange",
+        "Red berries"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Jasmine",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Oud",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

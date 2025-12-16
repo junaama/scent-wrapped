@@ -1,0 +1,136 @@
+{
+    "name": "Noir",
+    "brand": "Aaron Terence Hughes",
+    "release_year": "2025",
+    "description": "A new perfume byAaron Terence Hughesfor women and men, released in2025. The scent is oriental-spicy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c8/c818c6_noir-aaron-terence-hughes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Oriental",
+        "Spicy",
+        "Sweet",
+        "Resinous",
+        "Leathery"
+    ],
+    "top_notes": [
+        "Black pepper",
+        "Neroli",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Nutmeg",
+        "Cardamom",
+        "Tobacco"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Civet",
+        "Frankincense",
+        "Thai oud",
+        "Tonka bean absolute",
+        "Vanilla absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "11 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "10 Ratings"
+        },
+        "sillage": {
+            "score": "8.1",
+            "votes": "10 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Oriental",
+                "votes": 4
+            },
+            {
+                "name": "Leathery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

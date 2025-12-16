@@ -1,0 +1,140 @@
+{
+    "name": "Thou Art My Queen",
+    "brand": "Annette Neuffer",
+    "release_year": "2025",
+    "description": "A new perfume byAnnette Neufferfor women, released in2025. The scent is smoky-spicy. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/79/7946b0_thou-art-my-queen-annette-neuffer_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Spicy",
+        "Woody",
+        "Floral",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Angelica root",
+        "Bergamot",
+        "Black pepper",
+        "Cardamom",
+        "Clary sage",
+        "Clementine"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Fumencens",
+        "Jasmine sambac",
+        "Orris butter",
+        "Rosa alba",
+        "Somalian myrrh"
+    ],
+    "base_notes": [
+        "Ambrette seed",
+        "Black spruce absolute",
+        "Bourbon vanilla",
+        "Haitian vetiver",
+        "Hyraceum",
+        "Irish ambergris",
+        "Labdanum",
+        "Peru balsam",
+        "Scottish white ambergris",
+        "Siam benzoin",
+        "Sri Lankan sandalwood",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

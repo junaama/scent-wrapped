@@ -1,0 +1,134 @@
+{
+    "name": "X Xandal",
+    "brand": "French Avenue",
+    "release_year": "2025",
+    "description": "A new perfume byFrench Avenuefor women and men, released in2025. The scent is sweet-gourmand. Projection and longevity are above-average. It is being marketed byFragrance World Trading LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/68/684b95_x-xandal-french-avenue_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Creamy",
+        "Spicy",
+        "Earthy"
+    ],
+    "top_notes": [
+        "Vanilla",
+        "Bourbon vanilla"
+    ],
+    "heart_notes": [
+        "Vanilla",
+        "Rum",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Tonka bean",
+        "Vanilla absolute",
+        "Caramel",
+        "Patchouli absolute",
+        "Oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "65 Ratings"
+        },
+        "durability": {
+            "score": "8.6",
+            "votes": "62 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "61 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "62 Ratings"
+        },
+        "pricing": {
+            "score": "8.6",
+            "votes": "55 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 14
+            },
+            {
+                "name": "Gourmand",
+                "votes": 12
+            },
+            {
+                "name": "Earthy",
+                "votes": 6
+            },
+            {
+                "name": "Creamy",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 9
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 15
+            },
+            {
+                "name": "Fall",
+                "votes": 14
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 11
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 13
+            }
+        ]
+    }
+}

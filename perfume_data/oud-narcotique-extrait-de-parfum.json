@@ -1,0 +1,121 @@
+{
+    "name": "Oud Narcotique",
+    "brand": "Elixir Attar",
+    "release_year": "2025",
+    "description": "A new perfume byElixir Attarfor women and men, released in2025. The scent is resinous-smoky. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f5/f525c6_oud-narcotique-extrait-de-parfum-elixir-attar_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Smoky",
+        "Woody",
+        "Green",
+        "Earthy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "22 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "21 Ratings"
+        },
+        "sillage": {
+            "score": "7.9",
+            "votes": "21 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "17 Ratings"
+        },
+        "pricing": {
+            "score": "7.3",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 6
+            },
+            {
+                "name": "Smoky",
+                "votes": 9
+            },
+            {
+                "name": "Woody",
+                "votes": 8
+            },
+            {
+                "name": "Resinous",
+                "votes": 10
+            },
+            {
+                "name": "Green",
+                "votes": 8
+            },
+            {
+                "name": "Earthy",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 10
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 10
+            },
+            {
+                "name": "Fall",
+                "votes": 11
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

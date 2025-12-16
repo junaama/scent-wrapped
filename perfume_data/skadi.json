@@ -1,0 +1,152 @@
+{
+    "name": "Skadi",
+    "brand": "Pana Dora",
+    "release_year": "2025",
+    "description": "A new perfume byPana Dorafor women and men, released in2025. The scent is floral-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/86/869054_skadi-pana-dora_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Spicy",
+        "Chypre",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Frankincense",
+        "Apple",
+        "Citrus fruits",
+        "Hazelnut",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Rose",
+        "Ambrette",
+        "Amylsalicylate",
+        "Osmanthus",
+        "Saffron",
+        "Moss"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Cetalox®",
+        "Ambrettolide",
+        "Helvetolide®",
+        "Labdanum"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "100 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "89 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "88 Ratings"
+        },
+        "bottle": {
+            "score": "8.9",
+            "votes": "87 Ratings"
+        },
+        "pricing": {
+            "score": "5.9",
+            "votes": "76 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 13
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Powdery",
+                "votes": 10
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Fresh",
+                "votes": 16
+            },
+            {
+                "name": "Chypre",
+                "votes": 11
+            },
+            {
+                "name": "Floral",
+                "votes": 20
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 16
+            },
+            {
+                "name": "Feminine",
+                "votes": 19
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 15
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 14
+            },
+            {
+                "name": "Fall",
+                "votes": 21
+            },
+            {
+                "name": "Summer",
+                "votes": 14
+            },
+            {
+                "name": "Spring",
+                "votes": 20
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 18
+            },
+            {
+                "name": "Sport",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 18
+            },
+            {
+                "name": "Night Out",
+                "votes": 12
+            },
+            {
+                "name": "Business",
+                "votes": 17
+            },
+            {
+                "name": "Evening",
+                "votes": 15
+            }
+        ]
+    }
+}

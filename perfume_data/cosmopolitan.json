@@ -1,0 +1,33 @@
+{
+    "name": "Cosmopolitan",
+    "brand": "Dark Tales",
+    "release_year": "2025",
+    "description": "A new and limited perfume byDark Talesfor women and men, released in2025.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/51/51dabf_cosmopolitan-dark-tales_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cranberry",
+        "Grapefruit",
+        "Lime",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Bulgarian rose",
+        "Orange blossom",
+        "Raspberry",
+        "Violet"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Vodka",
+        "White musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

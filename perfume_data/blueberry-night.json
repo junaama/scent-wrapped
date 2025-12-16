@@ -1,0 +1,129 @@
+{
+    "name": "Blueberry Night",
+    "brand": "M. Micallef",
+    "release_year": "2025",
+    "description": "A new perfume byM. Micalleffor women and men, released in2025. The scent is sweet-fruity.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/35/359b8f-blueberry-night-m-micallef_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Gourmand",
+        "Creamy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Blueberry",
+        "Raspberry",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Rosewood"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Musk",
+        "Moss",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "18 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "13 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "13 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "28 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 7
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

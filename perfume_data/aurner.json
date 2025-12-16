@@ -1,0 +1,133 @@
+{
+    "name": "Aurner",
+    "brand": "Aēsop",
+    "release_year": "2025",
+    "description": "A new perfume byAēsopfor women and men, released in2025. The scent is floral-spicy. It is being marketed byL'Oréal.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/05/058a6b_aurner-aesop_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Spicy",
+        "Woody",
+        "Green",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Pink pepper",
+        "Roman chamomile",
+        "Cardamom"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Magnolia leaf",
+        "Cardamom"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Cedar",
+        "Cypriol"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.7",
+            "votes": "38 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "27 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "28 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "33 Ratings"
+        },
+        "pricing": {
+            "score": "5.8",
+            "votes": "22 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 10
+            },
+            {
+                "name": "Woody",
+                "votes": 10
+            },
+            {
+                "name": "Green",
+                "votes": 9
+            },
+            {
+                "name": "Fresh",
+                "votes": 9
+            },
+            {
+                "name": "Floral",
+                "votes": 11
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 11
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 11
+            },
+            {
+                "name": "Summer",
+                "votes": 10
+            },
+            {
+                "name": "Spring",
+                "votes": 14
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 11
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 8
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "The One",
+    "brand": "Laverne",
+    "release_year": "2025",
+    "description": "A new perfume byLavernefor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d6/d66612_the-one-eau-de-parfum-laverne_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Mandarin orange",
+        "Red berries"
+    ],
+    "heart_notes": [
+        "Damask rose",
+        "Jasmine",
+        "Orange blossom",
+        "Pink peony"
+    ],
+    "base_notes": [
+        "Cedarwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

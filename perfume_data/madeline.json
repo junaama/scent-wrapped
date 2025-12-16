@@ -1,0 +1,25 @@
+{
+    "name": "Madéline",
+    "brand": "Moen Perfume",
+    "release_year": "2025",
+    "description": "A new perfume byMoen Perfumefor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/fa/fa8366_madeline-moen-perfume_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Elemi resin",
+        "Lemon",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Labdanum",
+        "Rose"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Vanilla",
+        "White musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,30 @@
+{
+    "name": "North Star",
+    "brand": "Maison d'Orient",
+    "release_year": "2025",
+    "description": "A new perfume byMaison d'Orientfor women and men, released in2025. It is being marketed byDeraah Trading Company.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ef/efe6d6_north-star-maison-d-orient_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Mandarin orange",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Cedarwood",
+        "Iris"
+    ],
+    "base_notes": [
+        "Frankincense",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

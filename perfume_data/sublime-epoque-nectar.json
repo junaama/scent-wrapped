@@ -1,0 +1,36 @@
+{
+    "name": "Sublime Epoque Nectar",
+    "brand": "Zara",
+    "release_year": "2025",
+    "description": "A new perfume byZarafor women, released in2025. The scent is sweet-fruity.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3e/3e8244_sublime-epoque-nectar-zara_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Floral",
+        "Fresh",
+        "Woody"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "5.0",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

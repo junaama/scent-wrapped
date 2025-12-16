@@ -1,0 +1,148 @@
+{
+    "name": "Peau d'Orris",
+    "brand": "Wasif Reza",
+    "release_year": "2025",
+    "description": "A new and limited perfume byWasif Rezafor women and men, released in2025. The scent is floral-leathery. Projection and longevity are above-average. The production was apparently discontinued.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/20/20a0c2_peau-d-orris-wasif-reza_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Leathery",
+        "Chypre",
+        "Powdery",
+        "Animal"
+    ],
+    "top_notes": [
+        "Apricot",
+        "Bangladeshian oud",
+        "Kaffir lime",
+        "Osmanthus"
+    ],
+    "heart_notes": [
+        "Chinese Iris germanica",
+        "Frangipani",
+        "Irone",
+        "Jasmine sambac",
+        "Neroli",
+        "Orange blossom",
+        "Orris root",
+        "White ambergris"
+    ],
+    "base_notes": [
+        "Ambrette",
+        "Civet",
+        "Leather",
+        "Mysore sandalwood",
+        "Siberian deer musk",
+        "Thai oud",
+        "Virginia tobacco absolute",
+        "Yugoslavian oakmoss absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.5",
+            "votes": "16 Ratings"
+        },
+        "durability": {
+            "score": "8.9",
+            "votes": "16 Ratings"
+        },
+        "sillage": {
+            "score": "8.5",
+            "votes": "16 Ratings"
+        },
+        "bottle": {
+            "score": "9.3",
+            "votes": "19 Ratings"
+        },
+        "pricing": {
+            "score": "9.4",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Leathery",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Chypre",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            },
+            {
+                "name": "Animal",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

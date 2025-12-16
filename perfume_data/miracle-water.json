@@ -1,0 +1,109 @@
+{
+    "name": "Miracle Water",
+    "brand": "Diana zur Löwen",
+    "release_year": "2025",
+    "description": "A new perfume byDiana zur Löwenfor women, released in2025. The scent is sweet-citrusy. It is being marketed byOnivo Cosmetics.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f2/f2e005_miracle-water-diana-zur-lowen_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Citrus",
+        "Fresh",
+        "Floral"
+    ],
+    "top_notes": [
+        "Citrus fruits",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Monoï",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "4.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "5.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

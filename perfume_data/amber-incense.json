@@ -1,0 +1,118 @@
+{
+    "name": "Amber Incense",
+    "brand": "Monkoku",
+    "release_year": "2025",
+    "description": "A new perfume byMonkokufor men, released in2025. The scent is spicy-smoky. Projection and longevity are above-average. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/d4/d408e6_amber-incense-monkoku_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Smoky",
+        "Green",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Oregano",
+        "Pimento"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Cistus",
+        "Frankincense",
+        "Opoponax"
+    ],
+    "base_notes": [
+        "Leather",
+        "Oud",
+        "Patchouli",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "11 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "10 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "10 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "14 Ratings"
+        },
+        "pricing": {
+            "score": "8.5",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

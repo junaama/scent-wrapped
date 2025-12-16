@@ -1,0 +1,138 @@
+{
+    "name": "Flux",
+    "brand": "Andrea Maack",
+    "release_year": "2025",
+    "description": "A new perfume byAndrea Maackfor women and men, released in2025. The scent is fruity-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d3/d35280-flux-andrea-maack_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Green",
+        "Woody",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Blueberry",
+        "Menthol",
+        "Cardamom"
+    ],
+    "heart_notes": [
+        "Cypress",
+        "Cistus",
+        "Eucalyptus",
+        "Fir needle"
+    ],
+    "base_notes": [
+        "Sequoia",
+        "Cashmere",
+        "Cedarwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "36 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "32 Ratings"
+        },
+        "sillage": {
+            "score": "6.2",
+            "votes": "32 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "25 Ratings"
+        },
+        "pricing": {
+            "score": "5.8",
+            "votes": "17 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 13
+            },
+            {
+                "name": "Woody",
+                "votes": 11
+            },
+            {
+                "name": "Green",
+                "votes": 11
+            },
+            {
+                "name": "Fruity",
+                "votes": 16
+            },
+            {
+                "name": "Fresh",
+                "votes": 7
+            },
+            {
+                "name": "Earthy",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 13
+            },
+            {
+                "name": "Feminine",
+                "votes": 13
+            },
+            {
+                "name": "Modern",
+                "votes": 15
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 9
+            },
+            {
+                "name": "Fall",
+                "votes": 15
+            },
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 14
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 14
+            },
+            {
+                "name": "Leisure",
+                "votes": 15
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 8
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

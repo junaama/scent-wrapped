@@ -1,0 +1,30 @@
+{
+    "name": "The Suite Club",
+    "brand": "Scalpers",
+    "release_year": "2025",
+    "description": "A new perfume byScalpersfor men, released in2025. It is being marketed byPerfumes y Diseño.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/69/6995dc_the-suite-club-scalpers_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Lemon",
+        "Watery fruits",
+        "Cardamom"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Iris",
+        "Sage"
+    ],
+    "base_notes": [
+        "Cistus",
+        "Moss",
+        "Patchouli"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

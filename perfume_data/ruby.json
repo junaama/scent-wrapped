@@ -1,0 +1,129 @@
+{
+    "name": "Ruby",
+    "brand": "Nebiru Parfvms",
+    "release_year": "2025",
+    "description": "A new perfume byNebiru Parfvmsfor women and men, released in2025. The scent is spicy-woody. The longevity is above-average. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/88/8814a1_ruby-nebiru-parfvms_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Resinous",
+        "Smoky",
+        "Floral"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "156 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "144 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "145 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "123 Ratings"
+        },
+        "pricing": {
+            "score": "7.8",
+            "votes": "111 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 47
+            },
+            {
+                "name": "Sweet",
+                "votes": 17
+            },
+            {
+                "name": "Smoky",
+                "votes": 26
+            },
+            {
+                "name": "Woody",
+                "votes": 43
+            },
+            {
+                "name": "Resinous",
+                "votes": 37
+            },
+            {
+                "name": "Creamy",
+                "votes": 16
+            },
+            {
+                "name": "Floral",
+                "votes": 19
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 40
+            },
+            {
+                "name": "Feminine",
+                "votes": 20
+            },
+            {
+                "name": "Classic",
+                "votes": 17
+            },
+            {
+                "name": "Modern",
+                "votes": 22
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 37
+            },
+            {
+                "name": "Fall",
+                "votes": 46
+            },
+            {
+                "name": "Summer",
+                "votes": 12
+            },
+            {
+                "name": "Spring",
+                "votes": 31
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 17
+            },
+            {
+                "name": "Leisure",
+                "votes": 28
+            },
+            {
+                "name": "Night Out",
+                "votes": 30
+            },
+            {
+                "name": "Business",
+                "votes": 11
+            },
+            {
+                "name": "Evening",
+                "votes": 33
+            }
+        ]
+    }
+}

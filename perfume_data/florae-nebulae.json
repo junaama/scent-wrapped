@@ -1,0 +1,117 @@
+{
+    "name": "Florae Nebulae",
+    "brand": "The Harmonist",
+    "release_year": "2025",
+    "description": "A new perfume byThe Harmonistfor women and men, released in2025. The scent is floral-sweet. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/55/55b2f8_flora-nebulae-the-harmonist_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Fruity",
+        "Gourmand",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Bitter orange",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Bulgarian rose",
+        "Datura",
+        "Apricot"
+    ],
+    "base_notes": [
+        "Musk",
+        "Amber",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "13 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "18 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

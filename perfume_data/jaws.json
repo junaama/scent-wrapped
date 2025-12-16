@@ -1,0 +1,29 @@
+{
+    "name": "Jaws",
+    "brand": "Xyrena",
+    "release_year": "2025",
+    "description": "A new and limited perfume byXyrenafor women and men, released in2025.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/a5/a5bf34_jaws-xyrena_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Aquatic notes",
+        "Citrus notes",
+        "Sea breeze"
+    ],
+    "heart_notes": [
+        "Sand"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Driftwood",
+        "Seawater",
+        "White musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

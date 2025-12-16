@@ -1,0 +1,137 @@
+{
+    "name": "Intenso di Mirto",
+    "brand": "Carthusia",
+    "release_year": "2025",
+    "description": "A new perfume byCarthusiafor women and men, released in2025. The scent is floral-creamy.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/21/21a545_intenso-di-mirto-carthusia_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Creamy",
+        "Spicy",
+        "Sweet",
+        "Chypre"
+    ],
+    "top_notes": [
+        "Davana",
+        "Ginger",
+        "Juniper berry"
+    ],
+    "heart_notes": [
+        "Myrtle",
+        "Osmanthus",
+        "Rose"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Musk",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "15 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "11 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "11 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "16 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            },
+            {
+                "name": "Chypre",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

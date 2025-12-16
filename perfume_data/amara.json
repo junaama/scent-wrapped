@@ -1,0 +1,33 @@
+{
+    "name": "Amara",
+    "brand": "Chiwa Cosmetics",
+    "release_year": "2025",
+    "description": "A new perfume byChiwa Cosmeticsfor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/07/07b1be_amara-chiwa-cosmetics_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Almond",
+        "Black cherry",
+        "Liqueur"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Plum",
+        "Rose",
+        "Sour cherry"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Cedar",
+        "Cinnamon",
+        "Clove",
+        "Patchouli",
+        "Peru balsam",
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

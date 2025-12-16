@@ -1,0 +1,52 @@
+{
+    "name": "Heaven's Reserve",
+    "brand": "House of Thêom",
+    "release_year": "2025",
+    "description": "A new perfume byHouse of Thêomfor women and men, released in2025. The scent is sweet-gourmand. It is being marketed byNew Flag GmbH.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5f/5f9f57_heaven-s-reserve-house-of-theom_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Spicy",
+        "Fruity",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Plum",
+        "Walnut",
+        "Cinnamon"
+    ],
+    "heart_notes": [
+        "Cognac",
+        "Rum",
+        "Tobacco"
+    ],
+    "base_notes": [
+        "Bourbon vanilla",
+        "Tonka bean",
+        "Labdanum absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "35 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "31 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "30 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "33 Ratings"
+        },
+        "pricing": {
+            "score": "9.2",
+            "votes": "33 Ratings"
+        }
+    },
+    "community_charts": {}
+}

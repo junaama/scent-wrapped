@@ -1,0 +1,76 @@
+{
+    "name": "On Bite",
+    "brand": "Mystery, Modern Mark",
+    "release_year": "2025",
+    "description": "A new perfume byMystery, Modern Markfor women and men, released in2025. The scent is floral-synthetic. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9c/9ce526_on-bite-mystery-modern-mark_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Synthetic",
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Coconut",
+        "Peach",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Cherry",
+        "Lily of the valley",
+        "Almond"
+    ],
+    "base_notes": [
+        "Musk",
+        "Vanilla",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "8.8",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "8.3",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ]
+    }
+}

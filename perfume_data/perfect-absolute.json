@@ -1,0 +1,123 @@
+{
+    "name": "Perfect Absolute",
+    "brand": "Marc Jacobs",
+    "release_year": "2025",
+    "description": "A new perfume byMarc Jacobsfor women, released in2025. The scent is sweet-fruity. It is being marketed byCoty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c5/c5d5c7_perfect-absolute-marc-jacobs_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Floral",
+        "Synthetic",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Caramelized fig"
+    ],
+    "heart_notes": [
+        "Jasmine absolute"
+    ],
+    "base_notes": [
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "61 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "42 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "38 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "51 Ratings"
+        },
+        "pricing": {
+            "score": "6.4",
+            "votes": "32 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 9
+            },
+            {
+                "name": "Sweet",
+                "votes": 22
+            },
+            {
+                "name": "Gourmand",
+                "votes": 9
+            },
+            {
+                "name": "Fruity",
+                "votes": 17
+            },
+            {
+                "name": "Floral",
+                "votes": 15
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 16
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 10
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 15
+            },
+            {
+                "name": "Fall",
+                "votes": 22
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 10
+            },
+            {
+                "name": "Leisure",
+                "votes": 11
+            },
+            {
+                "name": "Night Out",
+                "votes": 16
+            },
+            {
+                "name": "Business",
+                "votes": 8
+            },
+            {
+                "name": "Evening",
+                "votes": 18
+            }
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Amazônico",
+    "brand": "Granado",
+    "release_year": "2025",
+    "description": "A new perfume byGranadofor women and men, released in2025. The scent is sweet-fruity.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3c/3c5024_amazonico-granado_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Woody",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Frankincense",
+        "Orange",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Cocoa",
+        "Maté",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Patchouli",
+        "Sandalwood",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

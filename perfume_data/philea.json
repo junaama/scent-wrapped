@@ -1,0 +1,25 @@
+{
+    "name": "Philea",
+    "brand": "HMNS",
+    "release_year": "2025",
+    "description": "A new perfume byHMNSfor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f1/f10435_philea-hmns_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Coriander seed",
+        "Magnolia"
+    ],
+    "heart_notes": [
+        "Jasmine sambac",
+        "Mimosa absolute",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Cashmeran",
+        "Heliotrope",
+        "Musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

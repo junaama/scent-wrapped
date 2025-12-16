@@ -1,0 +1,29 @@
+{
+    "name": "White Cedar",
+    "brand": "4711",
+    "release_year": "2025",
+    "description": "A new perfume by4711for women and men, released in2025. It is being marketed byMäurer & Wirtz.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/05/0510f8_white-cedar-4711_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cardamom",
+        "Violet leaf"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Iris",
+        "Papyrus"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Leather",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

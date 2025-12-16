@@ -1,0 +1,145 @@
+{
+    "name": "Joop! Homme",
+    "brand": "Joop!",
+    "release_year": "2025",
+    "description": "A new perfume byJoop!for men, released in2025. The scent is floral-sweet. It is being marketed byCoty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/0a/0a13f2_joop-homme-eau-de-parfum-intense-joop_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Fruity",
+        "Creamy",
+        "Powdery"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "67 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "62 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "62 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "67 Ratings"
+        },
+        "pricing": {
+            "score": "8.0",
+            "votes": "57 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Synthetic",
+                "votes": 6
+            },
+            {
+                "name": "Sweet",
+                "votes": 18
+            },
+            {
+                "name": "Powdery",
+                "votes": 8
+            },
+            {
+                "name": "Oriental",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 9
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Fougère",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 9
+            },
+            {
+                "name": "Floral",
+                "votes": 19
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 19
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 8
+            },
+            {
+                "name": "Modern",
+                "votes": 15
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 15
+            },
+            {
+                "name": "Fall",
+                "votes": 19
+            },
+            {
+                "name": "Summer",
+                "votes": 10
+            },
+            {
+                "name": "Spring",
+                "votes": 17
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 13
+            },
+            {
+                "name": "Leisure",
+                "votes": 15
+            },
+            {
+                "name": "Night Out",
+                "votes": 18
+            },
+            {
+                "name": "Business",
+                "votes": 11
+            },
+            {
+                "name": "Evening",
+                "votes": 17
+            }
+        ]
+    }
+}

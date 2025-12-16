@@ -1,0 +1,129 @@
+{
+    "name": "Alien Extraintense",
+    "brand": "Mugler",
+    "release_year": "2025",
+    "description": "A new perfume byMuglerfor women, released in2025. The scent is floral-sweet. The longevity is above-average. It is being marketed byL'Oréal.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/63/63ef6e-alien-extraintense-mugler_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Creamy",
+        "Synthetic",
+        "Spicy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "147 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "127 Ratings"
+        },
+        "sillage": {
+            "score": "7.9",
+            "votes": "127 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "130 Ratings"
+        },
+        "pricing": {
+            "score": "6.9",
+            "votes": "95 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 24
+            },
+            {
+                "name": "Synthetic",
+                "votes": 25
+            },
+            {
+                "name": "Sweet",
+                "votes": 42
+            },
+            {
+                "name": "Woody",
+                "votes": 12
+            },
+            {
+                "name": "Green",
+                "votes": 13
+            },
+            {
+                "name": "Creamy",
+                "votes": 40
+            },
+            {
+                "name": "Floral",
+                "votes": 53
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 56
+            },
+            {
+                "name": "Classic",
+                "votes": 15
+            },
+            {
+                "name": "Modern",
+                "votes": 37
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 43
+            },
+            {
+                "name": "Fall",
+                "votes": 51
+            },
+            {
+                "name": "Summer",
+                "votes": 24
+            },
+            {
+                "name": "Spring",
+                "votes": 44
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 23
+            },
+            {
+                "name": "Leisure",
+                "votes": 32
+            },
+            {
+                "name": "Night Out",
+                "votes": 47
+            },
+            {
+                "name": "Business",
+                "votes": 15
+            },
+            {
+                "name": "Evening",
+                "votes": 45
+            }
+        ]
+    }
+}

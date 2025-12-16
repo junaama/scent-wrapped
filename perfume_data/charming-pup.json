@@ -1,0 +1,145 @@
+{
+    "name": "Charming Pup",
+    "brand": "MCM",
+    "release_year": "2025",
+    "description": "A new perfume byMCMfor women and men, released in2025. The scent is powdery-floral. It is being marketed byInterparfums.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2e/2e43c1_charming-pup-mcm_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Powdery",
+        "Floral",
+        "Sweet",
+        "Woody",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Orange",
+        "Bergamot",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Carrot seed",
+        "Iris",
+        "Rose"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Tonka bean",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "25 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "24 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "23 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "29 Ratings"
+        },
+        "pricing": {
+            "score": "6.1",
+            "votes": "21 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Powdery",
+                "votes": 8
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 8
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 9
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 10
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Leisure",
+                "votes": 10
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 8
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

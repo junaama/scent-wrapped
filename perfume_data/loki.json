@@ -1,0 +1,32 @@
+{
+    "name": "Loki",
+    "brand": "Fyyre Perfumes",
+    "release_year": "2025",
+    "description": "A new perfume byFyyre Perfumesfor women and men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Black pepper",
+        "Camphor",
+        "Cypress",
+        "Fir",
+        "Juniper berry",
+        "Pine"
+    ],
+    "heart_notes": [
+        "Galbanum",
+        "Mahogany",
+        "Mistletoe",
+        "Patchouli",
+        "Sage"
+    ],
+    "base_notes": [
+        "Cedar",
+        "Gaiac wood",
+        "Gurjum balsam",
+        "Juniper wood",
+        "Oak"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

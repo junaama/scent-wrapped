@@ -1,0 +1,24 @@
+{
+    "name": "Sole di Coco",
+    "brand": "Nous Tous",
+    "release_year": "2025",
+    "description": "A new perfume byNous Tousfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/bc/bca33a_sole-di-coco-nous-tous_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cardamom",
+        "Ginger"
+    ],
+    "heart_notes": [
+        "Coconut",
+        "Marine notes",
+        "Mint",
+        "Pineapple"
+    ],
+    "base_notes": [
+        "Tonka bean",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

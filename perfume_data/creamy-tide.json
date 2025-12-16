@@ -1,0 +1,41 @@
+{
+    "name": "Creamy Tide",
+    "brand": "Toouch",
+    "release_year": "2025",
+    "description": "A new perfume byToouchfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/dc/dc17c6_creamy-tide-toouch_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Lychee",
+        "Peach"
+    ],
+    "heart_notes": [
+        "Apple blossom",
+        "Rice milk"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Iris",
+        "Vanilla",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

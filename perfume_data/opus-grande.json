@@ -1,0 +1,101 @@
+{
+    "name": "Opus Grande",
+    "brand": "French Avenue",
+    "release_year": "2025",
+    "description": "A new perfume byFrench Avenuefor women, released in2025. The scent is fruity-fresh. It is being marketed byFragrance World Trading LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/90/90286c_opus-grande-french-avenue_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Fresh",
+        "Floral",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Lychee",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Peony",
+        "Water lily"
+    ],
+    "base_notes": [
+        "Moss",
+        "Musk",
+        "Patchouli",
+        "Praliné"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.0",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "6.3",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "6.0",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

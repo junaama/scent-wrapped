@@ -1,0 +1,135 @@
+{
+    "name": "Cretan Vagabond",
+    "brand": "Lost Academy",
+    "release_year": "2025",
+    "description": "A new perfume byLost Academyfor men, released in2025. The scent is fresh-citrusy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/bd/bd6c85_cretan-vagabond-lost-academy_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Citrus",
+        "Spicy",
+        "Aquatic",
+        "Woody"
+    ],
+    "top_notes": [
+        "Aquatic notes",
+        "Bergamot",
+        "Grapefruit",
+        "Grass",
+        "Lime"
+    ],
+    "heart_notes": [
+        "Black pepper",
+        "Fennel",
+        "Neroli",
+        "Star anise",
+        "Thyme"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Leather",
+        "Musk",
+        "Tobacco",
+        "Woods"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.3",
+            "votes": "13 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "10 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "10 Ratings"
+        },
+        "bottle": {
+            "score": "5.9",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 6
+            },
+            {
+                "name": "Spicy",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 7
+            },
+            {
+                "name": "Aquatic",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "name": "Korè",
+    "brand": "Les Folies du Parfum",
+    "release_year": "2025",
+    "description": "A new perfume byLes Folies du Parfumfor women and men, released in2025. The scent is sweet-resinous. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e2/e292e9_kore-les-folies-du-parfum_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Resinous",
+        "Powdery",
+        "Leathery",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Ozone",
+        "Frankincense",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Leather",
+        "Iris",
+        "Tobacco"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Leathery",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

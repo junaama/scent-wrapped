@@ -1,0 +1,109 @@
+{
+    "name": "Vanilla Mystique",
+    "brand": "Roberto Capucci",
+    "release_year": "2025",
+    "description": "A new perfume byRoberto Capuccifor women and men, released in2025. The scent is sweet-synthetic. It is being marketed byExtrafragrance / Extraordinary Fragance.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c7/c74f7a_vanilla-mystique-roberto-capucci_1200.jpg?width=240&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Synthetic",
+        "Gourmand",
+        "Spicy",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Vanilla absolute"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Coconut"
+    ],
+    "base_notes": [
+        "Marine notes",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

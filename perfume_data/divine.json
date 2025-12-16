@@ -1,0 +1,110 @@
+{
+    "name": "Divine",
+    "brand": "Rayhaan",
+    "release_year": "2025",
+    "description": "A new perfume byRayhaanfor women and men, released in2025. The scent is fruity-floral. It is being marketed byA.R.K. Perfumes & Cosmetics Trading.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/bc/bcd216_divine-rayhaan_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Floral",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Ginger",
+        "Lychee"
+    ],
+    "heart_notes": [
+        "Peony",
+        "Rose",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Chocolate",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

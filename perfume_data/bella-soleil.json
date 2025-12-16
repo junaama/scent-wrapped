@@ -1,0 +1,117 @@
+{
+    "name": "Bella Soleil",
+    "brand": "Oscar de la Renta",
+    "release_year": "2025",
+    "description": "A new perfume byOscar de la Rentafor women, released in2025. The scent is floral-creamy. It is being marketed byInterparfums.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/df/df049a_bella-soleil-oscar-de-la-renta_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Creamy",
+        "Fruity",
+        "Sweet",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Mango",
+        "Prickly pear",
+        "Tropical citrus fruits"
+    ],
+    "heart_notes": [
+        "Jasmine sambac",
+        "Osmanthus",
+        "Tiger orchid"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "5.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "5.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            }
+        ]
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "name": "Sceptre",
+    "brand": "Riggs",
+    "release_year": "2025",
+    "description": "A new perfume byRiggsfor men, released in2025. The scent is leathery-floral. It is being marketed byConfetti Group.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/35/35bcdc_sceptre-riggs_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Leathery",
+        "Floral",
+        "Smoky",
+        "Green",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Saffron",
+        "Violet leaf"
+    ],
+    "heart_notes": [
+        "Iris",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Leather",
+        "Ambroxan",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "14 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "11 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "11 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "16 Ratings"
+        },
+        "pricing": {
+            "score": "8.1",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Leathery",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

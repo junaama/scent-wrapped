@@ -1,0 +1,33 @@
+{
+    "name": "Confection Ecstasy",
+    "brand": "The Dua Brand",
+    "release_year": "2025",
+    "description": "A new perfume byThe Dua Brandfor women and men, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/3f/3f99d3_confection-ecstasy-the-dua-brand_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Apricot",
+        "Dried fruits",
+        "Wild honey"
+    ],
+    "heart_notes": [
+        "Amaranth wood",
+        "Ivory Coast ginger",
+        "Rum absolute",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Bourbon vanilla",
+        "Brazilian tonka bean",
+        "Caramel",
+        "Chocolate",
+        "Toffee"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

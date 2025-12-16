@@ -1,0 +1,131 @@
+{
+    "name": "Lime Sister",
+    "brand": "Liquides Imaginaires",
+    "release_year": "2025",
+    "description": "A new perfume byLiquides Imaginairesfor women and men, released in2025. The scent is citrusy-sweet.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/75/751373_lime-sister-liquides-imaginaires_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Sweet",
+        "Floral",
+        "Creamy",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Bergamot Orpur®",
+        "Blood orange",
+        "Citral",
+        "Grapefruit",
+        "Italian bitter orange",
+        "Italian lemon Orpur®",
+        "Lime"
+    ],
+    "heart_notes": [
+        "Broom",
+        "Cosmone",
+        "Indian jasmine absolute Orpur®",
+        "Mimosa",
+        "Pomarose®"
+    ],
+    "base_notes": [
+        "Ambrofix",
+        "Galaxolid",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "15 Ratings"
+        },
+        "durability": {
+            "score": "5.7",
+            "votes": "12 Ratings"
+        },
+        "sillage": {
+            "score": "5.8",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "6.8",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

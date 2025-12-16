@@ -1,0 +1,153 @@
+{
+    "name": "La Renaissance",
+    "brand": "Maison Mounkam",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Mounkamfor women, released in2025. The scent is fresh-citrusy.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/18/181d2c_la-renaissance-maison-mounkam_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Citrus",
+        "Floral",
+        "Powdery",
+        "Woody"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Geranium",
+        "Sicilian lemon"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Patchouli",
+        "White rose"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sandalwood",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.7",
+            "votes": "16 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "14 Ratings"
+        },
+        "pricing": {
+            "score": "7.2",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

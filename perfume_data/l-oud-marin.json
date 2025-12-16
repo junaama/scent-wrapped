@@ -1,0 +1,140 @@
+{
+    "name": "L'Oud Marin",
+    "brand": "Maksim Perfume",
+    "release_year": "2025",
+    "description": "A new perfume byMaksim Perfumefor women and men, released in2025. The scent is resinous-woody. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/21/213498_l-oud-marin-maksim-perfume_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Woody",
+        "Aquatic",
+        "Animal",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Kelp",
+        "Laminaria"
+    ],
+    "heart_notes": [
+        "Styrax",
+        "Cocoa",
+        "Amyris",
+        "Nagarmotha"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Beeswax",
+        "Oud",
+        "Vanilla",
+        "Vetiver",
+        "Virginia cedar wood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "12 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "10 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "11 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "name": "Mood for Colors Woman",
+    "brand": "Annayake",
+    "release_year": "2025",
+    "description": "A new and limited perfume byAnnayakefor women, released in2025. The scent is floral-fresh.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/cc/ccfc7a_mood-for-colors-woman-annayake_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Fruity",
+        "Citrus",
+        "Green"
+    ],
+    "top_notes": [
+        "Grapefruit",
+        "Quince"
+    ],
+    "heart_notes": [
+        "Hyacinth",
+        "Iris",
+        "Jasmine",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedar",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "25 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "20 Ratings"
+        },
+        "sillage": {
+            "score": "6.2",
+            "votes": "22 Ratings"
+        },
+        "bottle": {
+            "score": "6.4",
+            "votes": "22 Ratings"
+        },
+        "pricing": {
+            "score": "7.1",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 7
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 11
+            },
+            {
+                "name": "Fresh",
+                "votes": 12
+            },
+            {
+                "name": "Floral",
+                "votes": 13
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 13
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 11
+            },
+            {
+                "name": "Spring",
+                "votes": 12
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 12
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 10
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

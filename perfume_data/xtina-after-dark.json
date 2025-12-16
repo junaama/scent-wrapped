@@ -1,0 +1,144 @@
+{
+    "name": "Xtina After Dark",
+    "brand": "Christina Aguilera",
+    "release_year": "2025",
+    "description": "A new perfume byChristina Aguilerafor women, released in2025. The scent is sweet-gourmand. It is being marketed byRevlon Inc..Compare",
+    "image_url": "https://media.parfumo.com/perfumes/23/23a46d_xtina-after-dark-christina-aguilera_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Oriental",
+        "Spicy",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Orange blossom",
+        "Provençal fig"
+    ],
+    "heart_notes": [
+        "Tobacco",
+        "Ylanganate",
+        "Benzoin"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Caramel",
+        "Siam benzoin"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "17 Ratings"
+        },
+        "durability": {
+            "score": "6.4",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "6.8",
+            "votes": "16 Ratings"
+        },
+        "pricing": {
+            "score": "8.8",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 6
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

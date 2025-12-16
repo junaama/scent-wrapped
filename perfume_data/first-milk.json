@@ -1,0 +1,30 @@
+{
+    "name": "First Milk",
+    "brand": "The Nue Co.",
+    "release_year": "2025",
+    "description": "A new perfume byThe Nue Co.for women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/21/2142e5_first-milk-the-nue-co_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Almond milk",
+        "French vanilla",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Cypriol",
+        "Iris",
+        "Musk"
+    ],
+    "base_notes": [
+        "Amberwood",
+        "Cashmere wood",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

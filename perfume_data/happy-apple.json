@@ -1,0 +1,26 @@
+{
+    "name": "Happy Apple",
+    "brand": "Duduar Milano",
+    "release_year": "2025",
+    "description": "A new perfume byDuduar Milanofor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c7/c75163_happy-apple-duduar-milano_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Candied fruits",
+        "Condensed milk",
+        "Lemon",
+        "Yeast"
+    ],
+    "heart_notes": [
+        "Coconut",
+        "Green apple",
+        "Red berries"
+    ],
+    "base_notes": [
+        "Musk",
+        "Vanilla",
+        "White tea"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

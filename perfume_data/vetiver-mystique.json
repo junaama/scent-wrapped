@@ -1,0 +1,163 @@
+{
+    "name": "Vetiver Mystique",
+    "brand": "Perito Moreno",
+    "release_year": "2025",
+    "description": "A new perfume byPerito Morenofor women and men, released in2025. The scent is green-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ee/ee2a4e_vetiver-mystique-perito-moreno_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Spicy",
+        "Earthy",
+        "Woody",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Kaffir lime leaf",
+        "Litsea cubeba",
+        "Palmarosa",
+        "Rosemary",
+        "Thyme",
+        "Amalfi lemon",
+        "Black pepper",
+        "Blood orange",
+        "Calabrian bergamot",
+        "Lavender",
+        "Lime",
+        "Mandarin orange",
+        "Neroli",
+        "Orange",
+        "Orange blossom",
+        "Pink pepper",
+        "Sicilian lemon"
+    ],
+    "heart_notes": [
+        "Haitian vetiver",
+        "Indonesian vetiver",
+        "Blue gum eucalyptus",
+        "Marjoram",
+        "Palmarosa",
+        "Siberian fir",
+        "Brazilian rosewood",
+        "Bulgarian rose",
+        "Damask rose",
+        "Davana",
+        "Orange blossom",
+        "Provençal lavender"
+    ],
+    "base_notes": [
+        "Absinthe wormwood",
+        "Atlas cedar",
+        "Clove",
+        "Copaiba balsam",
+        "Nutmeg",
+        "Pipe tobacco",
+        "Virginia cedar wood",
+        "Benzoin",
+        "Camphor wood",
+        "Gaiac wood",
+        "Musk",
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

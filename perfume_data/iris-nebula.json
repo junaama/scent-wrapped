@@ -1,0 +1,26 @@
+{
+    "name": "Iris Nebula",
+    "brand": "Nancy Meiland",
+    "release_year": "2025",
+    "description": "A new perfume byNancy Meilandfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4a/4a2f41_iris-nebula-nancy-meiland_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Aniseed",
+        "Florentine iris",
+        "Orris butter",
+        "Pear",
+        "Violet leaf"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Cedar",
+        "Suede"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Pear Blossom",
+    "brand": "PerfumEra",
+    "release_year": "2025",
+    "description": "A new perfume byPerfumErafor women, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/04/04cc87_pear-blossom-perfumera_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Jasmine sambac",
+        "Orange blossom",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Patchouli",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Dear Guava",
+    "brand": "Claire's",
+    "release_year": "2025",
+    "description": "A new perfume byClaire'sfor women, released in2025. The scent is woody. It is being marketed byCBI Distributing Corp..Compare",
+    "image_url": "https://media.parfumo.com/perfumes/22/229b46_dear-guava-claire-s_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Woody",
+                "votes": 1
+            }
+        ]
+    }
+}

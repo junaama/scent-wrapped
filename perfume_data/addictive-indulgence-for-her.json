@@ -1,0 +1,50 @@
+{
+    "name": "Addictive Indulgence for Her",
+    "brand": "Pepe Jeans",
+    "release_year": "2025",
+    "description": "A new perfume byPepe Jeansfor women, released in2025. The scent is sweet-gourmand. It is being marketed byTailored Perfumes.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/05/05f9aa_addictive-indulgence-for-her-pepe-jeans_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Spicy",
+        "Fruity",
+        "Woody"
+    ],
+    "top_notes": [
+        "Pear",
+        "Pink pepper",
+        "Plum",
+        "White chocolate"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Roasted coffee",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Amberwood",
+        "Benzoin",
+        "Cocoa",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "6.0",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {}
+}

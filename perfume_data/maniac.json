@@ -1,0 +1,53 @@
+{
+    "name": "Maniac",
+    "brand": "Narcotica",
+    "release_year": "2025",
+    "description": "A new perfume byNarcoticafor women and men, released in2025. The scent is sweet-fruity.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/00/0027c3_maniac-narcotica_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Powdery",
+        "Gourmand",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Clementine",
+        "Green apple",
+        "Lemon",
+        "Mint",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Ambrette",
+        "Ambroxan",
+        "Coconut milk",
+        "Strawberry"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Brown sugar",
+        "Musk",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

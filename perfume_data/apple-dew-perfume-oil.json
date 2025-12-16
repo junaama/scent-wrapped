@@ -1,0 +1,24 @@
+{
+    "name": "Apple Dew",
+    "brand": "Glowcane",
+    "release_year": "2025",
+    "description": "A new perfume byGlowcanefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/43/43271b_apple-dew-perfume-oil-glowcane_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cucumber peel",
+        "Green apple",
+        "Lemon leaf"
+    ],
+    "heart_notes": [
+        "Lily of the valley",
+        "Magnolia",
+        "Violet"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "White amber"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

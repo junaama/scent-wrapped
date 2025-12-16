@@ -1,0 +1,127 @@
+{
+    "name": "Solar Mango",
+    "brand": "Zara",
+    "release_year": "2025",
+    "description": "A new perfume byZarafor women, released in2025. The scent is fruity-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d5/d5808b_solar-mango-zara_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Creamy",
+        "Fresh",
+        "Floral"
+    ],
+    "top_notes": [
+        "Mango"
+    ],
+    "heart_notes": [
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "14 Ratings"
+        },
+        "durability": {
+            "score": "6.4",
+            "votes": "10 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "10 Ratings"
+        },
+        "bottle": {
+            "score": "6.8",
+            "votes": "14 Ratings"
+        },
+        "pricing": {
+            "score": "8.1",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 8
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

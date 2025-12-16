@@ -1,0 +1,154 @@
+{
+    "name": "Gentleman Society",
+    "brand": "Givenchy",
+    "release_year": "2025",
+    "description": "A new perfume byGivenchyfor men, released in2025. The scent is sweet-spicy. It is being marketed byLVMH.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/61/619f6c_gentleman-society-eau-de-parfum-ambree-givenchy_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Woody",
+        "Resinous",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Indonesian nutmeg",
+        "Clary sage",
+        "Croatian juniper berry"
+    ],
+    "heart_notes": [
+        "French iris concrete",
+        "Australian sandalwood",
+        "Haitian vetiver",
+        "Madagascan vetiver",
+        "French narcissus absolute",
+        "Uruguayan vetiver"
+    ],
+    "base_notes": [
+        "Bulgarian tobacco absolute",
+        "South African tobacco absolute",
+        "Bourbon vanilla absolute",
+        "Leather",
+        "Peru balsam"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "218 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "178 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "176 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "173 Ratings"
+        },
+        "pricing": {
+            "score": "7.3",
+            "votes": "157 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 50
+            },
+            {
+                "name": "Sweet",
+                "votes": 54
+            },
+            {
+                "name": "Smoky",
+                "votes": 20
+            },
+            {
+                "name": "Powdery",
+                "votes": 27
+            },
+            {
+                "name": "Oriental",
+                "votes": 20
+            },
+            {
+                "name": "Leathery",
+                "votes": 15
+            },
+            {
+                "name": "Woody",
+                "votes": 37
+            },
+            {
+                "name": "Resinous",
+                "votes": 31
+            },
+            {
+                "name": "Creamy",
+                "votes": 26
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 60
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Classic",
+                "votes": 15
+            },
+            {
+                "name": "Modern",
+                "votes": 39
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 50
+            },
+            {
+                "name": "Fall",
+                "votes": 58
+            },
+            {
+                "name": "Summer",
+                "votes": 12
+            },
+            {
+                "name": "Spring",
+                "votes": 29
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 19
+            },
+            {
+                "name": "Leisure",
+                "votes": 31
+            },
+            {
+                "name": "Night Out",
+                "votes": 58
+            },
+            {
+                "name": "Business",
+                "votes": 25
+            },
+            {
+                "name": "Evening",
+                "votes": 57
+            }
+        ]
+    }
+}

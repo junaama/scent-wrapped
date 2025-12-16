@@ -1,0 +1,95 @@
+{
+    "name": "Pomme d'Amour",
+    "brand": "Le Monde Gourmand",
+    "release_year": "2025",
+    "description": "A new and limited perfume byLe Monde Gourmandfor women, released in2025. The scent is gourmand-fruity. It is being marketed byTru Fragrance / Romane Fragrances.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/d3/d3dd2d_pomme-d-amour-le-monde-gourmand_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Fruity",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Red apple",
+        "Anjou pear",
+        "Peach nectar"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Plum blossom",
+        "Sugar"
+    ],
+    "base_notes": [
+        "Amber",
+        "Vanilla",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.0",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "4.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.0",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

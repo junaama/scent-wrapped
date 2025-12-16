@@ -1,0 +1,145 @@
+{
+    "name": "Melos",
+    "brand": "pernoire",
+    "release_year": "2025",
+    "description": "A new perfume bypernoirefor women and men, released in2025. The scent is floral-sweet. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b2/b26ce1_melos-pernoire_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Oriental",
+        "Gourmand",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Rose tea",
+        "Blackcurrant",
+        "Grape",
+        "Grapefruit"
+    ],
+    "heart_notes": [
+        "Egyptian honey",
+        "Hazelnut",
+        "Roasted apple",
+        "Rose",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Amber",
+        "Milk",
+        "Musk",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.6",
+            "votes": "98 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "87 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "87 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "88 Ratings"
+        },
+        "pricing": {
+            "score": "6.2",
+            "votes": "78 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 9
+            },
+            {
+                "name": "Sweet",
+                "votes": 20
+            },
+            {
+                "name": "Oriental",
+                "votes": 16
+            },
+            {
+                "name": "Gourmand",
+                "votes": 15
+            },
+            {
+                "name": "Fruity",
+                "votes": 8
+            },
+            {
+                "name": "Creamy",
+                "votes": 11
+            },
+            {
+                "name": "Floral",
+                "votes": 21
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 18
+            },
+            {
+                "name": "Feminine",
+                "votes": 25
+            },
+            {
+                "name": "Classic",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 16
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 21
+            },
+            {
+                "name": "Fall",
+                "votes": 29
+            },
+            {
+                "name": "Summer",
+                "votes": 9
+            },
+            {
+                "name": "Spring",
+                "votes": 19
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Leisure",
+                "votes": 18
+            },
+            {
+                "name": "Night Out",
+                "votes": 19
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 23
+            }
+        ]
+    }
+}

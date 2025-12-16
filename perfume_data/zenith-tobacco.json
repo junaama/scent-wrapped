@@ -1,0 +1,41 @@
+{
+    "name": "Zenith Tobacco",
+    "brand": "French Avenue",
+    "release_year": "2025",
+    "description": "A new perfume byFrench Avenuefor women and men, released in2025. The longevity is above-average. It is being marketed byFragrance World Trading LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/05/05b1cd_zenith-tobacco-french-avenue_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Chocolate",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Honey",
+        "Patchouli"
+    ],
+    "base_notes": [
+        "Tolu balm",
+        "Moss",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "6.9",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,99 @@
+{
+    "name": "Casino",
+    "brand": "Brown Girl Jane",
+    "release_year": "2025",
+    "description": "A new perfume byBrown Girl Janefor women, released in2025. The scent is spicy-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c2/c2b5d0_casino-brown-girl-jane_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Affogato",
+        "Pearl",
+        "Rose quartz"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Red orchid",
+        "Red rose"
+    ],
+    "base_notes": [
+        "Almond",
+        "Blond woods",
+        "Cake",
+        "Rum"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "9 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

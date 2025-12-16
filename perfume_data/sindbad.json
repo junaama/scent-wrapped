@@ -1,0 +1,135 @@
+{
+    "name": "Sindbad",
+    "brand": "Amouage",
+    "release_year": "2025",
+    "description": "A new and limited perfume byAmouagefor women and men, released in2025. The scent is fruity-sweet. Projection and longevity are above-average. It is being marketed bySabco Group / Oman Perfumery.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/c5/c5b973_sindbad-amouage_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Gourmand",
+        "Spicy",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Honey",
+        "Cardamom",
+        "Ginger",
+        "Mango",
+        "Apricot",
+        "Tangerine"
+    ],
+    "heart_notes": [
+        "Black tea",
+        "Davana",
+        "Cappucino"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Vanilla",
+        "Cypriol",
+        "Labdanum",
+        "Tonka bean",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "8.9",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "8.6",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "16 Ratings"
+        },
+        "pricing": {
+            "score": "6.6",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

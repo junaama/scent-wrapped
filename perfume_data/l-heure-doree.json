@@ -1,0 +1,139 @@
+{
+    "name": "L'Heure Dorée",
+    "brand": "Guerlain",
+    "release_year": "2025",
+    "description": "A new and limited perfume byGuerlainfor women and men, released in2025. The scent is sweet-oriental. Projection and longevity are above-average. It is being marketed byLVMH.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/90/903697_l-heure-doree-guerlain_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Oriental",
+        "Spicy",
+        "Woody",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Coconut",
+        "Cardamom"
+    ],
+    "heart_notes": [
+        "Rose"
+    ],
+    "base_notes": [
+        "Musk",
+        "Amber",
+        "Sandalwood",
+        "Oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "42 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "35 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "35 Ratings"
+        },
+        "bottle": {
+            "score": "9.1",
+            "votes": "57 Ratings"
+        },
+        "pricing": {
+            "score": "5.7",
+            "votes": "18 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 13
+            },
+            {
+                "name": "Sweet",
+                "votes": 16
+            },
+            {
+                "name": "Oriental",
+                "votes": 15
+            },
+            {
+                "name": "Leathery",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 13
+            },
+            {
+                "name": "Resinous",
+                "votes": 11
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 15
+            },
+            {
+                "name": "Feminine",
+                "votes": 14
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 10
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 17
+            },
+            {
+                "name": "Fall",
+                "votes": 17
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 11
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 10
+            },
+            {
+                "name": "Night Out",
+                "votes": 15
+            },
+            {
+                "name": "Evening",
+                "votes": 16
+            }
+        ]
+    }
+}

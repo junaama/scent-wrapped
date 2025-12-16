@@ -1,0 +1,25 @@
+{
+    "name": "Track 01",
+    "brand": "aerse",
+    "release_year": "2025",
+    "description": "A new perfume byaersefor women and men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Birch wood",
+        "Ginger",
+        "Mint"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Jasmine",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Labdanum",
+        "Myrrh",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

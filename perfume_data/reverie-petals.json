@@ -1,0 +1,106 @@
+{
+    "name": "Reverie Petals",
+    "brand": "Zimaya",
+    "release_year": "2025",
+    "description": "A new perfume byZimayafor women, released in2025. The scent is sweet-floral. The projection is above-average. It is being marketed byAfnan.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e3/e361bb_reverie-petals-zimaya_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Blackcurrant",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Musk",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Cashmeran",
+        "Vanilla",
+        "Woods"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

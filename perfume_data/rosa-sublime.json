@@ -1,0 +1,33 @@
+{
+    "name": "Rosa Sublime",
+    "brand": "Gucci",
+    "release_year": "2025",
+    "description": "A new perfume byGuccifor women and men, released in2025. It is being marketed byCoty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/57/57bd4d_rosa-sublime-gucci_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Pink pepper",
+        "Frankincense",
+        "Elemi resin"
+    ],
+    "heart_notes": [
+        "Damask rose",
+        "Damask rose absolute",
+        "Ambrettolide",
+        "Ambrette seed absolute",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Orcanox",
+        "Virginia cedar wood",
+        "Namibian myrrh",
+        "Sumatran patchouli"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.0",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {}
+}

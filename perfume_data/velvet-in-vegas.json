@@ -1,0 +1,144 @@
+{
+    "name": "Velvet in Vegas",
+    "brand": "Philly & Phill",
+    "release_year": "2025",
+    "description": "A new perfume byPhilly & Phillfor women and men, released in2025. The scent is sweet-synthetic.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e6/e6b892_velvet-in-vegas-philly-phill_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Synthetic",
+        "Floral",
+        "Spicy",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Peach",
+        "Apple",
+        "Mandarin orange",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Orange blossom",
+        "Magnolia",
+        "Rose"
+    ],
+    "base_notes": [
+        "Musk",
+        "Praliné",
+        "Vanilla",
+        "Woody notes",
+        "Leather"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "60 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "50 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "52 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "45 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "43 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 9
+            },
+            {
+                "name": "Synthetic",
+                "votes": 10
+            },
+            {
+                "name": "Sweet",
+                "votes": 17
+            },
+            {
+                "name": "Powdery",
+                "votes": 4
+            },
+            {
+                "name": "Leathery",
+                "votes": 4
+            },
+            {
+                "name": "Gourmand",
+                "votes": 6
+            },
+            {
+                "name": "Fruity",
+                "votes": 8
+            },
+            {
+                "name": "Creamy",
+                "votes": 8
+            },
+            {
+                "name": "Floral",
+                "votes": 9
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 9
+            },
+            {
+                "name": "Feminine",
+                "votes": 16
+            },
+            {
+                "name": "Modern",
+                "votes": 10
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 16
+            },
+            {
+                "name": "Fall",
+                "votes": 19
+            },
+            {
+                "name": "Spring",
+                "votes": 12
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Night Out",
+                "votes": 15
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 16
+            }
+        ]
+    }
+}

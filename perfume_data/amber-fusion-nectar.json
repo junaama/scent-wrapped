@@ -1,0 +1,127 @@
+{
+    "name": "Amber Fusion Nectar",
+    "brand": "Zara",
+    "release_year": "2025",
+    "description": "A new perfume byZarafor women, released in2025. The scent is fruity-synthetic. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/72/72a642-amber-fusion-nectar-zara_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Synthetic",
+        "Citrus",
+        "Fresh",
+        "Floral"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Mango"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Pear",
+        "White musk",
+        "Caramel"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            }
+        ]
+    }
+}

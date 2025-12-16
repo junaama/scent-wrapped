@@ -1,0 +1,137 @@
+{
+    "name": "Besos de Vanilla",
+    "brand": "Maison Marinelie",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Marineliefor women and men, released in2025. The scent is gourmand-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d3/d32b18_besos-de-vanilla-maison-marinelie_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Sweet",
+        "Creamy",
+        "Fruity",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Fried pear",
+        "Vanilla cream",
+        "Cinnamon"
+    ],
+    "heart_notes": [
+        "Cream",
+        "Bourbon vanilla",
+        "Almond cream"
+    ],
+    "base_notes": [
+        "Cashmere wood",
+        "Musk",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "27 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "24 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "25 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "26 Ratings"
+        },
+        "pricing": {
+            "score": "6.9",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 9
+            },
+            {
+                "name": "Gourmand",
+                "votes": 11
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 9
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 9
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

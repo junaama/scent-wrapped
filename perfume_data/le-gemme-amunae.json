@@ -1,0 +1,142 @@
+{
+    "name": "Le Gemme - Amunae",
+    "brand": "Bvlgari",
+    "release_year": "2025",
+    "description": "A new perfume byBvlgarifor women and men, released in2025. The scent is floral-woody. It is being marketed byLVMH.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/94/94e0ee_le-gemme-amunae-bvlgari_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Woody",
+        "Fresh",
+        "Synthetic",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Aldehydes",
+        "Frankincense"
+    ],
+    "heart_notes": [
+        "Indian jasminum grandiflorum absolute",
+        "Ambrette seed absolute"
+    ],
+    "base_notes": [
+        "Black musk",
+        "Oak"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "25 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "19 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "18 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "30 Ratings"
+        },
+        "pricing": {
+            "score": "4.6",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 6
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 8
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 6
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 9
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

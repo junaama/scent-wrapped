@@ -1,0 +1,145 @@
+{
+    "name": "Kinam Elixir",
+    "brand": "Faizal Privée",
+    "release_year": "2025",
+    "description": "A new perfume byFaizal Privéefor women and men, released in2025. The scent is woody-spicy. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/fe/fea9a4_kinam-elixir-faizal-privee_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Spicy",
+        "Floral",
+        "Smoky",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Pink pepper",
+        "Frankincense",
+        "Juniper",
+        "Thai oud",
+        "Cypress"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Rose absolute",
+        "Tonka bean",
+        "Spikenard",
+        "Clove",
+        "Kyara oud"
+    ],
+    "base_notes": [
+        "Carrot seed",
+        "Florentine iris",
+        "Saffron",
+        "Ambergris",
+        "Chinese Kyara oud",
+        "White ambergris"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "20 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "15 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "18 Ratings"
+        },
+        "pricing": {
+            "score": "7.9",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

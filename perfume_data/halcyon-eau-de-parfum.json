@@ -1,0 +1,99 @@
+{
+    "name": "Halcyon",
+    "brand": "Black Swan Society",
+    "release_year": "2025",
+    "description": "A new perfume byBlack Swan Societyfor women, released in2025. The scent is sweet-synthetic.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8e/8e2976_halcyon-eau-de-parfum-black-swan-society_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Synthetic",
+        "Aquatic",
+        "Fresh",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Balsam",
+        "Synthetic fibers"
+    ],
+    "heart_notes": [
+        "Coconut milk",
+        "Sensual skin accord"
+    ],
+    "base_notes": [
+        "Creamy notes",
+        "Musk",
+        "Sand"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

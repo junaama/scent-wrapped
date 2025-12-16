@@ -1,0 +1,141 @@
+{
+    "name": "Fleur Alpine",
+    "brand": "The Nose Behind",
+    "release_year": "2025",
+    "description": "A new perfume byThe Nose Behindfor women and men, released in2025. The scent is floral-green.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/cf/cf2853_fleur-alpine-the-nose-behind_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Green",
+        "Gourmand",
+        "Sweet",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Black caraway",
+        "Edelweiss",
+        "Citrus leaf"
+    ],
+    "heart_notes": [
+        "White blossoms",
+        "Woodland strawberry",
+        "Green notes"
+    ],
+    "base_notes": [
+        "Chocolate",
+        "White blossoms",
+        "Cedarwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "107 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "94 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "94 Ratings"
+        },
+        "bottle": {
+            "score": "6.8",
+            "votes": "88 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "70 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 12
+            },
+            {
+                "name": "Sweet",
+                "votes": 16
+            },
+            {
+                "name": "Green",
+                "votes": 19
+            },
+            {
+                "name": "Gourmand",
+                "votes": 17
+            },
+            {
+                "name": "Fresh",
+                "votes": 9
+            },
+            {
+                "name": "Creamy",
+                "votes": 7
+            },
+            {
+                "name": "Floral",
+                "votes": 28
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 15
+            },
+            {
+                "name": "Feminine",
+                "votes": 26
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 17
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 13
+            },
+            {
+                "name": "Fall",
+                "votes": 20
+            },
+            {
+                "name": "Summer",
+                "votes": 13
+            },
+            {
+                "name": "Spring",
+                "votes": 23
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 12
+            },
+            {
+                "name": "Leisure",
+                "votes": 27
+            },
+            {
+                "name": "Night Out",
+                "votes": 15
+            },
+            {
+                "name": "Business",
+                "votes": 8
+            },
+            {
+                "name": "Evening",
+                "votes": 14
+            }
+        ]
+    }
+}

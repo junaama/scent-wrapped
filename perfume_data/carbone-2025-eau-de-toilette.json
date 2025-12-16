@@ -1,0 +1,36 @@
+{
+    "name": "Carbone",
+    "brand": "Balmain",
+    "release_year": "2025",
+    "description": "A new perfume byBalmainfor women and men, released in2025. The scent is smoky-synthetic. It is being marketed byEstēe Lauder Companies.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ea/ea233c_carbone-2025-eau-de-toilette-balmain_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Synthetic",
+        "Spicy",
+        "Leathery",
+        "Woody"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {}
+}

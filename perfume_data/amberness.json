@@ -1,0 +1,133 @@
+{
+    "name": "Amberness",
+    "brand": "BMW",
+    "release_year": "2025",
+    "description": "A new perfume byBMWfor women and men, released in2025. The scent is synthetic-sweet. It is being marketed byMavive.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/81/81c06e_amberness-bmw_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Sweet",
+        "Woody",
+        "Spicy",
+        "Citrus"
+    ],
+    "top_notes": [
+        "French clary sage",
+        "Guatemala cardamom",
+        "Italian bergamot"
+    ],
+    "heart_notes": [
+        "Egyptian geranium",
+        "Haitian vetiver",
+        "Bourbon vanilla"
+    ],
+    "base_notes": [
+        "Ambrox",
+        "Australian sandalwood",
+        "Indonesian patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "14 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "6.1",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Raspberry Ripple",
+    "brand": "Arabiyat Prestige",
+    "release_year": "2025",
+    "description": "A new perfume byArabiyat Prestigefor women, released in2025. The scent is sweet-fruity. It is being marketed byMy Perfumes / MPF (My Perfumes Factory).Compare",
+    "image_url": "https://media.parfumo.com/perfumes/35/355599_raspberry-ripple-arabiyat-prestige_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Floral",
+        "Gourmand",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Marshmallow",
+        "Freesia",
+        "Strawberry",
+        "Blackcurrant"
+    ],
+    "heart_notes": [
+        "Cashmere",
+        "Raspberry",
+        "Magnolia"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Vanilla",
+        "Moss"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

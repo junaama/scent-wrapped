@@ -1,0 +1,109 @@
+{
+    "name": "Essere Gentile",
+    "brand": "Zanini",
+    "release_year": "2025",
+    "description": "A new and limited perfume byZaninifor women and men, released in2025. The scent is green-spicy. The longevity is above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/37/379d31_essere-gentile-zanini_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Spicy",
+        "Woody",
+        "Resinous",
+        "Sweet"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "11 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Mon Cheri",
+    "brand": "Enchanteur",
+    "release_year": "2025",
+    "description": "A new perfume byEnchanteurfor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/df/dfa33c_mon-cheri-enchanteur_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Apple",
+        "Marshmallow",
+        "Raspberry",
+        "Tropical fruits"
+    ],
+    "heart_notes": [
+        "Freesia",
+        "Peony",
+        "Rose"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Maltol",
+        "Musk",
+        "White chocolate"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Airy Bloom",
+    "brand": "Nuage Skincare",
+    "release_year": "2025",
+    "description": "A new perfume byNuage Skincarefor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2e/2e117f_airy-bloom-nuage-skincare_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Gardenia",
+        "Lilac"
+    ],
+    "heart_notes": [
+        "Lily",
+        "Lily of the valley"
+    ],
+    "base_notes": [
+        "Magnolia"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

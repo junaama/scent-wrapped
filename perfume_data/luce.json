@@ -1,0 +1,33 @@
+{
+    "name": "Luce",
+    "brand": "WA:IT",
+    "release_year": "2025",
+    "description": "A new and limited perfume byWA:ITfor women and men, released in2025.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/2c/2c0059_luce-wa-it_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Black pepper",
+        "Nutmeg",
+        "Star anise"
+    ],
+    "heart_notes": [
+        "Bulgarian rose",
+        "Neroli",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Patchouli",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

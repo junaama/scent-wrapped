@@ -1,0 +1,139 @@
+{
+    "name": "Only Human",
+    "brand": "Noyz",
+    "release_year": "2025",
+    "description": "A new perfume byNoyzfor women and men, released in2025. The scent is gourmand-creamy. It is being marketed byBeach House Group. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/46/461f7a_only-human-eau-de-parfum-noyz_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Creamy",
+        "Sweet",
+        "Earthy",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Italian bergamot",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Bamboo",
+        "Water lily"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Moroccan atlas cedar",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "14 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "6.6",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Vivi",
+    "brand": "Comporta",
+    "release_year": "2025",
+    "description": "A new perfume byComportafor women, released in2025. The scent is floral-powdery. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f1/f1c1cf_vivi-comporta_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Powdery",
+        "Citrus",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Lemon",
+        "Mint",
+        "Orange",
+        "Rosemary",
+        "Spearmint"
+    ],
+    "heart_notes": [
+        "Osmanthus absolute",
+        "Tuberose absolute"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Leather",
+        "Oud"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

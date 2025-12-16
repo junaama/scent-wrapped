@@ -1,0 +1,40 @@
+{
+    "name": "La Mia Bella Vita",
+    "brand": "Guess",
+    "release_year": "2025",
+    "description": "A new perfume byGuessfor women, released in2025. The scent is synthetic-fruity. It is being marketed byInterparfums.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/71/71031c_la-mia-bella-vita-eau-de-parfum-guess_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Fruity",
+        "Floral",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Lychee",
+        "Pink pepper",
+        "Anjou pear"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Rose",
+        "Geranium",
+        "Chamomile"
+    ],
+    "base_notes": [
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "4.4",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {}
+}

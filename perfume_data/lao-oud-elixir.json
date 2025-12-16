@@ -1,0 +1,31 @@
+{
+    "name": "Lao Oud",
+    "brand": "Bortnikoff",
+    "release_year": "2025",
+    "description": "A new perfume byBortnikofffor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/07/07a860_lao-oud-elixir-bortnikoff_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Magnolia",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Cocoa absolute",
+        "Peru balsam",
+        "Beeswax absolute",
+        "Chamomile",
+        "Cinnamon"
+    ],
+    "base_notes": [
+        "Indian oud",
+        "Laotian oud",
+        "Gaiac wood",
+        "Birch tar",
+        "Coffee",
+        "Tonka bean",
+        "Vanilla absolute",
+        "Terminalia elliptica"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

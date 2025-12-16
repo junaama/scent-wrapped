@@ -1,0 +1,30 @@
+{
+    "name": "Ambergris",
+    "brand": "Shaman Perfumery",
+    "release_year": "2025",
+    "description": "A new perfume byShaman Perfumeryfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a2/a2d5c6_ambergris-shaman-perfumery_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Ambergris",
+        "Aquatic notes",
+        "Cistus"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Vetiver",
+        "White ambergris"
+    ],
+    "base_notes": [
+        "Fucus absolute",
+        "Patchouli",
+        "Tobacco absolute"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

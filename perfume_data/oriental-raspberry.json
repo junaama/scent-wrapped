@@ -1,0 +1,106 @@
+{
+    "name": "Oriental Raspberry",
+    "brand": "Monkoku",
+    "release_year": "2025",
+    "description": "A new perfume byMonkokufor women and men, released in2025. The scent is spicy-oriental. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e6/e6d35d_oriental-raspberry-monkoku_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Oriental",
+        "Animal",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Benzoin",
+        "Frankincense",
+        "Oud"
+    ],
+    "base_notes": [
+        "Leather",
+        "Oriental spices",
+        "Smoke"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "12 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "11 Ratings"
+        },
+        "sillage": {
+            "score": "7.9",
+            "votes": "11 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "14 Ratings"
+        },
+        "pricing": {
+            "score": "8.6",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

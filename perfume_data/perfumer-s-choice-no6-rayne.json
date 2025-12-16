@@ -1,0 +1,68 @@
+{
+    "name": "Perfumer's Choice Nº6 Rayne",
+    "brand": "Milton-Lloyd",
+    "release_year": "2025",
+    "description": "A new perfume byMilton-Lloydfor women and men, released in2025. The scent is gourmand-sweet. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/42/42efdb_perfumer-s-choice-no6-rayne-milton-lloyd-jean-yves-cosmetics_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Cognac"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Oak",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Praliné",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

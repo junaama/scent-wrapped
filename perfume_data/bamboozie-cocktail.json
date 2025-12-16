@@ -1,0 +1,48 @@
+{
+    "name": "Bamboozie Cocktail",
+    "brand": "Avon",
+    "release_year": "2025",
+    "description": "A new perfume byAvonfor women and men, released in2025. The scent is floral-fresh. It is being marketed byNatura & Co..Compare",
+    "image_url": "https://media.parfumo.com/perfumes/76/76807e_bamboozie-cocktail-avon_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Citrus",
+        "Green"
+    ],
+    "top_notes": [
+        "Bamboo sap",
+        "Bergamot",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Gin",
+        "Jasmine",
+        "White tea"
+    ],
+    "base_notes": [
+        "Ambrox Super",
+        "Maté",
+        "Muscenone®",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.3",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

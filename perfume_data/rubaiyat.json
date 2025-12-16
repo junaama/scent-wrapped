@@ -1,0 +1,47 @@
+{
+    "name": "Rubaiyat",
+    "brand": "Anatole Lebreton",
+    "release_year": "2025",
+    "description": "A new perfume byAnatole Lebretonfor women and men, released in2025. The scent is spicy-fruity.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/63/635152_rubaiyat-anatole-lebreton_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Fruity",
+        "Floral",
+        "Woody",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Turkish rose",
+        "Cardamom"
+    ],
+    "heart_notes": [
+        "Raspberry",
+        "Wine lees",
+        "Pepper"
+    ],
+    "base_notes": [
+        "Myrrh",
+        "Cashmeran",
+        "Ethyl maltol"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.6",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {}
+}

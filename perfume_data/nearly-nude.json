@@ -1,0 +1,117 @@
+{
+    "name": "Nearly Nude",
+    "brand": "DefineMe",
+    "release_year": "2025",
+    "description": "A new perfume byDefineMefor women and men, released in2025. The scent is creamy-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d3/d30b17_nearly-nude-defineme_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Creamy",
+        "Fresh",
+        "Floral",
+        "Powdery",
+        "Aquatic"
+    ],
+    "top_notes": [
+        "Bubble bath",
+        "Oat",
+        "Sensual skin accord"
+    ],
+    "heart_notes": [
+        "Linden blossom",
+        "Oat milk",
+        "ISO-E-Super"
+    ],
+    "base_notes": [
+        "Musk",
+        "Ambroxan",
+        "Benzoin"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "5.5",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "8.7",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

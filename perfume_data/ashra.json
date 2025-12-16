@@ -1,0 +1,24 @@
+{
+    "name": "Ashra",
+    "brand": "Vaelli",
+    "release_year": "2025",
+    "description": "A new perfume byVaellifor women and men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Neroli",
+        "Orange blossom"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Oud",
+        "Sandalwood",
+        "White musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

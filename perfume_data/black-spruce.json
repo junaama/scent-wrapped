@@ -1,0 +1,76 @@
+{
+    "name": "Black Spruce",
+    "brand": "Régime des Fleurs",
+    "release_year": "2025",
+    "description": "A new and limited perfume byRégime des Fleursfor women and men, released in2025. The scent is woody-gourmand.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/8a/8a5739_black-spruce-regime-des-fleurs_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Gourmand",
+        "Sweet",
+        "Smoky",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Spruce needle",
+        "Cardamom",
+        "Nutmeg"
+    ],
+    "heart_notes": [
+        "Coffee absolute",
+        "Frankincense",
+        "Vetiver"
+    ],
+    "base_notes": [
+        "Labdanum",
+        "Sandalwood",
+        "Cream"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

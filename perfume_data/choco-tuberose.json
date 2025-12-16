@@ -1,0 +1,48 @@
+{
+    "name": "Choco Tuberose",
+    "brand": "Avon",
+    "release_year": "2025",
+    "description": "A new perfume byAvonfor women and men, released in2025. The scent is sweet-gourmand. It is being marketed byNatura & Co..Compare",
+    "image_url": "https://media.parfumo.com/perfumes/37/3788ce_choco-tuberose-avon_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Resinous",
+        "Spicy",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Cosmofruit®",
+        "Ginger",
+        "Sichuan pepper"
+    ],
+    "heart_notes": [
+        "Indian tuberose",
+        "Magnolia",
+        "Turmeric"
+    ],
+    "base_notes": [
+        "Cocoa shell",
+        "Cypriol",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

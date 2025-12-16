@@ -1,0 +1,35 @@
+{
+    "name": "Citrus Trail",
+    "brand": "Casa37",
+    "release_year": "2025",
+    "description": "A new perfume byCasa37for women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/bf/bf81e0_citrus-trail-casa37_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Eucalyptus",
+        "Grapefruit",
+        "Lime",
+        "Mandarin orange",
+        "Mint"
+    ],
+    "heart_notes": [
+        "Black tea",
+        "Lavender",
+        "Orange blossom",
+        "Tobacco"
+    ],
+    "base_notes": [
+        "Grapefruit",
+        "Patchouli",
+        "Sandalwood",
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

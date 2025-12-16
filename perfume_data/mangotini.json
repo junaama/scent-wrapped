@@ -1,0 +1,137 @@
+{
+    "name": "Mangotini",
+    "brand": "Gulf Orchid",
+    "release_year": "2025",
+    "description": "A new perfume byGulf Orchidfor women and men, released in2025. The scent is fruity-sweet. It is being marketed byGulf Orchid Fragrances.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8a/8ac3e7_mangotini-gulf-orchid_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Fresh",
+        "Floral",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Mango",
+        "Blackcurrant",
+        "Citrus notes"
+    ],
+    "heart_notes": [
+        "Peony",
+        "Sandalwood",
+        "Lily of the valley"
+    ],
+    "base_notes": [
+        "Musk",
+        "Ambergris",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.7",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "6.4",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 6
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

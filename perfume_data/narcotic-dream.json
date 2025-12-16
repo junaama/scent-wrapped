@@ -1,0 +1,42 @@
+{
+    "name": "Narcotic Dream",
+    "brand": "Les Folies du Parfum",
+    "release_year": "2025",
+    "description": "A new perfume byLes Folies du Parfumfor women and men, released in2025. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f4/f4d1dc_narcotic-dream-les-folies-du-parfum_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Basil",
+        "Candied lemon",
+        "Pineberry"
+    ],
+    "heart_notes": [
+        "Fig leaf",
+        "Heliotrope",
+        "Liquorice"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Carrot seed",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {}
+}

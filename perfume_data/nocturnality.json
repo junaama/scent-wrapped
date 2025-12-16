@@ -1,0 +1,131 @@
+{
+    "name": "Nocturnality",
+    "brand": "Arquiste",
+    "release_year": "2025",
+    "description": "A new perfume byArquistefor women and men, released in2025. The scent is leathery-animal.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/c5/c54e7d_nocturnality-arquiste_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Leathery",
+        "Animal",
+        "Synthetic",
+        "Spicy",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Hyraceum",
+        "Indian papyrus",
+        "Latex",
+        "Malabar pepper",
+        "Neoprene"
+    ],
+    "heart_notes": [
+        "Hydrocarboresine",
+        "Black leather",
+        "Bulgarian rose",
+        "Night-blooming flowers",
+        "Shoe polish"
+    ],
+    "base_notes": [
+        "Atlas cedar",
+        "Castoreum",
+        "Civet",
+        "Indonesian patchouli",
+        "Styrax"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

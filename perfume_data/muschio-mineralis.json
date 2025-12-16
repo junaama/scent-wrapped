@@ -1,0 +1,98 @@
+{
+    "name": "Muschio Mineralis",
+    "brand": "Gucci",
+    "release_year": "2025",
+    "description": "A new perfume byGuccifor women and men, released in2025. The scent is animal-spicy. It is being marketed byCoty.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/b2/b2d74b_muschio-mineralis-gucci_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Animal",
+        "Spicy",
+        "Oriental",
+        "Woody",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Cumin",
+        "Pink pepper",
+        "Elemi resin"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Vayanol",
+        "Sumatran patchouli"
+    ],
+    "base_notes": [
+        "Bourbon vanilla",
+        "Musk",
+        "Orcanox",
+        "Bourbon vanilla absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

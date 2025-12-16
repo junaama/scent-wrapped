@@ -1,0 +1,33 @@
+{
+    "name": "Petal Pop",
+    "brand": "Avau",
+    "release_year": "2025",
+    "description": "A new perfume byAvaufor women and men, released in2025. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/cd/cda7c9_petal-pop-avau_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blackcurrant",
+        "Cardamom",
+        "Mandarin orange",
+        "Pear",
+        "Pink pepper",
+        "Pot marigold"
+    ],
+    "heart_notes": [
+        "Damask rose",
+        "Peony"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Patchouli",
+        "Sandalwood",
+        "White musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

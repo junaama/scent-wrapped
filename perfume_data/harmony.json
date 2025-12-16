@@ -1,0 +1,26 @@
+{
+    "name": "Harmony",
+    "brand": "LuNiche",
+    "release_year": "2025",
+    "description": "A new perfume byLuNichefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/bd/bd7941_harmony-luniche_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Jasmine",
+        "Pomegranate",
+        "Red fruits"
+    ],
+    "heart_notes": [
+        "Lily of the valley",
+        "Magnolia",
+        "Red fruits",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber notes",
+        "Musk",
+        "Raspberry"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

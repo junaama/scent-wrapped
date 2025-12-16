@@ -1,0 +1,133 @@
+{
+    "name": "Unique Blue",
+    "brand": "Superz.",
+    "release_year": "2025",
+    "description": "A new perfume bySuperz.for women and men, released in2025. The scent is fruity-aquatic.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5d/5d8ba0_unique-blue-superz_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Aquatic",
+        "Fresh",
+        "Citrus",
+        "Green"
+    ],
+    "top_notes": [
+        "Pineapple",
+        "Passion fruit",
+        "Lemon",
+        "Yuzu"
+    ],
+    "heart_notes": [
+        "Salt",
+        "Eucalyptus",
+        "Peppermint",
+        "Ginger"
+    ],
+    "base_notes": [
+        "Musk",
+        "Marine notes",
+        "Amber",
+        "Cedarwood",
+        "Mossy notes"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "30 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "27 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "27 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "29 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "24 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 6
+            },
+            {
+                "name": "Green",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 13
+            },
+            {
+                "name": "Fresh",
+                "votes": 9
+            },
+            {
+                "name": "Aquatic",
+                "votes": 10
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 14
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 11
+            },
+            {
+                "name": "Spring",
+                "votes": 8
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 10
+            },
+            {
+                "name": "Sport",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            }
+        ]
+    }
+}

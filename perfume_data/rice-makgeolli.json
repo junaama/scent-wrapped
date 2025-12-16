@@ -1,0 +1,113 @@
+{
+    "name": "Rice Makgeolli",
+    "brand": "Villa Erbatium",
+    "release_year": "2025",
+    "description": "A new perfume byVilla Erbatiumfor women and men, released in2025. The scent is creamy-gourmand.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/97/97ff11_rice-makgeolli-villa-erbatium_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Creamy",
+        "Gourmand",
+        "Resinous",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Almond",
+        "Rice steam"
+    ],
+    "heart_notes": [
+        "Rice powder",
+        "Yogurt"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "5.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

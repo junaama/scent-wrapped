@@ -1,0 +1,65 @@
+{
+    "name": "Peachy Oudy",
+    "brand": "Boy Smells",
+    "release_year": "2025",
+    "description": "A new perfume byBoy Smellsfor women and men, released in2025. The scent is fruity-sweet.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/25/254c0f_peachy-oud-boy-smells_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Peach skin",
+        "Tangerine"
+    ],
+    "heart_notes": [
+        "Mimosa",
+        "Pot marigold"
+    ],
+    "base_notes": [
+        "Sugared apricot",
+        "White oud"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.8",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

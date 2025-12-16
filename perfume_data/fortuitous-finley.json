@@ -1,0 +1,149 @@
+{
+    "name": "Fortuitous Finley",
+    "brand": "Penhaligon's",
+    "release_year": "2025",
+    "description": "A new perfume byPenhaligon'sfor women and men, released in2025. The scent is spicy-sweet. It is being marketed byPuig. The perfume is vegan according to the manufacturer.PronunciationCompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/34/34d380_fortuitous-finley-penhaligon-s_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Sweet",
+        "Green",
+        "Creamy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Salted pistachio"
+    ],
+    "heart_notes": [
+        "Cardamom",
+        "Violet leaf"
+    ],
+    "base_notes": [
+        "Maté",
+        "Saffiano™"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "128 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "103 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "102 Ratings"
+        },
+        "bottle": {
+            "score": "8.9",
+            "votes": "105 Ratings"
+        },
+        "pricing": {
+            "score": "6.0",
+            "votes": "79 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 32
+            },
+            {
+                "name": "Sweet",
+                "votes": 28
+            },
+            {
+                "name": "Leathery",
+                "votes": 11
+            },
+            {
+                "name": "Woody",
+                "votes": 19
+            },
+            {
+                "name": "Green",
+                "votes": 28
+            },
+            {
+                "name": "Gourmand",
+                "votes": 8
+            },
+            {
+                "name": "Fresh",
+                "votes": 9
+            },
+            {
+                "name": "Creamy",
+                "votes": 26
+            },
+            {
+                "name": "Floral",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 33
+            },
+            {
+                "name": "Feminine",
+                "votes": 15
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 25
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 13
+            },
+            {
+                "name": "Fall",
+                "votes": 29
+            },
+            {
+                "name": "Summer",
+                "votes": 18
+            },
+            {
+                "name": "Spring",
+                "votes": 32
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 25
+            },
+            {
+                "name": "Sport",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 33
+            },
+            {
+                "name": "Night Out",
+                "votes": 26
+            },
+            {
+                "name": "Business",
+                "votes": 23
+            },
+            {
+                "name": "Evening",
+                "votes": 24
+            }
+        ]
+    }
+}

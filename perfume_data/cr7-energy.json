@@ -1,0 +1,68 @@
+{
+    "name": "CR7 Energy",
+    "brand": "Cristiano Ronaldo",
+    "release_year": "2025",
+    "description": "A new perfume byCristiano Ronaldofor men, released in2025. The scent is fresh-woody. It is being marketed byEden Parfums.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/46/46f0cc_cr7-energy-cristiano-ronaldo_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Woody"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Ginger zest",
+        "Green cardamom"
+    ],
+    "heart_notes": [
+        "Grass",
+        "Orange blossom",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Tree moss",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "12 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "11 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "10 Ratings"
+        },
+        "bottle": {
+            "score": "6.0",
+            "votes": "21 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "name": "Pomelo Oolong",
+    "brand": "d'Annam",
+    "release_year": "2025",
+    "description": "A new perfume byd'Annamfor women and men, released in2025. The scent is fresh-floral. It is being marketed byZen91 Inc..Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3b/3b9554_pomelo-oolong-d-annam_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Floral",
+        "Citrus",
+        "Green",
+        "Earthy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "55 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "35 Ratings"
+        },
+        "sillage": {
+            "score": "6.4",
+            "votes": "38 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "41 Ratings"
+        },
+        "pricing": {
+            "score": "6.5",
+            "votes": "33 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 8
+            },
+            {
+                "name": "Green",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 9
+            },
+            {
+                "name": "Earthy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 9
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 10
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

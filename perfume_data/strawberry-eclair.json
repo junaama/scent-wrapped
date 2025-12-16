@@ -1,0 +1,27 @@
+{
+    "name": "Strawberry Eclair",
+    "brand": "The Sugar Societies",
+    "release_year": "2025",
+    "description": "A new perfume byThe Sugar Societiesfor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/fc/fce2ed_strawberry-eclair-the-sugar-societies_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Strawberry",
+        "Sugar powder"
+    ],
+    "heart_notes": [
+        "Choux pastry",
+        "Vanilla custard"
+    ],
+    "base_notes": [
+        "Buttery note",
+        "White chocolate"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.2",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

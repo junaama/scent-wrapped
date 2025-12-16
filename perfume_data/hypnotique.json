@@ -1,0 +1,128 @@
+{
+    "name": "Hypnotique",
+    "brand": "Nihan",
+    "release_year": "2025",
+    "description": "A new perfume byNihanfor women, released in2025. The scent is gourmand-sweet. It is being marketed byLifestyle Fragrance & Beauty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ef/ef0fa6_hypnotique-nihan_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Sweet",
+        "Spicy",
+        "Oriental",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Jasmine",
+        "Orchid",
+        "Vanilla"
+    ],
+    "heart_notes": [
+        "Brown sugar",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "5.7",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "5.7",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Royal Punk",
+    "brand": "QOT - Question of Time",
+    "release_year": "2025",
+    "description": "A new perfume byQOT - Question of Timefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/60/60609a_royal-punk-qot-question-of-time_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Caraway",
+        "Cardamom",
+        "Grapefruit",
+        "Lime",
+        "Mandarin orange",
+        "Nutmeg"
+    ],
+    "heart_notes": [
+        "Heliotrope",
+        "Iris",
+        "Jasmine",
+        "Lily of the valley",
+        "Neroli",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedar",
+        "Musk",
+        "Sandalwood",
+        "Tonka bean",
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

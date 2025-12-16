@@ -1,0 +1,126 @@
+{
+    "name": "Seenacht für Ihn",
+    "brand": "Acqua di Costanza",
+    "release_year": "2025",
+    "description": "A new perfume byAcqua di Costanzafor men, released in2025. The scent is synthetic-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/50/502405_seenacht-fur-ihn-acqua-di-costanza_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Spicy",
+        "Creamy",
+        "Citrus",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Grapefruit",
+        "Mandarin orange",
+        "Mint"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Rose",
+        "Spicy notes"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Indian patchouli",
+        "Leather",
+        "Woods"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "5.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

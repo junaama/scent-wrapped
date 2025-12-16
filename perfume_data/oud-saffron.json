@@ -1,0 +1,121 @@
+{
+    "name": "Oud Saffron",
+    "brand": "Avapari",
+    "release_year": "2025",
+    "description": "A new perfume byAvaparifor men, released in2025. The scent is oriental-animal. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/be/be52bc_oud-saffron-avapari_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Oriental",
+        "Animal",
+        "Fruity",
+        "Spicy",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Lychee",
+        "Raspberry",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Red berries",
+        "Red currant",
+        "Turkish rose",
+        "Violet"
+    ],
+    "base_notes": [
+        "Amber",
+        "Leather",
+        "Oud",
+        "Patchouli",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "16 Ratings"
+        },
+        "durability": {
+            "score": "8.9",
+            "votes": "16 Ratings"
+        },
+        "sillage": {
+            "score": "8.9",
+            "votes": "16 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "18 Ratings"
+        },
+        "pricing": {
+            "score": "8.6",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Animal",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "name": "Nuage Vert",
+    "brand": "AndrèSimon",
+    "release_year": "2025",
+    "description": "A new and limited perfume byAndrèSimonfor women and men, released in2025. The scent is fougèreartig-woody. The longevity is above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/e4/e4392d_nuage-vert-andre-simon_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fougère",
+        "Woody",
+        "Green"
+    ],
+    "top_notes": [
+        "Artemisia",
+        "Eucalyptus",
+        "Ginger"
+    ],
+    "heart_notes": [
+        "Bourbon geranium",
+        "Galbanum",
+        "Geranium absolute",
+        "Hyacinth",
+        "Maté absolute",
+        "Roman chamomile"
+    ],
+    "base_notes": [
+        "Fenugreek absolute",
+        "Labdanum absolute",
+        "Oakmoss absolute",
+        "Scots pine absolute",
+        "Uruguayan vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fougère",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            }
+        ]
+    }
+}

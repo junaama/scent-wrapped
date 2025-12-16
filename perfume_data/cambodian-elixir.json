@@ -1,0 +1,76 @@
+{
+    "name": "Cambodian Elixir",
+    "brand": "Seraph Scents",
+    "release_year": "2025",
+    "description": "A new perfume bySeraph Scentsfor women and men, released in2025. The scent is leathery-oriental. Projection and longevity are above-average. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e3/e363a3_cambodian-elixir-seraph-scents_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Leathery",
+        "Oriental",
+        "Animal",
+        "Resinous"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "9.5",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "9.3",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "9.3",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

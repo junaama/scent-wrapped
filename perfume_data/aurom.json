@@ -1,0 +1,45 @@
+{
+    "name": "Aurom",
+    "brand": "Reef",
+    "release_year": "2025",
+    "description": "A new perfume byReeffor women and men, released in2025. The scent is fruity-fresh. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e6/e66979_aurom-reef_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Fresh",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Pineapple",
+        "Apple",
+        "Strawberry"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Musk",
+        "Cedarwood",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.7",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {}
+}

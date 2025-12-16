@@ -1,0 +1,35 @@
+{
+    "name": "Osiris",
+    "brand": "Aswan",
+    "release_year": "2025",
+    "description": "A new perfume byAswanfor men, released in2025. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e6/e6c6c5_osiris-aswan_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Basil",
+        "Bergamot",
+        "Clary sage",
+        "Lavender"
+    ],
+    "heart_notes": [
+        "Elemi resin",
+        "Praliné",
+        "Tobacco flower",
+        "Violet leaf"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Cedar",
+        "Oakmoss",
+        "Oud",
+        "Pepper",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

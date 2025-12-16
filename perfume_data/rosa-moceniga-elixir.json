@@ -1,0 +1,138 @@
+{
+    "name": "Rosa Moceniga Elixir",
+    "brand": "The Merchant Of Venice",
+    "release_year": "2025",
+    "description": "A new perfume byThe Merchant Of Venicefor women, released in2025. The scent is floral-fruity. The longevity is above-average. It is being marketed byMavive.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6e/6e4941_rosa-moceniga-elixir-the-merchant-of-venice_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fruity",
+        "Sweet",
+        "Citrus",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Pear",
+        "Italian blood orange",
+        "Italian lemon Orpur®"
+    ],
+    "heart_notes": [
+        "Italian rose",
+        "Rose absolue Orpur®",
+        "Rose water Orpur®",
+        "Turkish rose Orpur®"
+    ],
+    "base_notes": [
+        "Musk",
+        "Amberwood",
+        "Bourbon vanilla Orpur®"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "38 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "32 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "31 Ratings"
+        },
+        "bottle": {
+            "score": "9.2",
+            "votes": "51 Ratings"
+        },
+        "pricing": {
+            "score": "7.4",
+            "votes": "17 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 6
+            },
+            {
+                "name": "Sweet",
+                "votes": 10
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 12
+            },
+            {
+                "name": "Fresh",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 16
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 15
+            },
+            {
+                "name": "Classic",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 9
+            },
+            {
+                "name": "Summer",
+                "votes": 13
+            },
+            {
+                "name": "Spring",
+                "votes": 14
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 10
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Night Out",
+                "votes": 12
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 13
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Vega",
+    "brand": "OrkusOdes",
+    "release_year": "2025",
+    "description": "A new perfume byOrkusOdesfor men, released in2025. The scent is green-aquatic. The projection is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/40/40f63b_vega-orkusodes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Aquatic",
+        "Citrus",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Absinth",
+        "Calabrian bergamot",
+        "Mandarin orange",
+        "Pepper",
+        "Peppermint"
+    ],
+    "heart_notes": [
+        "Lavender",
+        "Rose",
+        "Vetiver"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Nutmeg",
+        "Tonka bean",
+        "White musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

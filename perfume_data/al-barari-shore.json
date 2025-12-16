@@ -1,0 +1,78 @@
+{
+    "name": "Al Barari Shore",
+    "brand": "Zimaya",
+    "release_year": "2025",
+    "description": "A new perfume byZimayafor men, released in2025. Projection and longevity are above-average. It is being marketed byAfnan.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e0/e03a54_al-barari-shore-zimaya_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Mandarin orange",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Cardamom",
+        "Lavender",
+        "Musk"
+    ],
+    "base_notes": [
+        "Leather",
+        "Sage",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "name": "Supermusk",
+    "brand": "Pills Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byPills Parfumsfor women and men, released in2025. The scent is animal-synthetic. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9a/9a635a_supermusk-pills-parfums_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Animal",
+        "Synthetic",
+        "Floral",
+        "Fresh",
+        "Powdery"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "8.6",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "6.9",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            },
+            {
+                "name": "Animal",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

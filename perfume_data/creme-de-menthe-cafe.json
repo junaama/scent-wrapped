@@ -1,0 +1,94 @@
+{
+    "name": "Crème de Menthe Café",
+    "brand": "Statik Olfactive",
+    "release_year": "2025",
+    "description": "A new perfume byStatik Olfactivefor women and men, released in2025. The scent is gourmand-green.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/96/9649cc_creme-de-menthe-cafe-statik-olfactive_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Green"
+    ],
+    "top_notes": [
+        "Coconut milk",
+        "Cream",
+        "Mint chocolate",
+        "Peppermint"
+    ],
+    "heart_notes": [
+        "Bourbon vanilla",
+        "Chocolate syrup",
+        "Coconut",
+        "Colombian coffee",
+        "Hawaiian coffee",
+        "Milk",
+        "Myrrh",
+        "Orange",
+        "Rum"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Australian sandalwood",
+        "Benzoin",
+        "Brown sugar",
+        "Cocoa butter",
+        "Coffee absolute",
+        "Cognac",
+        "Frankincense",
+        "Labdanum",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "4.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

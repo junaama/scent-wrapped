@@ -1,0 +1,30 @@
+{
+    "name": "Duet II",
+    "brand": "The Gate",
+    "release_year": "2025",
+    "description": "A new perfume byThe Gatefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/21/2118ec_duet-ii-extrait-de-parfum-the-gate_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Nutmeg",
+        "Frankincense",
+        "Jasmine"
+    ],
+    "heart_notes": [
+        "Suede",
+        "Tonka bean",
+        "Tobacco absolute"
+    ],
+    "base_notes": [
+        "Vanilla absolute",
+        "Cedarwood",
+        "Musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

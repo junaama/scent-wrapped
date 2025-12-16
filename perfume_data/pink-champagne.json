@@ -1,0 +1,24 @@
+{
+    "name": "Pink Champagne",
+    "brand": "eos",
+    "release_year": "2025",
+    "description": "A new perfume byeosfor women, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/9c/9c874b_pink-champagne-eos_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Champagne",
+        "Pear",
+        "Red currant"
+    ],
+    "heart_notes": [
+        "Candied violet",
+        "Pomegranate"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Plum",
+        "Suede"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

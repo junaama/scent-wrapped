@@ -1,0 +1,25 @@
+{
+    "name": "Fresa Blanca",
+    "brand": "Maiora Parfum",
+    "release_year": "2025",
+    "description": "A new perfume byMaiora Parfumfor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/16/16e271_fresa-blanca-maiora-parfum_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Milk",
+        "Strawberry",
+        "Tropical fruits"
+    ],
+    "heart_notes": [
+        "Butter",
+        "Ice cream",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Milk",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

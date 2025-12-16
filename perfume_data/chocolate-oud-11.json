@@ -1,0 +1,124 @@
+{
+    "name": "Chocolate Oud | 11",
+    "brand": "Kayali",
+    "release_year": "2025",
+    "description": "A new perfume byKayalifor women and men, released in2025. The scent is gourmand-spicy. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/cc/cc776e_chocolate-oud-11-kayali_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Spicy",
+        "Sweet",
+        "Fruity",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Candied apple",
+        "Spiced rum",
+        "Maté"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Frankincense",
+        "Orris root",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Praliné",
+        "Cashmere wood",
+        "Cocoa",
+        "Musk",
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla",
+        "Oud",
+        "Chocolate"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "27 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "20 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "20 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "22 Ratings"
+        },
+        "pricing": {
+            "score": "6.4",
+            "votes": "18 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Gourmand",
+                "votes": 8
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 9
+            },
+            {
+                "name": "Fall",
+                "votes": 9
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

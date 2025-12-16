@@ -1,0 +1,141 @@
+{
+    "name": "Khair Felicity",
+    "brand": "Paris Corner",
+    "release_year": "2025",
+    "description": "A new perfume byParis Cornerfor women, released in2025. The scent is sweet-creamy. It is being marketed byParis Corner Perfumes.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/72/724ecc_khair-felicity-paris-corner_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Creamy",
+        "Floral",
+        "Fruity",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Champagne",
+        "Freesia"
+    ],
+    "heart_notes": [
+        "Musk",
+        "May rose",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Sugar",
+        "Vanilla",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "128 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "109 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "111 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "105 Ratings"
+        },
+        "pricing": {
+            "score": "9.1",
+            "votes": "107 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 33
+            },
+            {
+                "name": "Powdery",
+                "votes": 11
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Gourmand",
+                "votes": 8
+            },
+            {
+                "name": "Fruity",
+                "votes": 19
+            },
+            {
+                "name": "Fresh",
+                "votes": 7
+            },
+            {
+                "name": "Creamy",
+                "votes": 23
+            },
+            {
+                "name": "Floral",
+                "votes": 23
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 34
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 23
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 16
+            },
+            {
+                "name": "Fall",
+                "votes": 24
+            },
+            {
+                "name": "Summer",
+                "votes": 27
+            },
+            {
+                "name": "Spring",
+                "votes": 32
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 28
+            },
+            {
+                "name": "Leisure",
+                "votes": 27
+            },
+            {
+                "name": "Night Out",
+                "votes": 25
+            },
+            {
+                "name": "Business",
+                "votes": 24
+            },
+            {
+                "name": "Evening",
+                "votes": 23
+            }
+        ]
+    }
+}

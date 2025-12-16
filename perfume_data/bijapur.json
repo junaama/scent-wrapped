@@ -1,0 +1,39 @@
+{
+    "name": "Bijapur",
+    "brand": "Faizal Privée",
+    "release_year": "2025",
+    "description": "A new and limited perfume byFaizal Privéefor women and men, released in2025. Projection and longevity are above-average.CompareLimited",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Aldehydes",
+        "Cannabis",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Bourbon vanilla",
+        "Bulgarian rose",
+        "Coffee",
+        "Jasmine sambac"
+    ],
+    "base_notes": [
+        "Musk",
+        "Tobacco",
+        "Vietnamese oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,120 @@
+{
+    "name": "Rouge Karkade",
+    "brand": "Réserve en Afrique",
+    "release_year": "2025",
+    "description": "A new perfume byRéserve en Afriquefor women and men, released in2025. Projection and longevity are above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/91/913ae8_rouge-karkade-reserve-en-afrique_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Animal",
+        "Gourmand",
+        "Smoky",
+        "Spicy",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Buchu",
+        "Pomegranate jam",
+        "Rosella tea"
+    ],
+    "heart_notes": [
+        "Bourbon vanilla",
+        "Comorian ylang-ylang",
+        "Hibiscus"
+    ],
+    "base_notes": [
+        "Atlas cedar",
+        "Oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

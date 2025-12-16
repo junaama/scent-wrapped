@@ -1,0 +1,31 @@
+{
+    "name": "Naku",
+    "brand": "Marafatto",
+    "release_year": "2025",
+    "description": "A new perfume byMarafattofor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/fb/fb33cb_naku-marafatto_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Black pepper",
+        "Geranium",
+        "Grapefruit",
+        "Lime",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Algae",
+        "Black pepper",
+        "Elemi resin",
+        "Vetiver"
+    ],
+    "base_notes": [
+        "Cabreuva",
+        "Cinnamon",
+        "Juniper",
+        "Patchouli",
+        "Sea salt",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

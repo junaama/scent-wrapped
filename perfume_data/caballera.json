@@ -1,0 +1,31 @@
+{
+    "name": "Caballera",
+    "brand": "Emperor Blue",
+    "release_year": "2025",
+    "description": "A new perfume byEmperor Bluefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9c/9c60ce_caballera-emperor-blue_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Lychee",
+        "Rhubarb"
+    ],
+    "heart_notes": [
+        "Lily of the valley",
+        "Peony",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cashmeran",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

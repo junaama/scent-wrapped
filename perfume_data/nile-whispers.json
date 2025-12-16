@@ -1,0 +1,132 @@
+{
+    "name": "Nile Whispers",
+    "brand": "Ministry of Oud",
+    "release_year": "2025",
+    "description": "A new perfume byMinistry of Oudfor women and men, released in2025. The scent is spicy-oriental. Projection and longevity are above-average. It is being marketed byParis Corner Perfumes.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/28/2816d8_nile-whispers-ministry-of-oud_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Oriental",
+        "Leathery",
+        "Woody",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Date",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Cinnamon",
+        "Magnolia",
+        "Patchouli"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Leather",
+        "Musk",
+        "Oakmoss",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "14 Ratings"
+        },
+        "durability": {
+            "score": "8.8",
+            "votes": "13 Ratings"
+        },
+        "sillage": {
+            "score": "8.3",
+            "votes": "13 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "15 Ratings"
+        },
+        "pricing": {
+            "score": "8.8",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 4
+            },
+            {
+                "name": "Leathery",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

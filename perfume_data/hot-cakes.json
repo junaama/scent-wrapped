@@ -1,0 +1,101 @@
+{
+    "name": "Hot Cakes",
+    "brand": "Snif",
+    "release_year": "2025",
+    "description": "A new perfume bySniffor women and men, released in2025. The scent is gourmand-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a5/a5f3d7_hot-cakes-snif_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Sweet",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Butter",
+        "Buttermilk"
+    ],
+    "heart_notes": [
+        "Maple syrup",
+        "Pancake"
+    ],
+    "base_notes": [
+        "Berry compote",
+        "Sugar",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.1",
+            "votes": "36 Ratings"
+        },
+        "durability": {
+            "score": "6.4",
+            "votes": "18 Ratings"
+        },
+        "sillage": {
+            "score": "6.1",
+            "votes": "20 Ratings"
+        },
+        "bottle": {
+            "score": "6.6",
+            "votes": "21 Ratings"
+        },
+        "pricing": {
+            "score": "6.5",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Gourmand",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

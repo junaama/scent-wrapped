@@ -1,0 +1,125 @@
+{
+    "name": "Madagascar Le Baume Vanille",
+    "brand": "Parfum d'Empire",
+    "release_year": "2025",
+    "description": "A new perfume byParfum d'Empirefor women and men, released in2025. The scent is spicy-sweet. The longevity is above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/e0/e055a6_madagascar-le-baume-vanille-parfum-d-empire_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Sweet",
+        "Smoky",
+        "Gourmand",
+        "Oriental"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "33 Ratings"
+        },
+        "durability": {
+            "score": "8.6",
+            "votes": "27 Ratings"
+        },
+        "sillage": {
+            "score": "7.9",
+            "votes": "27 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "25 Ratings"
+        },
+        "pricing": {
+            "score": "7.5",
+            "votes": "20 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 12
+            },
+            {
+                "name": "Sweet",
+                "votes": 11
+            },
+            {
+                "name": "Smoky",
+                "votes": 10
+            },
+            {
+                "name": "Oriental",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Resinous",
+                "votes": 4
+            },
+            {
+                "name": "Gourmand",
+                "votes": 9
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 11
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 8
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 13
+            },
+            {
+                "name": "Fall",
+                "votes": 12
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 11
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 11
+            }
+        ]
+    }
+}

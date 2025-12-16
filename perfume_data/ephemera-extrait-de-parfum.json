@@ -1,0 +1,109 @@
+{
+    "name": "Ephemera",
+    "brand": "Sorce",
+    "release_year": "2025",
+    "description": "A new perfume bySorcefor women and men, released in2025. The scent is creamy-gourmand.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/82/8287f3_ephemera-extrait-de-parfum-sorce_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Creamy",
+        "Gourmand",
+        "Earthy",
+        "Sweet",
+        "Green"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "15 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "12 Ratings"
+        },
+        "sillage": {
+            "score": "5.7",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "10 Ratings"
+        },
+        "pricing": {
+            "score": "7.6",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Gourmand",
+                "votes": 7
+            },
+            {
+                "name": "Earthy",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

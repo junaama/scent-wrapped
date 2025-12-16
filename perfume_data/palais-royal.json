@@ -1,0 +1,91 @@
+{
+    "name": "Palais Royal",
+    "brand": "AndrèSimon",
+    "release_year": "2025",
+    "description": "A new and limited perfume byAndrèSimonfor women and men, released in2025. The scent is floral-chypre. The longevity is above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/e8/e80fff_palais-royal-andre-simon_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Chypre",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Neroli",
+        "Petitgrain"
+    ],
+    "heart_notes": [
+        "Cardamom",
+        "Everlasting flower",
+        "Iris",
+        "Mimosa absolute",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Labdanum absolute",
+        "Patchouli",
+        "Peru balsam",
+        "Vanilla absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "8.7",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "7.9",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Chypre",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

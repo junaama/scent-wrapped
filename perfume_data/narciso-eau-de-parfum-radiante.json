@@ -1,0 +1,137 @@
+{
+    "name": "Narciso",
+    "brand": "Narciso Rodriguez",
+    "release_year": "2025",
+    "description": "A new perfume byNarciso Rodriguezfor women, released in2025. The scent is floral-fresh. It is being marketed byShiseido Group / Beauté Prestige International.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f2/f23a65_narciso-eau-de-parfum-radiante-narciso-rodriguez_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Powdery",
+        "Synthetic",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Aldehydes",
+        "Lily of the valley"
+    ],
+    "heart_notes": [
+        "Cotton flower",
+        "Orange blossom absolute",
+        "Clove blossom"
+    ],
+    "base_notes": [
+        "Musk",
+        "Amber notes",
+        "Virginia cedar",
+        "White vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "135 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "113 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "114 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "111 Ratings"
+        },
+        "pricing": {
+            "score": "6.8",
+            "votes": "82 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 28
+            },
+            {
+                "name": "Sweet",
+                "votes": 10
+            },
+            {
+                "name": "Powdery",
+                "votes": 41
+            },
+            {
+                "name": "Fresh",
+                "votes": 52
+            },
+            {
+                "name": "Creamy",
+                "votes": 26
+            },
+            {
+                "name": "Floral",
+                "votes": 58
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 60
+            },
+            {
+                "name": "Classic",
+                "votes": 10
+            },
+            {
+                "name": "Modern",
+                "votes": 38
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 18
+            },
+            {
+                "name": "Fall",
+                "votes": 33
+            },
+            {
+                "name": "Summer",
+                "votes": 50
+            },
+            {
+                "name": "Spring",
+                "votes": 63
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 56
+            },
+            {
+                "name": "Sport",
+                "votes": 15
+            },
+            {
+                "name": "Leisure",
+                "votes": 56
+            },
+            {
+                "name": "Night Out",
+                "votes": 18
+            },
+            {
+                "name": "Business",
+                "votes": 53
+            },
+            {
+                "name": "Evening",
+                "votes": 13
+            }
+        ]
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "name": "Kaavu",
+    "brand": "Chera People",
+    "release_year": "2025",
+    "description": "A new and limited perfume byChera Peoplefor women and men, released in2025. The scent is woody-earthy. Projection and longevity are above-average. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/93/9344b7_kaavu-chera-people_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Earthy",
+        "Floral",
+        "Fresh",
+        "Animal"
+    ],
+    "top_notes": [
+        "Frangipani",
+        "Himalaya cedar",
+        "Honeysuckle",
+        "Indian sandalwood",
+        "Jasmine CO2",
+        "Marine notes"
+    ],
+    "heart_notes": [
+        "Jasmine sambac",
+        "Magnolia",
+        "Mysore sandalwood",
+        "Persian rose",
+        "Propolis",
+        "Thai oud"
+    ],
+    "base_notes": [
+        "Chinese oud",
+        "Civet",
+        "Hyraceum",
+        "Red frankincense",
+        "Sri Lankan sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.6",
+            "votes": "11 Ratings"
+        },
+        "durability": {
+            "score": "8.8",
+            "votes": "10 Ratings"
+        },
+        "sillage": {
+            "score": "8.6",
+            "votes": "10 Ratings"
+        },
+        "bottle": {
+            "score": "9.6",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

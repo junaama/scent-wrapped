@@ -1,0 +1,24 @@
+{
+    "name": "Mango",
+    "brand": "BellaVita Luxury",
+    "release_year": "2025",
+    "description": "A new perfume byBellaVita Luxuryfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/62/625a70_mango-bellavita-luxury_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Mango",
+        "Orange blossom"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Coconut",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

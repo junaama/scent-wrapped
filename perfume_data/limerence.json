@@ -1,0 +1,35 @@
+{
+    "name": "Limerence",
+    "brand": "Soleil de Grace",
+    "release_year": "2025",
+    "description": "A new perfume bySoleil de Gracefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2f/2f6710_limerence-soleil-de-grace_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Apple",
+        "Bergamot",
+        "Coconut",
+        "Lemon",
+        "Pear",
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Cardamom",
+        "Chili",
+        "Elemi resin",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Leather",
+        "Mossy notes",
+        "Musk",
+        "Patchouli",
+        "Sandalwood",
+        "Tonka bean",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

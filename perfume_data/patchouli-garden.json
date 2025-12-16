@@ -1,0 +1,23 @@
+{
+    "name": "Patchouli Garden",
+    "brand": "Anillo",
+    "release_year": "2025",
+    "description": "A new perfume byAnillofor women and men, released in2025. It is being marketed byMediquitous.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5d/5d8773_patchouli-garden-anillo_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Lemon",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Orange blossom",
+        "Patchouli"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Sandalwood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

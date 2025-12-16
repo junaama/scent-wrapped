@@ -1,0 +1,28 @@
+{
+    "name": "Chilled Banana",
+    "brand": "Pull & Bear",
+    "release_year": "2025",
+    "description": "A new perfume byPull & Bearfor women, released in2025. It is being marketed byInditex.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/71/71dc23_chilled-banana-pull-bear_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Banana flower",
+        "Orange blossom"
+    ],
+    "heart_notes": [
+        "Frangipani",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Amber",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

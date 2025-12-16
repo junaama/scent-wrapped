@@ -1,0 +1,134 @@
+{
+    "name": "Tonka Sel_Noir",
+    "brand": "Maison Tahité",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Tahitéfor women and men, released in2025. The scent is sweet-spicy. It is being marketed byKaon.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/24/24d2b9_tonka-sel-noir-maison-tahite_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Aquatic",
+        "Resinous",
+        "Woody"
+    ],
+    "top_notes": [
+        "Black pepper",
+        "Almond",
+        "Citrus zest"
+    ],
+    "heart_notes": [
+        "Black salt",
+        "Patchouli",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Indian sandalwood",
+        "Resins",
+        "Tobacco",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.1",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "10 Ratings"
+        },
+        "sillage": {
+            "score": "6.4",
+            "votes": "10 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

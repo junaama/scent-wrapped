@@ -1,0 +1,85 @@
+{
+    "name": "06 Sesame Shower",
+    "brand": "Concreted",
+    "release_year": "2025",
+    "description": "A new perfume byConcretedfor women and men, released in2025. The scent is earthy-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ec/ec33b3_06-sesame-shower-concreted_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Earthy",
+        "Fresh",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Biscuit",
+        "Black sesame"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Frankincense",
+        "Juniper",
+        "Lily of the valley",
+        "Rose",
+        "Vetiver",
+        "Violet"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "4.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

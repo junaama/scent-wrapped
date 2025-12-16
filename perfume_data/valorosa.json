@@ -1,0 +1,27 @@
+{
+    "name": "Valorosa",
+    "brand": "Luca Fiorini",
+    "release_year": "2025",
+    "description": "A new perfume byLuca Fiorinifor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e7/e75770_valorosa-luca-fiorini_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Mandarin orange",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Blackcurrant",
+        "Leather",
+        "Lily of the valley",
+        "Rose"
+    ],
+    "base_notes": [
+        "Labdanum",
+        "Patchouli",
+        "Sandalwood",
+        "Tonka bean"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

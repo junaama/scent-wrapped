@@ -1,0 +1,111 @@
+{
+    "name": "Hug Me",
+    "brand": "Bruno Perrucci",
+    "release_year": "2025",
+    "description": "A new perfume byBruno Perruccifor women and men, released in2025. The scent is gourmand-sweet. The longevity is above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/7c/7c1fd8_hug-me-bruno-perrucci-mood_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Sweet",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Candied lemon",
+        "Candied orange",
+        "Caramelized fig",
+        "Fig must",
+        "Rum"
+    ],
+    "heart_notes": [
+        "Hot chocolate",
+        "Cane sugar",
+        "Dark chocolate",
+        "Hazelnut",
+        "Walnut"
+    ],
+    "base_notes": [
+        "Cocoa",
+        "Grape must",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "22 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "16 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "16 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "17 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Gourmand",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Pieds Nus",
+    "brand": "Jacques Zolty",
+    "release_year": "2025",
+    "description": "A new perfume byJacques Zoltyfor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/68/68d365_pieds-nus-jacques-zolty_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Apple",
+        "Bergamot",
+        "Coconut",
+        "Ginger",
+        "Orange",
+        "Peach"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Egyptian jasmine",
+        "Indonesian patchouli",
+        "Iris",
+        "Rose",
+        "Sandalwood"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Musky notes",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

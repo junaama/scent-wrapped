@@ -1,0 +1,59 @@
+{
+    "name": "Love Spell Joy",
+    "brand": "Victoria's Secret",
+    "release_year": "2025",
+    "description": "A new perfume byVictoria's Secretfor women, released in2025. The scent is floral-fruity.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/dc/dc77bc_love-spell-joy-victoria-s-secret_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Prosecco",
+        "Raspberry liqueur"
+    ],
+    "heart_notes": [
+        "Osmanthus",
+        "Peach blossom"
+    ],
+    "base_notes": [
+        "Amber",
+        "Moss",
+        "Sugar"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

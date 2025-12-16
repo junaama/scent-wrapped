@@ -1,0 +1,141 @@
+{
+    "name": "Mirto di Panarea La Riserva",
+    "brand": "Acqua di Parma",
+    "release_year": "2025",
+    "description": "A new perfume byAcqua di Parmafor women and men, released in2025. The scent is citrusy-fresh. It is being marketed byLVMH.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/2f/2fe7e3_mirto-di-panarea-la-riserva-acqua-di-parma_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Green",
+        "Spicy",
+        "Floral"
+    ],
+    "top_notes": [
+        "Juniper berry",
+        "Citron",
+        "Sage"
+    ],
+    "heart_notes": [
+        "Myrtle",
+        "Lavender",
+        "Myrrh absolute"
+    ],
+    "base_notes": [
+        "Mastic absolute",
+        "Patchouli",
+        "Labdanum absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "44 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "39 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "38 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "40 Ratings"
+        },
+        "pricing": {
+            "score": "6.5",
+            "votes": "31 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 15
+            },
+            {
+                "name": "Spicy",
+                "votes": 13
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Green",
+                "votes": 14
+            },
+            {
+                "name": "Fresh",
+                "votes": 15
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 15
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 16
+            },
+            {
+                "name": "Spring",
+                "votes": 17
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 15
+            },
+            {
+                "name": "Sport",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 16
+            },
+            {
+                "name": "Night Out",
+                "votes": 9
+            },
+            {
+                "name": "Business",
+                "votes": 13
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

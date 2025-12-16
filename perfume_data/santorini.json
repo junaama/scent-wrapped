@@ -1,0 +1,25 @@
+{
+    "name": "Santorini",
+    "brand": "OUAI",
+    "release_year": "2025",
+    "description": "A new perfume byOUAIfor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/16/168f29_santorini-ouai_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Grapefruit",
+        "Orange",
+        "Peach"
+    ],
+    "heart_notes": [
+        "Berries",
+        "Honeysuckle",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

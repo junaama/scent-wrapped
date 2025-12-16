@@ -1,0 +1,156 @@
+{
+    "name": "Apex Eau Intense",
+    "brand": "Roja Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byRoja Parfumsfor men, released in2025. The scent is green-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/70/70a704_apex-eau-intense-roja-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Fresh",
+        "Citrus",
+        "Spicy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Chlorophyll",
+        "Helvetolide®",
+        "Bergamot",
+        "Lavender",
+        "Mint",
+        "Clary sage",
+        "Lemon",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Rose oxide",
+        "Honey pomelo"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Velvione®",
+        "Cardamom",
+        "Cashmere wood",
+        "Cedarwood",
+        "Grass",
+        "Musk",
+        "Sandalwood",
+        "Driftwood",
+        "Elemi resin",
+        "Myrrh",
+        "Patchouli",
+        "Pepper",
+        "Violet leaf"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "115 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "101 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "97 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "96 Ratings"
+        },
+        "pricing": {
+            "score": "5.0",
+            "votes": "82 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 27
+            },
+            {
+                "name": "Spicy",
+                "votes": 19
+            },
+            {
+                "name": "Synthetic",
+                "votes": 8
+            },
+            {
+                "name": "Woody",
+                "votes": 19
+            },
+            {
+                "name": "Green",
+                "votes": 31
+            },
+            {
+                "name": "Fruity",
+                "votes": 10
+            },
+            {
+                "name": "Fresh",
+                "votes": 30
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 34
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Classic",
+                "votes": 8
+            },
+            {
+                "name": "Modern",
+                "votes": 22
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 17
+            },
+            {
+                "name": "Summer",
+                "votes": 32
+            },
+            {
+                "name": "Spring",
+                "votes": 34
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 28
+            },
+            {
+                "name": "Sport",
+                "votes": 15
+            },
+            {
+                "name": "Leisure",
+                "votes": 32
+            },
+            {
+                "name": "Night Out",
+                "votes": 19
+            },
+            {
+                "name": "Business",
+                "votes": 27
+            },
+            {
+                "name": "Evening",
+                "votes": 16
+            }
+        ]
+    }
+}

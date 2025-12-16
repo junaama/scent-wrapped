@@ -1,0 +1,148 @@
+{
+    "name": "Blanche",
+    "brand": "Byredo",
+    "release_year": "2025",
+    "description": "A new and limited perfume byByredofor women and men, released in2025. The scent is fresh-synthetic. It is being marketed byPuig.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/33/3323c1_blanche-absolu-de-parfum-byredo_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Synthetic",
+        "Floral",
+        "Creamy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Aldehydes",
+        "Black pepper",
+        "Neroli"
+    ],
+    "heart_notes": [
+        "Violet",
+        "Peony",
+        "Rose absolute"
+    ],
+    "base_notes": [
+        "Musk",
+        "Cashmeran",
+        "Ambroxan",
+        "Cashmere wood",
+        "Sandalwood",
+        "Amberwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "100 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "83 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "81 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "74 Ratings"
+        },
+        "pricing": {
+            "score": "5.6",
+            "votes": "60 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 22
+            },
+            {
+                "name": "Powdery",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 11
+            },
+            {
+                "name": "Fresh",
+                "votes": 23
+            },
+            {
+                "name": "Creamy",
+                "votes": 12
+            },
+            {
+                "name": "Floral",
+                "votes": 14
+            },
+            {
+                "name": "Aquatic",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 17
+            },
+            {
+                "name": "Feminine",
+                "votes": 23
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 21
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 10
+            },
+            {
+                "name": "Fall",
+                "votes": 19
+            },
+            {
+                "name": "Summer",
+                "votes": 23
+            },
+            {
+                "name": "Spring",
+                "votes": 25
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 22
+            },
+            {
+                "name": "Sport",
+                "votes": 14
+            },
+            {
+                "name": "Leisure",
+                "votes": 25
+            },
+            {
+                "name": "Night Out",
+                "votes": 10
+            },
+            {
+                "name": "Business",
+                "votes": 22
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

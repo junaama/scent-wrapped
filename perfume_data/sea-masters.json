@@ -1,0 +1,131 @@
+{
+    "name": "Sea Masters",
+    "brand": "Constança BCN",
+    "release_year": "2025",
+    "description": "A new perfume byConstança BCNfor men, released in2025. The scent is aquatic-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/46/4606db_sea-masters-constanca-bcn_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Aquatic",
+        "Fresh",
+        "Green",
+        "Citrus",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Black pepper",
+        "Lavender"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Aquatic notes",
+        "Elemi resin",
+        "Ozonic notes"
+    ],
+    "base_notes": [
+        "Gaiac wood",
+        "Patchouli",
+        "Vetiver",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.8",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Fougère",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

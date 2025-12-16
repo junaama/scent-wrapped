@@ -1,0 +1,56 @@
+{
+    "name": "It's My Pyre",
+    "brand": "Treading Water Perfume",
+    "release_year": "2025",
+    "description": "A new and limited perfume byTreading Water Perfumefor women and men, released in2025. The scent is woody-smoky.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/59/5942fc_it-s-my-pyre-treading-water-perfume_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Smoky"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            }
+        ]
+    }
+}

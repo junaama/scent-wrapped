@@ -1,0 +1,146 @@
+{
+    "name": "You Fleur",
+    "brand": "Glossier",
+    "release_year": "2025",
+    "description": "A new perfume byGlossierfor women, released in2025. The scent is floral-creamy. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/a0/a09037_you-fleur-glossier_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Creamy",
+        "Fresh",
+        "Sweet",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Salt"
+    ],
+    "heart_notes": [
+        "Osmanthus",
+        "Cashmeran",
+        "Ylang-ylang",
+        "Apricot skin"
+    ],
+    "base_notes": [
+        "Ambrox"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "116 Ratings"
+        },
+        "durability": {
+            "score": "6.2",
+            "votes": "86 Ratings"
+        },
+        "sillage": {
+            "score": "5.6",
+            "votes": "87 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "90 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "74 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 12
+            },
+            {
+                "name": "Sweet",
+                "votes": 18
+            },
+            {
+                "name": "Powdery",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Fruity",
+                "votes": 17
+            },
+            {
+                "name": "Fresh",
+                "votes": 23
+            },
+            {
+                "name": "Creamy",
+                "votes": 25
+            },
+            {
+                "name": "Floral",
+                "votes": 29
+            },
+            {
+                "name": "Aquatic",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 36
+            },
+            {
+                "name": "Modern",
+                "votes": 28
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 13
+            },
+            {
+                "name": "Summer",
+                "votes": 37
+            },
+            {
+                "name": "Spring",
+                "votes": 35
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 41
+            },
+            {
+                "name": "Sport",
+                "votes": 8
+            },
+            {
+                "name": "Leisure",
+                "votes": 33
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 20
+            },
+            {
+                "name": "Evening",
+                "votes": 11
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Nutopia",
+    "brand": "CRA-YON",
+    "release_year": "2025",
+    "description": "A new perfume byCRA-YONfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/0c/0c7f7e_nutopia-cra-yon_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Dark chocolate",
+        "Peanut",
+        "Turmeric"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Oak Fusion",
+        "Orris root",
+        "Vetiver"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Sandalwood",
+        "Tolu balm"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

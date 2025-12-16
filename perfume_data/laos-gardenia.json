@@ -1,0 +1,84 @@
+{
+    "name": "Laos Gardenia",
+    "brand": "GRG",
+    "release_year": "2025",
+    "description": "A new perfume byGRGfor women and men, released in2025. The scent is floral-powdery.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e4/e4e944_laos-gardenia-grg_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Powdery",
+        "Animal",
+        "Creamy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "12 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "10 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "10 Ratings"
+        },
+        "bottle": {
+            "score": "6.9",
+            "votes": "11 Ratings"
+        },
+        "pricing": {
+            "score": "7.6",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            }
+        ]
+    }
+}

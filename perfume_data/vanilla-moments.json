@@ -1,0 +1,61 @@
+{
+    "name": "Vanilla Moments",
+    "brand": "Diana zur Löwen",
+    "release_year": "2025",
+    "description": "A new perfume byDiana zur Löwenfor women, released in2025. The scent is powdery-gourmand. It is being marketed byOnivo Cosmetics.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/53/53e7ca_vanilla-moments-diana-zur-lowen_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Powdery",
+        "Gourmand",
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Vanilla cream"
+    ],
+    "heart_notes": [
+        "Caramel latte"
+    ],
+    "base_notes": [
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ]
+    }
+}

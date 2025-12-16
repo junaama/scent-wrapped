@@ -1,0 +1,24 @@
+{
+    "name": "Caramello",
+    "brand": "Al Rehab",
+    "release_year": "2025",
+    "description": "A new perfume byAl Rehabfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/02/02ce96_caramello-al-rehab_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Almond",
+        "Pistachio"
+    ],
+    "heart_notes": [
+        "Heliotrope",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Salt",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,105 @@
+{
+    "name": "Strawberry Dip",
+    "brand": "Victoria's Secret",
+    "release_year": "2025",
+    "description": "A new perfume byVictoria's Secretfor women, released in2025. The scent is gourmand-fruity.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/7a/7ad637_strawberry-dip-victoria-s-secret_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Fruity",
+        "Creamy",
+        "Synthetic",
+        "Sweet"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "5.3",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "5.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "5.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.3",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

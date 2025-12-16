@@ -1,0 +1,33 @@
+{
+    "name": "Yellow Daze",
+    "brand": "Dossier",
+    "release_year": "2025",
+    "description": "A new perfume byDossierfor women and men, released in2025. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d0/d0cd7b_yellow-daze-dossier_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Banana",
+        "Ginger",
+        "Grapefruit",
+        "Rum"
+    ],
+    "heart_notes": [
+        "Blond woods",
+        "Jasmine",
+        "Milky notes",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Frankincense",
+        "Patchouli",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

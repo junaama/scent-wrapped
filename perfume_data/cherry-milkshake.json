@@ -1,0 +1,26 @@
+{
+    "name": "Cherry Milkshake",
+    "brand": "Victoria's Secret",
+    "release_year": "2025",
+    "description": "A new perfume byVictoria's Secretfor women, released in2025. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/17/17a0d6_cherry-milkshake-victoria-s-secret_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cherry syrup"
+    ],
+    "heart_notes": [
+        "Cream",
+        "Vanilla marshmallow"
+    ],
+    "base_notes": [
+        "Sugar",
+        "Woods"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "4.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

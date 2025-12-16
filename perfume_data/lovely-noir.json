@@ -1,0 +1,36 @@
+{
+    "name": "Lovely Noir",
+    "brand": "Sarah Jessica Parker",
+    "release_year": "2025",
+    "description": "A new perfume bySarah Jessica Parkerfor women, released in2025. The scent is sweet-synthetic. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/0a/0a0e7b_lovely-noir-sarah-jessica-parker_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Synthetic",
+        "Spicy",
+        "Woody",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Jasmine",
+        "Mandarin orange",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Benzoin",
+        "Peony",
+        "Sandalwood"
+    ],
+    "base_notes": [
+        "Amber",
+        "Patchouli",
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

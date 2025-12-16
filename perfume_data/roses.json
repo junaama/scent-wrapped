@@ -1,0 +1,27 @@
+{
+    "name": "Roses",
+    "brand": "Remix",
+    "release_year": "2025",
+    "description": "A new perfume byRemixfor women, released in2025. It is being marketed byAM Partners.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/45/45df6c_roses-remix_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Citrus notes",
+        "Lychee",
+        "Rose"
+    ],
+    "heart_notes": [
+        "Grape",
+        "Honey",
+        "Rose",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Lily of the valley",
+        "Patchouli",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

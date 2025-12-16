@@ -1,0 +1,33 @@
+{
+    "name": "Oro Liquido",
+    "brand": "Arzeni",
+    "release_year": "2025",
+    "description": "A new perfume byArzenifor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/72/72a42d_oro-liquido-arzeni_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Grapefruit",
+        "Orange",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Neroli",
+        "Nutmeg",
+        "Rose",
+        "Sichuan pepper"
+    ],
+    "base_notes": [
+        "Amber",
+        "Coconut",
+        "Patchouli",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

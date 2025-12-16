@@ -1,0 +1,145 @@
+{
+    "name": "Aqua Woman",
+    "brand": "La Rive",
+    "release_year": "2025",
+    "description": "A new perfume byLa Rivefor women, released in2025. The scent is fresh-aquatic.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d0/d0b6d3_aqua-woman-la-rive_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Aquatic",
+        "Floral",
+        "Fruity",
+        "Green"
+    ],
+    "top_notes": [
+        "Jasmine",
+        "Lemon",
+        "Orange",
+        "Violet leaf"
+    ],
+    "heart_notes": [
+        "Aniseed",
+        "Orange blossom",
+        "Peach",
+        "Rose",
+        "Violet"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Musk",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "13 Ratings"
+        },
+        "durability": {
+            "score": "5.9",
+            "votes": "12 Ratings"
+        },
+        "sillage": {
+            "score": "6.2",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "6.8",
+            "votes": "15 Ratings"
+        },
+        "pricing": {
+            "score": "8.8",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            },
+            {
+                "name": "Aquatic",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Sport",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

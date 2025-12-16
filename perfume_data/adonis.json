@@ -1,0 +1,24 @@
+{
+    "name": "Adonis",
+    "brand": "Velixir",
+    "release_year": "2025",
+    "description": "A new perfume byVelixirfor men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a8/a89da1_adonis-velixir_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Lavender",
+        "Mint"
+    ],
+    "heart_notes": [
+        "Benzoin",
+        "Bourbon vanilla"
+    ],
+    "base_notes": [
+        "Amber",
+        "Tonka bean",
+        "Woody notes"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

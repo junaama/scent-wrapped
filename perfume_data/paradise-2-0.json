@@ -1,0 +1,133 @@
+{
+    "name": "Paradise 2.0",
+    "brand": "Sherwood",
+    "release_year": "2025",
+    "description": "A new and limited perfume bySherwoodfor women and men, released in2025. The scent is spicy-oriental. The longevity is above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/03/03e03f_paradise-2-0-sherwood_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Oriental",
+        "Leathery",
+        "Woody",
+        "Floral"
+    ],
+    "top_notes": [
+        "Egyptian geranium",
+        "Ethiopian civet",
+        "Indian cardamom",
+        "Kashmiri saffron",
+        "Kopi Luwak coffee",
+        "Laotian oud",
+        "Pink pepper",
+        "Sri Lankan cinnamon"
+    ],
+    "heart_notes": [
+        "Indian oud",
+        "Boronia absolute",
+        "Bulgarian rose absolute",
+        "Carnation absolute",
+        "Coffee CO2",
+        "Jasmine sambac absolute",
+        "Mysore sandalwood",
+        "Red champaca absolute",
+        "Roman chamomile",
+        "Sweet acacia absolute",
+        "Tobacco absolute",
+        "Tuberose absolute"
+    ],
+    "base_notes": [
+        "Assam oud",
+        "Bourbon vanilla",
+        "Castoreum absolute",
+        "Kopi luwak coffee absolute",
+        "Leather",
+        "Manipur oud",
+        "Spanish labdanum",
+        "Styrax",
+        "Sumatran patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.7",
+            "votes": "14 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "14 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "12 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

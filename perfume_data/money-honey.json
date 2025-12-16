@@ -1,0 +1,33 @@
+{
+    "name": "Money Honey",
+    "brand": "QOT - Question of Time",
+    "release_year": "2025",
+    "description": "A new perfume byQOT - Question of Timefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c9/c9f980_money-honey-qot-question-of-time_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Bitter orange",
+        "Indian orange blossom water"
+    ],
+    "heart_notes": [
+        "Almond",
+        "Cinnamon",
+        "Dough",
+        "Honey",
+        "Sandalwood"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Musk",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

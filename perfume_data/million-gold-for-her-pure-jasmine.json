@@ -1,0 +1,117 @@
+{
+    "name": "Million Gold for Her Pure Jasmine",
+    "brand": "Rabanne",
+    "release_year": "2025",
+    "description": "A new and limited perfume byRabannefor women, released in2025. The scent is floral-sweet. It is being marketed byPuig.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/fa/fa4f40_million-gold-for-her-pure-jasmine-rabanne_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Creamy",
+        "Fruity",
+        "Fresh"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "34 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "25 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "25 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "27 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 11
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 12
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 13
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 9
+            },
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Leisure",
+                "votes": 10
+            },
+            {
+                "name": "Night Out",
+                "votes": 9
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

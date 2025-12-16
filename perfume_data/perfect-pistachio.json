@@ -1,0 +1,111 @@
+{
+    "name": "Perfect Pistachio",
+    "brand": "& Other Stories",
+    "release_year": "2025",
+    "description": "A new perfume by& Other Storiesfor women, released in2025. The scent is gourmand-creamy.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/24/2475cf_perfect-pistachio-other-stories_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Creamy",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Pistachio",
+        "Hazelnut",
+        "Milk"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Ambroxan",
+        "White chocolate"
+    ],
+    "base_notes": [
+        "Candied vanilla",
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "9 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "6.2",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Gourmand",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

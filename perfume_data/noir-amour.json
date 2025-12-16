@@ -1,0 +1,36 @@
+{
+    "name": "Noir Amour",
+    "brand": "Élixir Privé",
+    "release_year": "2025",
+    "description": "A new perfume byÉlixir Privéfor women and men, released in2025. The scent is smoky-sweet. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/1d/1d8632_noir-amour-elixir-prive_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Sweet",
+        "Gourmand",
+        "Spicy",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Calvados",
+        "Lapsang Souchong tea",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Black orchid",
+        "Caramel",
+        "Roasted coffee"
+    ],
+    "base_notes": [
+        "Bourbon vetiver",
+        "Cashmere wood",
+        "Moss"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

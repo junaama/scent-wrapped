@@ -1,0 +1,103 @@
+{
+    "name": "Balle d'Argent",
+    "brand": "Anomalia",
+    "release_year": "2025",
+    "description": "A new perfume byAnomaliafor women and men, released in2025. The scent is floral-fruity. Projection and longevity are above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/ef/ef60c0_balle-d-argent-anomalia_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fruity",
+        "Citrus",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Honey",
+        "Lily of the valley",
+        "Rose"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.3",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

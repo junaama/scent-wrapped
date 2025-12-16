@@ -1,0 +1,129 @@
+{
+    "name": "Limonata",
+    "brand": "Narcotica",
+    "release_year": "2025",
+    "description": "A new perfume byNarcoticafor women and men, released in2025. The scent is fresh-sweet. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6f/6fd519_limonata-narcotica_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Sweet",
+        "Fruity",
+        "Citrus",
+        "Woody"
+    ],
+    "top_notes": [
+        "Ginger",
+        "Grapefruit",
+        "Red currant",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Mango",
+        "Marine notes",
+        "Ambroxan",
+        "Fig",
+        "Elemi resin"
+    ],
+    "base_notes": [
+        "Moss",
+        "Amber",
+        "Cedarwood",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "27 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "21 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "22 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "21 Ratings"
+        },
+        "pricing": {
+            "score": "6.4",
+            "votes": "20 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

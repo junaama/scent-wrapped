@@ -1,0 +1,43 @@
+{
+    "name": "Playmate",
+    "brand": "Mind Games",
+    "release_year": "2025",
+    "description": "A new perfume byMind Gamesfor women and men, released in2025. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6f/6f6161_playmate-mind-games_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Coconut milk",
+        "Water lily",
+        "Italian lemon"
+    ],
+    "heart_notes": [
+        "Gardenia",
+        "Jasmine",
+        "Tiaré"
+    ],
+    "base_notes": [
+        "Musk",
+        "Amber",
+        "Vanilla",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "8.6",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "8.8",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {}
+}

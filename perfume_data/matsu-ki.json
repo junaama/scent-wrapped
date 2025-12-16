@@ -1,0 +1,132 @@
+{
+    "name": "Matsu Kï",
+    "brand": "Masakï Matsushïma",
+    "release_year": "2025",
+    "description": "A new perfume byMasakï Matsushïmafor women, released in2025. The scent is sweet-fruity. It is being marketed byPanouge.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3f/3fa26f_matsu-ki-masaki-matsushima_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Floral",
+        "Chypre",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Candied orange",
+        "Raspberry",
+        "Keraji mandarin"
+    ],
+    "heart_notes": [
+        "Tunisian neroli",
+        "Orange blossom honey",
+        "Pink pepper",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Amberwood",
+        "Musk",
+        "Tunisian orange blossom absolute",
+        "Caramel"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "14 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "11 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "6.8",
+            "votes": "20 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Chypre",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

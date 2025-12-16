@@ -1,0 +1,138 @@
+{
+    "name": "Pacific Rock Flower",
+    "brand": "Goldfield & Banks",
+    "release_year": "2025",
+    "description": "A new perfume byGoldfield & Banksfor women and men, released in2025. The scent is floral-aquatic.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/27/279669_pacific-rock-flower-goldfield-banks_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Aquatic",
+        "Fresh",
+        "Sweet",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Sea salt"
+    ],
+    "heart_notes": [
+        "Coconut wax",
+        "Tuberose",
+        "Coral tree blossom"
+    ],
+    "base_notes": [
+        "Australian sandalwood",
+        "Indonesian patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.6",
+            "votes": "195 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "149 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "146 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "144 Ratings"
+        },
+        "pricing": {
+            "score": "6.4",
+            "votes": "119 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 31
+            },
+            {
+                "name": "Sweet",
+                "votes": 37
+            },
+            {
+                "name": "Woody",
+                "votes": 16
+            },
+            {
+                "name": "Fruity",
+                "votes": 13
+            },
+            {
+                "name": "Fresh",
+                "votes": 50
+            },
+            {
+                "name": "Creamy",
+                "votes": 20
+            },
+            {
+                "name": "Floral",
+                "votes": 58
+            },
+            {
+                "name": "Aquatic",
+                "votes": 52
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 30
+            },
+            {
+                "name": "Feminine",
+                "votes": 50
+            },
+            {
+                "name": "Modern",
+                "votes": 48
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 11
+            },
+            {
+                "name": "Summer",
+                "votes": 65
+            },
+            {
+                "name": "Spring",
+                "votes": 57
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 49
+            },
+            {
+                "name": "Sport",
+                "votes": 24
+            },
+            {
+                "name": "Leisure",
+                "votes": 63
+            },
+            {
+                "name": "Night Out",
+                "votes": 22
+            },
+            {
+                "name": "Business",
+                "votes": 31
+            },
+            {
+                "name": "Evening",
+                "votes": 18
+            }
+        ]
+    }
+}

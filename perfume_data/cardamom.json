@@ -1,0 +1,24 @@
+{
+    "name": "Cardamom",
+    "brand": "JMP Artisan Perfumes",
+    "release_year": "2025",
+    "description": "A new perfume byJMP Artisan Perfumesfor women and men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Cardamom"
+    ],
+    "heart_notes": [
+        "Black tea",
+        "Cinnamon"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Oak absolute",
+        "Sandalwood",
+        "Styrax"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

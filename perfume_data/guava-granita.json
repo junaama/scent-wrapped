@@ -1,0 +1,138 @@
+{
+    "name": "Guava Granita",
+    "brand": "Ellis Brooklyn",
+    "release_year": "2025",
+    "description": "A new perfume byEllis Brooklynfor women and men, released in2025. The scent is fruity-sweet. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/cd/cd3c42_guava-granita-ellis-brooklyn_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Creamy",
+        "Synthetic",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Guava",
+        "Banana",
+        "Bergamot",
+        "Water lily"
+    ],
+    "heart_notes": [
+        "Coconut palm",
+        "Cantaloupe",
+        "Mango blossom"
+    ],
+    "base_notes": [
+        "Almond milk",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "40 Ratings"
+        },
+        "durability": {
+            "score": "6.4",
+            "votes": "25 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "24 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "32 Ratings"
+        },
+        "pricing": {
+            "score": "6.4",
+            "votes": "24 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 11
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 12
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 13
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

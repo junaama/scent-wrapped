@@ -1,0 +1,135 @@
+{
+    "name": "Powder Love",
+    "brand": "Juliette Has A Gun",
+    "release_year": "2025",
+    "description": "A new perfume byJuliette Has A Gunfor women, released in2025. The scent is sweet-powdery. It is being marketed byUshopal Group.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/15/15e8a5_powder-love-juliette-has-a-gun_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Powdery",
+        "Synthetic",
+        "Creamy",
+        "Floral"
+    ],
+    "top_notes": [
+        "Cotton candy",
+        "Marshmallow"
+    ],
+    "heart_notes": [
+        "Dragée",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Musk",
+        "Ambroxan",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "61 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "51 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "52 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "48 Ratings"
+        },
+        "pricing": {
+            "score": "7.6",
+            "votes": "35 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 9
+            },
+            {
+                "name": "Sweet",
+                "votes": 18
+            },
+            {
+                "name": "Powdery",
+                "votes": 13
+            },
+            {
+                "name": "Gourmand",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 8
+            },
+            {
+                "name": "Floral",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 18
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 9
+            },
+            {
+                "name": "Fall",
+                "votes": 13
+            },
+            {
+                "name": "Summer",
+                "votes": 14
+            },
+            {
+                "name": "Spring",
+                "votes": 18
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 14
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 18
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 10
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

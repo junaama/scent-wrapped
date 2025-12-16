@@ -1,0 +1,118 @@
+{
+    "name": "Serene Grove",
+    "brand": "Emir",
+    "release_year": "2025",
+    "description": "A new perfume byEmirfor women and men, released in2025. The scent is sweet-green. It is being marketed byParis Corner Perfumes.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ee/eea17d_serene-grove-emir_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Green",
+        "Citrus",
+        "Fruity",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Lemon",
+        "Mint",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Basil",
+        "Carrot",
+        "Fig",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Musk",
+        "Peach"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

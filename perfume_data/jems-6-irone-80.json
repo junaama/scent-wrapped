@@ -1,0 +1,98 @@
+{
+    "name": "JEMS 6 Irone 80",
+    "brand": "Jinx",
+    "release_year": "2025",
+    "description": "A new and limited perfume byJinxfor women and men, released in2025. The scent is floral. Projection and longevity are above-average. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/c6/c614de_jems-6-irone-80-jinx_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral"
+    ],
+    "top_notes": [
+        "Iris",
+        "Irone"
+    ],
+    "heart_notes": [
+        "Iris",
+        "Irone",
+        "Ambergris",
+        "Bakul attar",
+        "Black ambergris",
+        "Borneo oud",
+        "Costus root",
+        "Iris germanica",
+        "Iris pallida absolute",
+        "Orris butter",
+        "Stone fruits",
+        "Tobacco",
+        "Violet",
+        "White ambergris"
+    ],
+    "base_notes": [
+        "Iris",
+        "Irone"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.2",
+            "votes": "9 Ratings"
+        },
+        "durability": {
+            "score": "9.8",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "9.2",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

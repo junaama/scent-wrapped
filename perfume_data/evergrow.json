@@ -1,0 +1,33 @@
+{
+    "name": "Evergrow",
+    "brand": "Tombstone",
+    "release_year": "2025",
+    "description": "A new perfume byTombstonefor women and men, released in2025. The scent is green-chypre. It is being marketed byWonder Senses.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f3/f39771_evergrow-tombstone_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Chypre"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Galbanum",
+        "Vine"
+    ],
+    "heart_notes": [
+        "Labdanum",
+        "Orris root",
+        "Rose"
+    ],
+    "base_notes": [
+        "Musk",
+        "Oakmoss",
+        "Patchouli"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Tango",
+    "brand": "Gissah",
+    "release_year": "2025",
+    "description": "A new perfume byGissahfor women, released in2025. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/60/60bf8c_tango-gissah_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Honey pomelo",
+        "Mango",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Jasmine",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Sage"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "9.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

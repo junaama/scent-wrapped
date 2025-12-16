@@ -1,0 +1,36 @@
+{
+    "name": "Spanish Honey",
+    "brand": "Bortnikoff",
+    "release_year": "2025",
+    "description": "A new perfume byBortnikofffor women and men, released in2025. The longevity is above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/75/751491_spanish-honey-bortnikoff_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Honey"
+    ],
+    "heart_notes": [
+        "Benzoin",
+        "Jasmine",
+        "Orris root",
+        "Oud",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

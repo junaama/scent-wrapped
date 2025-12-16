@@ -1,0 +1,25 @@
+{
+    "name": "Casa di Capri",
+    "brand": "Nous Tous",
+    "release_year": "2025",
+    "description": "A new perfume byNous Tousfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e0/e051b3_casa-di-capri-nous-tous_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Grapefruit",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Lily of the valley",
+        "Orris root",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Frankincense",
+        "Musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

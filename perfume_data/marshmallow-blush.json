@@ -1,0 +1,133 @@
+{
+    "name": "Marshmallow Blush",
+    "brand": "Paris Corner",
+    "release_year": "2025",
+    "description": "A new perfume byParis Cornerfor women and men, released in2025. The scent is sweet-gourmand. It is being marketed byParis Corner Perfumes.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5d/5db6bc_marshmallow-blush-paris-corner_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Fruity",
+        "Creamy",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Strawberry",
+        "Raspberry",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Cream",
+        "Ambroxan",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Marshmallow",
+        "Vanilla",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "151 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "139 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "133 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "133 Ratings"
+        },
+        "pricing": {
+            "score": "8.7",
+            "votes": "121 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 8
+            },
+            {
+                "name": "Synthetic",
+                "votes": 13
+            },
+            {
+                "name": "Sweet",
+                "votes": 38
+            },
+            {
+                "name": "Powdery",
+                "votes": 7
+            },
+            {
+                "name": "Gourmand",
+                "votes": 32
+            },
+            {
+                "name": "Fruity",
+                "votes": 28
+            },
+            {
+                "name": "Creamy",
+                "votes": 27
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 32
+            },
+            {
+                "name": "Modern",
+                "votes": 24
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 22
+            },
+            {
+                "name": "Fall",
+                "votes": 28
+            },
+            {
+                "name": "Summer",
+                "votes": 27
+            },
+            {
+                "name": "Spring",
+                "votes": 32
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 25
+            },
+            {
+                "name": "Leisure",
+                "votes": 31
+            },
+            {
+                "name": "Night Out",
+                "votes": 14
+            },
+            {
+                "name": "Business",
+                "votes": 10
+            },
+            {
+                "name": "Evening",
+                "votes": 17
+            }
+        ]
+    }
+}

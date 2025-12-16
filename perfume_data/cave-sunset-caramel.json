@@ -1,0 +1,131 @@
+{
+    "name": "Cave - Sunset Caramel",
+    "brand": "Essential",
+    "release_year": "2025",
+    "description": "A new perfume byEssentialfor women and men, released in2025. The scent is sweet-floral.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/33/333fa0_cave-sunset-caramel-essential_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Gourmand",
+        "Fruity",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Almond",
+        "Aniseed",
+        "Coconut",
+        "Milk"
+    ],
+    "heart_notes": [
+        "Heliotrope",
+        "Nectarine",
+        "Orange blossom",
+        "White blossoms",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Bourbon vanilla",
+        "Caramel",
+        "Sandalwood",
+        "Tonka bean",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "15 Ratings"
+        },
+        "durability": {
+            "score": "6.4",
+            "votes": "13 Ratings"
+        },
+        "sillage": {
+            "score": "5.8",
+            "votes": "11 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

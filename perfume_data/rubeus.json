@@ -1,0 +1,110 @@
+{
+    "name": "Rubeus",
+    "brand": "Wesker",
+    "release_year": "2025",
+    "description": "A new perfume byWeskerfor women and men, released in2025. The scent is gourmand-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/65/65da09_rubeus-wesker_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Sweet",
+        "Synthetic",
+        "Fruity",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Cherry",
+        "Cocoa",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Apricot",
+        "Dark chocolate",
+        "Nougat"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Hazelnut",
+        "Oud",
+        "Vanilla cream"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.7",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "8.6",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

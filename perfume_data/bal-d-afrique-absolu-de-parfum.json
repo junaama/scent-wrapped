@@ -1,0 +1,141 @@
+{
+    "name": "Bal d'Afrique",
+    "brand": "Byredo",
+    "release_year": "2025",
+    "description": "A new perfume byByredofor women and men, released in2025. The scent is sweet-fruity. The longevity is above-average. It is being marketed byPuig.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2b/2b4708_bal-d-afrique-absolu-de-parfum-byredo_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Woody",
+        "Citrus",
+        "Floral"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Bergamot",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Praliné",
+        "Musk",
+        "Violet"
+    ],
+    "base_notes": [
+        "Black amber",
+        "Cedarwood",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "189 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "166 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "161 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "154 Ratings"
+        },
+        "pricing": {
+            "score": "6.9",
+            "votes": "135 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 25
+            },
+            {
+                "name": "Sweet",
+                "votes": 38
+            },
+            {
+                "name": "Woody",
+                "votes": 26
+            },
+            {
+                "name": "Fruity",
+                "votes": 32
+            },
+            {
+                "name": "Fresh",
+                "votes": 19
+            },
+            {
+                "name": "Creamy",
+                "votes": 14
+            },
+            {
+                "name": "Floral",
+                "votes": 21
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 28
+            },
+            {
+                "name": "Feminine",
+                "votes": 34
+            },
+            {
+                "name": "Modern",
+                "votes": 31
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 15
+            },
+            {
+                "name": "Fall",
+                "votes": 32
+            },
+            {
+                "name": "Summer",
+                "votes": 35
+            },
+            {
+                "name": "Spring",
+                "votes": 41
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 32
+            },
+            {
+                "name": "Sport",
+                "votes": 11
+            },
+            {
+                "name": "Leisure",
+                "votes": 38
+            },
+            {
+                "name": "Night Out",
+                "votes": 33
+            },
+            {
+                "name": "Business",
+                "votes": 30
+            },
+            {
+                "name": "Evening",
+                "votes": 31
+            }
+        ]
+    }
+}

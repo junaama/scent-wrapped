@@ -1,0 +1,121 @@
+{
+    "name": "Oud Extrata",
+    "brand": "Jinx",
+    "release_year": "2025",
+    "description": "A new and limited perfume byJinxfor women and men, released in2025. The scent is woody-floral. Projection and longevity are above-average. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/78/78604f_oud-extrata-jinx_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Floral",
+        "Fresh",
+        "Oriental",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Green cognac",
+        "Lemon",
+        "Orange",
+        "Aldehydes",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Bulgarian rose",
+        "Lavender",
+        "May rose",
+        "Omani green frankincense",
+        "Persian rose",
+        "Taif rose",
+        "Turkish rose"
+    ],
+    "base_notes": [
+        "Hinoki cypress",
+        "Burmese Kyara oud",
+        "Kashmiri deer musk",
+        "Thai Kyara oud",
+        "Atlas cedar",
+        "Camphor",
+        "Gaiac wood",
+        "Mysore sandalwood",
+        "Cypriol"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.1",
+            "votes": "12 Ratings"
+        },
+        "durability": {
+            "score": "8.6",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "8.5",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Freyja",
+    "brand": "House of Fenrir",
+    "release_year": "2025",
+    "description": "A new perfume byHouse of Fenrirfor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ca/cacc9c_freyja-house-of-fenrir_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Mandarin orange",
+        "Neroli",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Orange blossom",
+        "Rose"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Musky notes",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

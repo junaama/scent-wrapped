@@ -1,0 +1,46 @@
+{
+    "name": "Nude Effect",
+    "brand": "Voluspa",
+    "release_year": "2025",
+    "description": "A new perfume byVoluspafor women and men, released in2025. The scent is gourmand-citrusy.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/71/715bf8_nude-effect-voluspa_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Citrus",
+        "Oriental",
+        "Woody",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Orange blossom",
+        "Peruvian lime"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Salt",
+        "Sandalwood"
+    ],
+    "base_notes": [
+        "Musk",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "5.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

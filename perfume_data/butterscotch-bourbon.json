@@ -1,0 +1,77 @@
+{
+    "name": "Butterscotch Bourbon",
+    "brand": "Scents by MOST",
+    "release_year": "2025",
+    "description": "A new perfume byScents by MOSTfor women and men, released in2025. The scent is sweet-gourmand.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/95/957838_butterscotch-bourbon-scents-by-most_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Spicy",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Pepper"
+    ],
+    "heart_notes": [
+        "Brown sugar",
+        "Butterscotch"
+    ],
+    "base_notes": [
+        "Bourbon whiskey",
+        "Oak",
+        "Patchouli"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            }
+        ]
+    }
+}

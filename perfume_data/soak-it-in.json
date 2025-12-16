@@ -1,0 +1,56 @@
+{
+    "name": "Soak It In",
+    "brand": "Escapade Beauty",
+    "release_year": "2025",
+    "description": "A new perfume byEscapade Beautyfor women, released in2025. The scent is sweet-creamy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d3/d3b615_soak-it-in-escapade-beauty_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Coconut water"
+    ],
+    "heart_notes": [
+        "Davana",
+        "Gardenia"
+    ],
+    "base_notes": [
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ]
+    }
+}

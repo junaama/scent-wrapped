@@ -1,0 +1,33 @@
+{
+    "name": "03 - Runner's High",
+    "brand": "Noise",
+    "release_year": "2025",
+    "description": "A new perfume byNoisefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/dc/dc2ede_03-runner-s-high-noise_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Blackcurrant bud absolute",
+        "Galbanum",
+        "Mint"
+    ],
+    "heart_notes": [
+        "Coriander",
+        "Magnolia",
+        "Nutmeg",
+        "Violet"
+    ],
+    "base_notes": [
+        "Gaiac wood",
+        "Patchouli",
+        "Vetiver",
+        "Virginia cedar"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

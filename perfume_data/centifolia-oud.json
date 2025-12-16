@@ -1,0 +1,97 @@
+{
+    "name": "Centifolia Oud",
+    "brand": "Barzakh",
+    "release_year": "2025",
+    "description": "A new perfume byBarzakhfor women and men, released in2025. The scent is oriental-woody. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d0/d0ad7f_centifolia-oud-barzakh_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Oriental",
+        "Woody",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Moroccan Rosa centifolia absolute"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Moroccan Rosa centifolia absolute",
+        "Musk",
+        "Saffron",
+        "Vanilla orchid"
+    ],
+    "base_notes": [
+        "Brown ambergris",
+        "Civet",
+        "Moroccan Rosa centifolia absolute",
+        "Thai oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

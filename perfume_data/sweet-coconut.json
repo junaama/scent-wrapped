@@ -1,0 +1,30 @@
+{
+    "name": "Sweet Coconut",
+    "brand": "Aoera",
+    "release_year": "2025",
+    "description": "A new perfume byAoerafor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/e8/e8d8fe_sweet-coconut-aoera_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Blackcurrant",
+        "Coconut"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Orris root",
+        "Rose"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

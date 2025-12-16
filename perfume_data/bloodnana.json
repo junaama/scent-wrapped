@@ -1,0 +1,71 @@
+{
+    "name": "Bloodnana",
+    "brand": "OM Parfum",
+    "release_year": "2025",
+    "description": "A new perfume byOM Parfumfor women and men, released in2025. The scent is woody-spicy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/10/1063a6_bloodnana-om-parfum_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Spicy",
+        "Animal"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "9.4",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "9.3",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

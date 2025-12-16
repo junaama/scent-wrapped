@@ -1,0 +1,146 @@
+{
+    "name": "Eau Fraîche Extrême",
+    "brand": "Versace",
+    "release_year": "2025",
+    "description": "A new perfume byVersacefor men, released in2025. The scent is citrusy-fresh. It is being marketed byEuroItalia.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/49/49c842_eau-fraiche-extreme-versace_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Floral",
+        "Synthetic",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Lemon",
+        "Orange blossom",
+        "Bourbon geranium"
+    ],
+    "heart_notes": [
+        "Brazilian pink pepper",
+        "Diva lavender",
+        "Provençal clary sage",
+        "Madagascan pink pepper"
+    ],
+    "base_notes": [
+        "Ambrox",
+        "Musk",
+        "Virginia cedar wood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "112 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "90 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "90 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "94 Ratings"
+        },
+        "pricing": {
+            "score": "6.6",
+            "votes": "81 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 26
+            },
+            {
+                "name": "Spicy",
+                "votes": 12
+            },
+            {
+                "name": "Synthetic",
+                "votes": 16
+            },
+            {
+                "name": "Sweet",
+                "votes": 13
+            },
+            {
+                "name": "Fresh",
+                "votes": 24
+            },
+            {
+                "name": "Creamy",
+                "votes": 7
+            },
+            {
+                "name": "Floral",
+                "votes": 16
+            },
+            {
+                "name": "Aquatic",
+                "votes": 12
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 29
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 24
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 13
+            },
+            {
+                "name": "Summer",
+                "votes": 27
+            },
+            {
+                "name": "Spring",
+                "votes": 23
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 22
+            },
+            {
+                "name": "Sport",
+                "votes": 15
+            },
+            {
+                "name": "Leisure",
+                "votes": 25
+            },
+            {
+                "name": "Night Out",
+                "votes": 9
+            },
+            {
+                "name": "Business",
+                "votes": 21
+            },
+            {
+                "name": "Evening",
+                "votes": 10
+            }
+        ]
+    }
+}

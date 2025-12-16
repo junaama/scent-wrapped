@@ -1,0 +1,25 @@
+{
+    "name": "Chrome",
+    "brand": "Solid State",
+    "release_year": "2025",
+    "description": "A new perfume bySolid Statefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/08/082bdc_chrome-solid-state_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Cardamom",
+        "Violet"
+    ],
+    "heart_notes": [
+        "Elemi resin",
+        "Frankincense"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

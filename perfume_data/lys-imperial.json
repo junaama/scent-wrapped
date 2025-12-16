@@ -1,0 +1,39 @@
+{
+    "name": "Lys Impérial",
+    "brand": "Monkoku",
+    "release_year": "2025",
+    "description": "A new perfume byMonkokufor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f8/f80e86_lys-imperial-monkoku_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Jasmine",
+        "Ylang-ylang"
+    ],
+    "heart_notes": [
+        "Heliotrope",
+        "Lily",
+        "Peach",
+        "Pear",
+        "Violet"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cashmere",
+        "Cocoa powder",
+        "Coconut",
+        "Milk",
+        "Powder",
+        "Sugar",
+        "Tonka bean",
+        "Vanilla",
+        "Woods"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

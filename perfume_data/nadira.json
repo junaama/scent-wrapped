@@ -1,0 +1,121 @@
+{
+    "name": "Nadira",
+    "brand": "Lattafa",
+    "release_year": "2025",
+    "description": "A new perfume byLattafafor women, released in2025. The scent is resinous-oriental. The projection is above-average. It is being marketed byLattafa Perfumes Industries LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a1/a1ca6c_nadira-lattafa_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Oriental",
+        "Gourmand",
+        "Sweet",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Mango",
+        "Passion fruit"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Milk",
+        "Strawberry"
+    ],
+    "base_notes": [
+        "Amber",
+        "Benzoin",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "8.8",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

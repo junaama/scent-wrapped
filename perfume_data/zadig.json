@@ -1,0 +1,133 @@
+{
+    "name": "Zadig",
+    "brand": "Zadig & Voltaire",
+    "release_year": "2025",
+    "description": "A new perfume byZadig & Voltairefor women, released in2025. The scent is sweet-floral. It is being marketed byShiseido Group / Beauté Prestige International.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/19/195d80_zadig-zadig-voltaire_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Creamy",
+        "Gourmand",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Sesame",
+        "Black sesame"
+    ],
+    "heart_notes": [
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Toasted vanilla",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.5",
+            "votes": "265 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "212 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "205 Ratings"
+        },
+        "bottle": {
+            "score": "6.8",
+            "votes": "233 Ratings"
+        },
+        "pricing": {
+            "score": "6.3",
+            "votes": "157 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 19
+            },
+            {
+                "name": "Synthetic",
+                "votes": 35
+            },
+            {
+                "name": "Sweet",
+                "votes": 94
+            },
+            {
+                "name": "Gourmand",
+                "votes": 37
+            },
+            {
+                "name": "Creamy",
+                "votes": 56
+            },
+            {
+                "name": "Floral",
+                "votes": 63
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 10
+            },
+            {
+                "name": "Feminine",
+                "votes": 97
+            },
+            {
+                "name": "Classic",
+                "votes": 11
+            },
+            {
+                "name": "Modern",
+                "votes": 56
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 55
+            },
+            {
+                "name": "Fall",
+                "votes": 76
+            },
+            {
+                "name": "Summer",
+                "votes": 37
+            },
+            {
+                "name": "Spring",
+                "votes": 70
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 64
+            },
+            {
+                "name": "Leisure",
+                "votes": 73
+            },
+            {
+                "name": "Night Out",
+                "votes": 55
+            },
+            {
+                "name": "Business",
+                "votes": 49
+            },
+            {
+                "name": "Evening",
+                "votes": 46
+            }
+        ]
+    }
+}

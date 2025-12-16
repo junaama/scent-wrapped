@@ -1,0 +1,91 @@
+{
+    "name": "Mezcal Chocolat",
+    "brand": "French Cowboy",
+    "release_year": "2025",
+    "description": "A new perfume byFrench Cowboyfor women and men, released in2025. The scent is gourmand-spicy. Projection and longevity are above-average. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/28/28ff45_mezcal-chocolat-french-cowboy_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Spicy",
+        "Fruity",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Chili",
+        "Salted lime",
+        "Somalian frankincense"
+    ],
+    "heart_notes": [
+        "Cade juniper",
+        "Cocoa absolute",
+        "Rum"
+    ],
+    "base_notes": [
+        "Nagarmotha",
+        "Vanilla",
+        "Virginia cedar wood"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

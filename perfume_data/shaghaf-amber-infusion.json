@@ -1,0 +1,150 @@
+{
+    "name": "Shaghaf Amber Infusion",
+    "brand": "Swiss Arabian",
+    "release_year": "2025",
+    "description": "A new perfume bySwiss Arabianfor women and men, released in2025. The scent is resinous-sweet. Projection and longevity are above-average. It is being marketed bySAPG (Swiss Arabian Perfumes Group).Compare",
+    "image_url": "https://media.parfumo.com/perfumes/70/7004aa_shaghaf-amber-infusion-swiss-arabian_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Sweet",
+        "Spicy",
+        "Oriental",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Apricot",
+        "Amber",
+        "Cardamom",
+        "Ginger"
+    ],
+    "heart_notes": [
+        "Apple",
+        "Lily of the valley",
+        "Vanilla",
+        "Davana",
+        "Cedarwood"
+    ],
+    "base_notes": [
+        "Musk",
+        "Amber",
+        "Frankincense",
+        "Leather",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "24 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "23 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "23 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "20 Ratings"
+        },
+        "pricing": {
+            "score": "8.5",
+            "votes": "17 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Smoky",
+                "votes": 3
+            },
+            {
+                "name": "Oriental",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

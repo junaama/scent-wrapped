@@ -1,0 +1,24 @@
+{
+    "name": "Romeo",
+    "brand": "Auroradon",
+    "release_year": "2025",
+    "description": "A new perfume byAuroradonfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2b/2b7a39_romeo-auroradon_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Metallic notes",
+        "Rose"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Mineral notes",
+        "Rose absolute"
+    ],
+    "base_notes": [
+        "Musk",
+        "Smoke",
+        "Soil"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

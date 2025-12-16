@@ -1,0 +1,114 @@
+{
+    "name": "Pacific Vibes",
+    "brand": "D'Qar",
+    "release_year": "2025",
+    "description": "A new perfume byD'Qarfor women and men, released in2025. The scent is citrusy-aquatic.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [
+        "Citrus",
+        "Aquatic",
+        "Fresh",
+        "Fruity",
+        "Green"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Citron",
+        "Coriander seed",
+        "Lemon",
+        "Mint",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Apricot",
+        "Basil",
+        "Carrot seed",
+        "May rose"
+    ],
+    "base_notes": [
+        "Abelmoschus",
+        "Ambrette",
+        "Date",
+        "Fig"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.9",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "6.4",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

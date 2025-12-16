@@ -1,0 +1,105 @@
+{
+    "name": "Vanilla Mood",
+    "brand": "Paris Corner",
+    "release_year": "2025",
+    "description": "A new perfume byParis Cornerfor women and men, released in2025. The scent is gourmand-animal. The longevity is above-average. It is being marketed byParis Corner Perfumes.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/64/64ec10_vanilla-mood-paris-corner_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Animal",
+        "Creamy",
+        "Powdery",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Ozonic notes",
+        "Ambrette",
+        "Ginger"
+    ],
+    "heart_notes": [
+        "Benzoin",
+        "Myrrh",
+        "Orris root"
+    ],
+    "base_notes": [
+        "Leather",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

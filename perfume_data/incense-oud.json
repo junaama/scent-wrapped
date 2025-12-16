@@ -1,0 +1,80 @@
+{
+    "name": "Incense Oud",
+    "brand": "Barzakh",
+    "release_year": "2025",
+    "description": "A new perfume byBarzakhfor women and men, released in2025. The scent is woody. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4a/4adf47-incense-oud-barzakh_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody"
+    ],
+    "top_notes": [
+        "Manuka myrtle"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Benzoin",
+        "Frankincense",
+        "Myrrh",
+        "Virginia cedar"
+    ],
+    "base_notes": [
+        "Indonesian sandalwood",
+        "Thai oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.1",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Woody",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

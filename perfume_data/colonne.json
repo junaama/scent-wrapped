@@ -1,0 +1,32 @@
+{
+    "name": "Colonne",
+    "brand": "KIKO",
+    "release_year": "2025",
+    "description": "A new perfume byKIKOfor women and men, released in2025. It is being marketed byPercassi.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f5/f53299_colonne-kiko_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Fig leaf",
+        "Indian cardamom Orpur®",
+        "Peach",
+        "Tea"
+    ],
+    "heart_notes": [
+        "Haitian vetiver Orpur®",
+        "Iris",
+        "Plum",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Amber",
+        "Australian sandalwood orpur®",
+        "Oakmoss"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

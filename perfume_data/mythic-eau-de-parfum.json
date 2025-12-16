@@ -1,0 +1,32 @@
+{
+    "name": "Mythic",
+    "brand": "Exceed",
+    "release_year": "2025",
+    "description": "A new perfume byExceedfor women and men, released in2025. The scent is gourmand-spicy. The projection is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/df/dfe6c5_mythic-eau-de-parfum-exceed_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Spicy",
+        "Oriental",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Musky notes",
+        "Plum"
+    ],
+    "heart_notes": [
+        "Labdanum",
+        "Precious woods"
+    ],
+    "base_notes": [
+        "Amber notes",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

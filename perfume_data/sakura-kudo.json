@@ -1,0 +1,94 @@
+{
+    "name": "Sakura Kudo",
+    "brand": "Fragrance Addict",
+    "release_year": "2025",
+    "description": "A new perfume byFragrance Addictfor women and men, released in2025. The scent is sweet-citrusy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/22/22be1f_sakura-kudo-fragrance-addict_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Citrus",
+        "Leathery",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Citrus notes",
+        "Pepper"
+    ],
+    "heart_notes": [
+        "Lily of the valley",
+        "Raspberry"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Leather",
+        "Musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

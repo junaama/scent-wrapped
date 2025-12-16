@@ -1,0 +1,104 @@
+{
+    "name": "Hypnotic Amber",
+    "brand": "Xeena",
+    "release_year": "2025",
+    "description": "A new perfume byXeenafor women and men, released in2025. The scent is sweet-gourmand. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a6/a64bd9_hypnotic-amber-xeena_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Spicy",
+        "Woody",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Iris",
+        "Juniper",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Davana",
+        "Lavender",
+        "Toffee"
+    ],
+    "base_notes": [
+        "Ambrofix",
+        "Sandalwood",
+        "Suede",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "8.3",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

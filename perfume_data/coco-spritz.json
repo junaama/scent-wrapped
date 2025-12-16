@@ -1,0 +1,25 @@
+{
+    "name": "Coco Spritz",
+    "brand": "Atelier Rebul",
+    "release_year": "2025",
+    "description": "A new perfume byAtelier Rebulfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/cb/cbca87_coco-spritz-atelier-rebul_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Coconut milk",
+        "Orange",
+        "Peach"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Freesia",
+        "Lily of the valley"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

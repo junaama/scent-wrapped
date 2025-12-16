@@ -1,0 +1,38 @@
+{
+    "name": "Silent Drift",
+    "brand": "Avau",
+    "release_year": "2025",
+    "description": "A new perfume byAvaufor women and men, released in2025. The scent is floral-woody. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/10/1060ab_silent-drift-avau_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Woody"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Cypress",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Apricot",
+        "Iris",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Ambrette seed",
+        "Sandalwood",
+        "White musk"
+    ],
+    "ratings": {
+        "durability": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,136 @@
+{
+    "name": "Kakigori - Dulce de Leche",
+    "brand": "Obvious",
+    "release_year": "2025",
+    "description": "A new perfume byObviousfor women and men, released in2025. The scent is gourmand-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a2/a2224d_kakigori-dulce-de-leche-obvious_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Sweet",
+        "Creamy",
+        "Woody",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Black pepper",
+        "Cardamom",
+        "Hazelnut"
+    ],
+    "heart_notes": [
+        "Dulce de leche",
+        "Sesame absolute"
+    ],
+    "base_notes": [
+        "Gaiac wood",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "33 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "23 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "23 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "22 Ratings"
+        },
+        "pricing": {
+            "score": "6.5",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 16
+            },
+            {
+                "name": "Woody",
+                "votes": 7
+            },
+            {
+                "name": "Gourmand",
+                "votes": 17
+            },
+            {
+                "name": "Creamy",
+                "votes": 12
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 16
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 14
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 11
+            },
+            {
+                "name": "Fall",
+                "votes": 14
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 10
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 12
+            },
+            {
+                "name": "Leisure",
+                "votes": 13
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

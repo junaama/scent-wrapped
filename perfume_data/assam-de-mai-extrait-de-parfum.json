@@ -1,0 +1,90 @@
+{
+    "name": "Assam de Mai",
+    "brand": "Barzakh",
+    "release_year": "2025",
+    "description": "A new perfume byBarzakhfor women and men, released in2025. The scent is animal-green. The longevity is above-average.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [
+        "Animal",
+        "Green",
+        "Earthy",
+        "Floral",
+        "Smoky"
+    ],
+    "top_notes": [
+        "May rose",
+        "Yuzu"
+    ],
+    "heart_notes": [
+        "Amber absolute",
+        "Labdanum",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Assam oud",
+        "Castoreum",
+        "Civet",
+        "Sandalwood",
+        "Siberian deer musk",
+        "White ambergris"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

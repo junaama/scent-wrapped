@@ -1,0 +1,46 @@
+{
+    "name": "Piñada",
+    "brand": "Duduar Milano",
+    "release_year": "2025",
+    "description": "A new perfume byDuduar Milanofor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/83/8391ae_pinada-duduar-milano_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Grapefruit",
+        "Lime",
+        "Piña Colada",
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Ozonic notes",
+        "Salt",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Amberwood",
+        "Oakmoss",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.2",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "5.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

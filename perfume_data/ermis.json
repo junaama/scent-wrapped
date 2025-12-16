@@ -1,0 +1,92 @@
+{
+    "name": "Ermis",
+    "brand": "Lyora",
+    "release_year": "2025",
+    "description": "A new perfume byLyorafor men, released in2025. The scent is floral-oriental. The projection is above-average.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [
+        "Floral",
+        "Oriental",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Rose",
+        "Ylang-ylang"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Dried fruits",
+        "Geranium",
+        "Violet"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Benzoin",
+        "Cedarwood",
+        "Cypriol",
+        "Gaiac wood",
+        "Musk",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "6.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

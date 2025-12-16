@@ -1,0 +1,31 @@
+{
+    "name": "Cerasus",
+    "brand": "Potencía",
+    "release_year": "2025",
+    "description": "A new perfume byPotencíafor women and men, released in2025. The scent is fruity-fresh.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [
+        "Fruity",
+        "Fresh",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Bitter almond",
+        "Black cherry",
+        "Cherry liqueur"
+    ],
+    "heart_notes": [
+        "Griotte syrup",
+        "Jasmine sambac",
+        "Turkish rose"
+    ],
+    "base_notes": [
+        "Cedar",
+        "Peru balsam",
+        "Roasted tonka bean",
+        "Sandalwood",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

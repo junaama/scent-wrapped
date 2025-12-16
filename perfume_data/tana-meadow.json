@@ -1,0 +1,114 @@
+{
+    "name": "Tana Meadow",
+    "brand": "Liberty London",
+    "release_year": "2025",
+    "description": "A new perfume byLiberty Londonfor women and men, released in2025. The scent is sweet-fruity. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e9/e9a580_tana-meadow-liberty-london_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Creamy",
+        "Woody",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Pear",
+        "Green cypress",
+        "Mandarin orange",
+        "Pink pepper",
+        "Ginger"
+    ],
+    "heart_notes": [
+        "Coconut",
+        "Orris root",
+        "White orchid",
+        "Jasmine",
+        "Rose"
+    ],
+    "base_notes": [
+        "Ambrox",
+        "Musk",
+        "Praliné",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "name": "Niswah",
+    "brand": "Ahmed Al Maghribi",
+    "release_year": "2025",
+    "description": "A new perfume byAhmed Al Maghribifor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/01/019cea_niswah-ahmed-al-maghribi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Apple",
+        "Bergamot",
+        "Blackcurrant",
+        "Hazelnut",
+        "Pear",
+        "Peony",
+        "Pink pepper",
+        "Raspberry",
+        "Red berries",
+        "Saffron",
+        "Tagetes"
+    ],
+    "heart_notes": [
+        "Charred wood",
+        "Cinnamon",
+        "Coconut",
+        "Frangipani",
+        "Gardenia",
+        "Jasmine",
+        "Nutmeg",
+        "Orange blossom",
+        "Orris root",
+        "Osmanthus",
+        "Plum",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Ambrette",
+        "Ambroxan",
+        "Benzoin",
+        "Brown sugar",
+        "Caramel",
+        "Cashmeran",
+        "Chocolate",
+        "Cocoa",
+        "Gaiac wood",
+        "Labdanum",
+        "Oud",
+        "Patchouli",
+        "Rose",
+        "Sandalwood",
+        "Tobacco",
+        "Tonka bean",
+        "Vanilla",
+        "White musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

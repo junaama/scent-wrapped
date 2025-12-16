@@ -1,0 +1,145 @@
+{
+    "name": "Guilty Absolu de Parfum pour Homme",
+    "brand": "Gucci",
+    "release_year": "2025",
+    "description": "A new perfume byGuccifor men, released in2025. The scent is sweet-spicy. Projection and longevity are above-average. It is being marketed byCoty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/bb/bbfdaa_guilty-absolu-de-parfum-pour-homme-gucci_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Powdery",
+        "Woody",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Bitter almond",
+        "Orange blossom absolute",
+        "Rum"
+    ],
+    "heart_notes": [
+        "Tonka bean absolute",
+        "Labdanum",
+        "Red chili"
+    ],
+    "base_notes": [
+        "Leather",
+        "Benzoin",
+        "Vanillin"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "138 Ratings"
+        },
+        "durability": {
+            "score": "8.6",
+            "votes": "123 Ratings"
+        },
+        "sillage": {
+            "score": "8.3",
+            "votes": "122 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "123 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "108 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 20
+            },
+            {
+                "name": "Synthetic",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 22
+            },
+            {
+                "name": "Powdery",
+                "votes": 17
+            },
+            {
+                "name": "Leathery",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 13
+            },
+            {
+                "name": "Resinous",
+                "votes": 10
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 9
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 26
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 19
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 28
+            },
+            {
+                "name": "Fall",
+                "votes": 27
+            },
+            {
+                "name": "Spring",
+                "votes": 16
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 10
+            },
+            {
+                "name": "Leisure",
+                "votes": 15
+            },
+            {
+                "name": "Night Out",
+                "votes": 26
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 26
+            }
+        ]
+    }
+}

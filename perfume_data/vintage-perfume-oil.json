@@ -1,0 +1,89 @@
+{
+    "name": "Vintage",
+    "brand": "Elixir Attar",
+    "release_year": "2025",
+    "description": "A new perfume byElixir Attarfor women and men, released in2025. The scent is floral-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f0/f069b9_vintage-perfume-oil-elixir-attar_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Aldehydes",
+        "Bergamot",
+        "Neroli"
+    ],
+    "heart_notes": [
+        "Carnation",
+        "Jasmine",
+        "May rose",
+        "Violet",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Amber",
+        "Benzoin",
+        "Civet",
+        "Oakmoss",
+        "Patchouli",
+        "Sandalwood",
+        "Tonka bean",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.0",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            }
+        ]
+    }
+}

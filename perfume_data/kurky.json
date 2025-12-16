@@ -1,0 +1,121 @@
+{
+    "name": "Kurky",
+    "brand": "Maison Francis Kurkdjian",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Francis Kurkdjianfor women and men, released in2025. The scent is sweet-fruity. It is being marketed byLVMH.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/35/35680b_kurky-maison-francis-kurkdjian_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Creamy",
+        "Synthetic",
+        "Powdery"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "6.3",
+            "votes": "328 Ratings"
+        },
+        "durability": {
+            "score": "5.4",
+            "votes": "285 Ratings"
+        },
+        "sillage": {
+            "score": "5.0",
+            "votes": "283 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "261 Ratings"
+        },
+        "pricing": {
+            "score": "4.4",
+            "votes": "242 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 32
+            },
+            {
+                "name": "Sweet",
+                "votes": 64
+            },
+            {
+                "name": "Powdery",
+                "votes": 23
+            },
+            {
+                "name": "Gourmand",
+                "votes": 17
+            },
+            {
+                "name": "Fruity",
+                "votes": 56
+            },
+            {
+                "name": "Creamy",
+                "votes": 41
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 17
+            },
+            {
+                "name": "Feminine",
+                "votes": 61
+            },
+            {
+                "name": "Modern",
+                "votes": 40
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 17
+            },
+            {
+                "name": "Fall",
+                "votes": 28
+            },
+            {
+                "name": "Summer",
+                "votes": 56
+            },
+            {
+                "name": "Spring",
+                "votes": 61
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 48
+            },
+            {
+                "name": "Leisure",
+                "votes": 61
+            },
+            {
+                "name": "Night Out",
+                "votes": 20
+            },
+            {
+                "name": "Business",
+                "votes": 30
+            },
+            {
+                "name": "Evening",
+                "votes": 16
+            }
+        ]
+    }
+}

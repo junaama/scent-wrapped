@@ -1,0 +1,126 @@
+{
+    "name": "L'Eau Pure",
+    "brand": "Kenzo",
+    "release_year": "2025",
+    "description": "A new perfume byKenzofor women and men, released in2025. The scent is aquatic-fresh. It is being marketed byLVMH.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e4/e44bc6_l-eau-pure-kenzo_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Aquatic",
+        "Fresh",
+        "Citrus",
+        "Floral",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Italian mandarin orange",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Aquozone",
+        "White provençal lavender"
+    ],
+    "base_notes": [
+        "Australian sandalwood",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "63 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "47 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "48 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "53 Ratings"
+        },
+        "pricing": {
+            "score": "7.8",
+            "votes": "34 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 17
+            },
+            {
+                "name": "Synthetic",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 22
+            },
+            {
+                "name": "Floral",
+                "votes": 8
+            },
+            {
+                "name": "Aquatic",
+                "votes": 22
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 17
+            },
+            {
+                "name": "Feminine",
+                "votes": 17
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 15
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 23
+            },
+            {
+                "name": "Spring",
+                "votes": 17
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 23
+            },
+            {
+                "name": "Sport",
+                "votes": 15
+            },
+            {
+                "name": "Leisure",
+                "votes": 21
+            },
+            {
+                "name": "Business",
+                "votes": 16
+            }
+        ]
+    }
+}

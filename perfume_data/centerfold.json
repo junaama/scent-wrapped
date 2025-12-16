@@ -1,0 +1,93 @@
+{
+    "name": "Centerfold",
+    "brand": "Hollywood Gifts",
+    "release_year": "2025",
+    "description": "A new perfume byHollywood Giftsfor women and men, released in2025. The scent is fruity-sweet. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/74/74ef77_centerfold-hollywood-gifts_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Floral",
+        "Synthetic",
+        "Fresh"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "5.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "5.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

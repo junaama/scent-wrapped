@@ -1,0 +1,111 @@
+{
+    "name": "Nº23 Honey Milk",
+    "brand": "Mix:Bar",
+    "release_year": "2025",
+    "description": "A new perfume byMix:Barfor women and men, released in2025. The scent is sweet-creamy. It is being marketed byMaesa.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/43/43c65a_no23-honey-milk-eau-de-parfum-mix-bar_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Creamy",
+        "Gourmand",
+        "Resinous",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Honey",
+        "Star anise"
+    ],
+    "heart_notes": [
+        "Almond blossom",
+        "Oat milk",
+        "Cream"
+    ],
+    "base_notes": [
+        "Bourbon vanilla absolute",
+        "Coffee liqueur"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.6",
+            "votes": "11 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

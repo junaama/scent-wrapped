@@ -1,0 +1,149 @@
+{
+    "name": "Jolly Rabbit",
+    "brand": "MCM",
+    "release_year": "2025",
+    "description": "A new perfume byMCMfor women and men, released in2025. The scent is fresh-synthetic. It is being marketed byInterparfums.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e7/e77b3c_jolly-rabbit-mcm_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Synthetic",
+        "Citrus",
+        "Sweet",
+        "Green"
+    ],
+    "top_notes": [
+        "Orange",
+        "Red currant",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Neroli",
+        "Ginger",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Ambrox",
+        "Gaiac wood",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "19 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "17 Ratings"
+        },
+        "sillage": {
+            "score": "6.4",
+            "votes": "17 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "22 Ratings"
+        },
+        "pricing": {
+            "score": "6.8",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 6
+            },
+            {
+                "name": "Synthetic",
+                "votes": 7
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 7
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

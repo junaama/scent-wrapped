@@ -1,0 +1,23 @@
+{
+    "name": "Velvet Echo",
+    "brand": "Taylor Scents",
+    "release_year": "2025",
+    "description": "A new perfume byTaylor Scentsfor women and men, released in2025. It is being marketed byCJ Group.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/30/30088d_velvet-echo-taylor-scents_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Kumquat",
+        "Mandarin orange",
+        "Peppermint"
+    ],
+    "heart_notes": [
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

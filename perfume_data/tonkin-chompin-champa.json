@@ -1,0 +1,121 @@
+{
+    "name": "Tonkin Chompin Champa",
+    "brand": "House of Heartistry",
+    "release_year": "2025",
+    "description": "A new perfume byHouse of Heartistryfor women and men, released in2025. The scent is resinous-floral. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/10/10660c_tonkin-chompin-champa-house-of-heartistry_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Floral",
+        "Woody",
+        "Sweet",
+        "Animal"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "9.1",
+            "votes": "9 Ratings"
+        },
+        "durability": {
+            "score": "8.9",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "9.6",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            },
+            {
+                "name": "Animal",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "name": "Un Été Français",
+    "brand": "Celine",
+    "release_year": "2025",
+    "description": "A new perfume byCelinefor women and men, released in2025. The scent is creamy-green. It is being marketed byLVMH.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/40/40af6d_un-ete-francais-celine_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Creamy",
+        "Green",
+        "Floral",
+        "Sweet",
+        "Fresh"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "125 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "95 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "97 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "89 Ratings"
+        },
+        "pricing": {
+            "score": "5.5",
+            "votes": "49 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 9
+            },
+            {
+                "name": "Sweet",
+                "votes": 24
+            },
+            {
+                "name": "Green",
+                "votes": 33
+            },
+            {
+                "name": "Fresh",
+                "votes": 21
+            },
+            {
+                "name": "Creamy",
+                "votes": 42
+            },
+            {
+                "name": "Floral",
+                "votes": 30
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 20
+            },
+            {
+                "name": "Feminine",
+                "votes": 42
+            },
+            {
+                "name": "Classic",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 23
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 45
+            },
+            {
+                "name": "Spring",
+                "votes": 41
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 36
+            },
+            {
+                "name": "Leisure",
+                "votes": 41
+            },
+            {
+                "name": "Night Out",
+                "votes": 17
+            },
+            {
+                "name": "Business",
+                "votes": 32
+            },
+            {
+                "name": "Evening",
+                "votes": 15
+            }
+        ]
+    }
+}

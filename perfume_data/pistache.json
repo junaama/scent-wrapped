@@ -1,0 +1,127 @@
+{
+    "name": "Pistache",
+    "brand": "LM Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byLM Parfumsfor women and men, released in2025. The scent is sweet-gourmand.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/72/72a7a5_pistache-lm-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Creamy",
+        "Spicy",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Pistachio cream"
+    ],
+    "heart_notes": [
+        "Cocoa absolute",
+        "Coffee absolute",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sandalwood",
+        "Tonka bean absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "24 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "19 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "18 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "21 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 9
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 8
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 9
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

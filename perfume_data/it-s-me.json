@@ -1,0 +1,22 @@
+{
+    "name": "It's Me",
+    "brand": "Jana Ina Beauty",
+    "release_year": "2025",
+    "description": "A new perfume byJana Ina Beautyfor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4d/4dd907_it-s-me-jana-ina-beauty_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Lemon",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Green notes",
+        "Rose leaf",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "White musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

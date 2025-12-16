@@ -1,0 +1,145 @@
+{
+    "name": "Elisa",
+    "brand": "Marie Jeanne",
+    "release_year": "2025",
+    "description": "A new perfume byMarie Jeannefor women and men, released in2025. The scent is citrusy-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5b/5bd430_elisa-marie-jeanne_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Fruity",
+        "Sweet",
+        "Woody"
+    ],
+    "top_notes": [
+        "Italian bergamot",
+        "Italian mandarin orange",
+        "Spanish yuzu"
+    ],
+    "heart_notes": [
+        "Davana",
+        "Provençal lavender",
+        "Tunisian orange blossom"
+    ],
+    "base_notes": [
+        "Nepalese sandalwood",
+        "Siam benzoin",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "13 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "12 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "6.8",
+            "votes": "19 Ratings"
+        },
+        "pricing": {
+            "score": "7.5",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 6
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

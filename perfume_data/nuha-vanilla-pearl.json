@@ -1,0 +1,108 @@
+{
+    "name": "Nuha Vanilla Pearl",
+    "brand": "Khadlaj",
+    "release_year": "2025",
+    "description": "A new perfume byKhadlajfor women, released in2025. The scent is sweet-fruity. It is being marketed byKhadlaj Perfumes LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/79/793719_nuha-vanilla-pearl-khadlaj_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Floral",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Freesia",
+        "Strawberry"
+    ],
+    "heart_notes": [
+        "Cashmere",
+        "Magnolia",
+        "Raspberry"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Moss",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "8 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

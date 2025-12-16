@@ -1,0 +1,117 @@
+{
+    "name": "Oud Voyager",
+    "brand": "Tom Ford",
+    "release_year": "2025",
+    "description": "A new perfume byTom Fordfor women and men, released in2025. The scent is woody-floral. The longevity is above-average. It is being marketed byEstēe Lauder Companies.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c1/c1ead8_oud-voyager-tom-ford_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Floral",
+        "Oriental",
+        "Spicy",
+        "Sweet"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "114 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "89 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "86 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "85 Ratings"
+        },
+        "pricing": {
+            "score": "5.7",
+            "votes": "65 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 13
+            },
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Oriental",
+                "votes": 17
+            },
+            {
+                "name": "Woody",
+                "votes": 18
+            },
+            {
+                "name": "Floral",
+                "votes": 18
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 14
+            },
+            {
+                "name": "Feminine",
+                "votes": 14
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 13
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 16
+            },
+            {
+                "name": "Fall",
+                "votes": 18
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 11
+            },
+            {
+                "name": "Night Out",
+                "votes": 18
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 18
+            }
+        ]
+    }
+}

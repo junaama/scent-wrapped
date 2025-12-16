@@ -1,0 +1,27 @@
+{
+    "name": "Acqua di Bolgheri - Sublime Caffè",
+    "brand": "Dr. Taffi",
+    "release_year": "2025",
+    "description": "A new perfume byDr. Taffifor women and men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Lemon",
+        "Orange",
+        "Peach",
+        "Tangerine"
+    ],
+    "heart_notes": [
+        "Candied fruits",
+        "Coffee",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Sugar",
+        "Vanilla",
+        "White musk",
+        "Woods"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

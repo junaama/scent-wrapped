@@ -1,0 +1,31 @@
+{
+    "name": "Hippie Dreams",
+    "brand": "Lovelace Perfumes",
+    "release_year": "2025",
+    "description": "A new perfume byLovelace Perfumesfor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/97/97bc8f_hippie-dreams-lovelace-perfumes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Aquatic notes",
+        "Bergamot",
+        "Green tea"
+    ],
+    "heart_notes": [
+        "Blue spruce",
+        "Fig",
+        "Pink pepper",
+        "Sage"
+    ],
+    "base_notes": [
+        "Leather",
+        "Patchouli",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

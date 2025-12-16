@@ -1,0 +1,121 @@
+{
+    "name": "Lignum",
+    "brand": "Buchoed",
+    "release_year": "2025",
+    "description": "A new perfume byBuchoedfor women and men, released in2025. The scent is spicy-woody.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/31/3191fb_lignum-buchod_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Resinous",
+        "Sweet",
+        "Powdery"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "37 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "33 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "31 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "24 Ratings"
+        },
+        "pricing": {
+            "score": "7.6",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 14
+            },
+            {
+                "name": "Sweet",
+                "votes": 9
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 14
+            },
+            {
+                "name": "Resinous",
+                "votes": 14
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 11
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 12
+            },
+            {
+                "name": "Fall",
+                "votes": 13
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Night Out",
+                "votes": 9
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 12
+            }
+        ]
+    }
+}

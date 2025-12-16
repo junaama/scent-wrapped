@@ -1,0 +1,36 @@
+{
+    "name": "Peach",
+    "brand": "Potencía",
+    "release_year": "2025",
+    "description": "A new perfume byPotencíafor women and men, released in2025. The scent is fruity-floral.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [
+        "Fruity",
+        "Floral",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Sicilian blood orange",
+        "Wild peach"
+    ],
+    "heart_notes": [
+        "Cognac",
+        "Davana",
+        "Heliotrope",
+        "Jasmine sambac absolute",
+        "Rum absolute"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Cashmeran",
+        "Indonesian patchouli",
+        "Labdanum absolute",
+        "New Caledonian sandalwood absolute",
+        "Styrax",
+        "Tonka bean absolute",
+        "Vanilla absolute"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

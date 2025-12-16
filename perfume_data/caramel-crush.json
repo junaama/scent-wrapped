@@ -1,0 +1,42 @@
+{
+    "name": "Caramel Crush",
+    "brand": "essence",
+    "release_year": "2025",
+    "description": "A new perfume byessencefor women, released in2025. It is being marketed byCosnova.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4b/4b13ff_caramel-crush-essence_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Almond",
+        "Pistachio"
+    ],
+    "heart_notes": [
+        "Heliotrope",
+        "Jasmine",
+        "Sea salt"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Powdery notes",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "5.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "4.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

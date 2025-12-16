@@ -1,0 +1,130 @@
+{
+    "name": "Comedìa Delle Mie Brame",
+    "brand": "Comedìa",
+    "release_year": "2025",
+    "description": "A new perfume byComedìafor women and men, released in2025. The scent is sweet-floral.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/eb/eb2a44_comedia-delle-mie-brame-comedia_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Fruity",
+        "Leathery",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Plum",
+        "Raspberry",
+        "Red apple"
+    ],
+    "heart_notes": [
+        "Lipstick",
+        "Ylang-ylang",
+        "Damask rose absolute",
+        "Tuberose absolute"
+    ],
+    "base_notes": [
+        "Black amber",
+        "Silk",
+        "Leather"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.1",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "6.2",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Leathery",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

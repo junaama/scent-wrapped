@@ -1,0 +1,49 @@
+{
+    "name": "Sangria+Embers",
+    "brand": "Michael Malul",
+    "release_year": "2025",
+    "description": "A new perfume byMichael Malulfor men, released in2025. The scent is citrusy-spicy. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c8/c80273_sangria-embers-michael-malul_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Spicy",
+        "Fruity",
+        "Floral"
+    ],
+    "top_notes": [
+        "Green apple",
+        "Orange",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Damask rose",
+        "Jasmine",
+        "Raspberry"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cashmeran",
+        "Sandalwood",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.0",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "8.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "9.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

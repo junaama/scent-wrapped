@@ -1,0 +1,147 @@
+{
+    "name": "Incense 01",
+    "brand": "Swiss Arabian",
+    "release_year": "2025",
+    "description": "A new perfume bySwiss Arabianfor women and men, released in2025. The scent is sweet-smoky. Projection and longevity are above-average. It is being marketed bySAPG (Swiss Arabian Perfumes Group).Compare",
+    "image_url": "https://media.parfumo.com/perfumes/78/78f7d9_incense-01-swiss-arabian_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Smoky",
+        "Spicy",
+        "Gourmand",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Frankincense",
+        "Bergamot",
+        "Juniper",
+        "Rum"
+    ],
+    "heart_notes": [
+        "Lily of the valley",
+        "Hazelnut",
+        "Roasted almond",
+        "Fig"
+    ],
+    "base_notes": [
+        "Frankincense",
+        "Cashmere wood",
+        "Dark chocolate",
+        "Vanilla",
+        "Cedarwood",
+        "Moss",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "68 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "62 Ratings"
+        },
+        "sillage": {
+            "score": "8.1",
+            "votes": "62 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "68 Ratings"
+        },
+        "pricing": {
+            "score": "8.2",
+            "votes": "57 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 12
+            },
+            {
+                "name": "Sweet",
+                "votes": 16
+            },
+            {
+                "name": "Smoky",
+                "votes": 12
+            },
+            {
+                "name": "Oriental",
+                "votes": 11
+            },
+            {
+                "name": "Woody",
+                "votes": 7
+            },
+            {
+                "name": "Resinous",
+                "votes": 6
+            },
+            {
+                "name": "Gourmand",
+                "votes": 11
+            },
+            {
+                "name": "Creamy",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 15
+            },
+            {
+                "name": "Feminine",
+                "votes": 12
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 11
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 18
+            },
+            {
+                "name": "Fall",
+                "votes": 18
+            },
+            {
+                "name": "Spring",
+                "votes": 8
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 10
+            },
+            {
+                "name": "Night Out",
+                "votes": 16
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 15
+            }
+        ]
+    }
+}

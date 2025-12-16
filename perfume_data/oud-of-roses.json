@@ -1,0 +1,25 @@
+{
+    "name": "Oud of Roses",
+    "brand": "Mine Perfume Lab",
+    "release_year": "2025",
+    "description": "A new perfume byMine Perfume Labfor women and men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Camphor",
+        "Tobacco"
+    ],
+    "heart_notes": [
+        "Cistus",
+        "Labdanum",
+        "Oud",
+        "Rose"
+    ],
+    "base_notes": [
+        "Patchouli",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

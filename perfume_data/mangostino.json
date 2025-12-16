@@ -1,0 +1,136 @@
+{
+    "name": "Mangostino",
+    "brand": "Christian Provenzano",
+    "release_year": "2025",
+    "description": "A new perfume byChristian Provenzanofor women and men, released in2025. The scent is floral-fruity. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/17/172663_mangostino-christian-provenzano_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fruity",
+        "Sweet",
+        "Synthetic",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Clove",
+        "Pepper"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Alphonso mango",
+        "Rose"
+    ],
+    "base_notes": [
+        "Oud",
+        "Amber",
+        "Gaiac wood",
+        "Musk",
+        "Patchouli",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "8.3",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

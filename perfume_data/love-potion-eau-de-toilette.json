@@ -1,0 +1,27 @@
+{
+    "name": "Love Potion",
+    "brand": "Sand + Fog",
+    "release_year": "2025",
+    "description": "A new perfume bySand + Fogfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/80/80a770_love-potion-eau-de-toilette-sand-fog_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Orange",
+        "Pepper",
+        "Raspberry",
+        "Strawberry"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lily",
+        "Violet"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Sugar",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

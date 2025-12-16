@@ -1,0 +1,138 @@
+{
+    "name": "Signature Extrême",
+    "brand": "Zaharoff",
+    "release_year": "2025",
+    "description": "A new perfume byZaharofffor men, released in2025. The scent is smoky-resinous. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6f/6f4ade_signature-extreme-zaharoff_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Resinous",
+        "Leathery",
+        "Woody",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Apple",
+        "Basil",
+        "Guatemala cardamom",
+        "Rosemary",
+        "Zanzibar black pepper"
+    ],
+    "heart_notes": [
+        "Birch",
+        "Canadian fir balsam",
+        "Cashmere wood",
+        "Indonesian oud"
+    ],
+    "base_notes": [
+        "Ethiopian frankincense",
+        "Indonesian patchouli",
+        "Leather",
+        "Musk",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "20 Ratings"
+        },
+        "durability": {
+            "score": "9.0",
+            "votes": "19 Ratings"
+        },
+        "sillage": {
+            "score": "8.4",
+            "votes": "18 Ratings"
+        },
+        "bottle": {
+            "score": "9.3",
+            "votes": "19 Ratings"
+        },
+        "pricing": {
+            "score": "8.4",
+            "votes": "18 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 3
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

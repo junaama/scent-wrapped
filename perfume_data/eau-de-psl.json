@@ -1,0 +1,30 @@
+{
+    "name": "Eau de PSL",
+    "brand": "Starbucks",
+    "release_year": "2025",
+    "description": "A new and limited perfume byStarbucksfor women and men, released in2025.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/e4/e4f725_eau-de-psl-starbucks_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Coffee",
+        "Sweetened condensed milk",
+        "Tea"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Cotton candy",
+        "Nutmeg"
+    ],
+    "base_notes": [
+        "Musk",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.0",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,170 @@
+{
+    "name": "Belgravia Iris",
+    "brand": "Memoirs of a Perfume Collector",
+    "release_year": "2025",
+    "description": "A new perfume byMemoirs of a Perfume Collectorfor women and men, released in2025. The scent is floral-citrusy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7e/7e5a5c_belgravia-iris-memoirs-of-a-perfume-collector_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Citrus",
+        "Fresh",
+        "Woody",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Ginger",
+        "Bergamot",
+        "Lemon",
+        "Mandarin orange",
+        "Neroli",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Galbanum",
+        "Iris",
+        "Mastic",
+        "Violet"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Benzoin",
+        "Cedarwood",
+        "Frankincense",
+        "Moss",
+        "Musk",
+        "Sclarene",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.9",
+            "votes": "13 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "13 Ratings"
+        },
+        "sillage": {
+            "score": "8.1",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "14 Ratings"
+        },
+        "pricing": {
+            "score": "6.8",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

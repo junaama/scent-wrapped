@@ -1,0 +1,145 @@
+{
+    "name": "Sundays in Rio",
+    "brand": "Sol de Janeiro",
+    "release_year": "2025",
+    "description": "A new and limited perfume bySol de Janeirofor women, released in2025. The scent is sweet-synthetic.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/27/27e2fa_sundays-in-rio-sol-de-janeiro_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Synthetic",
+        "Gourmand",
+        "Powdery",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Pear",
+        "Ambrette seed absolute",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Vanilla",
+        "Champaca",
+        "Orris concrete"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Orcanox"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "29 Ratings"
+        },
+        "durability": {
+            "score": "6.4",
+            "votes": "23 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "21 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "19 Ratings"
+        },
+        "pricing": {
+            "score": "7.8",
+            "votes": "16 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

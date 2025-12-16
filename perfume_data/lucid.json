@@ -1,0 +1,31 @@
+{
+    "name": "Lucid",
+    "brand": "House of Atropa",
+    "release_year": "2025",
+    "description": "A new perfume byHouse of Atropafor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/db/db7b6b_lucid-house-of-atropa_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Grape",
+        "Kelp",
+        "Salt"
+    ],
+    "heart_notes": [
+        "Black pepper",
+        "Butter",
+        "Maté",
+        "Ozone"
+    ],
+    "base_notes": [
+        "Cedar",
+        "Oud",
+        "Woods"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

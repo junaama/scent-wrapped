@@ -1,0 +1,98 @@
+{
+    "name": "Spring Breeze",
+    "brand": "Mith",
+    "release_year": "2025",
+    "description": "A new perfume byMithfor women and men, released in2025. The scent is earthy-fresh. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f1/f1ae99_spring-breeze-mith_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Earthy",
+        "Fresh",
+        "Green"
+    ],
+    "top_notes": [
+        "Hazelnut",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Aquatic notes",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.9",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

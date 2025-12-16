@@ -1,0 +1,24 @@
+{
+    "name": "Elle",
+    "brand": "Arabian Oud",
+    "release_year": "2025",
+    "description": "A new perfume byArabian Oudfor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8d/8d85d6_elle-arabian-oud_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Rhubarb",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Rose",
+        "Sage"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Cedar",
+        "Patchouli"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

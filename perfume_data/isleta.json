@@ -1,0 +1,140 @@
+{
+    "name": "Isleta",
+    "brand": "D:SOL MMXVI",
+    "release_year": "2025",
+    "description": "A new perfume byD:SOL MMXVIfor women and men, released in2025. The scent is green-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c1/c1807b_isleta-d-sol-mmxvi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Fresh",
+        "Floral",
+        "Woody",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Green mandarin orange",
+        "Juniper leaf",
+        "Monarda"
+    ],
+    "heart_notes": [
+        "Clary sage",
+        "Fig",
+        "Jasmine sambac",
+        "White tea"
+    ],
+    "base_notes": [
+        "Amyris",
+        "Cabreuva",
+        "Patchouli",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "19 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "19 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "19 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "21 Ratings"
+        },
+        "pricing": {
+            "score": "7.8",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 7
+            },
+            {
+                "name": "Fresh",
+                "votes": 7
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Sport",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

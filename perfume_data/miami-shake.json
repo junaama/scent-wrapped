@@ -1,0 +1,126 @@
+{
+    "name": "Miami Shake",
+    "brand": "Juliette Has A Gun",
+    "release_year": "2025",
+    "description": "A new perfume byJuliette Has A Gunfor women, released in2025. The scent is synthetic-sweet. It is being marketed byUshopal Group.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7f/7fe380_miami-shake-juliette-has-a-gun_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Sweet",
+        "Fruity",
+        "Creamy",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Woodland strawberry"
+    ],
+    "heart_notes": [
+        "Cream",
+        "Waffle cone",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Vanilla absolute",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.4",
+            "votes": "147 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "102 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "103 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "115 Ratings"
+        },
+        "pricing": {
+            "score": "6.4",
+            "votes": "86 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 32
+            },
+            {
+                "name": "Sweet",
+                "votes": 30
+            },
+            {
+                "name": "Gourmand",
+                "votes": 16
+            },
+            {
+                "name": "Fruity",
+                "votes": 28
+            },
+            {
+                "name": "Creamy",
+                "votes": 19
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 33
+            },
+            {
+                "name": "Modern",
+                "votes": 25
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 31
+            },
+            {
+                "name": "Spring",
+                "votes": 30
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 20
+            },
+            {
+                "name": "Leisure",
+                "votes": 28
+            },
+            {
+                "name": "Night Out",
+                "votes": 10
+            },
+            {
+                "name": "Business",
+                "votes": 10
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

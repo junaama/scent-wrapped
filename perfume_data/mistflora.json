@@ -1,0 +1,35 @@
+{
+    "name": "Mistflora",
+    "brand": "Oakcha",
+    "release_year": "2025",
+    "description": "A new perfume byOakchafor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/86/867ae7_mistflora-oakcha_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot blossom",
+        "Blackcurrant",
+        "Mandarin orange",
+        "Rain accord"
+    ],
+    "heart_notes": [
+        "Mist note",
+        "Passion flower",
+        "Red ginger"
+    ],
+    "base_notes": [
+        "Amber",
+        "Precious woods",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

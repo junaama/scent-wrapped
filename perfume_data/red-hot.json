@@ -1,0 +1,102 @@
+{
+    "name": "Red Hot",
+    "brand": "Boy Smells",
+    "release_year": "2025",
+    "description": "A new perfume byBoy Smellsfor women and men, released in2025. The scent is spicy-sweet.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/84/843988_red-hot-boy-smells_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Sweet",
+        "Powdery",
+        "Woody",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Black pepper",
+        "Frankincense"
+    ],
+    "heart_notes": [
+        "Raspberry",
+        "Rose absolute"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Smoked papyrus"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.6",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "4.0",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "5.0",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "5.2",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

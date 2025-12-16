@@ -1,0 +1,37 @@
+{
+    "name": "Amber Musk",
+    "brand": "Sand + Fog",
+    "release_year": "2025",
+    "description": "A new perfume bySand + Fogfor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/4c/4ceb2b_amber-musk-sand-fog_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Black pepper",
+        "Lemon",
+        "Mandarin orange",
+        "Orange",
+        "Pear",
+        "Petitgrain"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Neroli",
+        "Orange blossom",
+        "Sage"
+    ],
+    "base_notes": [
+        "Amber",
+        "Benzoin",
+        "Cedarwood",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

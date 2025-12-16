@@ -1,0 +1,23 @@
+{
+    "name": "Sea Sweet",
+    "brand": "Mane Haircare",
+    "release_year": "2025",
+    "description": "A new perfume byMane Haircarefor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e7/e7f7d4_sea-sweet-mane-haircare_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Green apple",
+        "Kiwi"
+    ],
+    "heart_notes": [
+        "Melon",
+        "Rose"
+    ],
+    "base_notes": [
+        "Apricot",
+        "Musk",
+        "Peach"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

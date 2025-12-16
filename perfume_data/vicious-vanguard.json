@@ -1,0 +1,133 @@
+{
+    "name": "Vicious Vanguard",
+    "brand": "Nebiru Parfvms",
+    "release_year": "2025",
+    "description": "A new perfume byNebiru Parfvmsfor women and men, released in2025. The scent is smoky-citrusy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9c/9c7565_vicious-vanguard-nebiru-parfvms_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Citrus",
+        "Spicy",
+        "Woody",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Ceylonese cinnamon",
+        "Iranian saffron",
+        "Italian blood orange",
+        "Italian orange",
+        "Kaffir lime"
+    ],
+    "heart_notes": [
+        "Crimean rose",
+        "Dong quai",
+        "Orange blossom absolute",
+        "Taif rose"
+    ],
+    "base_notes": [
+        "Borneo oud resin",
+        "Burmese oud",
+        "Ethiopian civet",
+        "Indonesian oud (sumbawa)",
+        "Myrrh",
+        "Papua oud",
+        "Peru balsam",
+        "White oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "17 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "14 Ratings"
+        },
+        "sillage": {
+            "score": "8.6",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

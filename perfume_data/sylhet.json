@@ -1,0 +1,169 @@
+{
+    "name": "Sylhet",
+    "brand": "Shekor",
+    "release_year": "2025",
+    "description": "A new perfume byShekorfor women and men, released in2025. The scent is earthy-green. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e5/e5da93_sylhet-shekor_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Earthy",
+        "Green",
+        "Spicy",
+        "Citrus",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Black tea",
+        "Lemon grass",
+        "Lime",
+        "Petitgrain",
+        "Jasminum grandiflorum",
+        "Mint"
+    ],
+    "heart_notes": [
+        "Black pepper",
+        "Black tea",
+        "Katrafay",
+        "Oud",
+        "Galbanum",
+        "Geranium"
+    ],
+    "base_notes": [
+        "Musk",
+        "Oud",
+        "Patchouli",
+        "Tonka bean",
+        "Benzoin",
+        "Kelp",
+        "Leather",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "20 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "13 Ratings"
+        },
+        "pricing": {
+            "score": "7.6",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Fougère",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Kira",
+    "brand": "Inverso Profumi",
+    "release_year": "2025",
+    "description": "A new and limited perfume byInverso Profumifor women and men, released in2025.CompareLimited",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Orange",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Geranium",
+        "Lavender",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Sandalwood",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

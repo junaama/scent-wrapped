@@ -1,0 +1,139 @@
+{
+    "name": "Astronomo",
+    "brand": "V Canto",
+    "release_year": "2025",
+    "description": "A new perfume byV Cantofor women and men, released in2025. The scent is aquatic-citrusy. The longevity is above-average. It is being marketed byCereria Terenzi Evelino.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/21/21ae75_astronomo-v-canto_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Aquatic",
+        "Citrus",
+        "Spicy",
+        "Woody",
+        "Fruity"
+    ],
+    "top_notes": [
+        "African cardamom",
+        "Bulgarian rose",
+        "Kelp",
+        "Sicilian grapefruit",
+        "Sorrento lemon"
+    ],
+    "heart_notes": [
+        "Ambergris",
+        "Chilenean pink pepper",
+        "Indian jasmine sambac",
+        "Italian blackcurrant",
+        "Italian juniper",
+        "Italian lavender",
+        "Laurel",
+        "Rosemary"
+    ],
+    "base_notes": [
+        "African ebony",
+        "Australian sandalwood",
+        "Cuban cedar wood",
+        "Musk",
+        "Oakmoss",
+        "Tuscan elm"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

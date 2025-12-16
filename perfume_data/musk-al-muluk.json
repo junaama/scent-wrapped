@@ -1,0 +1,105 @@
+{
+    "name": "Musk al Muluk",
+    "brand": "Katana",
+    "release_year": "2025",
+    "description": "A new and limited perfume byKatanafor women and men, released in2025. The scent is floral-animal.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/c2/c276d3_musk-al-muluk-katana_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Animal",
+        "Woody",
+        "Oriental",
+        "Sweet"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "8 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            },
+            {
+                "name": "Animal",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

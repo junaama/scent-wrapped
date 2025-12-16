@@ -1,0 +1,38 @@
+{
+    "name": "Gloria Mundi",
+    "brand": "Lorenzini Parfum",
+    "release_year": "2025",
+    "description": "A new perfume byLorenzini Parfumfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/19/1932b2_gloria-mundi-lorenzini-parfum_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Date",
+        "Maple syrup",
+        "Osmanthus"
+    ],
+    "heart_notes": [
+        "Date",
+        "Jasmine",
+        "Neroli",
+        "Oakmoss",
+        "Orange blossom",
+        "Osmanthus",
+        "Peach",
+        "Rose",
+        "Vanilla",
+        "White chocolate"
+    ],
+    "base_notes": [
+        "Iris",
+        "Oud",
+        "Peru balsam",
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla",
+        "Vetiver",
+        "White musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

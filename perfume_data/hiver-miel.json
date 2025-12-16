@@ -1,0 +1,113 @@
+{
+    "name": "Hiver Miel",
+    "brand": "Nebiru Parfvms",
+    "release_year": "2025",
+    "description": "A new perfume byNebiru Parfvmsfor women and men, released in2025. The scent is spicy-gourmand. Projection and longevity are above-average. The production was apparently discontinued.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/2e/2e1daa_hiver-miel-nebiru-parfvms_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Gourmand",
+        "Sweet",
+        "Woody",
+        "Resinous"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "11 Ratings"
+        },
+        "durability": {
+            "score": "9.0",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "10 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

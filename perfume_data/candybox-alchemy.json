@@ -1,0 +1,37 @@
+{
+    "name": "Candybox Alchemy",
+    "brand": "Alkemia",
+    "release_year": "2025",
+    "description": "A new and limited perfume byAlkemiafor women and men, released in2025. The scent is gourmand-green. Projection and longevity are above-average. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/9c/9c49f8_candybox-alchemy-alkemia_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Green",
+        "Sweet"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "bottle": {
+            "score": "4.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            }
+        ]
+    }
+}

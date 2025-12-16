@@ -1,0 +1,34 @@
+{
+    "name": "Sun Velvet",
+    "brand": "Mia Morage",
+    "release_year": "2025",
+    "description": "A new perfume byMia Moragefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2a/2abc30_sun-velvet-mia-morage_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Blackcurrant",
+        "Mandarin orange",
+        "Mango",
+        "Pink pepper",
+        "Valencia orange"
+    ],
+    "heart_notes": [
+        "Coconut",
+        "Jasmine",
+        "Rose",
+        "Saffron",
+        "Violet"
+    ],
+    "base_notes": [
+        "Berries",
+        "Caramel",
+        "Coumarin",
+        "Musk",
+        "Oud",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

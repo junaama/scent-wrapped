@@ -1,0 +1,133 @@
+{
+    "name": "Riviera Californienne",
+    "brand": "Réservation",
+    "release_year": "2025",
+    "description": "A new perfume byRéservationfor women and men, released in2025. The scent is sweet-spicy. The projection is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/34/34cd08_riviera-californienne-reservation_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Creamy",
+        "Gourmand",
+        "Woody"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Elemi resin",
+        "Juniper berry",
+        "Orange",
+        "Pink pepper",
+        "Sicilian lemon"
+    ],
+    "heart_notes": [
+        "Arabica coffee",
+        "Jasmine sambac absolute",
+        "Walnut"
+    ],
+    "base_notes": [
+        "Akigalawood®",
+        "Cypriol",
+        "Tonka bean",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "8 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

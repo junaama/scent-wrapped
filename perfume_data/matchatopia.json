@@ -1,0 +1,44 @@
+{
+    "name": "Matchatopia",
+    "brand": "Briix Fragrances",
+    "release_year": "2025",
+    "description": "A new perfume byBriix Fragrancesfor women and men, released in2025. The scent is earthy-gourmand. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6d/6dca6b_matchatopia-briix-fragrances_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Earthy",
+        "Gourmand",
+        "Creamy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ]
+    }
+}

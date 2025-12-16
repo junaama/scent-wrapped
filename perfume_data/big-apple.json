@@ -1,0 +1,26 @@
+{
+    "name": "Big Apple",
+    "brand": "Boy Smells",
+    "release_year": "2025",
+    "description": "A new and limited perfume byBoy Smellsfor women and men, released in2025.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/99/9976a7_big-apple-boy-smells_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blood orange",
+        "Green apple"
+    ],
+    "heart_notes": [
+        "Rose water",
+        "Vanilla orchid"
+    ],
+    "base_notes": [
+        "Woods"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,146 @@
+{
+    "name": "Torino25",
+    "brand": "Xerjoff",
+    "release_year": "2025",
+    "description": "A new perfume byXerjofffor women and men, released in2025. The scent is spicy-leathery.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/1c/1ca17c_torino25-xerjoff_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Leathery",
+        "Fresh",
+        "Citrus",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Rhubarb",
+        "Grapefruit",
+        "Saffron",
+        "Ginger"
+    ],
+    "heart_notes": [
+        "Juniper",
+        "Suede",
+        "Leather"
+    ],
+    "base_notes": [
+        "Musk",
+        "Vetiver",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "96 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "89 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "87 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "85 Ratings"
+        },
+        "pricing": {
+            "score": "6.2",
+            "votes": "74 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 18
+            },
+            {
+                "name": "Spicy",
+                "votes": 25
+            },
+            {
+                "name": "Sweet",
+                "votes": 16
+            },
+            {
+                "name": "Leathery",
+                "votes": 23
+            },
+            {
+                "name": "Woody",
+                "votes": 8
+            },
+            {
+                "name": "Fruity",
+                "votes": 11
+            },
+            {
+                "name": "Fresh",
+                "votes": 20
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 28
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 8
+            },
+            {
+                "name": "Modern",
+                "votes": 17
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 16
+            },
+            {
+                "name": "Fall",
+                "votes": 28
+            },
+            {
+                "name": "Summer",
+                "votes": 16
+            },
+            {
+                "name": "Spring",
+                "votes": 25
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 19
+            },
+            {
+                "name": "Sport",
+                "votes": 8
+            },
+            {
+                "name": "Leisure",
+                "votes": 26
+            },
+            {
+                "name": "Night Out",
+                "votes": 17
+            },
+            {
+                "name": "Business",
+                "votes": 17
+            },
+            {
+                "name": "Evening",
+                "votes": 13
+            }
+        ]
+    }
+}

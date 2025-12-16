@@ -1,0 +1,126 @@
+{
+    "name": "Kenyalang",
+    "brand": "Auphorie",
+    "release_year": "2025",
+    "description": "A new and limited perfume byAuphoriefor women and men, released in2025. The scent is fruity-floral. The longevity is above-average. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/0f/0ff9d3_kenyalang-auphorie_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Floral",
+        "Spicy",
+        "Resinous",
+        "Earthy"
+    ],
+    "top_notes": [
+        "Pineapple",
+        "Calamondin",
+        "Malaysian pepper",
+        "Rice wine",
+        "Sugar cane wine"
+    ],
+    "heart_notes": [
+        "Red champaca",
+        "Red frangipani",
+        "Tobacco",
+        "Bamboo",
+        "Ironwood",
+        "Oakmoss",
+        "Petrichor",
+        "Rain forest accord",
+        "True sago palm",
+        "White champaca",
+        "White frangipani"
+    ],
+    "base_notes": [
+        "Palm sugar",
+        "Ambergris",
+        "Cocoa",
+        "Musk",
+        "Sumatran benzoin",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            }
+        ]
+    }
+}

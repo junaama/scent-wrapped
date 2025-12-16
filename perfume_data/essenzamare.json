@@ -1,0 +1,42 @@
+{
+    "name": "Essenzamare",
+    "brand": "Acqua dell'Elba",
+    "release_year": "2025",
+    "description": "A new perfume byAcqua dell'Elbafor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d9/d91b52_essenzamare-acqua-dell-elba_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Lemon",
+        "Salt"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lily of the valley",
+        "Water lily"
+    ],
+    "base_notes": [
+        "Cashmeran",
+        "Driftwood",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

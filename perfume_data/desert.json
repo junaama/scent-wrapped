@@ -1,0 +1,142 @@
+{
+    "name": "Desert",
+    "brand": "Maison Alhambra",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Alhambrafor women and men, released in2025. The scent is sweet-spicy. Projection and longevity are above-average. It is being marketed byLattafa Perfumes Industries LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/49/49fa8c_desert-maison-alhambra_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Oriental",
+        "Fruity",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Raspberry",
+        "Cinnamon",
+        "Strawberry"
+    ],
+    "heart_notes": [
+        "Blackberry",
+        "Caramel",
+        "Cedarwood"
+    ],
+    "base_notes": [
+        "Leather",
+        "Patchouli",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "21 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "20 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "20 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "23 Ratings"
+        },
+        "pricing": {
+            "score": "9.1",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 6
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 6
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "name": "Portrait de Madame et son chat",
+    "brand": "Miskeo",
+    "release_year": "2025",
+    "description": "A new perfume byMiskeofor women and men, released in2025. The scent is powdery-creamy. The longevity is above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/62/62aa7d_portrait-de-madame-et-son-chat-miskeo_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Powdery",
+        "Creamy",
+        "Synthetic",
+        "Spicy",
+        "Sweet"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "13 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "11 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "11 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Powdery",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            },
+            {
+                "name": "Animal",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

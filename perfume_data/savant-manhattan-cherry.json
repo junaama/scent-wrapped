@@ -1,0 +1,146 @@
+{
+    "name": "Savant Manhattan Cherry",
+    "brand": "Chris Collins",
+    "release_year": "2025",
+    "description": "A new perfume byChris Collinsfor women and men, released in2025. The scent is fruity-sweet. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/02/02de75_savant-manhattan-cherry-chris-collins_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Spicy",
+        "Woody",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Black cherry",
+        "Davana",
+        "Whisky"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Clove",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Oak",
+        "Patchouli",
+        "Vetiver",
+        "Woodleather®"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.9",
+            "votes": "17 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "14 Ratings"
+        },
+        "sillage": {
+            "score": "8.1",
+            "votes": "15 Ratings"
+        },
+        "bottle": {
+            "score": "8.7",
+            "votes": "15 Ratings"
+        },
+        "pricing": {
+            "score": "6.6",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

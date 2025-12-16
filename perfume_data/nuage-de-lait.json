@@ -1,0 +1,112 @@
+{
+    "name": "Nuage de Lait",
+    "brand": "Gourmet",
+    "release_year": "2025",
+    "description": "A new perfume byGourmetfor women and men, released in2025. The scent is sweet-gourmand. It is being marketed byS.i.r.p.e.a..PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/44/4417f1_nuage-de-lait-gourmet_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Floral",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Honey",
+        "Sugar powder",
+        "Vanilla"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Jasmine",
+        "Milk"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Amberwood",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

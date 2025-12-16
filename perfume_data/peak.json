@@ -1,0 +1,98 @@
+{
+    "name": "Peak",
+    "brand": "Czar",
+    "release_year": "2025",
+    "description": "A new perfume byCzarfor women and men, released in2025. The scent is citrusy-smoky. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/58/5824e5_peak-czar_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Smoky",
+        "Creamy",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Aldehydes",
+        "Citrus notes",
+        "Frankincense",
+        "Green notes",
+        "Mineral notes"
+    ],
+    "heart_notes": [
+        "Aniseed",
+        "Floral notes",
+        "Lactone",
+        "Smoky notes",
+        "Watermelon"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Cashmere wood",
+        "Myrrh",
+        "Vanilla",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            }
+        ]
+    }
+}

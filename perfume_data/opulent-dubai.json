@@ -1,0 +1,143 @@
+{
+    "name": "Opulent Dubai",
+    "brand": "Lattafa",
+    "release_year": "2025",
+    "description": "A new perfume byLattafafor women and men, released in2025. The scent is fruity-sweet. It is being marketed byLattafa Perfumes Industries LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/42/42f67e_opulent-dubai-lattafa_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Fresh",
+        "Woody",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Mango",
+        "Grapefruit",
+        "Ginger",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Jasmine",
+        "Violet"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Benzoin",
+        "Oakmoss",
+        "Woody notes"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "114 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "105 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "103 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "110 Ratings"
+        },
+        "pricing": {
+            "score": "9.1",
+            "votes": "103 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 12
+            },
+            {
+                "name": "Synthetic",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 22
+            },
+            {
+                "name": "Woody",
+                "votes": 16
+            },
+            {
+                "name": "Fruity",
+                "votes": 27
+            },
+            {
+                "name": "Fresh",
+                "votes": 22
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 18
+            },
+            {
+                "name": "Feminine",
+                "votes": 21
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 23
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 12
+            },
+            {
+                "name": "Summer",
+                "votes": 27
+            },
+            {
+                "name": "Spring",
+                "votes": 25
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 26
+            },
+            {
+                "name": "Sport",
+                "votes": 10
+            },
+            {
+                "name": "Leisure",
+                "votes": 24
+            },
+            {
+                "name": "Night Out",
+                "votes": 16
+            },
+            {
+                "name": "Business",
+                "votes": 17
+            },
+            {
+                "name": "Evening",
+                "votes": 12
+            }
+        ]
+    }
+}

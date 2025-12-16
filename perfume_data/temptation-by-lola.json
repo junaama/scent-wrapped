@@ -1,0 +1,136 @@
+{
+    "name": "Temptation by Lola",
+    "brand": "Anima Aromatics",
+    "release_year": "2025",
+    "description": "A new perfume byAnima Aromaticsfor women, released in2025. The scent is sweet-gourmand. It is being marketed byLifestyle Fragrance & Beauty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/51/51abf1_temptation-by-lola-anima-aromatics_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Spicy",
+        "Creamy",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Orchid",
+        "Jasmine"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Musk",
+        "Ambergris",
+        "Woods",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "76 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "69 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "70 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "78 Ratings"
+        },
+        "pricing": {
+            "score": "9.0",
+            "votes": "69 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 17
+            },
+            {
+                "name": "Sweet",
+                "votes": 30
+            },
+            {
+                "name": "Powdery",
+                "votes": 8
+            },
+            {
+                "name": "Gourmand",
+                "votes": 22
+            },
+            {
+                "name": "Creamy",
+                "votes": 17
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 30
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 17
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 24
+            },
+            {
+                "name": "Fall",
+                "votes": 25
+            },
+            {
+                "name": "Summer",
+                "votes": 10
+            },
+            {
+                "name": "Spring",
+                "votes": 16
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 20
+            },
+            {
+                "name": "Leisure",
+                "votes": 23
+            },
+            {
+                "name": "Night Out",
+                "votes": 20
+            },
+            {
+                "name": "Business",
+                "votes": 15
+            },
+            {
+                "name": "Evening",
+                "votes": 19
+            }
+        ]
+    }
+}

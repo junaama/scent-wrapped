@@ -1,0 +1,36 @@
+{
+    "name": "Mystic Amber",
+    "brand": "Monkoku",
+    "release_year": "2025",
+    "description": "A new perfume byMonkokufor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/13/138091_mystic-amber-monkoku_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Black pepper",
+        "Green pepper",
+        "Pink pepper",
+        "Sichuan pepper"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Cambodian oud",
+        "Indian oud",
+        "Sage",
+        "Sandalwood",
+        "Thyme"
+    ],
+    "base_notes": [
+        "Amber",
+        "Grey musk",
+        "Leather",
+        "White musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

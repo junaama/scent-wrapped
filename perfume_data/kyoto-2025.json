@@ -1,0 +1,125 @@
+{
+    "name": "Kyoto",
+    "brand": "Harry Lehmann",
+    "release_year": "2025",
+    "description": "A new perfume byHarry Lehmannfor women and men, released in2025. The scent is leathery-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3c/3c6f81_kyoto-2025-harry-lehmann_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Leathery",
+        "Spicy",
+        "Sweet",
+        "Fruity",
+        "Smoky"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "26 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "24 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "23 Ratings"
+        },
+        "bottle": {
+            "score": "6.9",
+            "votes": "26 Ratings"
+        },
+        "pricing": {
+            "score": "7.3",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 9
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Smoky",
+                "votes": 6
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Leathery",
+                "votes": 11
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 10
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

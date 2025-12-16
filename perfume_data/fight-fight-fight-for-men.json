@@ -1,0 +1,133 @@
+{
+    "name": "Fight Fight Fight for Men",
+    "brand": "Donald Trump",
+    "release_year": "2025",
+    "description": "A new and limited perfume byDonald Trumpfor men, released in2025. The scent is animal-fruity.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/c6/c620a8-fight-fight-fight-for-men-donald-trump_1200.jpg?width=240&aspect_ratio=1:1",
+    "main_accords": [
+        "Animal",
+        "Fruity",
+        "Floral",
+        "Sweet",
+        "Synthetic"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "2.4",
+            "votes": "45 Ratings"
+        },
+        "durability": {
+            "score": "2.5",
+            "votes": "40 Ratings"
+        },
+        "sillage": {
+            "score": "2.8",
+            "votes": "40 Ratings"
+        },
+        "bottle": {
+            "score": "2.2",
+            "votes": "50 Ratings"
+        },
+        "pricing": {
+            "score": "2.2",
+            "votes": "43 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            },
+            {
+                "name": "Animal",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

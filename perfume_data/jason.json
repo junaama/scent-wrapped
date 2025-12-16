@@ -1,0 +1,50 @@
+{
+    "name": "Jason",
+    "brand": "Lost Tribe",
+    "release_year": "2025",
+    "description": "A new perfume byLost Tribefor women and men, released in2025. The longevity is above-average. The production was apparently discontinued.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/95/95be2e_jason-lost-tribe_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Frankincense",
+        "Pumpkin pie spice",
+        "Rum CO2",
+        "White ambergris"
+    ],
+    "heart_notes": [
+        "Frangipani",
+        "Magnolia",
+        "Nutmeg",
+        "Peru balsam",
+        "Rose"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "French vanilla",
+        "Labdanum",
+        "Mongolian musk",
+        "Red sandalwood",
+        "Roasted barley",
+        "Spices",
+        "Vietnamese oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "9.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "5.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

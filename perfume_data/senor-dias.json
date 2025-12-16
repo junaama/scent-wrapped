@@ -1,0 +1,111 @@
+{
+    "name": "Señor Dias",
+    "brand": "Comporta",
+    "release_year": "2025",
+    "description": "A new perfume byComportafor men, released in2025. The scent is woody-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a5/a534a7_senor-dias-comporta_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Spicy",
+        "Citrus",
+        "Aquatic",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Lemon",
+        "Mint",
+        "Orange",
+        "Rosemary",
+        "Spearmint"
+    ],
+    "heart_notes": [
+        "Cumin",
+        "Ginger",
+        "Nutmeg",
+        "Pepper"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Cedar",
+        "Patchouli",
+        "Sandalwood",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

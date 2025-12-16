@@ -1,0 +1,42 @@
+{
+    "name": "ROSX",
+    "brand": "Lescento",
+    "release_year": "2025",
+    "description": "A new perfume byLescentofor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/cf/cf3844_rosx-lescento_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bulgarian rose",
+        "Cumin"
+    ],
+    "heart_notes": [
+        "Atlas cedar",
+        "Jasmine sambac",
+        "Patchouli",
+        "Rose"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Musk",
+        "Vanilla absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

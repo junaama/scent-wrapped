@@ -1,0 +1,137 @@
+{
+    "name": "Diva",
+    "brand": "Sospiro",
+    "release_year": "2025",
+    "description": "A new perfume bySospirofor women and men, released in2025. The scent is floral-powdery.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/1c/1ce9c2-diva-sospiro_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Powdery",
+        "Creamy",
+        "Fruity",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Mandarin orange",
+        "Peach",
+        "Ylang-ylang"
+    ],
+    "heart_notes": [
+        "Carnation",
+        "Iris",
+        "Jasmine",
+        "Patchouli",
+        "Rose"
+    ],
+    "base_notes": [
+        "Labdanum",
+        "Sandalwood",
+        "Vanilla",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.7",
+            "votes": "14 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "14 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "18 Ratings"
+        },
+        "pricing": {
+            "score": "5.8",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Chypre",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

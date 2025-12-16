@@ -1,0 +1,138 @@
+{
+    "name": "Hombre",
+    "brand": "Aaron Terence Hughes",
+    "release_year": "2025",
+    "description": "A new perfume byAaron Terence Hughesfor women and men, released in2025. The scent is citrusy-earthy. The longevity is above-average. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/6c/6c1d16_hombre-aaron-terence-hughes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Earthy",
+        "Woody",
+        "Fresh",
+        "Green"
+    ],
+    "top_notes": [
+        "Lemon",
+        "Bergamot",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Clary sage"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "23 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "23 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "23 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "19 Ratings"
+        },
+        "pricing": {
+            "score": "7.1",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 5
+            },
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Green",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Earthy",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Classic",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

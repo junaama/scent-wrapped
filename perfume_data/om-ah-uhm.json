@@ -1,0 +1,157 @@
+{
+    "name": "Om Ah Uhm",
+    "brand": "Woha Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byWoha Parfumsfor women and men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [
+        "Sweet",
+        "Synthetic",
+        "Green",
+        "Aquatic",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Orange blossom",
+        "Coriander"
+    ],
+    "heart_notes": [
+        "Hedione",
+        "Tuberose",
+        "Acacia",
+        "Lily",
+        "Myrtle",
+        "Damask rose",
+        "French lavender"
+    ],
+    "base_notes": [
+        "White musk",
+        "Bacdanol",
+        "Boisambrene Forte",
+        "Atlas cedar",
+        "Frankincense",
+        "Mahogany",
+        "Sandalore"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "8.8",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

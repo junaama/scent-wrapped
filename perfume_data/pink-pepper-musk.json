@@ -1,0 +1,30 @@
+{
+    "name": "Pink Pepper & Musk",
+    "brand": "Eme Ese",
+    "release_year": "2025",
+    "description": "A new perfume byEme Esefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/da/da72ec_pink-pepper-musk-eme-ese_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Aniseed",
+        "Cocoa",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Iris",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedar",
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

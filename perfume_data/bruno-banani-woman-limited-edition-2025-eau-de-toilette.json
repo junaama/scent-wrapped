@@ -1,0 +1,126 @@
+{
+    "name": "Bruno Banani Woman Limited Edition 2025",
+    "brand": "Bruno Banani",
+    "release_year": "2025",
+    "description": "A new perfume byBruno Bananifor women, released in2025. The scent is sweet-fruity. It is being marketed byCoty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c6/c687e2_bruno-banani-woman-limited-edition-2025-eau-de-toilette-bruno-banani_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Floral",
+        "Synthetic",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Mandarin orange",
+        "Orange",
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Floral notes",
+        "Jasmine sambac",
+        "Monoï"
+    ],
+    "base_notes": [
+        "Coconut",
+        "Amber",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "11 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "11 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "11 Ratings"
+        },
+        "bottle": {
+            "score": "5.6",
+            "votes": "16 Ratings"
+        },
+        "pricing": {
+            "score": "8.0",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Fruity",
+                "votes": 7
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Cœur de Pétales",
+    "brand": "L'Atelier Parfum",
+    "release_year": "2025",
+    "description": "A new perfume byL'Atelier Parfumfor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/c6/c65121_coeur-de-petales-hair-body-mist-l-atelier-parfum_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Lychee",
+        "Sichuan pepper",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Peony",
+        "Freesia",
+        "Rose",
+        "Jasmine",
+        "Lily of the valley"
+    ],
+    "base_notes": [
+        "Almond",
+        "Raspberry"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

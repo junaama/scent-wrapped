@@ -1,0 +1,140 @@
+{
+    "name": "Buddha Blend",
+    "brand": "Liquides Imaginaires",
+    "release_year": "2025",
+    "description": "A new perfume byLiquides Imaginairesfor women and men, released in2025. The scent is citrusy-sweet.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/5c/5c1468_buddha-blend-liquides-imaginaires_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Sweet",
+        "Fresh",
+        "Floral",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Finger lime",
+        "Ginger",
+        "Lemon",
+        "Yuzu"
+    ],
+    "heart_notes": [
+        "Vanillin",
+        "Levistamel",
+        "Sharry baby orchid"
+    ],
+    "base_notes": [
+        "Ambrofix",
+        "Ebony",
+        "Georgywood®",
+        "Indian vetiver Orpur®",
+        "Roasted venezuelan tonka bean Orpur®"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "14 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "13 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "6.7",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

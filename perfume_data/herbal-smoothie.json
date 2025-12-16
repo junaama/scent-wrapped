@@ -1,0 +1,54 @@
+{
+    "name": "Herbal Smoothie",
+    "brand": "House of Atropa",
+    "release_year": "2025",
+    "description": "A new perfume byHouse of Atropafor women and men, released in2025. The scent is floral-fruity. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/31/31b37d_herbal-smoothie-house-of-atropa_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fruity",
+        "Citrus",
+        "Green",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Cucumber",
+        "Mango",
+        "Mint"
+    ],
+    "heart_notes": [
+        "Aniseed",
+        "Basil",
+        "Everlasting flower",
+        "Grass",
+        "Lemon",
+        "Orange"
+    ],
+    "base_notes": [
+        "Cedar",
+        "Cypress",
+        "Juniper berry",
+        "Moss",
+        "Oud",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.7",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {}
+}

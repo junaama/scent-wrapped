@@ -1,0 +1,148 @@
+{
+    "name": "Rain Forest",
+    "brand": "Pena",
+    "release_year": "2025",
+    "description": "A new perfume byPenafor women and men, released in2025. The scent is fresh-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4d/4deed5_rain-forest-pena_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Spicy",
+        "Citrus",
+        "Green",
+        "Earthy"
+    ],
+    "top_notes": [
+        "Apple mint",
+        "Kaffir lime",
+        "Lavender",
+        "Menthol",
+        "Orange",
+        "Rosella"
+    ],
+    "heart_notes": [
+        "Blossoms",
+        "Cardamom",
+        "Cinnamon",
+        "Clove",
+        "Cyperus",
+        "Frangipani",
+        "Frankincense",
+        "Herbs",
+        "Jasmine",
+        "Mugwort",
+        "Osmanthus",
+        "Rose",
+        "Tamarind",
+        "Thyme",
+        "Tuberose",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Amber",
+        "Apple mint",
+        "Benzoin",
+        "Frankincense",
+        "Indonesian oud (sumbawa)",
+        "Myrrh",
+        "Palo Santo",
+        "Patchouli",
+        "Sandalwood",
+        "Sumatran oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            }
+        ]
+    }
+}

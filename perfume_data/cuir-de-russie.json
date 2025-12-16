@@ -1,0 +1,69 @@
+{
+    "name": "Cuir de Russie",
+    "brand": "Hunayn",
+    "release_year": "2025",
+    "description": "A new perfume byHunaynfor women and men, released in2025. The scent is floral-leathery. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/18/185725_cuir-de-russie-hunayn_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Leathery",
+        "Spicy",
+        "Animal",
+        "Smoky"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "9.0",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ]
+    }
+}

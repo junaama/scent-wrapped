@@ -1,0 +1,146 @@
+{
+    "name": "Honeysuckle Chadō",
+    "brand": "Jinx",
+    "release_year": "2025",
+    "description": "A new perfume byJinxfor women and men, released in2025. The scent is fruity-floral. Projection and longevity are above-average. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6e/6e0b33_honeysuckle-chado-jinx_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Floral",
+        "Woody",
+        "Sweet",
+        "Green"
+    ],
+    "top_notes": [
+        "Peach",
+        "Lily of the valley",
+        "Strawberry",
+        "Calamondin"
+    ],
+    "heart_notes": [
+        "Hay",
+        "Honeysuckle otto",
+        "Green tea",
+        "Iris",
+        "Rose"
+    ],
+    "base_notes": [
+        "Ambrette seed",
+        "Cypriol",
+        "Musk",
+        "Bangladeshian oud",
+        "Oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "17 Ratings"
+        },
+        "durability": {
+            "score": "8.7",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "8.6",
+            "votes": "15 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "16 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

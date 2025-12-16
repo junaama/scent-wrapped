@@ -1,0 +1,160 @@
+{
+    "name": "Green Island",
+    "brand": "Lorenzo Pazzaglia",
+    "release_year": "2025",
+    "description": "A new perfume byLorenzo Pazzagliafor women and men, released in2025. The scent is fresh-citrusy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8d/8d2357_green-island-lorenzo-pazzaglia_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Citrus",
+        "Aquatic",
+        "Green",
+        "Floral"
+    ],
+    "top_notes": [
+        "Absinth",
+        "Bergamot",
+        "Candied citron zest",
+        "Cardamom",
+        "Cinnamon",
+        "Ginger",
+        "Juniper",
+        "Mandarin orange",
+        "Pink grapefruit",
+        "Pink pepper",
+        "Yuzu"
+    ],
+    "heart_notes": [
+        "Aquatic notes",
+        "Gin",
+        "Lotus",
+        "Myrtle",
+        "Peppermint",
+        "Pittosporum",
+        "Prickly pear",
+        "Red tea",
+        "Rose",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Cedarwood",
+        "Maritime pine",
+        "Oakmoss",
+        "Patchouli",
+        "Tonka bean",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "28 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "26 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "26 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "31 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "20 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 7
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 8
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            },
+            {
+                "name": "Aquatic",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 8
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 8
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

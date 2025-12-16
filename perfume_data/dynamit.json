@@ -1,0 +1,143 @@
+{
+    "name": "Dynamit",
+    "brand": "Rammstein",
+    "release_year": "2025",
+    "description": "A new perfume byRammsteinfor women, released in2025. The scent is synthetic-sweet. It is being marketed by2 Pilots.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f1/f14ac8_dynamit-rammstein_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Sweet",
+        "Spicy",
+        "Fruity",
+        "Floral"
+    ],
+    "top_notes": [
+        "Cherry blossom",
+        "Violet",
+        "Lily",
+        "Black pepper",
+        "Citrus notes",
+        "Spices",
+        "Ginger"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Rose",
+        "Cherry",
+        "Clove leaf",
+        "Peach",
+        "Pomegranate",
+        "Cinnamon"
+    ],
+    "base_notes": [
+        "Amber",
+        "Patchouli",
+        "Sandalwood",
+        "Praliné",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.2",
+            "votes": "15 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "6.1",
+            "votes": "15 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "20 Ratings"
+        },
+        "pricing": {
+            "score": "6.5",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

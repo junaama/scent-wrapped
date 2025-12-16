@@ -1,0 +1,142 @@
+{
+    "name": "Philokalia - Afterlife Potion",
+    "brand": "Adi ale Van",
+    "release_year": "2025",
+    "description": "A new perfume byAdi ale Vanfor women and men, released in2025. The scent is woody-floral. Projection and longevity are above-average. It was last marketed byAtelier Olfactiv.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/da/dafc71_philokalia-afterlife-potion-adi-ale-van_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Floral",
+        "Spicy",
+        "Animal",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Jasmine absolute",
+        "Tuberose absolute"
+    ],
+    "heart_notes": [
+        "Costus",
+        "Labdanum",
+        "Nagarmotha",
+        "Nepalese nard",
+        "Oud",
+        "White oud"
+    ],
+    "base_notes": [
+        "Aged wood",
+        "Air accord",
+        "Amber",
+        "Candle wax",
+        "Castoreum",
+        "Civet",
+        "Dust",
+        "Frankincense",
+        "Paint",
+        "Resins"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.7",
+            "votes": "13 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "11 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "9.0",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            },
+            {
+                "name": "Animal",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

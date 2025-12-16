@@ -1,0 +1,94 @@
+{
+    "name": "Fresh Cream Soft Velvet",
+    "brand": "Philosophy",
+    "release_year": "2025",
+    "description": "A new perfume byPhilosophyfor women, released in2025. The scent is floral-gourmand. It is being marketed byCoty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/cb/cba95e_fresh-cream-soft-velvet-philosophy_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Gourmand",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Ginger"
+    ],
+    "heart_notes": [
+        "Casablanca lily"
+    ],
+    "base_notes": [
+        "Chocolate",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "6.2",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "6.1",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

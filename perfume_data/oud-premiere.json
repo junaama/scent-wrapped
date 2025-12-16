@@ -1,0 +1,31 @@
+{
+    "name": "Oud Première",
+    "brand": "Laurent Smal",
+    "release_year": "2025",
+    "description": "A new perfume byLaurent Smalfor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/93/937863_oud-premiere-laurent-smal_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Oud"
+    ],
+    "heart_notes": [
+        "Jasmine sambac",
+        "Lavender",
+        "Turkish rose"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Iris",
+        "Leather",
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

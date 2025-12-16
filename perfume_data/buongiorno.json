@@ -1,0 +1,138 @@
+{
+    "name": "Buongiorno",
+    "brand": "Acqua di Parma",
+    "release_year": "2025",
+    "description": "A new perfume byAcqua di Parmafor women and men, released in2025. The scent is fresh-green. It is being marketed byLVMH.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/b6/b687a9_buongiorno-acqua-di-parma_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Green",
+        "Citrus",
+        "Fruity",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Spearmint",
+        "Basil",
+        "Lemon",
+        "Petitgrain",
+        "Rosemary"
+    ],
+    "heart_notes": [
+        "Lavender",
+        "Mandarin orange leaf"
+    ],
+    "base_notes": [
+        "Cedar leaf",
+        "Amber",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "540 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "483 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "479 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "450 Ratings"
+        },
+        "pricing": {
+            "score": "6.8",
+            "votes": "401 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 121
+            },
+            {
+                "name": "Spicy",
+                "votes": 48
+            },
+            {
+                "name": "Sweet",
+                "votes": 33
+            },
+            {
+                "name": "Green",
+                "votes": 123
+            },
+            {
+                "name": "Fruity",
+                "votes": 55
+            },
+            {
+                "name": "Fresh",
+                "votes": 129
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 128
+            },
+            {
+                "name": "Feminine",
+                "votes": 67
+            },
+            {
+                "name": "Classic",
+                "votes": 39
+            },
+            {
+                "name": "Modern",
+                "votes": 87
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 28
+            },
+            {
+                "name": "Summer",
+                "votes": 143
+            },
+            {
+                "name": "Spring",
+                "votes": 122
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 126
+            },
+            {
+                "name": "Sport",
+                "votes": 77
+            },
+            {
+                "name": "Leisure",
+                "votes": 127
+            },
+            {
+                "name": "Night Out",
+                "votes": 45
+            },
+            {
+                "name": "Business",
+                "votes": 99
+            },
+            {
+                "name": "Evening",
+                "votes": 37
+            }
+        ]
+    }
+}

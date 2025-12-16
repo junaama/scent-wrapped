@@ -1,0 +1,140 @@
+{
+    "name": "Monkeyflower",
+    "brand": "Stora Skuggan",
+    "release_year": "2025",
+    "description": "A new perfume byStora Skugganfor women and men, released in2025. The scent is floral-fresh.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/c1/c1a9ff_monkeyflower-stora-skuggan_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Green",
+        "Creamy",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Coltsfoot",
+        "Suntan lotion"
+    ],
+    "heart_notes": [
+        "Buttercup",
+        "Fig",
+        "Chamomile",
+        "Cape gooseberry"
+    ],
+    "base_notes": [
+        "Hay",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "35 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "28 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "27 Ratings"
+        },
+        "bottle": {
+            "score": "8.9",
+            "votes": "38 Ratings"
+        },
+        "pricing": {
+            "score": "7.2",
+            "votes": "21 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 13
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Fresh",
+                "votes": 16
+            },
+            {
+                "name": "Creamy",
+                "votes": 13
+            },
+            {
+                "name": "Floral",
+                "votes": 17
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 9
+            },
+            {
+                "name": "Feminine",
+                "votes": 14
+            },
+            {
+                "name": "Modern",
+                "votes": 13
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 9
+            },
+            {
+                "name": "Summer",
+                "votes": 17
+            },
+            {
+                "name": "Spring",
+                "votes": 14
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 13
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 16
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 10
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

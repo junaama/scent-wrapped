@@ -1,0 +1,35 @@
+{
+    "name": "Black Lemon",
+    "brand": "Spezieria di San Marco",
+    "release_year": "2025",
+    "description": "A new perfume bySpezieria di San Marcofor women and men, released in2025. The scent is floral-fresh. It is being marketed byMavive.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d8/d8f8b8_black-lemon-spezieria-di-san-marco_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Citrus",
+        "Green"
+    ],
+    "top_notes": [
+        "Black lemon",
+        "Cedar leaf Orpur®",
+        "Egyptian basil Orpur®",
+        "Grapefruit Orpur®",
+        "Italian mandarine Orpur®"
+    ],
+    "heart_notes": [
+        "African neroli Orpur®",
+        "African rosemary Orpur®",
+        "Fig leaf",
+        "Peony"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Heliotrope",
+        "Musk",
+        "Oakmoss",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

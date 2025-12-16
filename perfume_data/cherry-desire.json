@@ -1,0 +1,47 @@
+{
+    "name": "Cherry Desire",
+    "brand": "Victoria's Secret",
+    "release_year": "2025",
+    "description": "A new and limited perfume byVictoria's Secretfor women, released in2025. Projection and longevity are above-average.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/b3/b3a48a_cherry-desire-victoria-s-secret_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cherry liqueur",
+        "Maraschino cherry"
+    ],
+    "heart_notes": [
+        "Brown sugar"
+    ],
+    "base_notes": [
+        "Amber",
+        "Lacquered wood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "name": "Pêche Passion",
+    "brand": "Jardin Bohème",
+    "release_year": "2025",
+    "description": "A new perfume byJardin Bohèmefor women and men, released in2025. The scent is fruity-sweet.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/b6/b6e977_peche-passion-jardin-boheme_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Creamy",
+        "Gourmand",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Davana",
+        "Peach",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Iris",
+        "Jasmine",
+        "Sandalwood"
+    ],
+    "base_notes": [
+        "Musk",
+        "Patchouli",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.3",
+            "votes": "19 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "15 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "22 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

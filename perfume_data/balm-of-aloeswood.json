@@ -1,0 +1,38 @@
+{
+    "name": "Balm of Aloeswood",
+    "brand": "Phoenicia",
+    "release_year": "2025",
+    "description": "A new perfume byPhoeniciafor women and men, released in2025. The scent is earthy-gourmand.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [
+        "Earthy",
+        "Gourmand",
+        "Green",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Blood orange",
+        "Rose otto"
+    ],
+    "heart_notes": [
+        "Galbanum",
+        "Jasmine",
+        "Osmanthus"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Bengal oud",
+        "Benzoin",
+        "Cambodian oud",
+        "Civet",
+        "Fossilised amber",
+        "ISO-E-Super",
+        "Labdanum",
+        "Musk",
+        "Peru balsam",
+        "Sandalwood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Sugar",
+    "brand": "Fragrance World",
+    "release_year": "2025",
+    "description": "A new perfume byFragrance Worldfor women and men, released in2025. It is being marketed byFragrance World Trading LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e7/e74f93_sugar-fragrance-world_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Apple",
+        "Bergamot",
+        "Cardamom"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Mint",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Amber",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

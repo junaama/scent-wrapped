@@ -1,0 +1,115 @@
+{
+    "name": "Ribbon Dance",
+    "brand": "SYD Botanica",
+    "release_year": "2025",
+    "description": "A new perfume bySYD Botanicafor women and men, released in2025. The scent is floral-woody.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8c/8c5ad3_ribbon-dance-syd-botanica_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Woody",
+        "Spicy",
+        "Resinous",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Cinnamon",
+        "Frangipani",
+        "Pimento"
+    ],
+    "heart_notes": [
+        "Acacia",
+        "Broom",
+        "Frankincense",
+        "Jonquil"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Opoponax",
+        "Oud",
+        "Sandalwood"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

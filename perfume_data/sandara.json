@@ -1,0 +1,26 @@
+{
+    "name": "Sandara",
+    "brand": "Archer Farrar",
+    "release_year": "2025",
+    "description": "A new perfume byArcher Farrarfor women and men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Mandarin orange",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Basil",
+        "Orange blossom",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

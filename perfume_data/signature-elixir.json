@@ -1,0 +1,136 @@
+{
+    "name": "Signature Elixir",
+    "brand": "Montblanc",
+    "release_year": "2025",
+    "description": "A new perfume byMontblancfor women, released in2025. The scent is sweet-creamy. It is being marketed byInterparfums.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/70/702a2a_signature-elixir-montblanc_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Creamy",
+        "Fruity",
+        "Floral",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Red orchid"
+    ],
+    "heart_notes": [
+        "Vanilla absolute",
+        "Resins"
+    ],
+    "base_notes": [
+        "Amberwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "32 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "28 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "28 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "31 Ratings"
+        },
+        "pricing": {
+            "score": "8.1",
+            "votes": "21 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 13
+            },
+            {
+                "name": "Powdery",
+                "votes": 7
+            },
+            {
+                "name": "Oriental",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 8
+            },
+            {
+                "name": "Creamy",
+                "votes": 12
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 16
+            },
+            {
+                "name": "Modern",
+                "votes": 11
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 13
+            },
+            {
+                "name": "Fall",
+                "votes": 15
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 11
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 11
+            },
+            {
+                "name": "Leisure",
+                "votes": 11
+            },
+            {
+                "name": "Night Out",
+                "votes": 11
+            },
+            {
+                "name": "Business",
+                "votes": 10
+            },
+            {
+                "name": "Evening",
+                "votes": 10
+            }
+        ]
+    }
+}

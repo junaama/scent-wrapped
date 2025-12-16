@@ -1,0 +1,40 @@
+{
+    "name": "Fruit Ride",
+    "brand": "Perito Moreno",
+    "release_year": "2025",
+    "description": "A new and limited perfume byPerito Morenofor women and men, released in2025.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/2f/2fecea_fruit-ride-perito-moreno_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Peach",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Almond",
+        "Banana",
+        "Black cardamom",
+        "Clove",
+        "Cumin",
+        "Jasmine sambac",
+        "Pumpkin pie",
+        "Red grape"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Labdanum",
+        "Musk",
+        "Oud",
+        "Peru balsam",
+        "Sandalwood",
+        "Tolu balm",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

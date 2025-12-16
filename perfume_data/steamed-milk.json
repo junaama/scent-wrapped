@@ -1,0 +1,32 @@
+{
+    "name": "Steamed Milk",
+    "brand": "Oakcha",
+    "release_year": "2025",
+    "description": "A new perfume byOakchafor women and men, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/72/721c0e_steamed-milk-oakcha_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Coconut",
+        "Mandarin orange",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lily of the valley",
+        "Plum"
+    ],
+    "base_notes": [
+        "Amber",
+        "Caramel",
+        "Musky notes",
+        "Sandalwood",
+        "Vanilla milk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

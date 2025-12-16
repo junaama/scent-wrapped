@@ -1,0 +1,48 @@
+{
+    "name": "Ägäis I",
+    "brand": "Monkoku",
+    "release_year": "2025",
+    "description": "A new perfume byMonkokufor women and men, released in2025. The scent is spicy-fresh. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/05/05f96f_agais-i-monkoku_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Fresh",
+        "Synthetic",
+        "Citrus",
+        "Green"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Green notes",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Floral notes",
+        "Herbs",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Woods"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {}
+}

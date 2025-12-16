@@ -1,0 +1,26 @@
+{
+    "name": "Turmali",
+    "brand": "Osmé",
+    "release_year": "2025",
+    "description": "A new perfume byOsméfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a6/a68558_turmali-osme_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Buchu",
+        "Pink pepper",
+        "Red mandarin orange"
+    ],
+    "heart_notes": [
+        "Rose",
+        "Solar note",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Cashmeran",
+        "Patchouli",
+        "White musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

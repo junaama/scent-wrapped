@@ -1,0 +1,32 @@
+{
+    "name": "Inside Out",
+    "brand": "The Gate",
+    "release_year": "2025",
+    "description": "A new perfume byThe Gatefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5c/5c62a9_inside-out-extrait-de-parfum-the-gate_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Passion fruit",
+        "Sorbet",
+        "Mandarin orange",
+        "Thai basil",
+        "Blackcurrant bud"
+    ],
+    "heart_notes": [
+        "Frangipani",
+        "Absinthe wormwood",
+        "Absinth",
+        "Magnolia",
+        "Rosemary"
+    ],
+    "base_notes": [
+        "Vanilla ice cream"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

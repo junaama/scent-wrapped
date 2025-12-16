@@ -1,0 +1,107 @@
+{
+    "name": "Bisous de Fleur",
+    "brand": "Le Monde Gourmand",
+    "release_year": "2025",
+    "description": "A new perfume byLe Monde Gourmandfor women and men, released in2025. The scent is citrusy-fresh. It is being marketed byTru Fragrance / Romane Fragrances.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/22/22d757_bisous-de-fleur-le-monde-gourmand_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Lemon",
+        "Pear",
+        "Salt"
+    ],
+    "heart_notes": [
+        "Blond woods",
+        "Cypress",
+        "Orris root",
+        "White tea"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cashmere wood",
+        "Musk",
+        "Orcanox",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.5",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "4.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "4.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "5.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

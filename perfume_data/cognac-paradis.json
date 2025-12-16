@@ -1,0 +1,39 @@
+{
+    "name": "Cognac Paradis",
+    "brand": "Fort & Manlé",
+    "release_year": "2025",
+    "description": "A new perfume byFort & Manléfor women and men, released in2025. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ed/ed4426_cognac-paradis-fort-manle_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Cognac",
+        "Grape",
+        "Grape leaf",
+        "Peach",
+        "Rum"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Ambergris",
+        "Bourbon vanilla",
+        "Iris",
+        "Jasmine",
+        "Labdanum",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Musk",
+        "Oak wood",
+        "Sandalwood",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

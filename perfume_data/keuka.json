@@ -1,0 +1,108 @@
+{
+    "name": "Keuka",
+    "brand": "Jinx",
+    "release_year": "2025",
+    "description": "A new and limited perfume byJinxfor women and men, released in2025. The scent is smoky-spicy. Projection and longevity are above-average. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/fc/fc2760_keuka-jinx_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Spicy",
+        "Woody",
+        "Floral",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Caramel",
+        "Cashew nut",
+        "Waffle cone"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lily",
+        "Patchouli"
+    ],
+    "base_notes": [
+        "Cambodian oud",
+        "Gaiac wood",
+        "Musk",
+        "Oakmoss",
+        "Thai oud",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.1",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "8.9",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "9.0",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

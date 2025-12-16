@@ -1,0 +1,103 @@
+{
+    "name": "Noble",
+    "brand": "Boadicea the Victorious",
+    "release_year": "2025",
+    "description": "A new and limited perfume byBoadicea the Victoriousfor women and men, released in2025. The scent is fresh-floral. The longevity is above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/45/452fbd_noble-2025-boadicea-the-victorious_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Floral",
+        "Sweet"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "8.9",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

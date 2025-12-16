@@ -1,0 +1,89 @@
+{
+    "name": "Bogoss Vibrant Leather Wild",
+    "brand": "Zara",
+    "release_year": "2025",
+    "description": "A new perfume byZarafor men, released in2025. The scent is synthetic-fruity.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ab/abfea5_bogoss-vibrant-leather-wild-zara_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Fruity",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Green apple"
+    ],
+    "base_notes": [
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

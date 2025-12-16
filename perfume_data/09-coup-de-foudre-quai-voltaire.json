@@ -1,0 +1,95 @@
+{
+    "name": "09 - Coup de Foudre Quai Voltaire",
+    "brand": "Solférino",
+    "release_year": "2025",
+    "description": "A new perfume bySolférinofor women and men, released in2025. The scent is sweet-spicy. It is being marketed byInterparfums.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/e9/e97d71_09-coup-de-foudre-quai-voltaire-solferino_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Oriental",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Cinnamon",
+        "Jasmine"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Benzoin"
+    ],
+    "base_notes": [
+        "Patchouli",
+        "Sandalwood",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "name": "030 Scent of Intensity",
+    "brand": "Issy",
+    "release_year": "2025",
+    "description": "A new perfume byIssyfor women and men, released in2025. The scent is fruity-leathery.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/fe/fe3793_030-scent-of-intensity-issy_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Leathery",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Black cherry",
+        "Nutmeg",
+        "Rosemary",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Frankincense",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Animalic musk",
+        "Gaiac wood",
+        "Leather",
+        "Suede"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

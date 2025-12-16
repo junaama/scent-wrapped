@@ -1,0 +1,131 @@
+{
+    "name": "Scandal Intense",
+    "brand": "Jean Paul Gaultier",
+    "release_year": "2025",
+    "description": "A new perfume byJean Paul Gaultierfor women, released in2025. The scent is sweet-floral. It is being marketed byPuig.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3b/3bfc57_scandal-intense-jean-paul-gaultier_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Creamy",
+        "Spicy",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Cardamom"
+    ],
+    "heart_notes": [
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Vanilla absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "97 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "78 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "77 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "85 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "61 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 16
+            },
+            {
+                "name": "Synthetic",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 32
+            },
+            {
+                "name": "Fruity",
+                "votes": 6
+            },
+            {
+                "name": "Creamy",
+                "votes": 19
+            },
+            {
+                "name": "Floral",
+                "votes": 30
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 31
+            },
+            {
+                "name": "Classic",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 19
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 25
+            },
+            {
+                "name": "Fall",
+                "votes": 31
+            },
+            {
+                "name": "Summer",
+                "votes": 13
+            },
+            {
+                "name": "Spring",
+                "votes": 20
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 18
+            },
+            {
+                "name": "Leisure",
+                "votes": 24
+            },
+            {
+                "name": "Night Out",
+                "votes": 27
+            },
+            {
+                "name": "Business",
+                "votes": 13
+            },
+            {
+                "name": "Evening",
+                "votes": 28
+            }
+        ]
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "name": "Second Skin",
+    "brand": "Attar Collection",
+    "release_year": "2025",
+    "description": "A new perfume byAttar Collectionfor women and men, released in2025. The scent is synthetic-citrusy. The longevity is above-average. It is being marketed byMBA Perfumes Manufacturing LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/66/66093f_second-skin-attar-collection_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Citrus",
+        "Floral",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Bitter orange"
+    ],
+    "heart_notes": [
+        "Mahonial®",
+        "Rosyfolia®"
+    ],
+    "base_notes": [
+        "Serenolide",
+        "Sylkolide™"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

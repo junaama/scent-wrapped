@@ -1,0 +1,24 @@
+{
+    "name": "Caramelito",
+    "brand": "Chabaud",
+    "release_year": "2025",
+    "description": "A new perfume byChabaudfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e6/e6ea87_caramelito-chabaud_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Caramel",
+        "Cocoa butter"
+    ],
+    "heart_notes": [
+        "Chocolate",
+        "Liquorice"
+    ],
+    "base_notes": [
+        "Bourbon vanilla absolute",
+        "Musk",
+        "Siam benzoin",
+        "Tonka bean"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

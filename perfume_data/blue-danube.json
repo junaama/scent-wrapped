@@ -1,0 +1,143 @@
+{
+    "name": "Blue Danube",
+    "brand": "Dusita",
+    "release_year": "2025",
+    "description": "A new and limited perfume byDusitafor women and men, released in2025. The scent is sweet-spicy.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/51/517e95_blue-danube-dusita_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Woody",
+        "Fruity",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Dried fruits",
+        "Cardamom"
+    ],
+    "heart_notes": [
+        "Sandalwood",
+        "Tobacco absolute",
+        "Benzoin",
+        "Clove",
+        "Orris butter"
+    ],
+    "base_notes": [
+        "Bourbon vanilla absolute",
+        "Gaiac wood",
+        "Virginia cedar wood",
+        "Amber notes"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "24 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "18 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "19 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "25 Ratings"
+        },
+        "pricing": {
+            "score": "6.3",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 11
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 8
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 9
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "name": "eLVes",
+    "brand": "Louis Vuitton",
+    "release_year": "2025",
+    "description": "A new perfume byLouis Vuittonfor women, released in2025. The scent is floral-fresh. It is being marketed byLVMH.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/07/076db4_elves-louis-vuitton_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Fruity",
+        "Creamy",
+        "Sweet"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "128 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "113 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "111 Ratings"
+        },
+        "bottle": {
+            "score": "8.7",
+            "votes": "115 Ratings"
+        },
+        "pricing": {
+            "score": "5.8",
+            "votes": "97 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 15
+            },
+            {
+                "name": "Powdery",
+                "votes": 9
+            },
+            {
+                "name": "Fruity",
+                "votes": 17
+            },
+            {
+                "name": "Fresh",
+                "votes": 33
+            },
+            {
+                "name": "Creamy",
+                "votes": 15
+            },
+            {
+                "name": "Floral",
+                "votes": 41
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 14
+            },
+            {
+                "name": "Feminine",
+                "votes": 36
+            },
+            {
+                "name": "Classic",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 29
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 16
+            },
+            {
+                "name": "Summer",
+                "votes": 35
+            },
+            {
+                "name": "Spring",
+                "votes": 40
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 35
+            },
+            {
+                "name": "Leisure",
+                "votes": 35
+            },
+            {
+                "name": "Night Out",
+                "votes": 27
+            },
+            {
+                "name": "Business",
+                "votes": 27
+            },
+            {
+                "name": "Evening",
+                "votes": 19
+            }
+        ]
+    }
+}

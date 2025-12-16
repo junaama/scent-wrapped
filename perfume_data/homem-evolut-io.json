@@ -1,0 +1,32 @@
+{
+    "name": "Homem Evolut.io",
+    "brand": "Natura",
+    "release_year": "2025",
+    "description": "A new perfume byNaturafor men, released in2025. It is being marketed byNatura & Co..Compare",
+    "image_url": "https://media.parfumo.com/perfumes/96/966d84_homem-evolut-io-natura_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Grapefruit",
+        "Provençal lavender",
+        "Rosemary"
+    ],
+    "heart_notes": [
+        "Cardamom",
+        "Cinnamon",
+        "Nutmeg"
+    ],
+    "base_notes": [
+        "Amber",
+        "Benzoin",
+        "Cumaru",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

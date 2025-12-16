@@ -1,0 +1,35 @@
+{
+    "name": "Ginger Snap",
+    "brand": "4160 Tuesdays",
+    "release_year": "2025",
+    "description": "A new perfume by4160 Tuesdaysfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c0/c0d576_ginger-snap-4160-tuesdays_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Floral",
+        "Creamy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "5.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "6.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

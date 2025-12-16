@@ -1,0 +1,129 @@
+{
+    "name": "Criminal Lipstick",
+    "brand": "Simone Andreoli",
+    "release_year": "2025",
+    "description": "A new perfume bySimone Andreolifor women, released in2025. The scent is floral-powdery. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/55/5507c2_criminal-lipstick-simone-andreoli_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Powdery",
+        "Sweet",
+        "Fruity",
+        "Synthetic"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "6.4",
+            "votes": "48 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "40 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "38 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "35 Ratings"
+        },
+        "pricing": {
+            "score": "5.7",
+            "votes": "29 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 10
+            },
+            {
+                "name": "Sweet",
+                "votes": 11
+            },
+            {
+                "name": "Powdery",
+                "votes": 11
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 11
+            },
+            {
+                "name": "Floral",
+                "votes": 13
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 14
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 13
+            },
+            {
+                "name": "Fall",
+                "votes": 14
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 13
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 12
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Mild Spice",
+    "brand": "MYND",
+    "release_year": "2025",
+    "description": "A new perfume byMYNDfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/53/534f87_mild-spice-mynd_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cinnamon",
+        "Ginger",
+        "Nutmeg"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Hazelnut"
+    ],
+    "base_notes": [
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

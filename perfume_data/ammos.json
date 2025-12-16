@@ -1,0 +1,101 @@
+{
+    "name": "Ammos",
+    "brand": "Lyora",
+    "release_year": "2025",
+    "description": "A new perfume byLyorafor men, released in2025. The scent is fresh-citrusy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f3/f3a96c_ammos-lyora_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Citrus",
+        "Aquatic"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Mandarin orange",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Ginger",
+        "Sea breeze"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Moss"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "31 Ratings"
+        },
+        "durability": {
+            "score": "6.1",
+            "votes": "30 Ratings"
+        },
+        "sillage": {
+            "score": "6.4",
+            "votes": "30 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "30 Ratings"
+        },
+        "pricing": {
+            "score": "7.3",
+            "votes": "30 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

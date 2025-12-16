@@ -1,0 +1,110 @@
+{
+    "name": "Mother of Pearl",
+    "brand": "Aqualis",
+    "release_year": "2025",
+    "description": "A new perfume byAqualisfor women and men, released in2025. The scent is sweet-fruity. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/37/377759_mother-of-pearl-aqualis_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Floral",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Ginger",
+        "Mandarin orange",
+        "Mango",
+        "Passion fruit",
+        "Pear",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Coconut",
+        "Gardenia",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Peru balsam",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            }
+        ]
+    }
+}

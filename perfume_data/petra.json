@@ -1,0 +1,151 @@
+{
+    "name": "Petra",
+    "brand": "The Nose Behind",
+    "release_year": "2025",
+    "description": "A new perfume byThe Nose Behindfor women and men, released in2025. The scent is fruity-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7c/7ce843_petra-the-nose-behind_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Floral",
+        "Spicy",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Magnolia",
+        "Mint tea",
+        "Pomegranate"
+    ],
+    "heart_notes": [
+        "Raspberry",
+        "Coconut",
+        "Juniper",
+        "Papyrus"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Musk",
+        "Frankincense",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "95 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "87 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "89 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "89 Ratings"
+        },
+        "pricing": {
+            "score": "7.1",
+            "votes": "80 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 14
+            },
+            {
+                "name": "Sweet",
+                "votes": 15
+            },
+            {
+                "name": "Smoky",
+                "votes": 4
+            },
+            {
+                "name": "Oriental",
+                "votes": 8
+            },
+            {
+                "name": "Green",
+                "votes": 6
+            },
+            {
+                "name": "Fruity",
+                "votes": 16
+            },
+            {
+                "name": "Fresh",
+                "votes": 6
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 14
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 17
+            },
+            {
+                "name": "Feminine",
+                "votes": 17
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 15
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 11
+            },
+            {
+                "name": "Fall",
+                "votes": 19
+            },
+            {
+                "name": "Summer",
+                "votes": 14
+            },
+            {
+                "name": "Spring",
+                "votes": 17
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 10
+            },
+            {
+                "name": "Leisure",
+                "votes": 17
+            },
+            {
+                "name": "Night Out",
+                "votes": 14
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 15
+            }
+        ]
+    }
+}

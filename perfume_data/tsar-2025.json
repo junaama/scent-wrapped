@@ -1,0 +1,140 @@
+{
+    "name": "Tsar",
+    "brand": "Van Cleef & Arpels",
+    "release_year": "2025",
+    "description": "A new perfume byVan Cleef & Arpelsfor men, released in2025. The scent is spicy-woody. It is being marketed byInterparfums.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3b/3bd332_tsar-2025-van-cleef-arpels_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Fresh",
+        "Green",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Lavender",
+        "Mugwort",
+        "Rosemary",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Pine",
+        "Cedar",
+        "Geranium",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Amber",
+        "Oakmoss",
+        "Sandalwood",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.2",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "6.1",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Fougère",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Jasmine & Cedarwood",
+    "brand": "Sand + Fog",
+    "release_year": "2025",
+    "description": "A new perfume bySand + Fogfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4a/4af3dd_jasmine-cedarwood-eau-de-toilette-sand-fog_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Lemon",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Pine"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

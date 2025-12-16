@@ -1,0 +1,78 @@
+{
+    "name": "Bufet - Elixir Urban",
+    "brand": "Adi ale Van",
+    "release_year": "2025",
+    "description": "A new and limited perfume byAdi ale Vanfor women and men, released in2025. The scent is fruity-sweet. The longevity is above-average. It is being marketed byAtelier Olfactiv.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/0e/0ebbb0_bufet-elixir-urban-adi-ale-van_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Animal"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Dried fruits",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Red wine",
+        "Rum",
+        "Tobacco"
+    ],
+    "base_notes": [
+        "Castoreum",
+        "Haitian vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

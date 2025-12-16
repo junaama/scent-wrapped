@@ -1,0 +1,108 @@
+{
+    "name": "Aetera",
+    "brand": "Giardino Benessere",
+    "release_year": "2025",
+    "description": "A new perfume byGiardino Benesserefor women and men, released in2025. The scent is gourmand-floral. The longevity is above-average. It is being marketed byCereria Terenzi Evelino.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/97/9712c1_aetera-giardino-benessere_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Floral",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Bourbon vanilla",
+        "Sicilian jasmine",
+        "Italian freesia",
+        "Ligurian mimosa"
+    ],
+    "heart_notes": [
+        "Cane sugar",
+        "Caribbean amyris",
+        "Chinese osmanthus",
+        "Hawaiian frangipani",
+        "South American tonka bean"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Indonesian patchouli",
+        "Moroccan artemisia",
+        "Tuscan oak moss",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

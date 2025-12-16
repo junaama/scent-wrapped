@@ -1,0 +1,27 @@
+{
+    "name": "Error 404: Lover",
+    "brand": "The Dua Brand",
+    "release_year": "2025",
+    "description": "A new perfume byThe Dua Brandfor men, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/04/04c774_error-404-lover-the-dua-brand-dua-fragrances_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Finger lime",
+        "White pepper"
+    ],
+    "heart_notes": [
+        "Marine notes"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Vanilla",
+        "Woods"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.0",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {}
+}

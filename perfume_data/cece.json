@@ -1,0 +1,130 @@
+{
+    "name": "Cece",
+    "brand": "Eau de Moe",
+    "release_year": "2025",
+    "description": "A new perfume byEau de Moefor women and men, released in2025. The scent is sweet-creamy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/30/306a73_cece-eau-de-moe_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Creamy",
+        "Floral",
+        "Fruity",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Almond",
+        "Bergamot",
+        "Cardamom"
+    ],
+    "heart_notes": [
+        "Orange blossom",
+        "Peony",
+        "White peach"
+    ],
+    "base_notes": [
+        "Marshmallow",
+        "Musk",
+        "Vanilla ice cream",
+        "Woods"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "15 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "14 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "17 Ratings"
+        },
+        "pricing": {
+            "score": "7.9",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

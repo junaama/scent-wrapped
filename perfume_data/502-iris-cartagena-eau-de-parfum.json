@@ -1,0 +1,148 @@
+{
+    "name": "502 Iris Cartagena",
+    "brand": "Bon Parfumeur",
+    "release_year": "2025",
+    "description": "A new and limited perfume byBon Parfumeurfor women and men, released in2025. The scent is sweet-powdery.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/bf/bf4b09_502-iris-cartagena-eau-de-parfum-bon-parfumeur_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Powdery",
+        "Gourmand",
+        "Woody",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Cocoa",
+        "Mandarin petitgrain",
+        "Rum",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Eucalyptus",
+        "Indian sandalwood",
+        "Orris butter",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Cocoa butter",
+        "Coffee absolute",
+        "Indian papyrus",
+        "Indonesian vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "22 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "18 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "18 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "22 Ratings"
+        },
+        "pricing": {
+            "score": "7.6",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 9
+            },
+            {
+                "name": "Powdery",
+                "votes": 8
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Gourmand",
+                "votes": 7
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 9
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Leisure",
+                "votes": 10
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

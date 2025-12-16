@@ -1,0 +1,160 @@
+{
+    "name": "Wrist Aficionado x Brogi",
+    "brand": "Brogi",
+    "release_year": "2025",
+    "description": "A new perfume byBrogifor women and men, released in2025. The scent is fresh-floral. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/01/017669_wrist-aficionado-x-brogi-brogi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Floral",
+        "Citrus",
+        "Green",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Aldehydes",
+        "Apple",
+        "Bergamot",
+        "Grapefruit",
+        "Green leaves",
+        "Mandarin orange",
+        "Ozonic notes",
+        "Passion fruit",
+        "Peruvian pepper tree",
+        "Pineapple",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Cistus",
+        "Elemi resin",
+        "Frankincense",
+        "Juniper",
+        "Laurel",
+        "Lily of the valley",
+        "Metallic notes",
+        "Patchouli"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Frankincense",
+        "Musk",
+        "Patchouli",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "6.3",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

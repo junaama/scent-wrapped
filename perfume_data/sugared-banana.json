@@ -1,0 +1,32 @@
+{
+    "name": "Sugared Banana",
+    "brand": "The Sugar Societies",
+    "release_year": "2025",
+    "description": "A new perfume byThe Sugar Societiesfor women, released in2025. The projection is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c3/c3f860_sugared-banana-the-sugar-societies_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Banana",
+        "Citrus zest"
+    ],
+    "heart_notes": [
+        "Brown sugar",
+        "Cinnamon",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Musk",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "2.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.0",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {}
+}

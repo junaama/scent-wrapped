@@ -1,0 +1,129 @@
+{
+    "name": "Vanilla Powder",
+    "brand": "Matière Première",
+    "release_year": "2025",
+    "description": "A new perfume byMatière Premièrefor women and men, released in2025. The scent is sweet-creamy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4b/4b0650_vanilla-powder-extrait-de-parfum-matiere-premiere_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Creamy",
+        "Powdery",
+        "Woody",
+        "Synthetic"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "90 Ratings"
+        },
+        "durability": {
+            "score": "9.1",
+            "votes": "85 Ratings"
+        },
+        "sillage": {
+            "score": "8.6",
+            "votes": "85 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "82 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "79 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 19
+            },
+            {
+                "name": "Powdery",
+                "votes": 14
+            },
+            {
+                "name": "Woody",
+                "votes": 11
+            },
+            {
+                "name": "Gourmand",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 18
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 12
+            },
+            {
+                "name": "Feminine",
+                "votes": 17
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 12
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 20
+            },
+            {
+                "name": "Fall",
+                "votes": 20
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 11
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 14
+            },
+            {
+                "name": "Night Out",
+                "votes": 18
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 21
+            }
+        ]
+    }
+}

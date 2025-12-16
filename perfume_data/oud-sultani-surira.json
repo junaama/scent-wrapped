@@ -1,0 +1,125 @@
+{
+    "name": "Oud Sultani: Surira",
+    "brand": "Ensar Oud",
+    "release_year": "2025",
+    "description": "A new perfume byEnsar Oudfor women and men, released in2025. The scent is animal-floral. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7c/7c417a_oud-sultani-surira-ensar-oud-oriscent_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Animal",
+        "Floral",
+        "Resinous",
+        "Earthy",
+        "Woody"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "9.0",
+            "votes": "31 Ratings"
+        },
+        "durability": {
+            "score": "8.9",
+            "votes": "31 Ratings"
+        },
+        "sillage": {
+            "score": "8.4",
+            "votes": "30 Ratings"
+        },
+        "bottle": {
+            "score": "8.8",
+            "votes": "25 Ratings"
+        },
+        "pricing": {
+            "score": "6.6",
+            "votes": "18 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 4
+            },
+            {
+                "name": "Earthy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            },
+            {
+                "name": "Animal",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Vanilla Espresso",
+    "brand": "Aurora Scents",
+    "release_year": "2025",
+    "description": "A new perfume byAurora Scentsfor women and men, released in2025. The scent is sweet-gourmand.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/54/5415fa_vanilla-espresso-aurora-scents_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Creamy",
+        "Powdery",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Cognac",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Orange blossom",
+        "Praliné"
+    ],
+    "base_notes": [
+        "Cachalox",
+        "Cedarwood",
+        "Cream",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "9.0",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {}
+}

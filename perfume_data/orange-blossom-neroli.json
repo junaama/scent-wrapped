@@ -1,0 +1,109 @@
+{
+    "name": "Orange Blossom Neroli",
+    "brand": "Glossier",
+    "release_year": "2025",
+    "description": "A new perfume byGlossierfor women, released in2025. The scent is fresh-green.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3f/3f2613_orange-blossom-neroli-glossier_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Green",
+        "Synthetic",
+        "Citrus",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Pear water"
+    ],
+    "heart_notes": [
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Musk",
+        "Cypress"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "4.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "4.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

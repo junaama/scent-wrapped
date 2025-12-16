@@ -1,0 +1,139 @@
+{
+    "name": "Faris Al Arab",
+    "brand": "Maison Asrar",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Asrarfor women and men, released in2025. The scent is sweet-creamy. It is being marketed byGulf Orchid Fragrances.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4c/4cf38f_faris-al-arab-maison-asrar_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Creamy",
+        "Spicy",
+        "Woody",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Cashmere wood",
+        "Liqueur",
+        "Oriental notes",
+        "Vanilla wood"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Cane sugar",
+        "Cedarwood"
+    ],
+    "base_notes": [
+        "Labdanum",
+        "Musk",
+        "Sandalwood",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.7",
+            "votes": "44 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "43 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "41 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "43 Ratings"
+        },
+        "pricing": {
+            "score": "8.8",
+            "votes": "40 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Sweet",
+                "votes": 9
+            },
+            {
+                "name": "Oriental",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 9
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

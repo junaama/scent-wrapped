@@ -1,0 +1,141 @@
+{
+    "name": "Pain Nouveau",
+    "brand": "Son Venïn",
+    "release_year": "2025",
+    "description": "A new perfume bySon Venïnfor women and men, released in2025. The scent is creamy-sweet.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/ed/ed82c5_pain-nouveau-son-venin_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Creamy",
+        "Sweet",
+        "Woody",
+        "Powdery",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Black pepper",
+        "Bergamot",
+        "Fig leaf"
+    ],
+    "heart_notes": [
+        "Bread",
+        "Mimosa",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Ambrox",
+        "Sandalwood",
+        "Bourbon vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "35 Ratings"
+        },
+        "durability": {
+            "score": "6.2",
+            "votes": "28 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "28 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "28 Ratings"
+        },
+        "pricing": {
+            "score": "6.8",
+            "votes": "25 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Powdery",
+                "votes": 7
+            },
+            {
+                "name": "Woody",
+                "votes": 7
+            },
+            {
+                "name": "Green",
+                "votes": 4
+            },
+            {
+                "name": "Gourmand",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 9
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Modern",
+                "votes": 12
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 9
+            },
+            {
+                "name": "Fall",
+                "votes": 13
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 12
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 12
+            },
+            {
+                "name": "Leisure",
+                "votes": 11
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Gourmand Vanilla",
+    "brand": "Dossier",
+    "release_year": "2025",
+    "description": "A new perfume byDossierfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/06/0647c9_gourmand-vanilla-dossier_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Almond",
+        "Ginger",
+        "Milk"
+    ],
+    "heart_notes": [
+        "Coconut",
+        "Jasmine",
+        "Orange blossom",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.0",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "5.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "5.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "5.8",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

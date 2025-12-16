@@ -1,0 +1,136 @@
+{
+    "name": "Amaretto in the Melting Room",
+    "brand": "Toskovat'",
+    "release_year": "2025",
+    "description": "A new perfume byToskovat'for women and men, released in2025. The scent is sweet-spicy. Projection and longevity are above-average. The production was apparently discontinued.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Gourmand",
+        "Resinous",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Orange zest",
+        "Peach stone",
+        "Sacramental bread"
+    ],
+    "heart_notes": [
+        "Amaretto",
+        "Candle wax",
+        "Labdanum",
+        "Syrup"
+    ],
+    "base_notes": [
+        "Tobacco absolute",
+        "Honeycomb",
+        "Vanilla",
+        "Passion flower",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.1",
+            "votes": "24 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "22 Ratings"
+        },
+        "sillage": {
+            "score": "8.3",
+            "votes": "22 Ratings"
+        },
+        "bottle": {
+            "score": "8.7",
+            "votes": "23 Ratings"
+        },
+        "pricing": {
+            "score": "8.1",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 11
+            },
+            {
+                "name": "Smoky",
+                "votes": 7
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 7
+            },
+            {
+                "name": "Gourmand",
+                "votes": 8
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 10
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 11
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 11
+            },
+            {
+                "name": "Evening",
+                "votes": 10
+            }
+        ]
+    }
+}

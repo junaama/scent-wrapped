@@ -1,0 +1,26 @@
+{
+    "name": "Lilac Wine",
+    "brand": "Sand + Fog",
+    "release_year": "2025",
+    "description": "A new perfume bySand + Fogfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/55/55166f_lilac-wine-eau-de-toilette-sand-fog_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Blackcurrant",
+        "Coconut"
+    ],
+    "heart_notes": [
+        "Bamboo",
+        "Jasmine",
+        "Rose"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Musk",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

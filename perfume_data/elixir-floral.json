@@ -1,0 +1,144 @@
+{
+    "name": "Elixir Floral",
+    "brand": "Câline",
+    "release_year": "2025",
+    "description": "A new perfume byCâlinefor women, released in2025. The scent is floral-sweet. It is being marketed byLifestyle Fragrance & Beauty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/dc/dc3fe3_elixir-floral-caline_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Fruity",
+        "Creamy",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Lychee",
+        "Rhubarb",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Peony",
+        "Rose",
+        "Frankincense",
+        "Lily of the valley",
+        "Nutmeg",
+        "Vetiver"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "124 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "112 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "110 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "117 Ratings"
+        },
+        "pricing": {
+            "score": "9.2",
+            "votes": "112 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 34
+            },
+            {
+                "name": "Powdery",
+                "votes": 10
+            },
+            {
+                "name": "Fruity",
+                "votes": 28
+            },
+            {
+                "name": "Fresh",
+                "votes": 18
+            },
+            {
+                "name": "Creamy",
+                "votes": 23
+            },
+            {
+                "name": "Floral",
+                "votes": 40
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 36
+            },
+            {
+                "name": "Classic",
+                "votes": 8
+            },
+            {
+                "name": "Modern",
+                "votes": 26
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 25
+            },
+            {
+                "name": "Summer",
+                "votes": 32
+            },
+            {
+                "name": "Spring",
+                "votes": 37
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 33
+            },
+            {
+                "name": "Leisure",
+                "votes": 32
+            },
+            {
+                "name": "Night Out",
+                "votes": 17
+            },
+            {
+                "name": "Business",
+                "votes": 28
+            },
+            {
+                "name": "Evening",
+                "votes": 12
+            }
+        ]
+    }
+}

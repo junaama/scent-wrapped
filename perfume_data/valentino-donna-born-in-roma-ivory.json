@@ -1,0 +1,133 @@
+{
+    "name": "Valentino Donna Born in Roma Ivory",
+    "brand": "Valentino",
+    "release_year": "2025",
+    "description": "A new and limited perfume byValentinofor women, released in2025. The scent is sweet-creamy. It is being marketed byL'Oréal.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/d0/d00d69_valentino-donna-born-in-roma-ivory-valentino_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Creamy",
+        "Synthetic",
+        "Gourmand",
+        "Floral"
+    ],
+    "top_notes": [
+        "Green mandarin orange",
+        "Orange blossom"
+    ],
+    "heart_notes": [
+        "Marshmallow"
+    ],
+    "base_notes": [
+        "Bourbon vanilla",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "89 Ratings"
+        },
+        "durability": {
+            "score": "6.2",
+            "votes": "68 Ratings"
+        },
+        "sillage": {
+            "score": "6.2",
+            "votes": "68 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "79 Ratings"
+        },
+        "pricing": {
+            "score": "5.4",
+            "votes": "54 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 6
+            },
+            {
+                "name": "Sweet",
+                "votes": 20
+            },
+            {
+                "name": "Powdery",
+                "votes": 4
+            },
+            {
+                "name": "Gourmand",
+                "votes": 6
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 10
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 19
+            },
+            {
+                "name": "Modern",
+                "votes": 8
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 10
+            },
+            {
+                "name": "Fall",
+                "votes": 16
+            },
+            {
+                "name": "Summer",
+                "votes": 11
+            },
+            {
+                "name": "Spring",
+                "votes": 15
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 13
+            },
+            {
+                "name": "Leisure",
+                "votes": 14
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 10
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

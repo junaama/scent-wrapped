@@ -1,0 +1,93 @@
+{
+    "name": "Serpentine",
+    "brand": "Roberto Cavalli",
+    "release_year": "2025",
+    "description": "A new perfume byRoberto Cavallifor women, released in2025. The scent is chypreartig-earthy. It is being marketed byInterparfums.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/93/9313e7_serpentine-2025-roberto-cavalli_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Chypre",
+        "Earthy",
+        "Synthetic",
+        "Animal",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Cardamom",
+        "Bergamot",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Lavender",
+        "Magnolia",
+        "Saffron",
+        "Jasmine sambac",
+        "Rose"
+    ],
+    "base_notes": [
+        "Cashmere wood",
+        "Cypriol",
+        "Sensual skin accord",
+        "Bourbon vanilla",
+        "Patchouli",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Chypre",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ]
+    }
+}

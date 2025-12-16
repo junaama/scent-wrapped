@@ -1,0 +1,120 @@
+{
+    "name": "Julieta",
+    "brand": "Hoss Intropia",
+    "release_year": "2025",
+    "description": "A new perfume byHoss Intropiafor women and men, released in2025. The scent is creamy-floral.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/cc/ccfc8b_julieta-hoss-intropia_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Creamy",
+        "Floral",
+        "Gourmand",
+        "Sweet",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Coconut water",
+        "Ambrette"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Musk",
+        "Patchouli",
+        "Peru balsam",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.3",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

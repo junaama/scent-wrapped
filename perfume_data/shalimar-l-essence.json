@@ -1,0 +1,137 @@
+{
+    "name": "Shalimar L'Essence",
+    "brand": "Guerlain",
+    "release_year": "2025",
+    "description": "A new perfume byGuerlainfor women, released in2025. The scent is sweet-powdery. It is being marketed byLVMH.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/57/57d07d_shalimar-l-essence-guerlain_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Powdery",
+        "Oriental",
+        "Spicy",
+        "Smoky"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.7",
+            "votes": "333 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "288 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "287 Ratings"
+        },
+        "bottle": {
+            "score": "9.0",
+            "votes": "274 Ratings"
+        },
+        "pricing": {
+            "score": "7.7",
+            "votes": "217 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 84
+            },
+            {
+                "name": "Sweet",
+                "votes": 114
+            },
+            {
+                "name": "Smoky",
+                "votes": 44
+            },
+            {
+                "name": "Powdery",
+                "votes": 105
+            },
+            {
+                "name": "Oriental",
+                "votes": 96
+            },
+            {
+                "name": "Leathery",
+                "votes": 41
+            },
+            {
+                "name": "Gourmand",
+                "votes": 27
+            },
+            {
+                "name": "Creamy",
+                "votes": 27
+            },
+            {
+                "name": "Floral",
+                "votes": 37
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 35
+            },
+            {
+                "name": "Feminine",
+                "votes": 124
+            },
+            {
+                "name": "Classic",
+                "votes": 101
+            },
+            {
+                "name": "Modern",
+                "votes": 41
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 131
+            },
+            {
+                "name": "Fall",
+                "votes": 134
+            },
+            {
+                "name": "Summer",
+                "votes": 21
+            },
+            {
+                "name": "Spring",
+                "votes": 63
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 71
+            },
+            {
+                "name": "Leisure",
+                "votes": 80
+            },
+            {
+                "name": "Night Out",
+                "votes": 114
+            },
+            {
+                "name": "Business",
+                "votes": 53
+            },
+            {
+                "name": "Evening",
+                "votes": 118
+            }
+        ]
+    }
+}

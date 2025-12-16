@@ -1,0 +1,117 @@
+{
+    "name": "Limone Nero",
+    "brand": "Miller et Bertaux",
+    "release_year": "2025",
+    "description": "A new perfume byMiller et Bertauxfor women and men, released in2025. The scent is citrusy-fresh. Projection and longevity are above-average. It is being marketed byLothantique.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/32/32014a_limone-nero-miller-et-bertaux_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Gourmand",
+        "Green",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Black lemon",
+        "Algae",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Gourmand notes",
+        "Petitgrain"
+    ],
+    "base_notes": [
+        "Ambrox",
+        "Cedarwood",
+        "Ethyl maltol",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            }
+        ]
+    }
+}

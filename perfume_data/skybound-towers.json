@@ -1,0 +1,49 @@
+{
+    "name": "Skybound Towers",
+    "brand": "The Dua Brand",
+    "release_year": "2025",
+    "description": "A new perfume byThe Dua Brandfor women and men, released in2025. The perfume is vegan according to the manufacturer.PronunciationCompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/84/844731_skybound-towers-the-dua-brand_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Black pepper",
+        "Cardamom",
+        "Damask rose",
+        "Lavender",
+        "Peruvian pepper tree",
+        "Red rose",
+        "Saffron",
+        "Thyme"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Cypress",
+        "Cypriol",
+        "Geranium",
+        "Jasmine",
+        "Leather",
+        "Oakmoss",
+        "Oud",
+        "Patchouli",
+        "Petitgrain",
+        "Pine",
+        "Tree moss",
+        "Violet"
+    ],
+    "base_notes": [
+        "Amber",
+        "Benzoin",
+        "Musk",
+        "Sandalwood",
+        "Vanilla",
+        "Woody notes"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

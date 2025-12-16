@@ -1,0 +1,24 @@
+{
+    "name": "Fruity Blush",
+    "brand": "Lach'n",
+    "release_year": "2025",
+    "description": "A new perfume byLach'nfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9b/9b232e_fruity-blush-lach-n_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Magnolia",
+        "Pomegranate",
+        "Yuzu"
+    ],
+    "heart_notes": [
+        "Peony",
+        "Raspberry"
+    ],
+    "base_notes": [
+        "Amber",
+        "Lotus",
+        "Mahogany"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,47 @@
+{
+    "name": "White Air",
+    "brand": "H&M",
+    "release_year": "2025",
+    "description": "A new perfume byH&Mfor women and men, released in2025. The scent is fresh-fruity.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/f4/f4e7c2_white-air-h-m_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Fruity",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Lemon",
+        "Magnolia",
+        "Mandarin orange",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Linden blossom",
+        "Peony",
+        "Yellow fruits"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Powder",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "6.3",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "6.7",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {}
+}

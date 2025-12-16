@@ -1,0 +1,133 @@
+{
+    "name": "Golden Moments",
+    "brand": "Diana zur Löwen",
+    "release_year": "2025",
+    "description": "A new perfume byDiana zur Löwenfor women, released in2025. The scent is sweet-gourmand. It is being marketed byOnivo Cosmetics.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/fe/fea662_golden-moments-diana-zur-lowen_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Creamy",
+        "Fruity",
+        "Floral"
+    ],
+    "top_notes": [
+        "Cotton candy"
+    ],
+    "heart_notes": [
+        "Raspberry",
+        "Strawberry"
+    ],
+    "base_notes": [
+        "Sweet notes",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "16 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "14 Ratings"
+        },
+        "sillage": {
+            "score": "5.9",
+            "votes": "13 Ratings"
+        },
+        "bottle": {
+            "score": "5.9",
+            "votes": "15 Ratings"
+        },
+        "pricing": {
+            "score": "8.2",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Gourmand",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

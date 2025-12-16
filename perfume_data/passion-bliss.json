@@ -1,0 +1,139 @@
+{
+    "name": "Passion Bliss",
+    "brand": "Alexandre.J",
+    "release_year": "2025",
+    "description": "A new perfume byAlexandre.Jfor women and men, released in2025. The scent is sweet-creamy.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/8d/8d13ab-passion-bliss-alexandre-j_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Creamy",
+        "Fruity",
+        "Gourmand",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Milk",
+        "Matcha",
+        "Cinnamon",
+        "Passion fruit"
+    ],
+    "heart_notes": [
+        "Honey",
+        "Heliotrope"
+    ],
+    "base_notes": [
+        "Rum",
+        "Sandalwood",
+        "Vanilla",
+        "Saffron",
+        "Smoked wood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "64 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "44 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "46 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "48 Ratings"
+        },
+        "pricing": {
+            "score": "6.9",
+            "votes": "28 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 16
+            },
+            {
+                "name": "Sweet",
+                "votes": 31
+            },
+            {
+                "name": "Oriental",
+                "votes": 7
+            },
+            {
+                "name": "Woody",
+                "votes": 12
+            },
+            {
+                "name": "Gourmand",
+                "votes": 21
+            },
+            {
+                "name": "Fruity",
+                "votes": 24
+            },
+            {
+                "name": "Creamy",
+                "votes": 26
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 9
+            },
+            {
+                "name": "Feminine",
+                "votes": 22
+            },
+            {
+                "name": "Modern",
+                "votes": 19
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 23
+            },
+            {
+                "name": "Fall",
+                "votes": 30
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 19
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 14
+            },
+            {
+                "name": "Leisure",
+                "votes": 24
+            },
+            {
+                "name": "Night Out",
+                "votes": 22
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 22
+            }
+        ]
+    }
+}

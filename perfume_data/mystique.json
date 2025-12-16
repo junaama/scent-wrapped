@@ -1,0 +1,125 @@
+{
+    "name": "Mystique",
+    "brand": "Trudon",
+    "release_year": "2025",
+    "description": "A new perfume byTrudonfor women and men, released in2025. The scent is animal-green. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/72/7279bf_mystique-trudon_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Animal",
+        "Green",
+        "Spicy",
+        "Oriental",
+        "Leathery"
+    ],
+    "top_notes": [
+        "Cedar",
+        "Leather",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Oud",
+        "Papyrus",
+        "Sandalwood"
+    ],
+    "base_notes": [
+        "Amber",
+        "Ebony",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "9.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "8.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

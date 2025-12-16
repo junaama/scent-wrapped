@@ -1,0 +1,27 @@
+{
+    "name": "Terrennal",
+    "brand": "Lehmann",
+    "release_year": "2025",
+    "description": "A new perfume byLehmannfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/1d/1dca2f_terrennal-lehmann_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Ginger",
+        "Lemon",
+        "Peppermint"
+    ],
+    "heart_notes": [
+        "Aquatic notes",
+        "Geosmin",
+        "Grass",
+        "Patchouli"
+    ],
+    "base_notes": [
+        "Haitian vetiver",
+        "Oakmoss",
+        "Suede"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

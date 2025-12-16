@@ -1,0 +1,133 @@
+{
+    "name": "Rich Guy",
+    "brand": "Police",
+    "release_year": "2025",
+    "description": "A new perfume byPolicefor men, released in2025. The scent is sweet-synthetic. It is being marketed byMavive.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/97/978db4_rich-guy-police_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Synthetic",
+        "Spicy",
+        "Woody",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Cascalone®",
+        "Nigerian ginger",
+        "Black pepper"
+    ],
+    "heart_notes": [
+        "Absinth",
+        "Orange blossom",
+        "Tobacco"
+    ],
+    "base_notes": [
+        "Tonka bean",
+        "Amberwood",
+        "Suede"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.4",
+            "votes": "8 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "6.0",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 6
+            },
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

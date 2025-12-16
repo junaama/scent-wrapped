@@ -1,0 +1,164 @@
+{
+    "name": "Roja Dove Perfumery",
+    "brand": "Roja Parfums",
+    "release_year": "2025",
+    "description": "A new and limited perfume byRoja Parfumsfor women and men, released in2025. The scent is fruity-chypre. Projection and longevity are above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/9c/9c49b3_roja-dove-perfumery-roja-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Chypre",
+        "Spicy",
+        "Sweet",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Orange juice",
+        "Bergamot",
+        "Lemon",
+        "Lime"
+    ],
+    "heart_notes": [
+        "Peach",
+        "Blackcurrant",
+        "Geranium",
+        "Jasmine",
+        "Orange blossom",
+        "Tuberose",
+        "Violet",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Amber",
+        "Vanilla",
+        "Suede",
+        "Benzoin",
+        "Clove",
+        "Cumin",
+        "Cypriol",
+        "Dry woods",
+        "Labdanum",
+        "Leather",
+        "Moss",
+        "Nutmeg",
+        "Patchouli",
+        "Peru balsam",
+        "Sandalwood",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.1",
+            "votes": "54 Ratings"
+        },
+        "durability": {
+            "score": "8.9",
+            "votes": "50 Ratings"
+        },
+        "sillage": {
+            "score": "8.5",
+            "votes": "47 Ratings"
+        },
+        "bottle": {
+            "score": "9.5",
+            "votes": "49 Ratings"
+        },
+        "pricing": {
+            "score": "5.4",
+            "votes": "35 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 10
+            },
+            {
+                "name": "Spicy",
+                "votes": 12
+            },
+            {
+                "name": "Sweet",
+                "votes": 11
+            },
+            {
+                "name": "Leathery",
+                "votes": 7
+            },
+            {
+                "name": "Woody",
+                "votes": 7
+            },
+            {
+                "name": "Fruity",
+                "votes": 14
+            },
+            {
+                "name": "Chypre",
+                "votes": 13
+            },
+            {
+                "name": "Floral",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 16
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Classic",
+                "votes": 11
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 14
+            },
+            {
+                "name": "Fall",
+                "votes": 16
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 14
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 15
+            },
+            {
+                "name": "Business",
+                "votes": 8
+            },
+            {
+                "name": "Evening",
+                "votes": 15
+            }
+        ]
+    }
+}

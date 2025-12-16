@@ -1,0 +1,145 @@
+{
+    "name": "Atlas",
+    "brand": "Enchantê Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byEnchantê Parfumsfor women and men, released in2025. The scent is sweet-spicy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/91/918633_atlas-enchante-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Floral",
+        "Smoky",
+        "Woody"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Lime",
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Bulgarian geranium",
+        "Jasmine",
+        "Rum"
+    ],
+    "base_notes": [
+        "Amber",
+        "Frankincense",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "21 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "20 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "19 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "15 Ratings"
+        },
+        "pricing": {
+            "score": "7.2",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Smoky",
+                "votes": 4
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "name": "Preppy Rose",
+    "brand": "Gant",
+    "release_year": "2025",
+    "description": "A new perfume byGantfor women, released in2025. The scent is floral-synthetic. It is being marketed byE.A. Cosmetics.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ea/ea560f_preppy-rose-gant_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Synthetic",
+        "Fresh",
+        "Citrus",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Grapefruit",
+        "Marine notes",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Neroli",
+        "Rose"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Cedarwood",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "9 Ratings"
+        },
+        "durability": {
+            "score": "6.2",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "5.8",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            }
+        ]
+    }
+}

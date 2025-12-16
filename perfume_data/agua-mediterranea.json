@@ -1,0 +1,125 @@
+{
+    "name": "Agua Mediterránea",
+    "brand": "Puig",
+    "release_year": "2025",
+    "description": "A new perfume byPuigfor women and men, released in2025. The scent is green-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/43/43d6fa_agua-mediterranea-puig_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Fresh",
+        "Woody",
+        "Spicy",
+        "Fruity"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "15 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "12 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "18 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Spicy",
+                "votes": 8
+            },
+            {
+                "name": "Woody",
+                "votes": 8
+            },
+            {
+                "name": "Green",
+                "votes": 10
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Fresh",
+                "votes": 9
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 9
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 9
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Sport",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

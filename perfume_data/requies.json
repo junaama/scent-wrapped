@@ -1,0 +1,177 @@
+{
+    "name": "Requies",
+    "brand": "Custodia Libertatis",
+    "release_year": "2025",
+    "description": "A new perfume byCustodia Libertatisfor women and men, released in2025. The scent is creamy-fruity. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/66/6661fc_requies-custodia-libertatis_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Creamy",
+        "Fruity",
+        "Sweet",
+        "Woody",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Banana",
+        "Pear",
+        "Cardamom",
+        "Cinnamon",
+        "Coffee",
+        "Cumin",
+        "Mandarin orange",
+        "Mango leaf",
+        "Peach",
+        "Pineapple",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Honey",
+        "Coconut",
+        "Frangipani",
+        "Morrocan orange blossom",
+        "Rhodinol",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Amber",
+        "Butter",
+        "Chinese oud",
+        "Mysore sandalwood",
+        "Patchouli",
+        "Siberian musk",
+        "Thai oud",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "19 Ratings"
+        },
+        "durability": {
+            "score": "8.9",
+            "votes": "17 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "17 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "18 Ratings"
+        },
+        "pricing": {
+            "score": "7.5",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 7
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 7
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "name": "Smoking Earth",
+    "brand": "Veer",
+    "release_year": "2025",
+    "description": "A new perfume byVeerfor women and men, released in2025. The scent is woody-earthy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/49/4964db_smoking-earth-veer_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Earthy",
+        "Floral",
+        "Creamy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "9.3",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "9.3",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "9.5",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

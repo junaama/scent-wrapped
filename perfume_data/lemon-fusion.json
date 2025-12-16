@@ -1,0 +1,136 @@
+{
+    "name": "Lemon Fusion",
+    "brand": "Avapari",
+    "release_year": "2025",
+    "description": "A new perfume byAvaparifor women and men, released in2025. The scent is green-citrusy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/09/09a0b1_lemon-fusion-avapari_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Citrus",
+        "Spicy",
+        "Fruity",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Galbanum",
+        "Grapefruit",
+        "Lemon",
+        "Lime"
+    ],
+    "heart_notes": [
+        "Apple",
+        "Jasmine",
+        "Lily of the valley",
+        "Pink pepper",
+        "Rose",
+        "Woody notes"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Benzoin",
+        "Labdanum",
+        "Leather",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

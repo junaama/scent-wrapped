@@ -1,0 +1,31 @@
+{
+    "name": "Voyage Intense",
+    "brand": "Nautica",
+    "release_year": "2025",
+    "description": "A new perfume byNauticafor men, released in2025. It is being marketed byCatalyst Brands.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/77/776b07_voyage-intense-nautica_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Green apple",
+        "Green leaves"
+    ],
+    "heart_notes": [
+        "Lotus",
+        "Smoked leather"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Musk",
+        "Sandalwood",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.3",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

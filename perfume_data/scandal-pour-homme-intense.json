@@ -1,0 +1,139 @@
+{
+    "name": "Scandal pour Homme Intense",
+    "brand": "Jean Paul Gaultier",
+    "release_year": "2025",
+    "description": "A new perfume byJean Paul Gaultierfor men, released in2025. The scent is sweet-synthetic. It is being marketed byPuig.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/05/05cd5f_scandal-pour-homme-intense-jean-paul-gaultier_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Synthetic",
+        "Leathery",
+        "Spicy",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Clary sage"
+    ],
+    "heart_notes": [
+        "Leather"
+    ],
+    "base_notes": [
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "95 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "77 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "78 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "81 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "70 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 13
+            },
+            {
+                "name": "Synthetic",
+                "votes": 23
+            },
+            {
+                "name": "Sweet",
+                "votes": 28
+            },
+            {
+                "name": "Powdery",
+                "votes": 10
+            },
+            {
+                "name": "Leathery",
+                "votes": 14
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Gourmand",
+                "votes": 5
+            },
+            {
+                "name": "Fresh",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 27
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 16
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 20
+            },
+            {
+                "name": "Fall",
+                "votes": 25
+            },
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 21
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 13
+            },
+            {
+                "name": "Leisure",
+                "votes": 20
+            },
+            {
+                "name": "Night Out",
+                "votes": 20
+            },
+            {
+                "name": "Business",
+                "votes": 11
+            },
+            {
+                "name": "Evening",
+                "votes": 19
+            }
+        ]
+    }
+}

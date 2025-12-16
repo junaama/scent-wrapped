@@ -1,0 +1,32 @@
+{
+    "name": "Ambery Neroli",
+    "brand": "Dossier",
+    "release_year": "2025",
+    "description": "A new perfume byDossierfor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c2/c2e1ea_ambery-neroli-dossier_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Blackcurrant",
+        "Neroli",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Orange blossom",
+        "Plum"
+    ],
+    "base_notes": [
+        "Amber",
+        "Honey",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.3",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

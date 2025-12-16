@@ -1,0 +1,134 @@
+{
+    "name": "Valaya Exclusif",
+    "brand": "Parfums de Marly",
+    "release_year": "2025",
+    "description": "A new perfume byParfums de Marlyfor women, released in2025. The scent is creamy-floral. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/58/586199-valaya-exclusif-parfums-de-marly_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Creamy",
+        "Floral",
+        "Powdery",
+        "Fresh",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Almond",
+        "Bergamot",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Powdery notes",
+        "Orange blossom",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Sandalwood",
+        "Akigalawood®",
+        "Ambroxan"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "338 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "296 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "298 Ratings"
+        },
+        "bottle": {
+            "score": "8.8",
+            "votes": "289 Ratings"
+        },
+        "pricing": {
+            "score": "6.4",
+            "votes": "244 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 44
+            },
+            {
+                "name": "Sweet",
+                "votes": 55
+            },
+            {
+                "name": "Powdery",
+                "votes": 81
+            },
+            {
+                "name": "Fresh",
+                "votes": 73
+            },
+            {
+                "name": "Creamy",
+                "votes": 82
+            },
+            {
+                "name": "Floral",
+                "votes": 82
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 106
+            },
+            {
+                "name": "Classic",
+                "votes": 23
+            },
+            {
+                "name": "Modern",
+                "votes": 59
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 39
+            },
+            {
+                "name": "Fall",
+                "votes": 63
+            },
+            {
+                "name": "Summer",
+                "votes": 85
+            },
+            {
+                "name": "Spring",
+                "votes": 105
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 87
+            },
+            {
+                "name": "Leisure",
+                "votes": 80
+            },
+            {
+                "name": "Night Out",
+                "votes": 55
+            },
+            {
+                "name": "Business",
+                "votes": 64
+            },
+            {
+                "name": "Evening",
+                "votes": 48
+            }
+        ]
+    }
+}

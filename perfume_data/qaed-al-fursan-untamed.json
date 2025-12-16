@@ -1,0 +1,150 @@
+{
+    "name": "Qaed Al Fursan Untamed",
+    "brand": "Lattafa",
+    "release_year": "2025",
+    "description": "A new perfume byLattafafor women and men, released in2025. The scent is sweet-spicy. It is being marketed byLattafa Perfumes Industries LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/54/5451e0_qaed-al-fursan-untamed-lattafa_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Oriental",
+        "Woody",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Cinnamon",
+        "Nutmeg",
+        "Cardamom",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Clary sage",
+        "Cypress",
+        "Geranium",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Frankincense",
+        "Labdanum",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "84 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "79 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "78 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "85 Ratings"
+        },
+        "pricing": {
+            "score": "8.6",
+            "votes": "79 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Spicy",
+                "votes": 17
+            },
+            {
+                "name": "Sweet",
+                "votes": 17
+            },
+            {
+                "name": "Smoky",
+                "votes": 7
+            },
+            {
+                "name": "Oriental",
+                "votes": 14
+            },
+            {
+                "name": "Woody",
+                "votes": 9
+            },
+            {
+                "name": "Gourmand",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 19
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 14
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 17
+            },
+            {
+                "name": "Fall",
+                "votes": 20
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 15
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 15
+            },
+            {
+                "name": "Leisure",
+                "votes": 18
+            },
+            {
+                "name": "Night Out",
+                "votes": 16
+            },
+            {
+                "name": "Business",
+                "votes": 12
+            },
+            {
+                "name": "Evening",
+                "votes": 18
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Duomo",
+    "brand": "Note di Siena",
+    "release_year": "2025",
+    "description": "A new perfume byNote di Sienafor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6f/6fc63b_duomo-note-di-siena_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Lemon",
+        "Orange",
+        "Pink pepper",
+        "Spices"
+    ],
+    "heart_notes": [
+        "Ambergris",
+        "Brazilian rosewood",
+        "Damask rose",
+        "Oud"
+    ],
+    "base_notes": [
+        "Atlas cedar",
+        "Ethiopian frankincense",
+        "Musk",
+        "Myrrh",
+        "Oakmoss",
+        "Omani frankincense",
+        "Patchouli"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

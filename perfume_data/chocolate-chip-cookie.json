@@ -1,0 +1,29 @@
+{
+    "name": "Chocolate Chip Cookie",
+    "brand": "Juliet Rose",
+    "release_year": "2025",
+    "description": "A new perfume byJuliet Rosefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/01/015ccf_chocolate-chip-cookie-juliet-rose_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Ginger",
+        "Lactone",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Almond",
+        "Caramel",
+        "Pastry",
+        "Pistachio"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Cinnamon",
+        "Cocoa",
+        "Hazelnut",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

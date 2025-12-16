@@ -1,0 +1,107 @@
+{
+    "name": "Vanilla | 28",
+    "brand": "Kayali",
+    "release_year": "2025",
+    "description": "A new and limited perfume byKayalifor women, released in2025. The scent is gourmand-spicy. The perfume is vegan according to the manufacturer.CompareLimitedVegan",
+    "image_url": "https://media.parfumo.com/perfumes/3d/3d2da8_vanilla-28-all-over-body-spray-kayali_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Spicy",
+        "Powdery",
+        "Oriental",
+        "Woody"
+    ],
+    "top_notes": [
+        "Madagascar vanilla orchid",
+        "Jasmine"
+    ],
+    "heart_notes": [
+        "Vanilla",
+        "Brazilian tonka bean",
+        "Vanilla absolute"
+    ],
+    "base_notes": [
+        "Brown sugar",
+        "Tonka bean absolute",
+        "Vanilla orchid",
+        "Amberwood",
+        "Musk",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.3",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            }
+        ]
+    }
+}

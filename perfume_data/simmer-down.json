@@ -1,0 +1,42 @@
+{
+    "name": "Simmer Down",
+    "brand": "Marley Fragrance",
+    "release_year": "2025",
+    "description": "A new perfume byMarley Fragrancefor men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6c/6c4b69_simmer-down-marley-fragrance_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Cardamom",
+        "Star apple"
+    ],
+    "heart_notes": [
+        "Amyris",
+        "Cinnamon leaf",
+        "Pear blossom"
+    ],
+    "base_notes": [
+        "Amberwood",
+        "Gurjum balsam",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

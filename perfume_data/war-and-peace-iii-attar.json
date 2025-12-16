@@ -1,0 +1,146 @@
+{
+    "name": "War and Peace III",
+    "brand": "Areej Le Doré",
+    "release_year": "2025",
+    "description": "A new perfume byAreej Le Doréfor women and men, released in2025. The scent is animal-resinous. The longevity is above-average. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/30/309462_war-and-peace-iii-attar-areej-le-dore_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Animal",
+        "Resinous",
+        "Smoky",
+        "Earthy",
+        "Leathery"
+    ],
+    "top_notes": [
+        "Fossilised amber"
+    ],
+    "heart_notes": [
+        "Indonesian patchouli",
+        "Orris absolute",
+        "Taif rose",
+        "Rosa alba"
+    ],
+    "base_notes": [
+        "Siberian deer musk absolute",
+        "Ambergris absolute",
+        "Indian oud",
+        "Castoreum absolute",
+        "Civet",
+        "Civet absolute",
+        "Indonesian vetiver absolute",
+        "Oakmoss",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.3",
+            "votes": "33 Ratings"
+        },
+        "durability": {
+            "score": "9.2",
+            "votes": "29 Ratings"
+        },
+        "sillage": {
+            "score": "7.9",
+            "votes": "29 Ratings"
+        },
+        "bottle": {
+            "score": "8.7",
+            "votes": "29 Ratings"
+        },
+        "pricing": {
+            "score": "8.6",
+            "votes": "23 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Smoky",
+                "votes": 7
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Leathery",
+                "votes": 5
+            },
+            {
+                "name": "Resinous",
+                "votes": 7
+            },
+            {
+                "name": "Earthy",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            },
+            {
+                "name": "Animal",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

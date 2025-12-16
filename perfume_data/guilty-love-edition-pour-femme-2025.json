@@ -1,0 +1,128 @@
+{
+    "name": "Guilty Love Edition pour Femme",
+    "brand": "Gucci",
+    "release_year": "2025",
+    "description": "A new and limited perfume byGuccifor women, released in2025. The scent is floral-sweet. It is being marketed byCoty.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/a9/a92177_guilty-love-edition-pour-femme-2025-gucci_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Fresh",
+        "Powdery",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Lilac"
+    ],
+    "heart_notes": [
+        "Patchouli"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musky notes"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "45 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "34 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "34 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "39 Ratings"
+        },
+        "pricing": {
+            "score": "7.1",
+            "votes": "25 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 13
+            },
+            {
+                "name": "Powdery",
+                "votes": 6
+            },
+            {
+                "name": "Fresh",
+                "votes": 8
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 15
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 14
+            },
+            {
+                "name": "Classic",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 13
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 12
+            },
+            {
+                "name": "Leisure",
+                "votes": 10
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

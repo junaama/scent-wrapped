@@ -1,0 +1,45 @@
+{
+    "name": "Hair Rituel Le Parfum",
+    "brand": "Sisley",
+    "release_year": "2025",
+    "description": "A new perfume bySisleyfor women and men, released in2025. The scent is green-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6d/6d213d_hair-ritual-le-parfum-sisley_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Fresh",
+        "Citrus",
+        "Spicy",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Vervain",
+        "Lemon",
+        "Lavender"
+    ],
+    "heart_notes": [
+        "Vegetal notes",
+        "Mimosa"
+    ],
+    "base_notes": [
+        "Amberwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "6.2",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {}
+}

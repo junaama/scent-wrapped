@@ -1,0 +1,47 @@
+{
+    "name": "California Blue",
+    "brand": "Mykonos",
+    "release_year": "2025",
+    "description": "A new perfume byMykonosfor women and men, released in2025. The scent is fresh-fruity. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9f/9f0639_california-blue-mykonos_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Fruity",
+        "Aquatic"
+    ],
+    "top_notes": [
+        "Grapefruit",
+        "Himalayan salt",
+        "Lavender",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Aquatic flowers",
+        "Marine notes",
+        "Rhubarb"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Coniferous woods",
+        "Moss"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

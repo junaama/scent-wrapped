@@ -1,0 +1,121 @@
+{
+    "name": "Bronze Goddess Aegea",
+    "brand": "Estēe Lauder",
+    "release_year": "2025",
+    "description": "A new and limited perfume byEstēe Lauderfor women, released in2025. The scent is fresh-floral. It is being marketed byEstēe Lauder Companies.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/23/236200-bronze-goddess-aegea-estee-lauder_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Floral",
+        "Fruity",
+        "Citrus",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Italian bergamot",
+        "Violet leaf",
+        "Ylang-ylang"
+    ],
+    "heart_notes": [
+        "Bougainvillea",
+        "Fig nectar",
+        "Jasmine sambac absolute"
+    ],
+    "base_notes": [
+        "Coconut milk",
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "29 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "28 Ratings"
+        },
+        "sillage": {
+            "score": "5.6",
+            "votes": "28 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "30 Ratings"
+        },
+        "pricing": {
+            "score": "6.5",
+            "votes": "25 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 8
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            }
+        ]
+    }
+}

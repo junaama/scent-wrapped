@@ -1,0 +1,153 @@
+{
+    "name": "Caden",
+    "brand": "Omanluxury",
+    "release_year": "2025",
+    "description": "A new perfume byOmanluxuryfor women and men, released in2025. The scent is leathery-oriental. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/bc/bc6365_caden-omanluxury_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Leathery",
+        "Oriental",
+        "Spicy",
+        "Sweet",
+        "Woody"
+    ],
+    "top_notes": [
+        "Saffron",
+        "Cade juniper",
+        "Cardamom",
+        "Boozy notes"
+    ],
+    "heart_notes": [
+        "Cistus",
+        "Benzoin",
+        "Suede",
+        "Coffee"
+    ],
+    "base_notes": [
+        "Tonka bean",
+        "Vanilla",
+        "Amberwood",
+        "Gaiac wood",
+        "Labdanum"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "91 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "83 Ratings"
+        },
+        "sillage": {
+            "score": "8.1",
+            "votes": "83 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "82 Ratings"
+        },
+        "pricing": {
+            "score": "7.5",
+            "votes": "75 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 15
+            },
+            {
+                "name": "Sweet",
+                "votes": 12
+            },
+            {
+                "name": "Smoky",
+                "votes": 5
+            },
+            {
+                "name": "Oriental",
+                "votes": 16
+            },
+            {
+                "name": "Leathery",
+                "votes": 17
+            },
+            {
+                "name": "Woody",
+                "votes": 10
+            },
+            {
+                "name": "Resinous",
+                "votes": 6
+            },
+            {
+                "name": "Gourmand",
+                "votes": 7
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 17
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 10
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 17
+            },
+            {
+                "name": "Fall",
+                "votes": 16
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Night Out",
+                "votes": 15
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 18
+            }
+        ]
+    }
+}

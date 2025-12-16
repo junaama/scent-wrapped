@@ -1,0 +1,151 @@
+{
+    "name": "P.13",
+    "brand": "Xerjoff",
+    "release_year": "2025",
+    "description": "A new and limited perfume byXerjofffor women and men, released in2025. The scent is floral-sweet.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/04/046cde_p-13-xerjoff_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Creamy",
+        "Spicy",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Turkish rose",
+        "Bergamot",
+        "Violet"
+    ],
+    "heart_notes": [
+        "Tuberose",
+        "Jasmine",
+        "Orange blossom",
+        "Clove"
+    ],
+    "base_notes": [
+        "Tobacco",
+        "Oakmoss",
+        "Peru balsam",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "51 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "46 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "45 Ratings"
+        },
+        "bottle": {
+            "score": "8.8",
+            "votes": "57 Ratings"
+        },
+        "pricing": {
+            "score": "3.3",
+            "votes": "47 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 11
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Earthy",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 10
+            },
+            {
+                "name": "Floral",
+                "votes": 14
+            },
+            {
+                "name": "Animal",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 15
+            },
+            {
+                "name": "Classic",
+                "votes": 9
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 12
+            },
+            {
+                "name": "Fall",
+                "votes": 13
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 11
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 11
+            }
+        ]
+    }
+}

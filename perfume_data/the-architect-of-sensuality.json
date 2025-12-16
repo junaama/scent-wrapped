@@ -1,0 +1,151 @@
+{
+    "name": "The Architect of Sensuality",
+    "brand": "L'Art Vévien",
+    "release_year": "2025",
+    "description": "A new and limited perfume byL'Art Vévienfor women and men, released in2025. The scent is floral-creamy.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/1b/1ba265_the-architect-of-sensuality-l-art-vevien_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Creamy",
+        "Sweet",
+        "Citrus",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Hibiscus",
+        "Honey"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "37 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "27 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "27 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "44 Ratings"
+        },
+        "pricing": {
+            "score": "6.8",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 7
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 11
+            },
+            {
+                "name": "Floral",
+                "votes": 11
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 9
+            },
+            {
+                "name": "Spring",
+                "votes": 10
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

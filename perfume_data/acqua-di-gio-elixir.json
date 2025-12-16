@@ -1,0 +1,139 @@
+{
+    "name": "Acqua di Giò Elixir",
+    "brand": "Giorgio Armani",
+    "release_year": "2025",
+    "description": "A new perfume byGiorgio Armanifor men, released in2025. The scent is fresh-aquatic. It is being marketed byL'Oréal.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e6/e6492d-acqua-di-gio-elixir-giorgio-armani_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Aquatic",
+        "Citrus",
+        "Spicy",
+        "Leathery"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Green mandarin orange",
+        "Nutmeg"
+    ],
+    "heart_notes": [
+        "Calone",
+        "Violet leaf absolute"
+    ],
+    "base_notes": [
+        "Guatemala patchouly",
+        "Leather"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "265 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "232 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "228 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "229 Ratings"
+        },
+        "pricing": {
+            "score": "6.1",
+            "votes": "202 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 42
+            },
+            {
+                "name": "Spicy",
+                "votes": 41
+            },
+            {
+                "name": "Leathery",
+                "votes": 36
+            },
+            {
+                "name": "Woody",
+                "votes": 21
+            },
+            {
+                "name": "Green",
+                "votes": 16
+            },
+            {
+                "name": "Fresh",
+                "votes": 66
+            },
+            {
+                "name": "Aquatic",
+                "votes": 65
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 68
+            },
+            {
+                "name": "Classic",
+                "votes": 31
+            },
+            {
+                "name": "Modern",
+                "votes": 39
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 22
+            },
+            {
+                "name": "Fall",
+                "votes": 49
+            },
+            {
+                "name": "Summer",
+                "votes": 63
+            },
+            {
+                "name": "Spring",
+                "votes": 69
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 58
+            },
+            {
+                "name": "Sport",
+                "votes": 22
+            },
+            {
+                "name": "Leisure",
+                "votes": 57
+            },
+            {
+                "name": "Night Out",
+                "votes": 27
+            },
+            {
+                "name": "Business",
+                "votes": 54
+            },
+            {
+                "name": "Evening",
+                "votes": 28
+            }
+        ]
+    }
+}

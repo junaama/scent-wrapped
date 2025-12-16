@@ -1,0 +1,95 @@
+{
+    "name": "Oud 777",
+    "brand": "Morris Motley",
+    "release_year": "2025",
+    "description": "A new perfume byMorris Motleyfor women and men, released in2025. The scent is sweet-spicy. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/59/599280_oud-777-morris-motley_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Woody",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Saffron",
+        "Tobacco"
+    ],
+    "heart_notes": [
+        "Gurjum balsam",
+        "Oud",
+        "Vetiver"
+    ],
+    "base_notes": [
+        "Cypress",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "name": "The Wonderland II: The Jabberwock",
+    "brand": "Folkwinds",
+    "release_year": "2025",
+    "description": "A new and limited perfume byFolkwindsfor women and men, released in2025. The scent is fruity-leathery. The longevity is above-average. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/de/deabe9_the-wonderland-ii-the-jabberwock-folkwinds_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Leathery",
+        "Spicy",
+        "Animal",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Bitter almond",
+        "Castoreum",
+        "Civet",
+        "Plum"
+    ],
+    "heart_notes": [
+        "Castoreum",
+        "Immortelle",
+        "Indian oud",
+        "Spices"
+    ],
+    "base_notes": [
+        "Mexican vanilla",
+        "Mongolian deer musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.8",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "9.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

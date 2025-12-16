@@ -1,0 +1,141 @@
+{
+    "name": "Spiky Muse",
+    "brand": "Ex Nihilo",
+    "release_year": "2025",
+    "description": "A new perfume byEx Nihilofor women and men, released in2025. The scent is floral-fruity.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ce/ce527f-spiky-muse-ex-nihilo_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fruity",
+        "Fresh",
+        "Sweet",
+        "Woody"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Pink pepper",
+        "Strawberry"
+    ],
+    "heart_notes": [
+        "Rose absolute",
+        "Pistachio"
+    ],
+    "base_notes": [
+        "Akigalawood®",
+        "Ambrofix",
+        "Cedarwood",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "96 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "68 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "72 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "67 Ratings"
+        },
+        "pricing": {
+            "score": "5.7",
+            "votes": "54 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 9
+            },
+            {
+                "name": "Sweet",
+                "votes": 15
+            },
+            {
+                "name": "Woody",
+                "votes": 11
+            },
+            {
+                "name": "Green",
+                "votes": 7
+            },
+            {
+                "name": "Fruity",
+                "votes": 21
+            },
+            {
+                "name": "Fresh",
+                "votes": 17
+            },
+            {
+                "name": "Floral",
+                "votes": 27
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 27
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 22
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 16
+            },
+            {
+                "name": "Summer",
+                "votes": 26
+            },
+            {
+                "name": "Spring",
+                "votes": 28
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 20
+            },
+            {
+                "name": "Leisure",
+                "votes": 25
+            },
+            {
+                "name": "Night Out",
+                "votes": 14
+            },
+            {
+                "name": "Business",
+                "votes": 16
+            },
+            {
+                "name": "Evening",
+                "votes": 12
+            }
+        ]
+    }
+}

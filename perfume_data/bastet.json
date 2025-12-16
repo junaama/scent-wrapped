@@ -1,0 +1,105 @@
+{
+    "name": "Bastet",
+    "brand": "Ashenfume",
+    "release_year": "2025",
+    "description": "A new perfume byAshenfumefor women and men, released in2025. The scent is animal-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/16/16239a_bastet-ashenfume_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Animal",
+        "Sweet",
+        "Spicy",
+        "Oriental",
+        "Earthy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Blue lotus",
+        "Egyptian orange blossom",
+        "Lavender absolute"
+    ],
+    "heart_notes": [
+        "Coffee absolute",
+        "Coffee blossom absolute",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Civet absolute",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

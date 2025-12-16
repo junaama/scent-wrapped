@@ -1,0 +1,153 @@
+{
+    "name": "Beaver Maple Edition",
+    "brand": "Zoologist",
+    "release_year": "2025",
+    "description": "A new perfume byZoologistfor women and men, released in2025. The scent is woody-sweet. The perfume is vegan according to the manufacturer.PronunciationCompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/7a/7a8ea9-beaver-maple-edition-zoologist_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Sweet",
+        "Animal",
+        "Green",
+        "Resinous"
+    ],
+    "top_notes": [
+        "French carrot",
+        "Blue lotus",
+        "Egyptian neroli"
+    ],
+    "heart_notes": [
+        "Atlas cedar",
+        "Peru balsam",
+        "Virginia cedar",
+        "Haitian vetiver",
+        "Maple"
+    ],
+    "base_notes": [
+        "Castoreum",
+        "Madagascan cocoa shell",
+        "New Caledonian sandalwood",
+        "Patchouli",
+        "Vanilla CO2"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "55 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "46 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "47 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "50 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "30 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 6
+            },
+            {
+                "name": "Sweet",
+                "votes": 17
+            },
+            {
+                "name": "Woody",
+                "votes": 19
+            },
+            {
+                "name": "Resinous",
+                "votes": 8
+            },
+            {
+                "name": "Green",
+                "votes": 10
+            },
+            {
+                "name": "Gourmand",
+                "votes": 6
+            },
+            {
+                "name": "Fresh",
+                "votes": 5
+            },
+            {
+                "name": "Earthy",
+                "votes": 5
+            },
+            {
+                "name": "Animal",
+                "votes": 11
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 12
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 13
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 14
+            },
+            {
+                "name": "Fall",
+                "votes": 18
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 11
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Leisure",
+                "votes": 15
+            },
+            {
+                "name": "Night Out",
+                "votes": 9
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 14
+            }
+        ]
+    }
+}

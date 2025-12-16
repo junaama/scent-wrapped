@@ -1,0 +1,123 @@
+{
+    "name": "Ardo",
+    "brand": "Nimori",
+    "release_year": "2025",
+    "description": "A new perfume byNimorifor women and men, released in2025. The scent is spicy-oriental. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ee/eeae18_ardo-nimori_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Oriental",
+        "Woody",
+        "Fruity",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Hedione",
+        "Lychee",
+        "Taif rose",
+        "Vanilla"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Hedione",
+        "Lavender",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Musk",
+        "Oud",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "8.8",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

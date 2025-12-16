@@ -1,0 +1,27 @@
+{
+    "name": "Blush Valley",
+    "brand": "Zyara",
+    "release_year": "2025",
+    "description": "A new perfume byZyarafor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d0/d00195_blush-valley-zyara_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Apple blossom",
+        "Peach"
+    ],
+    "heart_notes": [
+        "Pineapple blossom"
+    ],
+    "base_notes": [
+        "Musk",
+        "Patchouli",
+        "Wild rose"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

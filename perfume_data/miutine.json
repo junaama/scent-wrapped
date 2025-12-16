@@ -1,0 +1,134 @@
+{
+    "name": "Miutine",
+    "brand": "Miu Miu",
+    "release_year": "2025",
+    "description": "A new perfume byMiu Miufor women, released in2025. The scent is sweet-fruity. It is being marketed byL'Oréal.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/45/453130_miutine-miu-miu_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Floral",
+        "Synthetic",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Mara des Bois strawberry",
+        "Citrus fruits"
+    ],
+    "heart_notes": [
+        "Gardenia",
+        "Jasminum grandiflorum absolute",
+        "Rose"
+    ],
+    "base_notes": [
+        "Bourbon vanilla",
+        "Brown sugar",
+        "Amber",
+        "Oakmoss",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "84 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "59 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "55 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "65 Ratings"
+        },
+        "pricing": {
+            "score": "6.3",
+            "votes": "46 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 14
+            },
+            {
+                "name": "Sweet",
+                "votes": 27
+            },
+            {
+                "name": "Gourmand",
+                "votes": 11
+            },
+            {
+                "name": "Fruity",
+                "votes": 23
+            },
+            {
+                "name": "Floral",
+                "votes": 19
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 27
+            },
+            {
+                "name": "Classic",
+                "votes": 8
+            },
+            {
+                "name": "Modern",
+                "votes": 18
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 10
+            },
+            {
+                "name": "Fall",
+                "votes": 19
+            },
+            {
+                "name": "Summer",
+                "votes": 9
+            },
+            {
+                "name": "Spring",
+                "votes": 21
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 19
+            },
+            {
+                "name": "Leisure",
+                "votes": 21
+            },
+            {
+                "name": "Night Out",
+                "votes": 18
+            },
+            {
+                "name": "Business",
+                "votes": 13
+            },
+            {
+                "name": "Evening",
+                "votes": 15
+            }
+        ]
+    }
+}

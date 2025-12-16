@@ -1,0 +1,137 @@
+{
+    "name": "Never-ending Summer",
+    "brand": "Maison Margiela",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Margielafor women and men, released in2025. The scent is citrusy-fresh. It is being marketed byL'Oréal.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b4/b43688_never-ending-summer-maison-margiela_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Fruity",
+        "Spicy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Bitter orange",
+        "Aperol",
+        "Pepper"
+    ],
+    "heart_notes": [
+        "Cardamom",
+        "Earl Grey tea",
+        "Nutmeg"
+    ],
+    "base_notes": [
+        "Vetiver",
+        "Cedarwood",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "186 Ratings"
+        },
+        "durability": {
+            "score": "5.7",
+            "votes": "143 Ratings"
+        },
+        "sillage": {
+            "score": "5.5",
+            "votes": "143 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "141 Ratings"
+        },
+        "pricing": {
+            "score": "5.9",
+            "votes": "124 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 62
+            },
+            {
+                "name": "Spicy",
+                "votes": 27
+            },
+            {
+                "name": "Sweet",
+                "votes": 16
+            },
+            {
+                "name": "Woody",
+                "votes": 18
+            },
+            {
+                "name": "Fruity",
+                "votes": 44
+            },
+            {
+                "name": "Fresh",
+                "votes": 51
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 40
+            },
+            {
+                "name": "Feminine",
+                "votes": 47
+            },
+            {
+                "name": "Classic",
+                "votes": 11
+            },
+            {
+                "name": "Modern",
+                "votes": 41
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 66
+            },
+            {
+                "name": "Spring",
+                "votes": 44
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 57
+            },
+            {
+                "name": "Sport",
+                "votes": 31
+            },
+            {
+                "name": "Leisure",
+                "votes": 54
+            },
+            {
+                "name": "Night Out",
+                "votes": 19
+            },
+            {
+                "name": "Business",
+                "votes": 33
+            },
+            {
+                "name": "Evening",
+                "votes": 15
+            }
+        ]
+    }
+}

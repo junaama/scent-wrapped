@@ -1,0 +1,27 @@
+{
+    "name": "Vintage Vibes",
+    "brand": "Pepe Jeans",
+    "release_year": "2025",
+    "description": "A new perfume byPepe Jeansfor women, released in2025. It is being marketed byTailored Perfumes.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c1/c10bb8_vintage-vibes-pepe-jeans_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Candied fruits",
+        "Milk coffee"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Cream"
+    ],
+    "base_notes": [
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.0",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

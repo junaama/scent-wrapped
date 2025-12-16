@@ -1,0 +1,25 @@
+{
+    "name": "Namu",
+    "brand": "FabronFrags",
+    "release_year": "2025",
+    "description": "A new perfume byFabronFragsfor women and men, released in2025. It is being marketed byFabron.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b1/b1bec9_namu-fabronfrags_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Lemon",
+        "Pineapple",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Galbanum",
+        "Iris",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cashmeran",
+        "Cedarwood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Hot Rose",
+    "brand": "Zhor",
+    "release_year": "2025",
+    "description": "A new perfume byZhorfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/fc/fc989b_hot-rose-zhor_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blackcurrant",
+        "Lychee",
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Patchouli",
+        "Rose absolute",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Sandalwood",
+        "Tonka bean"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

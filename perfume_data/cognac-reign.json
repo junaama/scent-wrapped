@@ -1,0 +1,130 @@
+{
+    "name": "Cognac Reign",
+    "brand": "D.S. & Durga",
+    "release_year": "2025",
+    "description": "A new perfume byD.S. & Durgafor women and men, released in2025. The scent is woody-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e0/e0b648_cognac-reign-d-s-durga_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Sweet",
+        "Spicy",
+        "Smoky",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Aged wood",
+        "Caramelized bergamot"
+    ],
+    "heart_notes": [
+        "Cognac",
+        "Orris concrete"
+    ],
+    "base_notes": [
+        "Oak",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "20 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "15 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "15 Ratings"
+        },
+        "pricing": {
+            "score": "6.5",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

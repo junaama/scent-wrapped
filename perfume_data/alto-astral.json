@@ -1,0 +1,140 @@
+{
+    "name": "Alto Astral",
+    "brand": "Byredo",
+    "release_year": "2025",
+    "description": "A new perfume byByredofor women and men, released in2025. The scent is sweet-synthetic. It is being marketed byPuig.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/41/41db1b_alto-astral-byredo_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Synthetic",
+        "Creamy",
+        "Woody",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Coconut water",
+        "Aldehydes"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Musk",
+        "Frankincense"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Amber",
+        "Cashmere wood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.7",
+            "votes": "128 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "103 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "101 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "92 Ratings"
+        },
+        "pricing": {
+            "score": "5.8",
+            "votes": "71 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 28
+            },
+            {
+                "name": "Sweet",
+                "votes": 30
+            },
+            {
+                "name": "Smoky",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 19
+            },
+            {
+                "name": "Fruity",
+                "votes": 7
+            },
+            {
+                "name": "Fresh",
+                "votes": 12
+            },
+            {
+                "name": "Creamy",
+                "votes": 25
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 21
+            },
+            {
+                "name": "Feminine",
+                "votes": 32
+            },
+            {
+                "name": "Modern",
+                "votes": 26
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 9
+            },
+            {
+                "name": "Fall",
+                "votes": 20
+            },
+            {
+                "name": "Summer",
+                "votes": 25
+            },
+            {
+                "name": "Spring",
+                "votes": 24
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 24
+            },
+            {
+                "name": "Sport",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 32
+            },
+            {
+                "name": "Night Out",
+                "votes": 11
+            },
+            {
+                "name": "Business",
+                "votes": 16
+            },
+            {
+                "name": "Evening",
+                "votes": 10
+            }
+        ]
+    }
+}

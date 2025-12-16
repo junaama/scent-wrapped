@@ -1,0 +1,152 @@
+{
+    "name": "Seamless Soul",
+    "brand": "Zaharoff",
+    "release_year": "2025",
+    "description": "A new and limited perfume byZaharofffor women and men, released in2025. The scent is citrusy-woody. Projection and longevity are above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/d9/d93926_seamless-soul-zaharoff_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Woody",
+        "Fruity",
+        "Fresh",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Aniseed",
+        "Cardamom",
+        "Grapefruit",
+        "Green apple",
+        "Lemon",
+        "Nepalese sichuan pepper"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Fir balsam",
+        "Frankincense",
+        "Magnolia"
+    ],
+    "base_notes": [
+        "Amberwood",
+        "Moss",
+        "Musk",
+        "Tonka bean",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.2",
+            "votes": "14 Ratings"
+        },
+        "durability": {
+            "score": "9.1",
+            "votes": "12 Ratings"
+        },
+        "sillage": {
+            "score": "8.9",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "13 Ratings"
+        },
+        "pricing": {
+            "score": "9.2",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Fougère",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "name": "Volupté Noire",
+    "brand": "Pierre Guillaume",
+    "release_year": "2025",
+    "description": "A new perfume byPierre Guillaumefor women and men, released in2025. The scent is sweet-spicy.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/44/44b944_volupte-noire-pierre-guillaume_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Woody",
+        "Oriental",
+        "Floral"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Medjoul date",
+        "Davana"
+    ],
+    "heart_notes": [
+        "White blossoms",
+        "Linden tree",
+        "Acacia",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Amber",
+        "Euphorbia honey",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.4",
+            "votes": "21 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "18 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "17 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "20 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Oriental",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 9
+            },
+            {
+                "name": "Fall",
+                "votes": 9
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

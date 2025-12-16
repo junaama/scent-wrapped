@@ -1,0 +1,37 @@
+{
+    "name": "Vintage",
+    "brand": "Elixir Attar",
+    "release_year": "2025",
+    "description": "A new perfume byElixir Attarfor women and men, released in2025. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e1/e1aab8_vintage-extrait-de-parfum-elixir-attar_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Aldehydes",
+        "Bergamot",
+        "Neroli"
+    ],
+    "heart_notes": [
+        "Carnation",
+        "Jasmine",
+        "May rose",
+        "Violet",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Amber",
+        "Benzoin",
+        "Civet",
+        "Oakmoss",
+        "Patchouli",
+        "Sandalwood",
+        "Tonka bean",
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,148 @@
+{
+    "name": "Paradigme",
+    "brand": "Prada",
+    "release_year": "2025",
+    "description": "A new perfume byPradafor men, released in2025. The scent is sweet-synthetic. It is being marketed byL'Oréal.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c3/c3c415_paradigme-prada_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Synthetic",
+        "Fresh",
+        "Woody",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Musk",
+        "Calabrian bergamot"
+    ],
+    "heart_notes": [
+        "Bourbon geranium",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amberwood",
+        "Benzoin",
+        "Gaiac wood",
+        "Peru balsam"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.2",
+            "votes": "436 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "354 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "359 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "345 Ratings"
+        },
+        "pricing": {
+            "score": "5.4",
+            "votes": "315 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 17
+            },
+            {
+                "name": "Spicy",
+                "votes": 28
+            },
+            {
+                "name": "Synthetic",
+                "votes": 74
+            },
+            {
+                "name": "Sweet",
+                "votes": 82
+            },
+            {
+                "name": "Woody",
+                "votes": 47
+            },
+            {
+                "name": "Fresh",
+                "votes": 56
+            },
+            {
+                "name": "Creamy",
+                "votes": 30
+            },
+            {
+                "name": "Floral",
+                "votes": 26
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 80
+            },
+            {
+                "name": "Feminine",
+                "votes": 16
+            },
+            {
+                "name": "Classic",
+                "votes": 12
+            },
+            {
+                "name": "Modern",
+                "votes": 63
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 39
+            },
+            {
+                "name": "Fall",
+                "votes": 76
+            },
+            {
+                "name": "Summer",
+                "votes": 49
+            },
+            {
+                "name": "Spring",
+                "votes": 77
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 68
+            },
+            {
+                "name": "Sport",
+                "votes": 23
+            },
+            {
+                "name": "Leisure",
+                "votes": 74
+            },
+            {
+                "name": "Night Out",
+                "votes": 39
+            },
+            {
+                "name": "Business",
+                "votes": 58
+            },
+            {
+                "name": "Evening",
+                "votes": 43
+            }
+        ]
+    }
+}

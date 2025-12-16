@@ -1,0 +1,30 @@
+{
+    "name": "Mango Mousse",
+    "brand": "Oakcha",
+    "release_year": "2025",
+    "description": "A new perfume byOakchafor women and men, released in2025. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a6/a6c52b_mango-mousse-oakcha_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Mango",
+        "Peach nectar",
+        "Red berries"
+    ],
+    "heart_notes": [
+        "Milk",
+        "Orange blossom",
+        "Orris root"
+    ],
+    "base_notes": [
+        "Cream",
+        "Patchouli",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

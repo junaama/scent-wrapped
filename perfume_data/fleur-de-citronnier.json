@@ -1,0 +1,138 @@
+{
+    "name": "Fleur de Citronnier",
+    "brand": "Fragonard",
+    "release_year": "2025",
+    "description": "A new and limited perfume byFragonardfor women, released in2025. The scent is citrusy-fresh.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/1e/1ea7e4-fleur-de-citronnier-fragonard_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Floral",
+        "Fruity",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Argentinian lime",
+        "Brazilian orange",
+        "Grapefruit",
+        "Italian lemon"
+    ],
+    "heart_notes": [
+        "Green apple",
+        "Italian lemon petitgrain",
+        "Wild jasmine"
+    ],
+    "base_notes": [
+        "Virginia cedar",
+        "White amber",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "31 Ratings"
+        },
+        "durability": {
+            "score": "5.8",
+            "votes": "29 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "28 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "35 Ratings"
+        },
+        "pricing": {
+            "score": "7.6",
+            "votes": "25 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 14
+            },
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 6
+            },
+            {
+                "name": "Fresh",
+                "votes": 10
+            },
+            {
+                "name": "Floral",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 12
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 12
+            },
+            {
+                "name": "Spring",
+                "votes": 12
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 13
+            },
+            {
+                "name": "Sport",
+                "votes": 11
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

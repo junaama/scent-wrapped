@@ -1,0 +1,122 @@
+{
+    "name": "Gentle Reminder",
+    "brand": "Snif",
+    "release_year": "2025",
+    "description": "A new perfume bySniffor women and men, released in2025. The scent is sweet-gourmand. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/2f/2fe28b_gentle-reminder-snif_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Powdery",
+        "Creamy",
+        "Floral"
+    ],
+    "top_notes": [
+        "Date sugar",
+        "Black tea",
+        "Milk"
+    ],
+    "heart_notes": [
+        "Lavender",
+        "Purple yam"
+    ],
+    "base_notes": [
+        "Palo Santo"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "30 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "26 Ratings"
+        },
+        "sillage": {
+            "score": "5.8",
+            "votes": "24 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "23 Ratings"
+        },
+        "pricing": {
+            "score": "7.1",
+            "votes": "17 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

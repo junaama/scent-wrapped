@@ -1,0 +1,42 @@
+{
+    "name": "Anisetta",
+    "brand": "ATon",
+    "release_year": "2025",
+    "description": "A new perfume byATonfor women and men, released in2025. The scent is floral-fresh. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/23/2303e3_anisetta-aton_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Powdery",
+        "Spicy",
+        "Green"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Almond Date",
+    "brand": "Fluez",
+    "release_year": "2025",
+    "description": "A new perfume byFluezfor women and men, released in2025. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/85/852560_almond-date-fluez_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Almond milk",
+        "Candied ginger",
+        "Date"
+    ],
+    "heart_notes": [
+        "Heliotrope",
+        "Iris",
+        "Myrrh"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

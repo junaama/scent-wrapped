@@ -1,0 +1,124 @@
+{
+    "name": "Redacted.",
+    "brand": "Noctifera",
+    "release_year": "2025",
+    "description": "A new and limited perfume byNoctiferafor women and men, released in2025. The scent is smoky-sweet. The longevity is above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/fc/fc6ddb_redacted-noctifera_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Sweet",
+        "Leathery",
+        "Fruity",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Elemi resin",
+        "Fire",
+        "Raspberry",
+        "Woody notes"
+    ],
+    "heart_notes": [
+        "Aged paper",
+        "Birch",
+        "Floral notes"
+    ],
+    "base_notes": [
+        "Leather",
+        "Musk",
+        "Pencil shaving",
+        "Resins"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "9.0",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Leathery",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

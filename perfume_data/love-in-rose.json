@@ -1,0 +1,30 @@
+{
+    "name": "Love in Rose",
+    "brand": "La Beauté",
+    "release_year": "2025",
+    "description": "A new perfume byLa Beautéfor women and men, released in2025. It is being marketed byDeraah Trading Company.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/35/3546ac_love-in-rose-la-beaute_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Peach",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Plum",
+        "Raspberry"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Leather",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

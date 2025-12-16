@@ -1,0 +1,29 @@
+{
+    "name": "Honey Lemon",
+    "brand": "Flower Knows",
+    "release_year": "2025",
+    "description": "A new perfume byFlower Knowsfor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f1/f19bc9_honey-lemon-flower-knows_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Berries",
+        "Lemon",
+        "Mandarin orange",
+        "Pear",
+        "Strawberry"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Peach",
+        "Rose",
+        "Sandalwood"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Caramel",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

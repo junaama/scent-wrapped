@@ -1,0 +1,132 @@
+{
+    "name": "Royal Blend Séquoia",
+    "brand": "French Avenue",
+    "release_year": "2025",
+    "description": "A new perfume byFrench Avenuefor women and men, released in2025. The scent is sweet-gourmand. The longevity is above-average. It is being marketed byFragrance World Trading LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/53/539e03_royal-blend-sequoia-french-avenue_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Fruity",
+        "Spicy",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Raspberry",
+        "Liqueur",
+        "Cognac"
+    ],
+    "heart_notes": [
+        "Rose",
+        "Moss"
+    ],
+    "base_notes": [
+        "Oak",
+        "Sandalwood",
+        "Praliné"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "166 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "157 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "157 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "152 Ratings"
+        },
+        "pricing": {
+            "score": "9.3",
+            "votes": "151 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 23
+            },
+            {
+                "name": "Sweet",
+                "votes": 37
+            },
+            {
+                "name": "Oriental",
+                "votes": 20
+            },
+            {
+                "name": "Woody",
+                "votes": 8
+            },
+            {
+                "name": "Gourmand",
+                "votes": 36
+            },
+            {
+                "name": "Fruity",
+                "votes": 35
+            },
+            {
+                "name": "Creamy",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 31
+            },
+            {
+                "name": "Feminine",
+                "votes": 31
+            },
+            {
+                "name": "Modern",
+                "votes": 30
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 41
+            },
+            {
+                "name": "Fall",
+                "votes": 40
+            },
+            {
+                "name": "Spring",
+                "votes": 16
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 12
+            },
+            {
+                "name": "Leisure",
+                "votes": 22
+            },
+            {
+                "name": "Night Out",
+                "votes": 40
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 37
+            }
+        ]
+    }
+}

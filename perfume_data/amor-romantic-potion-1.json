@@ -1,0 +1,107 @@
+{
+    "name": "Amor - Romantic Potion",
+    "brand": "Adi ale Van",
+    "release_year": "2025",
+    "description": "A new and limited perfume byAdi ale Vanfor women and men, released in2025. The scent is sweet-gourmand. It was last marketed byAtelier Olfactiv.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/eb/ebd437_amor-romantic-potion-adi-ale-van_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Creamy",
+        "Fruity",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Peach",
+        "Raspberry",
+        "Sweet corn"
+    ],
+    "heart_notes": [
+        "Dried apple",
+        "Sugar"
+    ],
+    "base_notes": [
+        "Popcorn",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.8",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "8.9",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            }
+        ]
+    }
+}

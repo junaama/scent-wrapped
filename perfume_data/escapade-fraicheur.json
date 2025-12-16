@@ -1,0 +1,48 @@
+{
+    "name": "Escapade Fraîcheur",
+    "brand": "Jardin Bohème",
+    "release_year": "2025",
+    "description": "A new perfume byJardin Bohèmefor women, released in2025. The scent is fruity-fresh. It is being marketed byUltimate Skin Aesthetics.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/79/7939e5_escapade-fraicheur-jardin-boheme_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Fresh",
+        "Green",
+        "Floral",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Apple",
+        "Blackcurrant",
+        "Violet"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lily of the valley",
+        "Ozonic notes"
+    ],
+    "base_notes": [
+        "Musk",
+        "Amber",
+        "Iris"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.7",
+            "votes": "9 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {}
+}

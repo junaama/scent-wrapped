@@ -1,0 +1,92 @@
+{
+    "name": "Citrush",
+    "brand": "Boy Smells",
+    "release_year": "2025",
+    "description": "A new perfume byBoy Smellsfor women and men, released in2025. The scent is fresh-citrusy.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/f5/f5acc9_citrush-2025-boy-smells_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Citrus",
+        "Synthetic",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Black pepper",
+        "Honey pomelo",
+        "Italian lemon"
+    ],
+    "heart_notes": [
+        "Frosted mint",
+        "Mandarin orange",
+        "Terpenes"
+    ],
+    "base_notes": [
+        "Ambrox",
+        "Black musk",
+        "ISO-E-Super"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "6.3",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "5.8",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

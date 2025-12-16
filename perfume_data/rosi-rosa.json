@@ -1,0 +1,63 @@
+{
+    "name": "Rosi Rosa",
+    "brand": "Mabra Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byMabra Parfumsfor women and men, released in2025. The scent is floral-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8c/8c9895_rosi-rosa-mabra-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Assam oud",
+        "Thai oud"
+    ],
+    "heart_notes": [
+        "Raspberry",
+        "Rose"
+    ],
+    "base_notes": [
+        "Damask rose absolute",
+        "Siberian fir"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            }
+        ]
+    }
+}

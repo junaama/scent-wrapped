@@ -1,0 +1,22 @@
+{
+    "name": "Charm of New York",
+    "brand": "Le Chameau",
+    "release_year": "2025",
+    "description": "A new perfume byLe Chameaufor women and men, released in2025. It is being marketed byEmper.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/08/0818f3_charm-of-new-york-le-chameau_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Mango"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

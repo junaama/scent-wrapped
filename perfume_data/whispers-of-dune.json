@@ -1,0 +1,84 @@
+{
+    "name": "Whispers of Dune",
+    "brand": "Wolkewitz",
+    "release_year": "2025",
+    "description": "A new perfume byWolkewitzfor women and men, released in2025. The scent is oriental-spicy. Projection and longevity are above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/b2/b2a66c_whispers-of-dune-wolkewitz_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Oriental",
+        "Spicy",
+        "Citrus",
+        "Chypre"
+    ],
+    "top_notes": [
+        "Grapefruit",
+        "Lime",
+        "Neroli",
+        "Sicilian bergamot"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Cinnamon",
+        "Frangipani",
+        "Jasmine",
+        "Mandarin orange",
+        "White rose"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Musk",
+        "Rosewood",
+        "Sandalwood"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Chypre",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

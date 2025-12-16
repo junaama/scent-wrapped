@@ -1,0 +1,115 @@
+{
+    "name": "Honey Like",
+    "brand": "Mabra Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byMabra Parfumsfor women and men, released in2025. The scent is resinous-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/23/23d473_honey-like-mabra-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Sweet",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Myrrh",
+        "Honey"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Citrus notes"
+    ],
+    "base_notes": [
+        "Labdanum"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "6.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

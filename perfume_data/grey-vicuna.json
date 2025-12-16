@@ -1,0 +1,33 @@
+{
+    "name": "Grey Vicuna",
+    "brand": "Graham & Pott",
+    "release_year": "2025",
+    "description": "A new perfume byGraham & Pottfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/fa/fa9eb6_grey-vicuna-graham-pott_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Japanese satsuma",
+        "Sorrento lemon",
+        "South American pink pepper"
+    ],
+    "heart_notes": [
+        "Ceylonese cinnamon",
+        "English pear",
+        "Frankincense"
+    ],
+    "base_notes": [
+        "American castoreum",
+        "Atlas cedar",
+        "Corsican oakmoss",
+        "Haitian vetiver",
+        "Himalayan musk",
+        "Mediterranean amber"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

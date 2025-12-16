@@ -1,0 +1,120 @@
+{
+    "name": "Amandus",
+    "brand": "Manos Gerakinis",
+    "release_year": "2025",
+    "description": "A new perfume byManos Gerakinisfor women and men, released in2025. The scent is sweet-spicy. Projection and longevity are above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/fb/fb9d6b_amandus-manos-gerakinis_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Powdery",
+        "Woody",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Almond",
+        "Date",
+        "Salted caramel",
+        "Sugar"
+    ],
+    "heart_notes": [
+        "Blossoms",
+        "Frankincense",
+        "Hazelnut",
+        "Toffee"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "9 Ratings"
+        },
+        "durability": {
+            "score": "9.2",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "8.3",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

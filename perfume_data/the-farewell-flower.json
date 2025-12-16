@@ -1,0 +1,36 @@
+{
+    "name": "The Farewell Flower",
+    "brand": "The Perfume Sanctuary",
+    "release_year": "2025",
+    "description": "A new perfume byThe Perfume Sanctuaryfor women and men, released in2025. The scent is sweet-powdery.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e4/e4ea42_the-farewell-flower-the-perfume-sanctuary_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Powdery",
+        "Floral",
+        "Animal"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Sicilian lemon",
+        "Tagetes"
+    ],
+    "heart_notes": [
+        "Champaca",
+        "Gardenia",
+        "Iris",
+        "Jasmine sambac",
+        "Rum",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Castoreum",
+        "Civet",
+        "Costus",
+        "Leather",
+        "Tonkin musk",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

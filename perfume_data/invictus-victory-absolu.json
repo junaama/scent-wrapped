@@ -1,0 +1,135 @@
+{
+    "name": "Invictus Victory Absolu",
+    "brand": "Rabanne",
+    "release_year": "2025",
+    "description": "A new perfume byRabannefor men, released in2025. The scent is spicy-sweet. It is being marketed byPuig.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c5/c5d686_invictus-victory-absolu-rabanne_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Sweet",
+        "Woody",
+        "Synthetic",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Black pepper"
+    ],
+    "heart_notes": [
+        "Amber"
+    ],
+    "base_notes": [
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.6",
+            "votes": "66 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "52 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "54 Ratings"
+        },
+        "bottle": {
+            "score": "6.9",
+            "votes": "56 Ratings"
+        },
+        "pricing": {
+            "score": "6.2",
+            "votes": "50 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 14
+            },
+            {
+                "name": "Synthetic",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 12
+            },
+            {
+                "name": "Powdery",
+                "votes": 4
+            },
+            {
+                "name": "Oriental",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 9
+            },
+            {
+                "name": "Fruity",
+                "votes": 6
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 14
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 12
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 14
+            },
+            {
+                "name": "Fall",
+                "votes": 14
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 10
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 13
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 11
+            }
+        ]
+    }
+}

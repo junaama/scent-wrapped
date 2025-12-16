@@ -1,0 +1,25 @@
+{
+    "name": "Herb Garden",
+    "brand": "Montagne Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byMontagne Parfumsfor women and men, released in2025. The perfume is vegan according to the manufacturer.PronunciationCompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/17/17490b_herb-garden-montagne-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Orange blossom"
+    ],
+    "heart_notes": [
+        "Herbaceous notes"
+    ],
+    "base_notes": [
+        "White musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

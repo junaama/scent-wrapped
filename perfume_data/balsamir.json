@@ -1,0 +1,138 @@
+{
+    "name": "Balsamir",
+    "brand": "Perris Monte Carlo",
+    "release_year": "2025",
+    "description": "A new perfume byPerris Monte Carlofor women and men, released in2025. The scent is spicy-resinous. It is being marketed byPerris Group.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/99/990f4a_balsamir-perris-monte-carlo_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Resinous",
+        "Woody",
+        "Sweet",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Somalian myrrh",
+        "Pink pepper",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Opoponax",
+        "Davana",
+        "Labdanum"
+    ],
+    "base_notes": [
+        "Tonka bean",
+        "Fir balsam",
+        "Virginia cedar wood",
+        "Tolu balm"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "27 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "22 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "21 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "27 Ratings"
+        },
+        "pricing": {
+            "score": "7.3",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Spicy",
+                "votes": 12
+            },
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Oriental",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 11
+            },
+            {
+                "name": "Resinous",
+                "votes": 12
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 10
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 11
+            },
+            {
+                "name": "Fall",
+                "votes": 12
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 11
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 11
+            }
+        ]
+    }
+}

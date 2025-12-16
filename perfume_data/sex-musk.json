@@ -1,0 +1,81 @@
+{
+    "name": "Sex Musk",
+    "brand": "Cyklar",
+    "release_year": "2025",
+    "description": "A new perfume byCyklarfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/1d/1d9edc_sex-musk-cyklar_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Rose",
+        "Jasmine",
+        "Sichuan pepper"
+    ],
+    "heart_notes": [
+        "Orris root",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Musk",
+        "Amber",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "4.8",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "4.0",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "6.8",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Style": [
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

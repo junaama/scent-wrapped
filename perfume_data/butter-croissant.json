@@ -1,0 +1,84 @@
+{
+    "name": "Butter Croissant",
+    "brand": "Crémerie",
+    "release_year": "2025",
+    "description": "A new perfume byCrémeriefor women, released in2025. The scent is oriental-gourmand.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/00/00dac6_butter-croissant-cremerie_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Oriental",
+        "Gourmand",
+        "Sweet",
+        "Resinous",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Clove",
+        "Orange blossom absolute",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Cade juniper",
+        "Chestnut",
+        "Gaiac wood"
+    ],
+    "base_notes": [
+        "Cashmeran",
+        "Peru balsam",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

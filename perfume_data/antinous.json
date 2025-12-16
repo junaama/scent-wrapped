@@ -1,0 +1,107 @@
+{
+    "name": "Antinoüs",
+    "brand": "ānti",
+    "release_year": "2025",
+    "description": "A new perfume byāntifor women and men, released in2025. The scent is spicy-earthy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/af/af26ce_antinous-anti_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Earthy",
+        "Woody",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Clary sage",
+        "Common sage"
+    ],
+    "heart_notes": [
+        "Cumin",
+        "White pepper",
+        "Salty skin"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Vetiver",
+        "Wheat absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "6.4",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

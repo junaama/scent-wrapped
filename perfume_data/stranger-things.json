@@ -1,0 +1,31 @@
+{
+    "name": "Stranger Things",
+    "brand": "Benetton",
+    "release_year": "2025",
+    "description": "A new and limited perfume byBenettonfor women, released in2025. It is being marketed byPuig.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/bc/bc7d02_stranger-things-benetton_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Pink pepper",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Lily of the valley",
+        "Neroli",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Musk",
+        "Cream",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "4.9",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {}
+}

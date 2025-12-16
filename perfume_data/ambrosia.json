@@ -1,0 +1,27 @@
+{
+    "name": "Ambrosia",
+    "brand": "Lovelace Perfumes",
+    "release_year": "2025",
+    "description": "A new perfume byLovelace Perfumesfor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/f5/f56926_ambrosia-lovelace-perfumes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Aquatic notes",
+        "Bergamot",
+        "Labdanum",
+        "Pink grapefruit"
+    ],
+    "heart_notes": [
+        "Black pepper",
+        "Fig",
+        "Lavender",
+        "Sage"
+    ],
+    "base_notes": [
+        "Amber",
+        "Ambergris",
+        "Frankincense"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Crimson & Cinders",
+    "brand": "Tada Parfumeur",
+    "release_year": "2025",
+    "description": "A new perfume byTada Parfumeurfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/1b/1bf18f_crimson-cinders-tada-parfumeur_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Absinth",
+        "Cherry",
+        "Smoke"
+    ],
+    "heart_notes": [
+        "Rose",
+        "Rosemary",
+        "Rum"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cade juniper",
+        "Clove"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

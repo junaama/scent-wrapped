@@ -1,0 +1,141 @@
+{
+    "name": "Via Manzoni 20",
+    "brand": "Xerjoff",
+    "release_year": "2025",
+    "description": "A new perfume byXerjofffor women and men, released in2025. The scent is spicy-sweet. The longevity is above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/94/9449f3_via-manzoni-20-xerjoff_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Sweet",
+        "Fruity",
+        "Woody",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Brandy",
+        "Coriander",
+        "Sour cherry"
+    ],
+    "heart_notes": [
+        "Davana",
+        "Juniper",
+        "Rosemary"
+    ],
+    "base_notes": [
+        "Myrrh",
+        "Sandalwood",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "67 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "66 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "66 Ratings"
+        },
+        "bottle": {
+            "score": "9.1",
+            "votes": "69 Ratings"
+        },
+        "pricing": {
+            "score": "6.2",
+            "votes": "60 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 14
+            },
+            {
+                "name": "Sweet",
+                "votes": 12
+            },
+            {
+                "name": "Oriental",
+                "votes": 8
+            },
+            {
+                "name": "Woody",
+                "votes": 9
+            },
+            {
+                "name": "Resinous",
+                "votes": 4
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 11
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 14
+            },
+            {
+                "name": "Feminine",
+                "votes": 12
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 12
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 16
+            },
+            {
+                "name": "Fall",
+                "votes": 16
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 8
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 14
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 14
+            }
+        ]
+    }
+}

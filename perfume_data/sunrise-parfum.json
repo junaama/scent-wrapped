@@ -1,0 +1,139 @@
+{
+    "name": "Sunrise",
+    "brand": "Jil Sander",
+    "release_year": "2025",
+    "description": "A new perfume byJil Sanderfor women, released in2025. The scent is creamy-sweet. It is being marketed byCoty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6a/6adad9_sunrise-parfum-jil-sander_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Creamy",
+        "Sweet",
+        "Floral",
+        "Fruity",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "White amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "134 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "110 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "108 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "107 Ratings"
+        },
+        "pricing": {
+            "score": "7.9",
+            "votes": "87 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 10
+            },
+            {
+                "name": "Synthetic",
+                "votes": 20
+            },
+            {
+                "name": "Sweet",
+                "votes": 43
+            },
+            {
+                "name": "Fruity",
+                "votes": 33
+            },
+            {
+                "name": "Fresh",
+                "votes": 16
+            },
+            {
+                "name": "Creamy",
+                "votes": 48
+            },
+            {
+                "name": "Floral",
+                "votes": 39
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 58
+            },
+            {
+                "name": "Classic",
+                "votes": 10
+            },
+            {
+                "name": "Modern",
+                "votes": 33
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 11
+            },
+            {
+                "name": "Fall",
+                "votes": 21
+            },
+            {
+                "name": "Summer",
+                "votes": 54
+            },
+            {
+                "name": "Spring",
+                "votes": 54
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 53
+            },
+            {
+                "name": "Sport",
+                "votes": 13
+            },
+            {
+                "name": "Leisure",
+                "votes": 55
+            },
+            {
+                "name": "Night Out",
+                "votes": 25
+            },
+            {
+                "name": "Business",
+                "votes": 41
+            },
+            {
+                "name": "Evening",
+                "votes": 20
+            }
+        ]
+    }
+}

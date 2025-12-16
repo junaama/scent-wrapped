@@ -1,0 +1,32 @@
+{
+    "name": "Somnium",
+    "brand": "Darkbeat",
+    "release_year": "2025",
+    "description": "A new perfume byDarkbeatfor women and men, released in2025. The scent is sweet-powdery.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8f/8f9999_somnium-darkbeat_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Powdery",
+        "Leathery",
+        "Woody",
+        "Floral"
+    ],
+    "top_notes": [
+        "Honey",
+        "Lavender"
+    ],
+    "heart_notes": [
+        "Iris",
+        "Chocolate",
+        "Leather",
+        "Coffee"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Virginia cedar",
+        "Haitian vetiver",
+        "Musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

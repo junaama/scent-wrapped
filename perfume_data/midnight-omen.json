@@ -1,0 +1,136 @@
+{
+    "name": "Midnight Omen",
+    "brand": "Trudon",
+    "release_year": "2025",
+    "description": "A new perfume byTrudonfor women and men, released in2025. The scent is powdery-leathery. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/51/51e72b_midnight-omen-trudon_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Powdery",
+        "Leathery",
+        "Woody",
+        "Fruity",
+        "Floral"
+    ],
+    "top_notes": [
+        "Mandarin orange",
+        "Orris root",
+        "Peony",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Cashmeran",
+        "Leather",
+        "Violet",
+        "Sandalwood"
+    ],
+    "base_notes": [
+        "Amberwood",
+        "Musk",
+        "Moss",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "8.3",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Leathery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Chypre",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

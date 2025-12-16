@@ -1,0 +1,128 @@
+{
+    "name": "Eternity for Men Amber Essence",
+    "brand": "Calvin Klein",
+    "release_year": "2025",
+    "description": "A new perfume byCalvin Kleinfor men, released in2025. The scent is woody-sweet. It is being marketed byCoty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/78/7869f3-eternity-for-men-amber-essence-calvin-klein_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Sweet",
+        "Spicy",
+        "Synthetic",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Italian green mandarin orange",
+        "Fresh notes",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Frankincense"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Bourbon vanilla",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "53 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "44 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "43 Ratings"
+        },
+        "bottle": {
+            "score": "6.5",
+            "votes": "44 Ratings"
+        },
+        "pricing": {
+            "score": "6.5",
+            "votes": "37 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 12
+            },
+            {
+                "name": "Synthetic",
+                "votes": 10
+            },
+            {
+                "name": "Sweet",
+                "votes": 12
+            },
+            {
+                "name": "Oriental",
+                "votes": 8
+            },
+            {
+                "name": "Woody",
+                "votes": 14
+            },
+            {
+                "name": "Resinous",
+                "votes": 9
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 15
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 10
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 14
+            },
+            {
+                "name": "Fall",
+                "votes": 15
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 10
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 13
+            }
+        ]
+    }
+}

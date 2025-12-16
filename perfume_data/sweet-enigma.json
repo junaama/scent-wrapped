@@ -1,0 +1,131 @@
+{
+    "name": "Sweet Enigma",
+    "brand": "Alexandre.J",
+    "release_year": "2025",
+    "description": "A new perfume byAlexandre.Jfor women and men, released in2025. The scent is sweet-creamy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a0/a08cad_sweet-enigma-alexandre-j_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Creamy",
+        "Spicy",
+        "Woody",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Strawberry"
+    ],
+    "heart_notes": [
+        "Pistachio",
+        "Tonka bean absolute",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Woods",
+        "Sesame",
+        "Benzoin"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "17 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "8.6",
+            "votes": "25 Ratings"
+        },
+        "pricing": {
+            "score": "6.9",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

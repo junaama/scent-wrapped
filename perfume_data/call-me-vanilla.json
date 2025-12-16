@@ -1,0 +1,100 @@
+{
+    "name": "Call Me Vanilla",
+    "brand": "Dossier",
+    "release_year": "2025",
+    "description": "A new perfume byDossierfor women and men, released in2025. The scent is resinous-fruity.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c9/c9f0d2_call-me-vanilla-dossier_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Fruity",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Almond",
+        "Pink pepper",
+        "Rum",
+        "Lime",
+        "Peach"
+    ],
+    "heart_notes": [
+        "Iris",
+        "Jasmine",
+        "Orange blossom",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Blond woods",
+        "Musk",
+        "Benzoin",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

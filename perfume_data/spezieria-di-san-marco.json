@@ -1,0 +1,29 @@
+{
+    "name": "Spezieria di San Marco",
+    "brand": "Spezieria di San Marco",
+    "release_year": "2025",
+    "description": "A new perfume bySpezieria di San Marcofor women and men, released in2025. It is being marketed byMavive.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/d0/d0a591_spezieria-di-san-marco-spezieria-di-san-marco_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Brazilian orange",
+        "Calabrian bergamot",
+        "Italian lemon",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Neroli",
+        "Paraguayan petigrain"
+    ],
+    "base_notes": [
+        "Helvetolide®",
+        "Serenolide"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,135 @@
+{
+    "name": "Signature Wildflower",
+    "brand": "LeGer",
+    "release_year": "2025",
+    "description": "A new perfume byLeGerfor women, released in2025. The scent is floral-fruity. It is being marketed byCoty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c8/c88a20_signature-wildflower-leger_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fruity",
+        "Sweet",
+        "Creamy",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Peach",
+        "Almond"
+    ],
+    "heart_notes": [
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Amber",
+        "Benzoin",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.5",
+            "votes": "27 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "26 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "26 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "28 Ratings"
+        },
+        "pricing": {
+            "score": "8.2",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Powdery",
+                "votes": 6
+            },
+            {
+                "name": "Fruity",
+                "votes": 11
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 11
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 13
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 10
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 12
+            },
+            {
+                "name": "Summer",
+                "votes": 10
+            },
+            {
+                "name": "Spring",
+                "votes": 10
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 11
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 10
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

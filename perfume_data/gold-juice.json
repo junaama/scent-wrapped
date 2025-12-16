@@ -1,0 +1,129 @@
+{
+    "name": "Gold Juice",
+    "brand": "Borntostandout",
+    "release_year": "2025",
+    "description": "A new perfume byBorntostandoutfor women and men, released in2025. The scent is fruity-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9c/9ca04c_gold-juice-borntostandout_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Gourmand",
+        "Creamy",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Durian fruit",
+        "Mango",
+        "Rhubarb"
+    ],
+    "heart_notes": [
+        "Osmanthus absolute",
+        "Solar note",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Almond",
+        "Caramel",
+        "Gaiac wood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "18 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "14 Ratings"
+        },
+        "sillage": {
+            "score": "6.4",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "19 Ratings"
+        },
+        "pricing": {
+            "score": "5.4",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 7
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

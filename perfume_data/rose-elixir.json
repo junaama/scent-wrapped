@@ -1,0 +1,24 @@
+{
+    "name": "Rose Elixir",
+    "brand": "Ayat",
+    "release_year": "2025",
+    "description": "A new perfume byAyatfor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/73/73209f_rose-elixir-ayat_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Calabrian bergamot",
+        "Sicilian lemon",
+        "Sicilian orange"
+    ],
+    "heart_notes": [
+        "Lily of the valley",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Bourbon vanilla",
+        "White musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

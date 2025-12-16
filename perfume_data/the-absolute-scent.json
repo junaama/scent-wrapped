@@ -1,0 +1,145 @@
+{
+    "name": "The Absolute Scent",
+    "brand": "s.Oliver",
+    "release_year": "2025",
+    "description": "A new perfume bys.Oliverfor men, released in2025. The scent is fresh-spicy. It is being marketed byMäurer & Wirtz.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9d/9d01b6_the-absolute-scent-s-oliver_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Spicy",
+        "Woody",
+        "Green",
+        "Floral"
+    ],
+    "top_notes": [
+        "Juniper berry",
+        "Cedar leaf",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Black pepper",
+        "Freesia",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Tonka bean",
+        "Sandalwood",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "33 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "29 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "32 Ratings"
+        },
+        "bottle": {
+            "score": "6.5",
+            "votes": "31 Ratings"
+        },
+        "pricing": {
+            "score": "8.9",
+            "votes": "26 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Spicy",
+                "votes": 12
+            },
+            {
+                "name": "Synthetic",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 11
+            },
+            {
+                "name": "Green",
+                "votes": 10
+            },
+            {
+                "name": "Fresh",
+                "votes": 14
+            },
+            {
+                "name": "Fougère",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 9
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 13
+            },
+            {
+                "name": "Classic",
+                "votes": 8
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 13
+            },
+            {
+                "name": "Summer",
+                "votes": 10
+            },
+            {
+                "name": "Spring",
+                "votes": 13
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 10
+            },
+            {
+                "name": "Sport",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 13
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 11
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

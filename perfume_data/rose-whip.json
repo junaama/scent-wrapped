@@ -1,0 +1,124 @@
+{
+    "name": "Rose Whip",
+    "brand": "Phlur",
+    "release_year": "2025",
+    "description": "A new perfume byPhlurfor women and men, released in2025. The scent is floral-fruity. The perfume is vegan according to the manufacturer.PronunciationCompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/97/9783ce_rose-whip-phlur_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fruity",
+        "Spicy",
+        "Sweet",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Nutmeg",
+        "Osmanthus",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cashmere wood",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "38 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "24 Ratings"
+        },
+        "sillage": {
+            "score": "6.4",
+            "votes": "22 Ratings"
+        },
+        "bottle": {
+            "score": "6.6",
+            "votes": "25 Ratings"
+        },
+        "pricing": {
+            "score": "7.3",
+            "votes": "18 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

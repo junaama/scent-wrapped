@@ -1,0 +1,27 @@
+{
+    "name": "Saffron Garden",
+    "brand": "Monkoku",
+    "release_year": "2025",
+    "description": "A new perfume byMonkokufor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/1b/1be881_saffron-garden-monkoku_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bitter almond",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Ambroxan",
+        "Cashmeran",
+        "Egyptian jasmine"
+    ],
+    "base_notes": [
+        "Virginia cedar"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

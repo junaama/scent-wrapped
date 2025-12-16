@@ -1,0 +1,124 @@
+{
+    "name": "Aurora",
+    "brand": "House of Puente",
+    "release_year": "2025",
+    "description": "A new perfume byHouse of Puentefor women and men, released in2025. The scent is citrusy-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/dd/ddf8e1_aurora-house-of-puente-puente-perfumes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Spicy",
+        "Creamy",
+        "Floral",
+        "Woody"
+    ],
+    "top_notes": [
+        "Almond",
+        "Bergamot",
+        "Bulgarian rose",
+        "Neroli",
+        "Rosewood"
+    ],
+    "heart_notes": [
+        "Coriander",
+        "French lavender",
+        "Geranium",
+        "Jasmine sambac"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Oakmoss",
+        "Opoponax",
+        "Patchouli",
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "6.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

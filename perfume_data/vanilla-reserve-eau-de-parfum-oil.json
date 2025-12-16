@@ -1,0 +1,118 @@
+{
+    "name": "Vanilla Reserve",
+    "brand": "Sand + Fog",
+    "release_year": "2025",
+    "description": "A new perfume bySand + Fogfor women and men, released in2025. The scent is sweet-spicy. Projection and longevity are above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/2f/2f07be_vanilla-reserve-sand-fog_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Smoky",
+        "Leathery",
+        "Woody"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Cardamom",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Gaiac wood",
+        "Sage"
+    ],
+    "base_notes": [
+        "Amber",
+        "Caramel",
+        "Cedarwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.9",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "9.0",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "8.5",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "6.3",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

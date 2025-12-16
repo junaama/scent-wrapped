@@ -1,0 +1,32 @@
+{
+    "name": "Narcotic Tonka",
+    "brand": "Crescent Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byCrescent Parfumsfor women and men, released in2025. The scent is sweet.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/65/657204_narcotica-tonka-crescent-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Saffron",
+        "Tonka bean"
+    ],
+    "heart_notes": [
+        "Dark chocolate",
+        "Freesia",
+        "Geranium"
+    ],
+    "base_notes": [
+        "Oakmoss",
+        "Toffee",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

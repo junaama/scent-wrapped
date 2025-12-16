@@ -1,0 +1,40 @@
+{
+    "name": "Milk Eclipse",
+    "brand": "Andreea Rada",
+    "release_year": "2025",
+    "description": "A new perfume byAndreea Radafor women and men, released in2025. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/29/290313_milk-eclipse-andreea-rada_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Dark chocolate",
+        "Peach",
+        "Plum",
+        "Tea"
+    ],
+    "heart_notes": [
+        "Almond",
+        "Cherry",
+        "Coconut",
+        "Heliotrope",
+        "Jasmine",
+        "Praliné"
+    ],
+    "base_notes": [
+        "Musk",
+        "Patchouli",
+        "Sandalwood",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

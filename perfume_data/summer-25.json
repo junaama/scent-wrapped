@@ -1,0 +1,142 @@
+{
+    "name": "Summer 25",
+    "brand": "Ffern",
+    "release_year": "2025",
+    "description": "A new and limited perfume byFfernfor women and men, released in2025. The scent is citrusy-floral.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/eb/ebf820_summer-25-ffern_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Floral",
+        "Spicy",
+        "Sweet",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Sicilian blood orange peel",
+        "American white grapefruit peel",
+        "Mexican pink grapefruit peel",
+        "Somalian frankincense"
+    ],
+    "heart_notes": [
+        "Guatemala cardamom",
+        "Indian red champaca",
+        "Indonesian nutmeg",
+        "South African pot marigold",
+        "Calabrian bergamot peel",
+        "Tunisian neroli",
+        "Indian turmeric leaf"
+    ],
+    "base_notes": [
+        "Haitian vetiver",
+        "Indian jasminum grandiflorum",
+        "Davana",
+        "French hay",
+        "Spanish gum rockrose",
+        "Spanish siam benzoin",
+        "Virginia cedar"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "31 Ratings"
+        },
+        "durability": {
+            "score": "6.2",
+            "votes": "28 Ratings"
+        },
+        "sillage": {
+            "score": "6.1",
+            "votes": "29 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "26 Ratings"
+        },
+        "pricing": {
+            "score": "6.9",
+            "votes": "21 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 8
+            },
+            {
+                "name": "Spicy",
+                "votes": 6
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 9
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 8
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

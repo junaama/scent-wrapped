@@ -1,0 +1,139 @@
+{
+    "name": "Turn the Page",
+    "brand": "Flora Danica",
+    "release_year": "2025",
+    "description": "A new perfume byFlora Danicafor women and men, released in2025. The scent is woody-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/39/397a18_turn-the-page-flora-danica_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Spicy",
+        "Floral",
+        "Creamy",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Freesia",
+        "Green leaves"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Vanilla",
+        "Frankincense"
+    ],
+    "base_notes": [
+        "Ambrox",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "16 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "13 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "13 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

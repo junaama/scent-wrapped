@@ -1,0 +1,127 @@
+{
+    "name": "Fame The Couture Edition",
+    "brand": "Rabanne",
+    "release_year": "2025",
+    "description": "A new and limited perfume byRabannefor women, released in2025. The scent is sweet-floral. It is being marketed byPuig.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/30/30d87e-fame-the-couture-edition-rabanne_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Fruity",
+        "Powdery",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Frankincense"
+    ],
+    "heart_notes": [
+        "Iris"
+    ],
+    "base_notes": [
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "27 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "18 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "18 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "27 Ratings"
+        },
+        "pricing": {
+            "score": "6.2",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Powdery",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

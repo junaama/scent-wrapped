@@ -1,0 +1,137 @@
+{
+    "name": "Finale",
+    "brand": "J.F. Schwarzlose Berlin",
+    "release_year": "2025",
+    "description": "A new perfume byJ.F. Schwarzlose Berlinfor women and men, released in2025. The scent is sweet-spicy.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/4d/4d4396_finale-2025-j-f-schwarzlose-berlin_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Fruity",
+        "Woody",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Davana",
+        "Nectarine liqueur",
+        "Red pepper"
+    ],
+    "heart_notes": [
+        "Datura",
+        "Benzoin",
+        "Tobacco"
+    ],
+    "base_notes": [
+        "Balsam fir",
+        "Gaiac wood",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "149 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "132 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "131 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "131 Ratings"
+        },
+        "pricing": {
+            "score": "7.5",
+            "votes": "112 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 34
+            },
+            {
+                "name": "Sweet",
+                "votes": 39
+            },
+            {
+                "name": "Woody",
+                "votes": 23
+            },
+            {
+                "name": "Resinous",
+                "votes": 19
+            },
+            {
+                "name": "Gourmand",
+                "votes": 9
+            },
+            {
+                "name": "Fruity",
+                "votes": 33
+            },
+            {
+                "name": "Creamy",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 40
+            },
+            {
+                "name": "Feminine",
+                "votes": 32
+            },
+            {
+                "name": "Classic",
+                "votes": 8
+            },
+            {
+                "name": "Modern",
+                "votes": 23
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 39
+            },
+            {
+                "name": "Fall",
+                "votes": 41
+            },
+            {
+                "name": "Spring",
+                "votes": 17
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 17
+            },
+            {
+                "name": "Leisure",
+                "votes": 30
+            },
+            {
+                "name": "Night Out",
+                "votes": 38
+            },
+            {
+                "name": "Business",
+                "votes": 16
+            },
+            {
+                "name": "Evening",
+                "votes": 37
+            }
+        ]
+    }
+}

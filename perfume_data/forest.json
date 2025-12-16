@@ -1,0 +1,75 @@
+{
+    "name": "Forest",
+    "brand": "Al Haramain",
+    "release_year": "2025",
+    "description": "A new perfume byAl Haramainfor women and men, released in2025. The scent is fougèreartig-woody. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/0c/0c120a-haramain-natural-forest-al-haramain_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fougère",
+        "Woody",
+        "Green"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Citron",
+        "Coriander",
+        "Lemon",
+        "Mint",
+        "Orange zest"
+    ],
+    "heart_notes": [
+        "Apricot",
+        "Basil",
+        "Carrot seed",
+        "May rose"
+    ],
+    "base_notes": [
+        "Ambrette",
+        "Date",
+        "Fig"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "8.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "8.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.7",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fougère",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ]
+    }
+}

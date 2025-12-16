@@ -1,0 +1,87 @@
+{
+    "name": "Moon Milk",
+    "brand": "Being Frenshe",
+    "release_year": "2025",
+    "description": "A new and limited perfume byBeing Frenshefor women, released in2025. The scent is spicy-sweet. It is being marketed byMaesa.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/4b/4bc9cc_moon-milk-perfume-oil-being-frenshe_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Nutmeg",
+        "Bergamot",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Cardamom",
+        "Cinnamon",
+        "Ginger flower"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Oat milk",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "5.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

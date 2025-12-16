@@ -1,0 +1,36 @@
+{
+    "name": "Vanillium",
+    "brand": "Centauri Perfumes",
+    "release_year": "2025",
+    "description": "A new perfume byCentauri Perfumesfor women and men, released in2025. The scent is resinous-sweet. The production was apparently discontinued. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/15/15792c_vanillium-centauri-perfumes_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Sweet",
+        "Gourmand",
+        "Spicy",
+        "Oriental"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

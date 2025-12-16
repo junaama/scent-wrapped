@@ -1,0 +1,137 @@
+{
+    "name": "Mochi Milk",
+    "brand": "Dedcool",
+    "release_year": "2025",
+    "description": "A new perfume byDedcoolfor women and men, released in2025. The scent is sweet-gourmand.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/cd/cd2777_mochi-milk-dedcool_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Creamy",
+        "Powdery",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Marshmallow",
+        "Peach nectar",
+        "Incense material"
+    ],
+    "heart_notes": [
+        "Vanilla",
+        "Rice milk",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Amber",
+        "Australian sandalwood",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "83 Ratings"
+        },
+        "durability": {
+            "score": "6.2",
+            "votes": "69 Ratings"
+        },
+        "sillage": {
+            "score": "5.6",
+            "votes": "66 Ratings"
+        },
+        "bottle": {
+            "score": "6.5",
+            "votes": "59 Ratings"
+        },
+        "pricing": {
+            "score": "7.1",
+            "votes": "53 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 18
+            },
+            {
+                "name": "Powdery",
+                "votes": 10
+            },
+            {
+                "name": "Gourmand",
+                "votes": 15
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 14
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 14
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 11
+            },
+            {
+                "name": "Fall",
+                "votes": 11
+            },
+            {
+                "name": "Summer",
+                "votes": 10
+            },
+            {
+                "name": "Spring",
+                "votes": 13
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 15
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 13
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

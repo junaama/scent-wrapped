@@ -1,0 +1,39 @@
+{
+    "name": "Amber One",
+    "brand": "D'Qar",
+    "release_year": "2025",
+    "description": "A new perfume byD'Qarfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/dd/dd26dc_amber-one-d-qar_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Lemon",
+        "Lime"
+    ],
+    "heart_notes": [
+        "Fig",
+        "Grasse jasmine",
+        "May rose",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Birch",
+        "Cinnamon",
+        "Civet",
+        "Musk",
+        "Oakmoss",
+        "Orris root",
+        "Oud",
+        "Patchouli",
+        "Saffron",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

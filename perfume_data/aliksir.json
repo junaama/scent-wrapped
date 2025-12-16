@@ -1,0 +1,85 @@
+{
+    "name": "Aliksir",
+    "brand": "Élisire",
+    "release_year": "2025",
+    "description": "A new perfume byÉlisirefor women and men, released in2025. The scent is woody-oriental. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/67/673b95_aliksir-elisire_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Oriental",
+        "Spicy",
+        "Synthetic",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Italian mandarin orange",
+        "Madagascan ginger",
+        "Philippine elemi"
+    ],
+    "heart_notes": [
+        "Bangladeshian oud",
+        "Exotic woods",
+        "Suede",
+        "Turkish oregano"
+    ],
+    "base_notes": [
+        "Cypriol",
+        "Indonesian patchouli",
+        "Vanilla",
+        "Virginia cedar wood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "4.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.3",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Peach Fever",
+    "brand": "Mirisanno",
+    "release_year": "2025",
+    "description": "A new perfume byMirisannofor women and men, released in2025. The scent is sweet-gourmand. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/84/8456d9_peach-fever-mirisanno_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Fruity",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Peach"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Fruity notes"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Vanilla",
+        "Woods"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

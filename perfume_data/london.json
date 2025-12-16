@@ -1,0 +1,35 @@
+{
+    "name": "London",
+    "brand": "D'Qar",
+    "release_year": "2025",
+    "description": "A new perfume byD'Qarfor women and men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Blackcurrant",
+        "Cinnamon",
+        "Clove",
+        "Raspberry",
+        "Red berries",
+        "Rose"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Patchouli",
+        "Sandalwood",
+        "Turkish rose",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Amber",
+        "Ambergris",
+        "Benzoin",
+        "Cedar",
+        "Frankincense",
+        "Musk",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

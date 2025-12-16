@@ -1,0 +1,129 @@
+{
+    "name": "Lost in Moon River",
+    "brand": "Jean Poivre",
+    "release_year": "2025",
+    "description": "A new perfume byJean Poivrefor women and men, released in2025. The scent is green-citrusy. The longevity is above-average. It is being marketed byEyva.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/bb/bb983a_lost-in-moon-river-jean-poivre_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Citrus",
+        "Spicy",
+        "Powdery",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Mandarin orange",
+        "Orange",
+        "Blackcurrant"
+    ],
+    "heart_notes": [
+        "White lily",
+        "Cypress",
+        "Jasmine",
+        "Magnolia",
+        "Rose",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "White musk",
+        "Tonka bean",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.6",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

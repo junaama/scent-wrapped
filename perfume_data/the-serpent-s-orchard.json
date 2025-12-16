@@ -1,0 +1,96 @@
+{
+    "name": "The Serpent's Orchard",
+    "brand": "Pictura Fragrans",
+    "release_year": "2025",
+    "description": "A new perfume byPictura Fragransfor women and men, released in2025. The scent is fruity-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/53/531cb0_the-serpent-s-orchard-pictura-fragrans_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Spicy",
+        "Green",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Fig leaf",
+        "Fig tree",
+        "Nettle",
+        "Plum",
+        "Rosa alba",
+        "Tokaji wine"
+    ],
+    "heart_notes": [
+        "Fig",
+        "Honey",
+        "Jasmine sambac",
+        "Myrrh",
+        "Yogurt"
+    ],
+    "base_notes": [
+        "Amber",
+        "Indole",
+        "Mace",
+        "Muscone",
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            }
+        ]
+    }
+}

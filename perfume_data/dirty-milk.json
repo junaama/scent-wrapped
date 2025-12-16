@@ -1,0 +1,122 @@
+{
+    "name": "Dirty Milk",
+    "brand": "Borntostandout",
+    "release_year": "2025",
+    "description": "A new perfume byBorntostandoutfor women and men, released in2025. The scent is sweet-gourmand. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/06/067cfe_dirty-milk-borntostandout_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Creamy",
+        "Spicy",
+        "Floral"
+    ],
+    "top_notes": [
+        "Caramel",
+        "Milk",
+        "Black pepper"
+    ],
+    "heart_notes": [
+        "Condensed milk",
+        "Iris",
+        "Akigalawood®",
+        "Cashmeran"
+    ],
+    "base_notes": [
+        "Musk",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "47 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "40 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "40 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "39 Ratings"
+        },
+        "pricing": {
+            "score": "6.4",
+            "votes": "26 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Sweet",
+                "votes": 16
+            },
+            {
+                "name": "Gourmand",
+                "votes": 15
+            },
+            {
+                "name": "Creamy",
+                "votes": 14
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 13
+            },
+            {
+                "name": "Modern",
+                "votes": 11
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 15
+            },
+            {
+                "name": "Fall",
+                "votes": 14
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 10
+            },
+            {
+                "name": "Night Out",
+                "votes": 9
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

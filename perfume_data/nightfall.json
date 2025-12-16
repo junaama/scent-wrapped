@@ -1,0 +1,31 @@
+{
+    "name": "Nightfall",
+    "brand": "L'etoile",
+    "release_year": "2025",
+    "description": "A new perfume byL'etoilefor women and men, released in2025.CompareSeasonal",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Boronia",
+        "Cryptomeria",
+        "Sake"
+    ],
+    "heart_notes": [
+        "Black tea",
+        "Blackcurrant",
+        "Cypress",
+        "Fir balsam",
+        "Manuka myrtle",
+        "Tobacco"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Fossilised amber",
+        "Hinoki cypress",
+        "Mysore sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

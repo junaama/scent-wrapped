@@ -1,0 +1,25 @@
+{
+    "name": "Two",
+    "brand": "Onitsuka Tiger",
+    "release_year": "2025",
+    "description": "A new perfume byOnitsuka Tigerfor women and men, released in2025. It is being marketed byPCW.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/03/03b077_two-onitsuka-tiger_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Green notes",
+        "Lemon",
+        "Woods"
+    ],
+    "heart_notes": [
+        "Chinese geranium",
+        "Frankincense oil"
+    ],
+    "base_notes": [
+        "Musk",
+        "Powdery notes",
+        "Sandalwood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

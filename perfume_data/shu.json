@@ -1,0 +1,25 @@
+{
+    "name": "Shu",
+    "brand": "Aswan",
+    "release_year": "2025",
+    "description": "A new perfume byAswanfor men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b8/b87475_shu-aswan_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Ozonic notes",
+        "Petitgrain"
+    ],
+    "heart_notes": [
+        "Fig",
+        "Marine notes",
+        "Solar note"
+    ],
+    "base_notes": [
+        "Amberwood",
+        "Ambroxan",
+        "Labdanum"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

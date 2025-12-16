@@ -1,0 +1,27 @@
+{
+    "name": "Beloved - Pistachio Ice Cream",
+    "brand": "Love Beauty and Planet",
+    "release_year": "2025",
+    "description": "A new perfume byLove Beauty and Planetfor women, released in2025. It is being marketed byUnilever.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d8/d8efa0_beloved-pistachio-ice-cream-love-beauty-and-planet_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Pistachio",
+        "Red fruits"
+    ],
+    "heart_notes": [
+        "Almond",
+        "Marzipan"
+    ],
+    "base_notes": [
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

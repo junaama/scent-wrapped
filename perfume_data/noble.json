@@ -1,0 +1,42 @@
+{
+    "name": "Noble",
+    "brand": "Riggs",
+    "release_year": "2025",
+    "description": "A new perfume byRiggsfor women and men, released in2025. It is being marketed byConfetti Group.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e4/e4e077_noble-riggs_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cardamom",
+        "Frankincense",
+        "Ginger"
+    ],
+    "heart_notes": [
+        "Egyptian jasmine",
+        "Leather",
+        "Orris root"
+    ],
+    "base_notes": [
+        "Cashmeran",
+        "Cedarwood",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "6.7",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {}
+}

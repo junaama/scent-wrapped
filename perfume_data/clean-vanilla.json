@@ -1,0 +1,115 @@
+{
+    "name": "Clean Vanilla",
+    "brand": "Overose",
+    "release_year": "2025",
+    "description": "A new perfume byOverosefor women and men, released in2025. The scent is sweet-creamy.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/7a/7af1ec_clean-vanilla-overose_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Creamy",
+        "Gourmand",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Marshmallow",
+        "Meringue",
+        "Milk",
+        "Shea butter"
+    ],
+    "heart_notes": [
+        "Almond",
+        "Cotton",
+        "Musk",
+        "Vanilla milk"
+    ],
+    "base_notes": [
+        "Skin cream",
+        "Vanilla",
+        "Vanilla cream",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "5.5",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Brucia in Me",
+    "brand": "Maison Incens",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Incensfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/33/33e87a_brucia-in-me-maison-incens_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Coconut",
+        "Frankincense",
+        "Fruity notes",
+        "Green notes"
+    ],
+    "heart_notes": [
+        "Floral notes",
+        "Jasmine",
+        "Orchid",
+        "Spicy notes"
+    ],
+    "base_notes": [
+        "Animalic notes",
+        "Gourmand notes",
+        "Musky notes",
+        "Patchouli",
+        "Smoky notes",
+        "Vanilla",
+        "Woody notes"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

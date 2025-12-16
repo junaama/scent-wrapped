@@ -1,0 +1,33 @@
+{
+    "name": "Über Feral",
+    "brand": "Phoenicia",
+    "release_year": "2025",
+    "description": "A new perfume byPhoeniciafor women and men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Herbs",
+        "Lemon",
+        "Spices",
+        "Yuzu"
+    ],
+    "heart_notes": [
+        "Boronia",
+        "Jasmine",
+        "Orange blossom",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Bengal oud",
+        "Civet",
+        "Frankincense",
+        "Hyraceum",
+        "Indonesian sandalwood",
+        "Indonesian sandalwood root",
+        "Musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

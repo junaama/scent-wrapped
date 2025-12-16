@@ -1,0 +1,25 @@
+{
+    "name": "Naha",
+    "brand": "Junaid Perfumes",
+    "release_year": "2025",
+    "description": "A new perfume byJunaid Perfumesfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/60/60447b_naha-junaid-perfumes_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Cardamom",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Rose",
+        "White amber"
+    ],
+    "base_notes": [
+        "Leather",
+        "Musk",
+        "Patchouli"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

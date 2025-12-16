@@ -1,0 +1,30 @@
+{
+    "name": "Cotton Candy",
+    "brand": "Gulf Orchid",
+    "release_year": "2025",
+    "description": "A new perfume byGulf Orchidfor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/10/104b8d_cotton-candy-body-mist-gulf-orchid_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cotton candy",
+        "Lily of the valley",
+        "Neroli",
+        "Rose"
+    ],
+    "heart_notes": [
+        "Marshmallow",
+        "Musk",
+        "Orange blossom",
+        "Rose",
+        "Violet"
+    ],
+    "base_notes": [
+        "Amber",
+        "Caramel",
+        "Milk",
+        "Musk",
+        "Powdery notes"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

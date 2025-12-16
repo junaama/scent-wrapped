@@ -1,0 +1,119 @@
+{
+    "name": "Cashmere & Vanilla Essence",
+    "brand": "DKNY",
+    "release_year": "2025",
+    "description": "A new perfume byDKNYfor women, released in2025. The scent is sweet-woody. It is being marketed byInterparfums.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/cf/cf89af_cashmere-vanilla-essence-dkny-donna-karan_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Woody",
+        "Gourmand",
+        "Synthetic",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Apple",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Violet"
+    ],
+    "base_notes": [
+        "Amber",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "13 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "8.6",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

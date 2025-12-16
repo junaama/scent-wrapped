@@ -1,0 +1,34 @@
+{
+    "name": "Do",
+    "brand": "Oscar London",
+    "release_year": "2025",
+    "description": "A new perfume byOscar Londonfor women and men, released in2025. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/84/84b63f_do-oscar-london_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Fruity notes",
+        "Passion fruit",
+        "Saffron",
+        "White rose"
+    ],
+    "heart_notes": [
+        "Benzoin",
+        "Fruity notes",
+        "Mango",
+        "Patchouli"
+    ],
+    "base_notes": [
+        "Amber",
+        "Labdanum",
+        "Leather",
+        "Maté",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.7",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Imperial Blue",
+    "brand": "Xeena",
+    "release_year": "2025",
+    "description": "A new perfume byXeenafor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/fc/fcc0d3_imperial-blue-xeena_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Aldehydes",
+        "Bergamot",
+        "Coriander",
+        "Grapefruit",
+        "Lemon",
+        "Mint",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Ginger",
+        "Jasmine",
+        "Melon",
+        "Nutmeg"
+    ],
+    "base_notes": [
+        "Amber",
+        "Amberwood",
+        "Ambrofix",
+        "Cedarwood",
+        "Frankincense",
+        "Labdanum",
+        "Patchouli",
+        "Sandalwood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

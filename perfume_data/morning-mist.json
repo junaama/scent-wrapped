@@ -1,0 +1,74 @@
+{
+    "name": "Morning Mist",
+    "brand": "Floraïku",
+    "release_year": "2025",
+    "description": "A new perfume byFloraïkufor women and men, released in2025. The scent is fresh-fruity.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5d/5d1c0f-morning-mist-floraiku_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Fruity",
+        "Citrus",
+        "Green"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "4.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "name": "Ginger+Mist",
+    "brand": "Michael Malul",
+    "release_year": "2025",
+    "description": "A new perfume byMichael Malulfor men, released in2025. The scent is citrusy-fresh. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ca/caf814_ginger-mist-michael-malul_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Fruity",
+        "Spicy",
+        "Green"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Cedar leaf",
+        "Ginger",
+        "Lemon",
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Coriander",
+        "Ginger",
+        "Nutmeg",
+        "Provençal lavender"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Akigalawood®",
+        "Georgywood®",
+        "Gin",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.7",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "9.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,140 @@
+{
+    "name": "Fleur Antique",
+    "brand": "La Rive",
+    "release_year": "2025",
+    "description": "A new perfume byLa Rivefor women, released in2025. The scent is sweet-gourmand.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b6/b6a7ab_fleur-antique-la-rive_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Spicy",
+        "Oriental",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Vanilla orchid",
+        "Jasmine"
+    ],
+    "heart_notes": [
+        "Brown sugar",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Musk",
+        "Amberwood",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "83 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "75 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "72 Ratings"
+        },
+        "bottle": {
+            "score": "6.4",
+            "votes": "72 Ratings"
+        },
+        "pricing": {
+            "score": "9.1",
+            "votes": "73 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 16
+            },
+            {
+                "name": "Synthetic",
+                "votes": 6
+            },
+            {
+                "name": "Sweet",
+                "votes": 27
+            },
+            {
+                "name": "Powdery",
+                "votes": 10
+            },
+            {
+                "name": "Oriental",
+                "votes": 13
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Gourmand",
+                "votes": 22
+            },
+            {
+                "name": "Creamy",
+                "votes": 10
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 9
+            },
+            {
+                "name": "Feminine",
+                "votes": 24
+            },
+            {
+                "name": "Modern",
+                "votes": 16
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 26
+            },
+            {
+                "name": "Fall",
+                "votes": 28
+            },
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 14
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 19
+            },
+            {
+                "name": "Leisure",
+                "votes": 20
+            },
+            {
+                "name": "Night Out",
+                "votes": 19
+            },
+            {
+                "name": "Business",
+                "votes": 14
+            },
+            {
+                "name": "Evening",
+                "votes": 21
+            }
+        ]
+    }
+}

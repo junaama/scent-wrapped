@@ -1,0 +1,53 @@
+{
+    "name": "De la Lune",
+    "brand": "De Gabor",
+    "release_year": "2025",
+    "description": "A new perfume byDe Gaborfor women and men, released in2025. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/38/38191a_de-la-lune-de-gabor_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Grapefruit",
+        "Lemon",
+        "Petitgrain",
+        "Rock samphire",
+        "Sea breeze",
+        "Sea salt"
+    ],
+    "heart_notes": [
+        "Calone",
+        "Jasmine",
+        "Kelp",
+        "Orris root",
+        "Sea daffodil",
+        "White rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Aquatic notes",
+        "Moss",
+        "Musk",
+        "Salty notes",
+        "Sand",
+        "Stone",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.3",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

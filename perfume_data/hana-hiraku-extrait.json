@@ -1,0 +1,30 @@
+{
+    "name": "Hana Hiraku",
+    "brand": "Parfum Satori",
+    "release_year": "2025",
+    "description": "A new perfume byParfum Satorifor women and men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Melon",
+        "Bergamot",
+        "Galbanum"
+    ],
+    "heart_notes": [
+        "Magnolia",
+        "Jasmine absolute",
+        "Orris butter",
+        "Rose",
+        "Tuberose absolute",
+        "Ylang-ylang",
+        "Chamomile"
+    ],
+    "base_notes": [
+        "Beeswax",
+        "Cedar",
+        "Gaiac wood",
+        "Sandalwood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

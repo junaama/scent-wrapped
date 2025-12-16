@@ -1,0 +1,29 @@
+{
+    "name": "Désir Sensuel",
+    "brand": "Jardin Bohème",
+    "release_year": "2025",
+    "description": "A new perfume byJardin Bohèmefor women, released in2025. The scent is floral-fruity.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/49/4945a6_desir-sensuel-jardin-boheme_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Rose"
+    ],
+    "base_notes": [
+        "Patchouli"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

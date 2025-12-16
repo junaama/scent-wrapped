@@ -1,0 +1,120 @@
+{
+    "name": "Minya Caramel Dulce",
+    "brand": "Paris Corner",
+    "release_year": "2025",
+    "description": "A new perfume byParis Cornerfor women and men, released in2025. The scent is sweet-gourmand. It is being marketed byParis Corner Perfumes.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/45/45ee42_minya-caramel-dulce-paris-corner_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Creamy",
+        "Synthetic",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Popcorn",
+        "Butter"
+    ],
+    "heart_notes": [
+        "Roasted chestnut",
+        "Chocolate",
+        "Benzoin"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Vanilla",
+        "Brown sugar"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "25 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "20 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "20 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "27 Ratings"
+        },
+        "pricing": {
+            "score": "8.6",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 13
+            },
+            {
+                "name": "Gourmand",
+                "votes": 13
+            },
+            {
+                "name": "Creamy",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 11
+            },
+            {
+                "name": "Modern",
+                "votes": 8
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 11
+            },
+            {
+                "name": "Fall",
+                "votes": 11
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 11
+            }
+        ]
+    }
+}

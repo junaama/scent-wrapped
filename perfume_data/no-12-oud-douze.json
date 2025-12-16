@@ -1,0 +1,109 @@
+{
+    "name": "Nọ 12 - Oud Douze",
+    "brand": "Thomas Kosmala",
+    "release_year": "2025",
+    "description": "A new perfume byThomas Kosmalafor women and men, released in2025. The scent is spicy-oriental. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2d/2de437_no-12-oud-douze-thomas-kosmala_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Oriental",
+        "Leathery",
+        "Woody",
+        "Floral"
+    ],
+    "top_notes": [
+        "Rose",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Cashmere",
+        "Patchouli",
+        "Sandalwood"
+    ],
+    "base_notes": [
+        "Oud",
+        "Musk absolue",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "8.8",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "8.6",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "6.6",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "name": "Le 8",
+    "brand": "Stéphane Humbert Lucas",
+    "release_year": "2025",
+    "description": "A new perfume byStéphane Humbert Lucasfor women and men, released in2025. The scent is sweet-spicy. The longevity is above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/c7/c770e9_le-8-stephane-humbert-lucas_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Floral",
+        "Fruity",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Cinnamon leaf",
+        "Hibiscus",
+        "Yuzu"
+    ],
+    "heart_notes": [
+        "Varnish",
+        "Arbutus",
+        "Camphor wood",
+        "Cherry blossom",
+        "Peony",
+        "Tea"
+    ],
+    "base_notes": [
+        "Amber Xtreme™",
+        "Saffron",
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "42 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "33 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "33 Ratings"
+        },
+        "bottle": {
+            "score": "8.7",
+            "votes": "37 Ratings"
+        },
+        "pricing": {
+            "score": "6.3",
+            "votes": "27 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 9
+            },
+            {
+                "name": "Sweet",
+                "votes": 11
+            },
+            {
+                "name": "Green",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 7
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 9
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 9
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 9
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 10
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Night Out",
+                "votes": 10
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 11
+            }
+        ]
+    }
+}

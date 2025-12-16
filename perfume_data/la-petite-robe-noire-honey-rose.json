@@ -1,0 +1,121 @@
+{
+    "name": "La Petite Robe Noire Honey Rose",
+    "brand": "Guerlain",
+    "release_year": "2025",
+    "description": "A new and limited perfume byGuerlainfor women, released in2025. The scent is sweet-floral. It is being marketed byLVMH.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/15/15615f_la-petite-robe-noire-honey-rose-guerlain_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Spicy",
+        "Powdery",
+        "Fruity"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "38 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "32 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "31 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "36 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "25 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 9
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 9
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

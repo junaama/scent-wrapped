@@ -1,0 +1,129 @@
+{
+    "name": "Daisy Wild Eau So Intense",
+    "brand": "Marc Jacobs",
+    "release_year": "2025",
+    "description": "A new perfume byMarc Jacobsfor women, released in2025. The scent is floral-sweet. It is being marketed byCoty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b9/b9aa81-daisy-wild-eau-so-intense-marc-jacobs_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fruity",
+        "Sweet",
+        "Green",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Banana flower"
+    ],
+    "heart_notes": [
+        "Tuberose",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Amber",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "79 Ratings"
+        },
+        "durability": {
+            "score": "6.3",
+            "votes": "62 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "61 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "68 Ratings"
+        },
+        "pricing": {
+            "score": "6.6",
+            "votes": "44 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 7
+            },
+            {
+                "name": "Sweet",
+                "votes": 29
+            },
+            {
+                "name": "Green",
+                "votes": 13
+            },
+            {
+                "name": "Fruity",
+                "votes": 29
+            },
+            {
+                "name": "Fresh",
+                "votes": 13
+            },
+            {
+                "name": "Creamy",
+                "votes": 13
+            },
+            {
+                "name": "Floral",
+                "votes": 31
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 30
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 14
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 26
+            },
+            {
+                "name": "Spring",
+                "votes": 29
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 28
+            },
+            {
+                "name": "Leisure",
+                "votes": 30
+            },
+            {
+                "name": "Night Out",
+                "votes": 9
+            },
+            {
+                "name": "Business",
+                "votes": 17
+            },
+            {
+                "name": "Evening",
+                "votes": 10
+            }
+        ]
+    }
+}

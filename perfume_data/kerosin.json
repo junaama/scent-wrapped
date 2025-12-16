@@ -1,0 +1,142 @@
+{
+    "name": "Kerosin",
+    "brand": "Rammstein",
+    "release_year": "2025",
+    "description": "A new perfume byRammsteinfor women and men, released in2025. The scent is fresh-green. It is being marketed by2 Pilots.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/88/88c1bb_kerosin-rammstein_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Green",
+        "Floral",
+        "Synthetic",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Jasmine",
+        "Salty skin"
+    ],
+    "heart_notes": [
+        "Bitter orange zest",
+        "Silk"
+    ],
+    "base_notes": [
+        "Mineral notes",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "45 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "38 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "37 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "49 Ratings"
+        },
+        "pricing": {
+            "score": "7.7",
+            "votes": "34 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 7
+            },
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Green",
+                "votes": 11
+            },
+            {
+                "name": "Fruity",
+                "votes": 6
+            },
+            {
+                "name": "Fresh",
+                "votes": 12
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 11
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 11
+            },
+            {
+                "name": "Feminine",
+                "votes": 12
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 13
+            },
+            {
+                "name": "Spring",
+                "votes": 15
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 10
+            },
+            {
+                "name": "Sport",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 14
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

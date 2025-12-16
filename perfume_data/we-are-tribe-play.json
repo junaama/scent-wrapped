@@ -1,0 +1,117 @@
+{
+    "name": "We Are Tribe Play",
+    "brand": "Benetton",
+    "release_year": "2025",
+    "description": "A new perfume byBenettonfor men, released in2025. The scent is synthetic-citrusy. It is being marketed byPuig.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/65/658021_we-are-tribe-play-benetton_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Citrus",
+        "Spicy",
+        "Woody",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Elemi resin",
+        "Ginger",
+        "Grapefruit"
+    ],
+    "heart_notes": [
+        "Cypress",
+        "Gardenia",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Cedar",
+        "Leather",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.8",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "5.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "4.9",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

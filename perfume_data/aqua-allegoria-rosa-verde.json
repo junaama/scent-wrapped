@@ -1,0 +1,121 @@
+{
+    "name": "Aqua Allegoria Rosa Verde",
+    "brand": "Guerlain",
+    "release_year": "2025",
+    "description": "A new perfume byGuerlainfor women and men, released in2025. The scent is green-fresh. It is being marketed byLVMH.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a3/a3e8f3_rosa-verde-guerlain_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Fresh",
+        "Floral",
+        "Fruity",
+        "Citrus"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "230 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "188 Ratings"
+        },
+        "sillage": {
+            "score": "6.1",
+            "votes": "185 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "175 Ratings"
+        },
+        "pricing": {
+            "score": "6.4",
+            "votes": "120 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 19
+            },
+            {
+                "name": "Green",
+                "votes": 93
+            },
+            {
+                "name": "Fruity",
+                "votes": 27
+            },
+            {
+                "name": "Fresh",
+                "votes": 89
+            },
+            {
+                "name": "Floral",
+                "votes": 86
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 33
+            },
+            {
+                "name": "Feminine",
+                "votes": 91
+            },
+            {
+                "name": "Classic",
+                "votes": 22
+            },
+            {
+                "name": "Modern",
+                "votes": 64
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 13
+            },
+            {
+                "name": "Summer",
+                "votes": 91
+            },
+            {
+                "name": "Spring",
+                "votes": 89
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 86
+            },
+            {
+                "name": "Sport",
+                "votes": 38
+            },
+            {
+                "name": "Leisure",
+                "votes": 91
+            },
+            {
+                "name": "Night Out",
+                "votes": 21
+            },
+            {
+                "name": "Business",
+                "votes": 75
+            },
+            {
+                "name": "Evening",
+                "votes": 18
+            }
+        ]
+    }
+}

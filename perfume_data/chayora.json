@@ -1,0 +1,41 @@
+{
+    "name": "Chayora",
+    "brand": "Monkoku",
+    "release_year": "2025",
+    "description": "A new perfume byMonkokufor women and men, released in2025. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/fc/fc12ad_chayora-monkoku_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Lime",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Green tea",
+        "Turkish black tea"
+    ],
+    "base_notes": [
+        "Musk",
+        "Precious woods"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

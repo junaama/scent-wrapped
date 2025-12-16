@@ -1,0 +1,151 @@
+{
+    "name": "Vanille Carbone",
+    "brand": "Atelier Materi",
+    "release_year": "2025",
+    "description": "A new perfume byAtelier Materifor women and men, released in2025. The scent is spicy-sweet.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/21/21a4ab_vanille-carbone-atelier-materi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Sweet",
+        "Smoky",
+        "Synthetic",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Madagascan pepper",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Somalian frankincense",
+        "Leather"
+    ],
+    "base_notes": [
+        "Bourbon vanilla",
+        "Bourbon vanilla absolute",
+        "Bourbon vanilla absolute CO2"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.2",
+            "votes": "41 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "29 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "30 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "34 Ratings"
+        },
+        "pricing": {
+            "score": "5.4",
+            "votes": "25 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 14
+            },
+            {
+                "name": "Synthetic",
+                "votes": 6
+            },
+            {
+                "name": "Sweet",
+                "votes": 13
+            },
+            {
+                "name": "Smoky",
+                "votes": 10
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Leathery",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 6
+            },
+            {
+                "name": "Gourmand",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 14
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 12
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 15
+            },
+            {
+                "name": "Fall",
+                "votes": 15
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 8
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 14
+            },
+            {
+                "name": "Night Out",
+                "votes": 14
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 16
+            }
+        ]
+    }
+}

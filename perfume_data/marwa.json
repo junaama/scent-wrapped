@@ -1,0 +1,145 @@
+{
+    "name": "Marwa",
+    "brand": "Arabiyat Prestige",
+    "release_year": "2025",
+    "description": "A new perfume byArabiyat Prestigefor men, released in2025. The scent is fresh-citrusy. It is being marketed byMy Perfumes / MPF (My Perfumes Factory).Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8d/8d54ab_marwa-arabiyat_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Citrus",
+        "Aquatic",
+        "Sweet",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Ginger",
+        "Petitgrain"
+    ],
+    "heart_notes": [
+        "Chinese black tea",
+        "Geranium",
+        "Frankincense"
+    ],
+    "base_notes": [
+        "Musk",
+        "Ambroxan",
+        "Gaiac wood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "273 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "261 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "261 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "252 Ratings"
+        },
+        "pricing": {
+            "score": "8.9",
+            "votes": "249 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 53
+            },
+            {
+                "name": "Spicy",
+                "votes": 13
+            },
+            {
+                "name": "Synthetic",
+                "votes": 19
+            },
+            {
+                "name": "Sweet",
+                "votes": 21
+            },
+            {
+                "name": "Green",
+                "votes": 13
+            },
+            {
+                "name": "Fresh",
+                "votes": 59
+            },
+            {
+                "name": "Floral",
+                "votes": 11
+            },
+            {
+                "name": "Aquatic",
+                "votes": 43
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 56
+            },
+            {
+                "name": "Feminine",
+                "votes": 14
+            },
+            {
+                "name": "Modern",
+                "votes": 56
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 10
+            },
+            {
+                "name": "Fall",
+                "votes": 29
+            },
+            {
+                "name": "Summer",
+                "votes": 64
+            },
+            {
+                "name": "Spring",
+                "votes": 58
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 56
+            },
+            {
+                "name": "Sport",
+                "votes": 43
+            },
+            {
+                "name": "Leisure",
+                "votes": 54
+            },
+            {
+                "name": "Night Out",
+                "votes": 27
+            },
+            {
+                "name": "Business",
+                "votes": 42
+            },
+            {
+                "name": "Evening",
+                "votes": 23
+            }
+        ]
+    }
+}

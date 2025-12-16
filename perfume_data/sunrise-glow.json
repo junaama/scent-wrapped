@@ -1,0 +1,29 @@
+{
+    "name": "Sunrise Glow",
+    "brand": "The Dua Brand",
+    "release_year": "2025",
+    "description": "A new perfume byThe Dua Brandfor women and men, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/d9/d9e103_sunrise-glow-the-dua-brand_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Lavender",
+        "Orris root",
+        "Rose"
+    ],
+    "base_notes": [
+        "Raspberry",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "4.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

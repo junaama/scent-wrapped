@@ -1,0 +1,107 @@
+{
+    "name": "Private Blend - Musk Ice",
+    "brand": "Khadlaj",
+    "release_year": "2025",
+    "description": "A new perfume byKhadlajfor women, released in2025. The scent is fresh-fruity. It is being marketed byKhadlaj Perfumes LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/fa/fadf39_private-blend-musk-ice-khadlaj_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Fruity",
+        "Citrus",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Mandarin orange",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Orange blossom",
+        "Peach",
+        "Lily of the valley"
+    ],
+    "base_notes": [
+        "Mousse",
+        "Musk",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "6.8",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

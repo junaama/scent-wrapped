@@ -1,0 +1,24 @@
+{
+    "name": "Sinsational",
+    "brand": "Future",
+    "release_year": "2025",
+    "description": "A new perfume byFuturefor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/14/14d349_sinsational-future_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Citrus notes"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Rose",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Clove",
+        "Coumarin",
+        "Sandalwood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

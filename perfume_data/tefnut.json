@@ -1,0 +1,31 @@
+{
+    "name": "Tefnut",
+    "brand": "Aswan",
+    "release_year": "2025",
+    "description": "A new perfume byAswanfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2d/2d0369_tefnut-aswan_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blackcurrant",
+        "Cognac",
+        "Green notes",
+        "Narcissus",
+        "Plum"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Leather",
+        "Oak",
+        "Tonka bean",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedar",
+        "Orange blossom",
+        "Praliné",
+        "Sandalwood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

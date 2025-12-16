@@ -1,0 +1,133 @@
+{
+    "name": "Black Friday",
+    "brand": "French Avenue",
+    "release_year": "2025",
+    "description": "A new and limited perfume byFrench Avenuefor men, released in2025. The scent is leathery-spicy. Projection and longevity are above-average. It is being marketed byFragrance World Trading LLC.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/ad/ad9212_black-friday-french-avenue_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Leathery",
+        "Spicy",
+        "Oriental",
+        "Fruity",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Saffron",
+        "Apple",
+        "Cinnamon"
+    ],
+    "heart_notes": [
+        "Rose",
+        "Leather"
+    ],
+    "base_notes": [
+        "Moss",
+        "Patchouli",
+        "Papyrus",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "40 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "40 Ratings"
+        },
+        "sillage": {
+            "score": "8.3",
+            "votes": "41 Ratings"
+        },
+        "bottle": {
+            "score": "8.8",
+            "votes": "43 Ratings"
+        },
+        "pricing": {
+            "score": "8.6",
+            "votes": "37 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 5
+            },
+            {
+                "name": "Leathery",
+                "votes": 8
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "name": "Fearless Man",
+    "brand": "La Rive",
+    "release_year": "2025",
+    "description": "A new perfume byLa Rivefor men, released in2025. The scent is fresh-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/61/61cd02_fearless-man-la-rive_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Sweet",
+        "Fruity",
+        "Spicy",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Cardamom",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Lavender",
+        "Orange blossom",
+        "Sage"
+    ],
+    "base_notes": [
+        "Dry woods",
+        "Oakmoss",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.7",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "6.3",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "6.9",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

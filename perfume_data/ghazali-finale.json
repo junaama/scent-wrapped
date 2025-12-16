@@ -1,0 +1,70 @@
+{
+    "name": "Ghazali Finalé",
+    "brand": "elkhaldi",
+    "release_year": "2025",
+    "description": "A new and limited perfume byelkhaldifor women and men, released in2025. The scent is floral-animal. Projection and longevity are above-average. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/5d/5d79c4_ghazali-finale-elkhaldi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Animal",
+        "Earthy",
+        "Woody"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "8 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            },
+            {
+                "name": "Animal",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "name": "Limone di Sole",
+    "brand": "elef.",
+    "release_year": "2025",
+    "description": "A new perfume byelef.for women and men, released in2025. The scent is synthetic-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f5/f5ff71_limone-di-sole-elef_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Sweet",
+        "Citrus",
+        "Fresh",
+        "Green"
+    ],
+    "top_notes": [
+        "Peppermint",
+        "Lemon",
+        "Petitgrain",
+        "Bergamot",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Neroli",
+        "Rosemary"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Amber",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "45 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "41 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "42 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "24 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 20
+            },
+            {
+                "name": "Synthetic",
+                "votes": 42
+            },
+            {
+                "name": "Sweet",
+                "votes": 22
+            },
+            {
+                "name": "Woody",
+                "votes": 10
+            },
+            {
+                "name": "Green",
+                "votes": 14
+            },
+            {
+                "name": "Fresh",
+                "votes": 19
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 18
+            },
+            {
+                "name": "Feminine",
+                "votes": 28
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 13
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 18
+            },
+            {
+                "name": "Spring",
+                "votes": 19
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 15
+            },
+            {
+                "name": "Sport",
+                "votes": 13
+            },
+            {
+                "name": "Leisure",
+                "votes": 18
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 12
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

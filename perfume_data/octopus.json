@@ -1,0 +1,34 @@
+{
+    "name": "Octopus",
+    "brand": "Artisan Dixit",
+    "release_year": "2025",
+    "description": "A new perfume byArtisan Dixitfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/82/82bb9d_octopus-artisan-dixit_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Fresh laundry",
+        "Mandarin orange",
+        "Petitgrain",
+        "Sea breeze"
+    ],
+    "heart_notes": [
+        "Cotton flower",
+        "Kelp",
+        "Lavender",
+        "Neroli",
+        "Sea salt"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedar",
+        "Clary sage",
+        "Musk",
+        "Oakmoss",
+        "Patchouli",
+        "Sea shell",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

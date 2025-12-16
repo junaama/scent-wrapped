@@ -1,0 +1,47 @@
+{
+    "name": "StarDust",
+    "brand": "Faizal Privée",
+    "release_year": "2025",
+    "description": "A new perfume byFaizal Privéefor women and men, released in2025. The scent is woody-oriental. Projection and longevity are above-average. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c1/c19052_stardust-faizal-privee_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Oriental",
+        "Spicy",
+        "Green",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Pink pepper",
+        "Black tea"
+    ],
+    "heart_notes": [
+        "Blue lotus",
+        "Thai oud",
+        "Tolu balm"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Papua oud",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "8.9",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "8.4",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {}
+}

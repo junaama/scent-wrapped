@@ -1,0 +1,30 @@
+{
+    "name": "Italiano",
+    "brand": "Giovani",
+    "release_year": "2025",
+    "description": "A new perfume byGiovanifor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f0/f036ec_italiano-giovani_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bitter almond",
+        "Rose"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Dried apricot",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Coconut",
+        "Marzipan",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

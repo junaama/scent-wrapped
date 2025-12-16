@@ -1,0 +1,139 @@
+{
+    "name": "Golden Hours",
+    "brand": "elef.",
+    "release_year": "2025",
+    "description": "A new perfume byelef.for women and men, released in2025. The scent is sweet-synthetic.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/68/68c900_golden-hours-elef_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Synthetic",
+        "Resinous",
+        "Gourmand",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Dewberry",
+        "Bergamot",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Honey",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Balsamic notes",
+        "Siam benzoin"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "49 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "44 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "44 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "26 Ratings"
+        },
+        "pricing": {
+            "score": "6.8",
+            "votes": "17 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 11
+            },
+            {
+                "name": "Spicy",
+                "votes": 8
+            },
+            {
+                "name": "Synthetic",
+                "votes": 36
+            },
+            {
+                "name": "Sweet",
+                "votes": 37
+            },
+            {
+                "name": "Resinous",
+                "votes": 15
+            },
+            {
+                "name": "Gourmand",
+                "votes": 11
+            },
+            {
+                "name": "Fruity",
+                "votes": 7
+            },
+            {
+                "name": "Creamy",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 14
+            },
+            {
+                "name": "Feminine",
+                "votes": 35
+            },
+            {
+                "name": "Modern",
+                "votes": 15
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 17
+            },
+            {
+                "name": "Fall",
+                "votes": 18
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 17
+            },
+            {
+                "name": "Night Out",
+                "votes": 14
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 16
+            }
+        ]
+    }
+}

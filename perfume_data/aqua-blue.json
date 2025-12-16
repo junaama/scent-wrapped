@@ -1,0 +1,33 @@
+{
+    "name": "Aqua Blue",
+    "brand": "Mith",
+    "release_year": "2025",
+    "description": "A new perfume byMithfor women and men, released in2025. The scent is green-aquatic.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/17/17efb3_aqua-blue-mith_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Aquatic",
+        "Citrus",
+        "Spicy",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Juniper berry",
+        "Turmeric"
+    ],
+    "heart_notes": [
+        "Lavender",
+        "Orris root"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Patchouli"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {}
+}

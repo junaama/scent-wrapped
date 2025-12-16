@@ -1,0 +1,28 @@
+{
+    "name": "Seraphina",
+    "brand": "Mercredi",
+    "release_year": "2025",
+    "description": "A new perfume byMercredifor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/75/75336e_seraphina-mercredi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Freesia",
+        "Mint",
+        "Pink tulip"
+    ],
+    "heart_notes": [
+        "Damask rose",
+        "Peony"
+    ],
+    "base_notes": [
+        "Cyclamen",
+        "Musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

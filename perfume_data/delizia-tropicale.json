@@ -1,0 +1,45 @@
+{
+    "name": "Delizia Tropicale",
+    "brand": "Calaj",
+    "release_year": "2025",
+    "description": "A new perfume byCalajfor women and men, released in2025. The scent is sweet-synthetic. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d1/d1163a_delizia-tropicale-calaj_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Synthetic",
+        "Spicy",
+        "Fruity",
+        "Floral"
+    ],
+    "top_notes": [
+        "Green banana",
+        "Exotic fruits",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "White blossoms",
+        "Coconut"
+    ],
+    "base_notes": [
+        "Butter",
+        "Honey",
+        "Musk",
+        "Castoreum",
+        "Civet",
+        "Sandalwood",
+        "Tolu balm",
+        "Vanilla absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,127 @@
+{
+    "name": "Zaman Al Ula",
+    "brand": "Paris Corner",
+    "release_year": "2025",
+    "description": "A new perfume byParis Cornerfor women and men, released in2025. The scent is spicy-leathery. It is being marketed byParis Corner Perfumes.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/39/39afbe_zaman-al-ula-paris-corner_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Leathery",
+        "Woody",
+        "Oriental",
+        "Earthy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Coffee",
+        "Date"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Cedar",
+        "Musk",
+        "Sugar"
+    ],
+    "base_notes": [
+        "Leather",
+        "Amber",
+        "Papyrus",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Leathery",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

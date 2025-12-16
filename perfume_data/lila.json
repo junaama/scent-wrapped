@@ -1,0 +1,72 @@
+{
+    "name": "Lila",
+    "brand": "Mellifluence Perfume",
+    "release_year": "2025",
+    "description": "A new perfume byMellifluence Perfumefor women and men, released in2025. The scent is floral-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/fa/fa32dc_lila-mellifluence-perfume_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Fruity",
+        "Woody",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Ambergris absolute",
+        "Boronia absolute",
+        "Damascenone",
+        "Egyptian jasmine absolute",
+        "Lilac CO2",
+        "Mongolian deer musk",
+        "Orris butter concrete",
+        "Pink lotus absolute",
+        "Taif rose",
+        "Turkish rose absolute",
+        "Turkish rose concrete"
+    ],
+    "heart_notes": [
+        "Beta ionone",
+        "Bulgarian rose concrete",
+        "Civet absolute",
+        "Dragon's blood asbolute",
+        "Magnolia",
+        "Osmanthus absolute",
+        "Persian rose",
+        "Red champaca absolute",
+        "Red frankincense absolute",
+        "Siam benzoin absolute",
+        "Thai oud",
+        "Violet leaf absolute"
+    ],
+    "base_notes": [
+        "Ambora",
+        "Araucaria",
+        "Australian sandalwood",
+        "False sandalwood",
+        "Indonesian sandalwood",
+        "Namibian myrrh absolute",
+        "Papyrus absolute",
+        "Somalian frankincense absolute",
+        "Thai oud",
+        "White oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.1",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,145 @@
+{
+    "name": "Daring Dragon",
+    "brand": "MCM",
+    "release_year": "2025",
+    "description": "A new perfume byMCMfor women and men, released in2025. The scent is citrusy-fresh. It is being marketed byInterparfums.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d9/d98770_daring-dragon-mcm_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Sweet",
+        "Floral",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Clementine",
+        "Yuzu"
+    ],
+    "heart_notes": [
+        "Almond blossom",
+        "Lily of the valley",
+        "Tea blossom"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "26 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "23 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "23 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "24 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "16 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 11
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 8
+            },
+            {
+                "name": "Floral",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 9
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

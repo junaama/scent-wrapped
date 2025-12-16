@@ -1,0 +1,149 @@
+{
+    "name": "Blue Talisman",
+    "brand": "Ex Nihilo",
+    "release_year": "2025",
+    "description": "A new perfume byEx Nihilofor women and men, released in2025. The scent is fruity-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/69/696ffd_blue-talisman-extrait-de-parfum-ex-nihilo_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Fresh",
+        "Floral",
+        "Woody"
+    ],
+    "top_notes": [
+        "Pear",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Orange blossom",
+        "Jasmine sambac"
+    ],
+    "base_notes": [
+        "Musk",
+        "Ambrofix",
+        "Sandalwood",
+        "Vanilla",
+        "Amberwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "165 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "145 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "144 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "136 Ratings"
+        },
+        "pricing": {
+            "score": "5.4",
+            "votes": "124 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 6
+            },
+            {
+                "name": "Synthetic",
+                "votes": 9
+            },
+            {
+                "name": "Sweet",
+                "votes": 20
+            },
+            {
+                "name": "Woody",
+                "votes": 13
+            },
+            {
+                "name": "Fruity",
+                "votes": 28
+            },
+            {
+                "name": "Fresh",
+                "votes": 16
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 14
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 22
+            },
+            {
+                "name": "Feminine",
+                "votes": 22
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 23
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 12
+            },
+            {
+                "name": "Fall",
+                "votes": 25
+            },
+            {
+                "name": "Summer",
+                "votes": 27
+            },
+            {
+                "name": "Spring",
+                "votes": 27
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 22
+            },
+            {
+                "name": "Sport",
+                "votes": 8
+            },
+            {
+                "name": "Leisure",
+                "votes": 24
+            },
+            {
+                "name": "Night Out",
+                "votes": 20
+            },
+            {
+                "name": "Business",
+                "votes": 18
+            },
+            {
+                "name": "Evening",
+                "votes": 20
+            }
+        ]
+    }
+}

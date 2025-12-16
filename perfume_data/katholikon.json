@@ -1,0 +1,107 @@
+{
+    "name": "Katholikon",
+    "brand": "Arina Franzén",
+    "release_year": "2025",
+    "description": "A new perfume byArina Franzénfor women and men, released in2025. The scent is smoky-woody.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/29/29d03f_katholikon-arina-franzen_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Woody",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Frankincense"
+    ],
+    "heart_notes": [
+        "False sandalwood",
+        "Myrrh"
+    ],
+    "base_notes": [
+        "Dynamone",
+        "Oak wood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Smoky",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

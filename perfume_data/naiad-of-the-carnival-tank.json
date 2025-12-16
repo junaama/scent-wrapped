@@ -1,0 +1,37 @@
+{
+    "name": "Naiad of the Carnival Tank",
+    "brand": "Alkemia",
+    "release_year": "2025",
+    "description": "A new perfume byAlkemiafor women and men, released in2025. The scent is fresh-fruity.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8e/8e12dd_naiad-of-the-carnival-tank-alkemia_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Fruity",
+        "Sweet"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "bottle": {
+            "score": "4.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Palm Blue",
+    "brand": "Nitska",
+    "release_year": "2025",
+    "description": "A new perfume byNitskafor women and men, released in2025. Projection and longevity are above-average.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Black pepper",
+        "Cardamom",
+        "Mandarin orange",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Clove",
+        "Geranium",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Oud",
+        "Patchouli",
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

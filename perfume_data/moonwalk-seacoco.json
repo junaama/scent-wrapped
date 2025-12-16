@@ -1,0 +1,142 @@
+{
+    "name": "Moonwalk Seacoco",
+    "brand": "Fomowa",
+    "release_year": "2025",
+    "description": "A new perfume byFomowafor women and men, released in2025. The scent is fruity-gourmand. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/14/1416ff_moonwalk-seacoco-fomowa_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Gourmand",
+        "Sweet",
+        "Citrus",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Hawaiian pineapple",
+        "Italian mandarin orange",
+        "Sicilian lemon"
+    ],
+    "heart_notes": [
+        "Coco de mer",
+        "Cream",
+        "Madagascan ginger",
+        "Passion fruit"
+    ],
+    "base_notes": [
+        "Comorian vanilla CO2",
+        "Indian sandalwood",
+        "Italian lemon zest"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

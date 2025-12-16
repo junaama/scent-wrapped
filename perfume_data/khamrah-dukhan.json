@@ -1,0 +1,148 @@
+{
+    "name": "Khamrah Dukhan",
+    "brand": "Lattafa",
+    "release_year": "2025",
+    "description": "A new perfume byLattafafor men, released in2025. The scent is sweet-spicy. Projection and longevity are above-average. It is being marketed byLattafa Perfumes Industries LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/20/20ff3d_khamrah-dukhan-lattafa_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Gourmand",
+        "Oriental",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Smoked spices",
+        "Mandarin orange",
+        "Pimento"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Orange blossom",
+        "Cistus",
+        "Patchouli"
+    ],
+    "base_notes": [
+        "Praliné",
+        "Amber",
+        "Benzoin",
+        "Tobacco",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "184 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "165 Ratings"
+        },
+        "sillage": {
+            "score": "8.1",
+            "votes": "164 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "170 Ratings"
+        },
+        "pricing": {
+            "score": "9.0",
+            "votes": "151 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 33
+            },
+            {
+                "name": "Sweet",
+                "votes": 38
+            },
+            {
+                "name": "Smoky",
+                "votes": 11
+            },
+            {
+                "name": "Oriental",
+                "votes": 30
+            },
+            {
+                "name": "Woody",
+                "votes": 9
+            },
+            {
+                "name": "Resinous",
+                "votes": 10
+            },
+            {
+                "name": "Gourmand",
+                "votes": 32
+            },
+            {
+                "name": "Fruity",
+                "votes": 11
+            },
+            {
+                "name": "Creamy",
+                "votes": 15
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 39
+            },
+            {
+                "name": "Feminine",
+                "votes": 25
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 27
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 42
+            },
+            {
+                "name": "Fall",
+                "votes": 38
+            },
+            {
+                "name": "Spring",
+                "votes": 16
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 17
+            },
+            {
+                "name": "Leisure",
+                "votes": 23
+            },
+            {
+                "name": "Night Out",
+                "votes": 39
+            },
+            {
+                "name": "Business",
+                "votes": 12
+            },
+            {
+                "name": "Evening",
+                "votes": 40
+            }
+        ]
+    }
+}

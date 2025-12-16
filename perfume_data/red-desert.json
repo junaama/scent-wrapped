@@ -1,0 +1,37 @@
+{
+    "name": "Red Desert",
+    "brand": "Karouge",
+    "release_year": "2025",
+    "description": "A new perfume byKarougefor women and men, released in2025. The scent is gourmand-sweet. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c4/c4f0e6_red-desert-karouge_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Sweet",
+        "Synthetic",
+        "Fruity",
+        "Woody"
+    ],
+    "top_notes": [
+        "Cherry",
+        "Marshmallow",
+        "Orange blossom"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Tonka bean",
+        "Cinnamon"
+    ],
+    "base_notes": [
+        "Musk",
+        "Vanilla",
+        "Amber",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "9.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

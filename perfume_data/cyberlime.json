@@ -1,0 +1,24 @@
+{
+    "name": "Cyberlime",
+    "brand": "Fluez",
+    "release_year": "2025",
+    "description": "A new perfume byFluezfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/24/24060b_cyberlime-fluez_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blackcurrant",
+        "Citron",
+        "Lemon",
+        "Lime"
+    ],
+    "heart_notes": [
+        "Aquatic notes",
+        "Salt",
+        "Star anise"
+    ],
+    "base_notes": [
+        "Oakmoss"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

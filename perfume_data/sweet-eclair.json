@@ -1,0 +1,28 @@
+{
+    "name": "Sweet Éclair",
+    "brand": "Kylie Cosmetics",
+    "release_year": "2025",
+    "description": "A new perfume byKylie Cosmeticsfor women, released in2025. It is being marketed byCoty. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/bd/bd6d73_sweet-eclair-kylie-cosmetics_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Cream"
+    ],
+    "heart_notes": [
+        "Chocolate cream",
+        "Freesia"
+    ],
+    "base_notes": [
+        "Amber",
+        "Vanilla",
+        "Woody notes"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

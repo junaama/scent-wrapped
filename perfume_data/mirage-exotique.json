@@ -1,0 +1,130 @@
+{
+    "name": "Mirage Exotique",
+    "brand": "Les Nobles Essences",
+    "release_year": "2025",
+    "description": "A new perfume byLes Nobles Essencesfor women and men, released in2025. The scent is fruity-sweet. The longevity is above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/bc/bc6e7a_mirage-exotique-les-nobles-essences_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Floral",
+        "Woody",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Passion fruit",
+        "Mandarin orange",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Coconut",
+        "Mango",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "23 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "19 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "19 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "20 Ratings"
+        },
+        "pricing": {
+            "score": "6.8",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 8
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

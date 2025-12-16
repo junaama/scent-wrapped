@@ -1,0 +1,34 @@
+{
+    "name": "Otherwhere",
+    "brand": "The Nue Co.",
+    "release_year": "2025",
+    "description": "A new perfume byThe Nue Co.for women and men, released in2025. The scent is spicy-woody.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/f6/f6a16a_otherwhere-the-nue-co_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Green cardamom",
+        "Juniper berry",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Almond blossom",
+        "Caramel",
+        "Violet"
+    ],
+    "base_notes": [
+        "Frankincense",
+        "Myrrh",
+        "Oud",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

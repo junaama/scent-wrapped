@@ -1,0 +1,103 @@
+{
+    "name": "Bombay Nights",
+    "brand": "Monkoku",
+    "release_year": "2025",
+    "description": "A new perfume byMonkokufor women and men, released in2025. The scent is fresh-fruity. Projection and longevity are above-average. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/c1/c138b3_bombay-nights-monkoku_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Fruity",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Citron",
+        "Lemon",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Apricot",
+        "Basil",
+        "Blackcurrant",
+        "Coriander seed",
+        "Date",
+        "Fig",
+        "Peppermint"
+    ],
+    "base_notes": [
+        "Ambrette seed",
+        "Carrot seed",
+        "May rose"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "13 Ratings"
+        },
+        "durability": {
+            "score": "8.7",
+            "votes": "13 Ratings"
+        },
+        "sillage": {
+            "score": "8.6",
+            "votes": "13 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "17 Ratings"
+        },
+        "pricing": {
+            "score": "9.3",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            }
+        ]
+    }
+}

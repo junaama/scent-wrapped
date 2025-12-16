@@ -1,0 +1,33 @@
+{
+    "name": "Bianca Lancia",
+    "brand": "Danhera",
+    "release_year": "2025",
+    "description": "A new perfume byDanherafor women, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/26/262eca_bianca-lancia-danhera_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Amalfi lemon",
+        "Calabrian bergamot",
+        "Coconut milk",
+        "Grapefruit",
+        "Jasmine",
+        "Neroli",
+        "Ylang-ylang"
+    ],
+    "heart_notes": [
+        "Bourbon vanilla",
+        "Magnolia",
+        "Orange blossom",
+        "Pink pepper",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Oakmoss",
+        "Sri Lankan sandalwood",
+        "Tonka bean"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

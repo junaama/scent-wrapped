@@ -1,0 +1,103 @@
+{
+    "name": "Beyond Night",
+    "brand": "Mango",
+    "release_year": "2025",
+    "description": "A new perfume byMangofor men, released in2025. The scent is powdery-woody. The projection is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a9/a93331_beyond-night-mango_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Powdery",
+        "Woody",
+        "Sweet",
+        "Spicy",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Sage"
+    ],
+    "heart_notes": [
+        "Cocoa Resinoid"
+    ],
+    "base_notes": [
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.0",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

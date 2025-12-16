@@ -1,0 +1,31 @@
+{
+    "name": "Meet Me in Vanilla",
+    "brand": "Freevola",
+    "release_year": "2025",
+    "description": "A new perfume byFreevolafor women, released in2025. It is being marketed byThe First.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f4/f4037d_meet-me-in-vanilla-freevola_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Fig leaf",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Cotton candy",
+        "Lily of the valley",
+        "Strawberry"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Tonka bean",
+        "Vanilla",
+        "White musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

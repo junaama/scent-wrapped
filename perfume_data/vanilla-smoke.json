@@ -1,0 +1,130 @@
+{
+    "name": "Vanilla Smoke",
+    "brand": "Phlur",
+    "release_year": "2025",
+    "description": "A new perfume byPhlurfor women and men, released in2025. The scent is smoky-sweet. The perfume is vegan according to the manufacturer.PronunciationCompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/c3/c345e4_vanilla-smoke-phlur_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Sweet",
+        "Woody",
+        "Spicy",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Birch",
+        "Pink pepper",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Cashmere",
+        "Tonka bean",
+        "Vanilla",
+        "White cocoa"
+    ],
+    "base_notes": [
+        "Amber",
+        "Frankincense",
+        "Peru balsam"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "28 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "20 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "20 Ratings"
+        },
+        "bottle": {
+            "score": "6.6",
+            "votes": "22 Ratings"
+        },
+        "pricing": {
+            "score": "8.0",
+            "votes": "18 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 9
+            },
+            {
+                "name": "Smoky",
+                "votes": 11
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 11
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

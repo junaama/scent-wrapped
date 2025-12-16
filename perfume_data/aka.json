@@ -1,0 +1,45 @@
+{
+    "name": "Aka",
+    "brand": "WA:IT",
+    "release_year": "2025",
+    "description": "A new perfume byWA:ITfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8b/8b0a5d_aka-wa-it_1200.jpg?width=240&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cinnamon",
+        "Grapefruit",
+        "Pink pepper",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Juniper berry",
+        "Lavender",
+        "Patchouli"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Cypress",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

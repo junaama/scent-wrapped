@@ -1,0 +1,144 @@
+{
+    "name": "Fougère Rouge",
+    "brand": "Lost Tribe",
+    "release_year": "2025",
+    "description": "A new perfume byLost Tribefor women and men, released in2025. The scent is fougèreartig-spicy. The longevity is above-average. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/fb/fbd987_fouge-re-rouge-lost-tribe_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fougère",
+        "Spicy",
+        "Floral",
+        "Green",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Lavender",
+        "Neroli",
+        "Persian rose",
+        "Rose",
+        "Rose otto"
+    ],
+    "heart_notes": [
+        "Lavender absolute",
+        "Night-blooming jasmine",
+        "Oakmoss",
+        "Orange blossom",
+        "Patchouli",
+        "Tree moss"
+    ],
+    "base_notes": [
+        "Malayan oud",
+        "Mongolian deer musk",
+        "Sandalwood",
+        "Thyme"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "12 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Fougère",
+                "votes": 3
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

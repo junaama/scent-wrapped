@@ -1,0 +1,27 @@
+{
+    "name": "Café Fondant",
+    "brand": "Aroma Studium",
+    "release_year": "2025",
+    "description": "A new perfume byAroma Studiumfor women and men, released in2025. It is being marketed byVenice Olfactory.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/72/7208a7_cafe-fondant-aroma-studium_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Dark chocolate",
+        "Lemon zest",
+        "Rum"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Arabica coffee",
+        "Date",
+        "Rose"
+    ],
+    "base_notes": [
+        "Karmawood®",
+        "Musk",
+        "Oud",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

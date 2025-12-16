@@ -1,0 +1,26 @@
+{
+    "name": "Spinelle",
+    "brand": "Glamira",
+    "release_year": "2025",
+    "description": "A new perfume byGlamirafor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3b/3b226c_spinelle-glamira_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Apple",
+        "Bergamot",
+        "Grapefruit",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Heliotrope",
+        "Jasmine",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Patchouli",
+        "Sandalwood",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

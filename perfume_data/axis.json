@@ -1,0 +1,79 @@
+{
+    "name": "Axis",
+    "brand": "French Avenue",
+    "release_year": "2025",
+    "description": "A new perfume byFrench Avenuefor women and men, released in2025. The scent is woody-spicy. It is being marketed byFragrance World Trading LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/58/5803a3_axis-french-avenue_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Freesia",
+        "Plum"
+    ],
+    "heart_notes": [
+        "Woods",
+        "Amber"
+    ],
+    "base_notes": [
+        "Labdanum",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "9 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

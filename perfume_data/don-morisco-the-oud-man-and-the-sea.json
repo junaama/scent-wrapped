@@ -1,0 +1,125 @@
+{
+    "name": "Don Morisco - The Oud Man and the Sea",
+    "brand": "Ensar Oud",
+    "release_year": "2025",
+    "description": "A new perfume byEnsar Oudfor women and men, released in2025. The scent is animal-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4b/4b2028_the-oud-man-and-the-sea-ensar-oud-oriscent_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Animal",
+        "Spicy",
+        "Woody",
+        "Earthy",
+        "Aquatic"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "17 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "15 Ratings"
+        },
+        "bottle": {
+            "score": "8.7",
+            "votes": "18 Ratings"
+        },
+        "pricing": {
+            "score": "5.8",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

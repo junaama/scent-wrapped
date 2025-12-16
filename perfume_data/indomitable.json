@@ -1,0 +1,128 @@
+{
+    "name": "Indomitable",
+    "brand": "Paris Corner",
+    "release_year": "2025",
+    "description": "A new perfume byParis Cornerfor women and men, released in2025. The scent is fruity-fresh. It is being marketed byParis Corner Perfumes.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/85/853edc_indomitable-paris-corner_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Fresh",
+        "Sweet",
+        "Citrus",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Clementine",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Apple",
+        "Woody notes",
+        "Black pepper"
+    ],
+    "base_notes": [
+        "Amber",
+        "Neroli",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "18 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "16 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "15 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "21 Ratings"
+        },
+        "pricing": {
+            "score": "8.6",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Marshmallow & Lavender",
+    "brand": "Banana Republic",
+    "release_year": "2025",
+    "description": "A new perfume byBanana Republicfor women and men, released in2025. It is being marketed byThe Fragrance Group.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/bc/bc154e_marshmallow-lavender-banana-republic_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Marshmallow",
+        "Peach",
+        "Vanilla"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sugar"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

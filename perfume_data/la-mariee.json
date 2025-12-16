@@ -1,0 +1,104 @@
+{
+    "name": "La Mariée",
+    "brand": "Maison Mounkam",
+    "release_year": "2025",
+    "description": "A new and limited perfume byMaison Mounkamfor women, released in2025. The scent is floral-fresh.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/66/661828_la-mariee-maison-mounkam_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Fruity",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Mandarin orange",
+        "Rose"
+    ],
+    "heart_notes": [
+        "Lychee",
+        "Peony",
+        "Violet"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Oakmoss",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "name": "Come",
+    "brand": "Bogue",
+    "release_year": "2025",
+    "description": "A new perfume byBoguefor women and men, released in2025. The scent is resinous-smoky. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ee/ee73cb_come-bogue_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Smoky",
+        "Animal",
+        "Floral",
+        "Spicy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "44 Ratings"
+        },
+        "durability": {
+            "score": "8.7",
+            "votes": "38 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "36 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "34 Ratings"
+        },
+        "pricing": {
+            "score": "8.0",
+            "votes": "26 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 8
+            },
+            {
+                "name": "Smoky",
+                "votes": 10
+            },
+            {
+                "name": "Leathery",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Resinous",
+                "votes": 13
+            },
+            {
+                "name": "Green",
+                "votes": 6
+            },
+            {
+                "name": "Chypre",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 9
+            },
+            {
+                "name": "Animal",
+                "votes": 9
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 11
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Classic",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 10
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 10
+            },
+            {
+                "name": "Night Out",
+                "votes": 10
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 12
+            }
+        ]
+    }
+}

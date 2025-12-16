@@ -1,0 +1,25 @@
+{
+    "name": "Streets of New York",
+    "brand": "Le Chameau",
+    "release_year": "2025",
+    "description": "A new perfume byLe Chameaufor women and men, released in2025. It is being marketed byEmper.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/1e/1e8ceb_streets-of-new-york-le-chameau_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Blossoms",
+        "Coriander"
+    ],
+    "heart_notes": [
+        "Ambroxan",
+        "Apple",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Tonka bean",
+        "Woody notes"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

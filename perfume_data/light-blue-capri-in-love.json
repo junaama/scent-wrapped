@@ -1,0 +1,129 @@
+{
+    "name": "Light Blue Capri in Love",
+    "brand": "Dolce & Gabbana",
+    "release_year": "2025",
+    "description": "A new perfume byDolce & Gabbanafor women, released in2025. The scent is citrusy-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2b/2b920b_light-blue-capri-in-love-dolce-gabbana_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Fruity",
+        "Sweet",
+        "Floral"
+    ],
+    "top_notes": [
+        "Jasmine tea"
+    ],
+    "heart_notes": [
+        "Green apple"
+    ],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "78 Ratings"
+        },
+        "durability": {
+            "score": "5.8",
+            "votes": "58 Ratings"
+        },
+        "sillage": {
+            "score": "5.8",
+            "votes": "57 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "69 Ratings"
+        },
+        "pricing": {
+            "score": "6.2",
+            "votes": "42 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 26
+            },
+            {
+                "name": "Sweet",
+                "votes": 13
+            },
+            {
+                "name": "Woody",
+                "votes": 7
+            },
+            {
+                "name": "Fruity",
+                "votes": 18
+            },
+            {
+                "name": "Fresh",
+                "votes": 26
+            },
+            {
+                "name": "Floral",
+                "votes": 12
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 10
+            },
+            {
+                "name": "Feminine",
+                "votes": 26
+            },
+            {
+                "name": "Classic",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 19
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 28
+            },
+            {
+                "name": "Spring",
+                "votes": 23
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 21
+            },
+            {
+                "name": "Sport",
+                "votes": 10
+            },
+            {
+                "name": "Leisure",
+                "votes": 27
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 19
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

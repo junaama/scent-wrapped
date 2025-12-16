@@ -1,0 +1,94 @@
+{
+    "name": "Sunkissed Poppy",
+    "brand": "Tree Hut",
+    "release_year": "2025",
+    "description": "A new perfume byTree Hutfor women, released in2025. The scent is fruity-floral. It is being marketed byNaterra International, Inc..PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/ae/ae8a2a_sunkissed-poppy-tree-hut_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Floral",
+        "Citrus",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Clementine"
+    ],
+    "heart_notes": [
+        "White lily"
+    ],
+    "base_notes": [
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "4.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "5.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

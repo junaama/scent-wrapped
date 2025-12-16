@@ -1,0 +1,97 @@
+{
+    "name": "Vivos Plango, Mortuos Voco",
+    "brand": "Necros",
+    "release_year": "2025",
+    "description": "A new perfume byNecrosfor women and men, released in2025. The scent is smoky-synthetic. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [
+        "Smoky",
+        "Synthetic",
+        "Spicy",
+        "Floral",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Frankincense",
+        "Lily",
+        "Metallic notes"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Myrrh",
+        "Woods"
+    ],
+    "base_notes": [
+        "Damp stone",
+        "Mineral notes",
+        "Musk",
+        "Smoke"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

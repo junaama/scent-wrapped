@@ -1,0 +1,159 @@
+{
+    "name": "Antiquity II",
+    "brand": "Areej Le Doré",
+    "release_year": "2025",
+    "description": "A new perfume byAreej Le Doréfor women and men, released in2025. The scent is fruity-woody. Projection and longevity are above-average. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/46/468466_antiquity-ii-extrait-de-parfum-areej-le-dore_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Woody",
+        "Powdery",
+        "Spicy",
+        "Animal"
+    ],
+    "top_notes": [
+        "Peach aldehyde",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Patchouli",
+        "Carnation",
+        "Angelica seed",
+        "Cambodian oud",
+        "Violet leaf"
+    ],
+    "base_notes": [
+        "Deer musk absolute",
+        "Indonesian patchouli",
+        "Russian leather",
+        "Oakmoss"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "82 Ratings"
+        },
+        "durability": {
+            "score": "8.6",
+            "votes": "75 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "75 Ratings"
+        },
+        "bottle": {
+            "score": "8.6",
+            "votes": "73 Ratings"
+        },
+        "pricing": {
+            "score": "7.2",
+            "votes": "55 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 12
+            },
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Powdery",
+                "votes": 12
+            },
+            {
+                "name": "Leathery",
+                "votes": 7
+            },
+            {
+                "name": "Woody",
+                "votes": 13
+            },
+            {
+                "name": "Resinous",
+                "votes": 10
+            },
+            {
+                "name": "Fruity",
+                "votes": 13
+            },
+            {
+                "name": "Earthy",
+                "votes": 8
+            },
+            {
+                "name": "Chypre",
+                "votes": 7
+            },
+            {
+                "name": "Floral",
+                "votes": 10
+            },
+            {
+                "name": "Animal",
+                "votes": 10
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 16
+            },
+            {
+                "name": "Feminine",
+                "votes": 14
+            },
+            {
+                "name": "Classic",
+                "votes": 14
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 15
+            },
+            {
+                "name": "Fall",
+                "votes": 19
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 15
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 17
+            },
+            {
+                "name": "Night Out",
+                "votes": 15
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 20
+            }
+        ]
+    }
+}

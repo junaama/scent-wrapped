@@ -1,0 +1,83 @@
+{
+    "name": "Timelapse",
+    "brand": "BBS Soaps",
+    "release_year": "2025",
+    "description": "A new perfume byBBS Soapsfor men, released in2025. The scent is citrusy-spicy.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/81/810421_timelapse-bbs-soaps_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Spicy",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Calabrian bergamot",
+        "Lemon",
+        "Sicilian orange"
+    ],
+    "heart_notes": [
+        "Ceylonese cinnamon",
+        "Nigerian ginger",
+        "Tunisian neroli"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Chinese black tea",
+        "Frankincense",
+        "Gaiac wood"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

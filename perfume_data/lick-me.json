@@ -1,0 +1,114 @@
+{
+    "name": "Lick Me",
+    "brand": "Michela Mezzetti",
+    "release_year": "2025",
+    "description": "A new perfume byMichela Mezzettifor women and men, released in2025. The scent is sweet-gourmand. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/07/078651_lick-me-michela-mezzetti_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Creamy",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Cream",
+        "Sugar powder"
+    ],
+    "heart_notes": [
+        "Milk ice cream",
+        "Waffle",
+        "Florentine iris"
+    ],
+    "base_notes": [
+        "Amber",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "21 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "13 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 8
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

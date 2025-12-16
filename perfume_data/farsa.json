@@ -1,0 +1,144 @@
+{
+    "name": "Farsa",
+    "brand": "Sospiro",
+    "release_year": "2025",
+    "description": "A new perfume bySospirofor women and men, released in2025. The scent is woody-spicy. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e6/e6305c-farsa-sospiro_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Spicy",
+        "Sweet",
+        "Smoky",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Pink pepper",
+        "Rum",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Cocoa bean",
+        "Amber",
+        "Cedarwood",
+        "Egyptian geranium"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Oud",
+        "Musk",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "30 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "29 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "29 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "31 Ratings"
+        },
+        "pricing": {
+            "score": "6.4",
+            "votes": "24 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 11
+            },
+            {
+                "name": "Sweet",
+                "votes": 9
+            },
+            {
+                "name": "Smoky",
+                "votes": 7
+            },
+            {
+                "name": "Oriental",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 11
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Earthy",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 12
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 11
+            },
+            {
+                "name": "Fall",
+                "votes": 12
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 10
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 11
+            }
+        ]
+    }
+}

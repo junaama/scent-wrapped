@@ -1,0 +1,90 @@
+{
+    "name": "Afrah Sensual",
+    "brand": "Mamlakat Al Oud",
+    "release_year": "2025",
+    "description": "A new perfume byMamlakat Al Oudfor women, released in2025. The scent is fruity-synthetic. It is being marketed byMamlakat Al Oud Perfume Trading.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/72/7233c4_afrah-sensual-mamlakat-al-oud_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Synthetic",
+        "Sweet",
+        "Animal"
+    ],
+    "top_notes": [
+        "Lychee",
+        "Blackcurrant",
+        "Grape",
+        "Pink pepper",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Benzoin",
+        "Jasmine",
+        "Magnolia",
+        "Peony",
+        "Rose"
+    ],
+    "base_notes": [
+        "Musk",
+        "Patchouli",
+        "Amber",
+        "Cedarwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

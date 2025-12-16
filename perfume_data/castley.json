@@ -1,0 +1,137 @@
+{
+    "name": "Castley",
+    "brand": "Parfums de Marly",
+    "release_year": "2025",
+    "description": "A new perfume byParfums de Marlyfor men, released in2025. The scent is fresh-citrusy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e2/e2ac6e_castley-parfums-de-marly_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Citrus",
+        "Spicy",
+        "Woody",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Black pepper",
+        "Bergamot",
+        "Ginger"
+    ],
+    "heart_notes": [
+        "Nepalese sichuan pepper",
+        "Lemon petitgrain",
+        "Neroli"
+    ],
+    "base_notes": [
+        "Akigalawood®",
+        "Benzoin",
+        "Labdanum"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "460 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "403 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "405 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "384 Ratings"
+        },
+        "pricing": {
+            "score": "5.7",
+            "votes": "347 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 82
+            },
+            {
+                "name": "Spicy",
+                "votes": 75
+            },
+            {
+                "name": "Synthetic",
+                "votes": 45
+            },
+            {
+                "name": "Woody",
+                "votes": 58
+            },
+            {
+                "name": "Fresh",
+                "votes": 94
+            },
+            {
+                "name": "Aquatic",
+                "votes": 17
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 97
+            },
+            {
+                "name": "Classic",
+                "votes": 23
+            },
+            {
+                "name": "Modern",
+                "votes": 61
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 22
+            },
+            {
+                "name": "Fall",
+                "votes": 60
+            },
+            {
+                "name": "Summer",
+                "votes": 96
+            },
+            {
+                "name": "Spring",
+                "votes": 95
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 91
+            },
+            {
+                "name": "Sport",
+                "votes": 44
+            },
+            {
+                "name": "Leisure",
+                "votes": 89
+            },
+            {
+                "name": "Night Out",
+                "votes": 36
+            },
+            {
+                "name": "Business",
+                "votes": 83
+            },
+            {
+                "name": "Evening",
+                "votes": 34
+            }
+        ]
+    }
+}

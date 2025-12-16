@@ -1,0 +1,74 @@
+{
+    "name": "Ubuntu",
+    "brand": "Lujos",
+    "release_year": "2025",
+    "description": "A new perfume byLujosfor women and men, released in2025. The scent is woody-spicy. Projection and longevity are above-average.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [
+        "Woody",
+        "Spicy",
+        "Gourmand",
+        "Sweet"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "9.1",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "9.2",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "9.0",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "9.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

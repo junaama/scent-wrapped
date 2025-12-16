@@ -1,0 +1,31 @@
+{
+    "name": "Fame",
+    "brand": "La Fede",
+    "release_year": "2025",
+    "description": "A new perfume byLa Fedefor men, released in2025. It is being marketed byKhadlaj Perfumes LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3b/3bce5a_fame-la-fede_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Elemi resin",
+        "Grapefruit",
+        "Metallic notes",
+        "Spicy notes"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Orange blossom",
+        "Osmanthus",
+        "Patchouli"
+    ],
+    "base_notes": [
+        "Moss",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

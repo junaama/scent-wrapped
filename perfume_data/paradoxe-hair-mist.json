@@ -1,0 +1,51 @@
+{
+    "name": "Paradoxe",
+    "brand": "Prada",
+    "release_year": "2025",
+    "description": "A new perfume byPradafor women, released in2025. It is being marketed byL'Oréal.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9d/9de9d3_paradoxe-hair-mist-prada_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Pear",
+        "Tangerine",
+        "Calabrian bergamot"
+    ],
+    "heart_notes": [
+        "Jasmine sambac absolute",
+        "Tunisian orange blossom absolute",
+        "Bitter orange blossom",
+        "Neroli"
+    ],
+    "base_notes": [
+        "Ambrofix",
+        "Bourbon vanilla",
+        "Serenolide",
+        "Siam benzoin"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            }
+        ]
+    }
+}

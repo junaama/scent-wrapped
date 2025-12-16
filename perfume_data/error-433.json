@@ -1,0 +1,28 @@
+{
+    "name": "Error 433",
+    "brand": "The Dua Brand",
+    "release_year": "2025",
+    "description": "A new perfume byThe Dua Brandfor men, released in2025. The scent is fresh-woody. The longevity is above-average. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/b5/b57450_error-433-the-dua-brand-dua-fragrances_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Woody",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Cedarwood"
+    ],
+    "base_notes": [
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

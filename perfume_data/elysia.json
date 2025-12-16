@@ -1,0 +1,148 @@
+{
+    "name": "Elysia",
+    "brand": "elef.",
+    "release_year": "2025",
+    "description": "A new perfume byelef.for women and men, released in2025. The scent is synthetic-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/87/87b777_elysia-elef_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Sweet",
+        "Floral",
+        "Fresh",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Pink pepper",
+        "Pink grapefruit"
+    ],
+    "heart_notes": [
+        "Neroli",
+        "Tuberose",
+        "Iris",
+        "Rosemary"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "41 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "37 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "36 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "22 Ratings"
+        },
+        "pricing": {
+            "score": "6.1",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 10
+            },
+            {
+                "name": "Spicy",
+                "votes": 14
+            },
+            {
+                "name": "Synthetic",
+                "votes": 45
+            },
+            {
+                "name": "Sweet",
+                "votes": 23
+            },
+            {
+                "name": "Powdery",
+                "votes": 10
+            },
+            {
+                "name": "Woody",
+                "votes": 8
+            },
+            {
+                "name": "Green",
+                "votes": 9
+            },
+            {
+                "name": "Fresh",
+                "votes": 15
+            },
+            {
+                "name": "Floral",
+                "votes": 16
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 16
+            },
+            {
+                "name": "Feminine",
+                "votes": 34
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 13
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 10
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 15
+            },
+            {
+                "name": "Spring",
+                "votes": 18
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 14
+            },
+            {
+                "name": "Leisure",
+                "votes": 17
+            },
+            {
+                "name": "Night Out",
+                "votes": 14
+            },
+            {
+                "name": "Business",
+                "votes": 14
+            },
+            {
+                "name": "Evening",
+                "votes": 10
+            }
+        ]
+    }
+}

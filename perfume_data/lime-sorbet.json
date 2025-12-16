@@ -1,0 +1,25 @@
+{
+    "name": "Lime Sorbet",
+    "brand": "Siyate",
+    "release_year": "2025",
+    "description": "A new perfume bySiyatefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4a/4aed64_lime-sorbet-siyate_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Lemon",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Sandalwood",
+        "Sweet notes"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

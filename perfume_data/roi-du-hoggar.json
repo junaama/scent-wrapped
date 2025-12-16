@@ -1,0 +1,30 @@
+{
+    "name": "Roi du Hoggar",
+    "brand": "Monsieur Arsène",
+    "release_year": "2025",
+    "description": "A new perfume byMonsieur Arsènefor men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Clary sage",
+        "Lavender"
+    ],
+    "heart_notes": [
+        "Ginger",
+        "Pink pepper",
+        "Violet",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Black birch",
+        "Gaiac wood",
+        "Leather",
+        "Oud",
+        "Sandalwood",
+        "Styrax",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

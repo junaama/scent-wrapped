@@ -1,0 +1,32 @@
+{
+    "name": "Daisy Murakami Blue",
+    "brand": "Marc Jacobs",
+    "release_year": "2025",
+    "description": "A new and limited perfume byMarc Jacobsfor women, released in2025. It is being marketed byCoty.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/6e/6e43dc_daisy-murakami-blue-marc-jacobs_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Apple",
+        "Orange",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Lychee",
+        "Peony",
+        "Raspberry",
+        "Rose absolute"
+    ],
+    "base_notes": [
+        "Amberwood",
+        "Musk",
+        "Praliné"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

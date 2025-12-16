@@ -1,0 +1,29 @@
+{
+    "name": "Red",
+    "brand": "Messi",
+    "release_year": "2025",
+    "description": "A new perfume byMessifor men, released in2025. It is being marketed byGame On! Product Group.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/10/10ad86_red-messi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Jasmine",
+        "Lemon",
+        "Lime",
+        "Neroli"
+    ],
+    "heart_notes": [
+        "Freesia",
+        "Marine notes",
+        "Peach",
+        "Rosemary"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Oakmoss",
+        "Patchouli",
+        "White musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

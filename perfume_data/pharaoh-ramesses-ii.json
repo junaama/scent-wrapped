@@ -1,0 +1,96 @@
+{
+    "name": "Pharaoh Ramesses II",
+    "brand": "Bharara",
+    "release_year": "2025",
+    "description": "A new perfume byBhararafor women and men, released in2025. The scent is smoky-leathery. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d9/d9fe43_pharaoh-ramesses-ii-bharara_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Leathery",
+        "Earthy",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Cistus",
+        "Cocoa",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Leather",
+        "Tobacco"
+    ],
+    "base_notes": [
+        "Amber",
+        "Oud",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.4",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "9.8",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "9.8",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "9.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

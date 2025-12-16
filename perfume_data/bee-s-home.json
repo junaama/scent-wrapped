@@ -1,0 +1,146 @@
+{
+    "name": "Bee's Home",
+    "brand": "twentysecondofmay",
+    "release_year": "2025",
+    "description": "A new perfume bytwentysecondofmayfor women and men, released in2025. The scent is sweet-floral.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/af/af1aaa_bee-s-home-twentysecondofmay_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Spicy",
+        "Resinous",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Brazilian mandarin orange",
+        "Frankincense"
+    ],
+    "heart_notes": [
+        "Bulgarian rose",
+        "Jasminum auriculatum",
+        "Honey"
+    ],
+    "base_notes": [
+        "Amber",
+        "Myrrh",
+        "Ceylonese cinnamon",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "57 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "47 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "48 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "49 Ratings"
+        },
+        "pricing": {
+            "score": "7.2",
+            "votes": "36 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 13
+            },
+            {
+                "name": "Sweet",
+                "votes": 19
+            },
+            {
+                "name": "Oriental",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Resinous",
+                "votes": 11
+            },
+            {
+                "name": "Gourmand",
+                "votes": 7
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 15
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 14
+            },
+            {
+                "name": "Classic",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 12
+            },
+            {
+                "name": "Fall",
+                "votes": 16
+            },
+            {
+                "name": "Summer",
+                "votes": 10
+            },
+            {
+                "name": "Spring",
+                "votes": 14
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Leisure",
+                "votes": 15
+            },
+            {
+                "name": "Night Out",
+                "votes": 14
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 17
+            }
+        ]
+    }
+}

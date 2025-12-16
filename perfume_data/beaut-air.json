@@ -1,0 +1,114 @@
+{
+    "name": "Beaut'Air",
+    "brand": "Parfums Quartana",
+    "release_year": "2025",
+    "description": "A new perfume byParfums Quartanafor women and men, released in2025. The scent is earthy-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/1f/1f8d08_beaut-air-parfums-quartana_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Earthy",
+        "Fresh",
+        "Woody",
+        "Powdery",
+        "Floral"
+    ],
+    "top_notes": [
+        "Grapefruit",
+        "Lemon",
+        "Mexican mint",
+        "Ozone"
+    ],
+    "heart_notes": [
+        "Clove",
+        "Linden blossom",
+        "Linen",
+        "Orris root",
+        "Sichuan pepper absolute CO2",
+        "Turkish rose",
+        "Turkish rose absolute"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cypriol",
+        "Gaiac wood",
+        "Indonesian patchouli",
+        "Saffron",
+        "Sandalwood",
+        "Soil"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

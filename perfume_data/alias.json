@@ -1,0 +1,28 @@
+{
+    "name": "Alias",
+    "brand": "The Maker",
+    "release_year": "2025",
+    "description": "A new perfume byThe Makerfor women and men, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Cardamom",
+        "Clove leaf",
+        "Green notes",
+        "Pimento"
+    ],
+    "heart_notes": [
+        "Freesia",
+        "Iris",
+        "Orchid",
+        "Rice milk"
+    ],
+    "base_notes": [
+        "Amber",
+        "Amyris",
+        "Sandalwood",
+        "White musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

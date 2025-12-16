@@ -1,0 +1,33 @@
+{
+    "name": "London Hall",
+    "brand": "Jusbox",
+    "release_year": "2025",
+    "description": "A new perfume byJusboxfor women and men, released in2025. It is being marketed byBeauty San.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9d/9dd528_london-hall-jusbox_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cumin",
+        "Lemon",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Bulgarian rose",
+        "Frankincense",
+        "Freesia",
+        "Jasmine absolute",
+        "Labdanum"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Leather",
+        "Patchouli",
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.9",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {}
+}

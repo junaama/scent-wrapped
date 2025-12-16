@@ -1,0 +1,87 @@
+{
+    "name": "Seenacht für Sie",
+    "brand": "Acqua di Costanza",
+    "release_year": "2025",
+    "description": "A new perfume byAcqua di Costanzafor women, released in2025. The scent is fruity-floral.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/82/828ca0_seenacht-fur-sie-acqua-di-costanza_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Floral",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Jasmine",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Lavender",
+        "Mandarin orange"
+    ],
+    "base_notes": [
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.8",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

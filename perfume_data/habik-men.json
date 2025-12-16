@@ -1,0 +1,144 @@
+{
+    "name": "Habik Men",
+    "brand": "Lattafa",
+    "release_year": "2025",
+    "description": "A new perfume byLattafafor men, released in2025. The scent is spicy-woody. It is being marketed byLattafa Perfumes Industries LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d1/d10ddf_habik-men-lattafa_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Sweet",
+        "Floral",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Artemisia",
+        "Bergamot",
+        "Pepper"
+    ],
+    "heart_notes": [
+        "Lavender",
+        "Sage",
+        "Cinnamon"
+    ],
+    "base_notes": [
+        "Amberwood",
+        "Sandalwood",
+        "Tonka bean",
+        "Musk",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "106 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "103 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "103 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "104 Ratings"
+        },
+        "pricing": {
+            "score": "8.9",
+            "votes": "99 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 27
+            },
+            {
+                "name": "Sweet",
+                "votes": 21
+            },
+            {
+                "name": "Oriental",
+                "votes": 19
+            },
+            {
+                "name": "Leathery",
+                "votes": 8
+            },
+            {
+                "name": "Woody",
+                "votes": 23
+            },
+            {
+                "name": "Fresh",
+                "votes": 7
+            },
+            {
+                "name": "Creamy",
+                "votes": 8
+            },
+            {
+                "name": "Floral",
+                "votes": 19
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 30
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 24
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 28
+            },
+            {
+                "name": "Fall",
+                "votes": 33
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 20
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 15
+            },
+            {
+                "name": "Leisure",
+                "votes": 24
+            },
+            {
+                "name": "Night Out",
+                "votes": 30
+            },
+            {
+                "name": "Business",
+                "votes": 13
+            },
+            {
+                "name": "Evening",
+                "votes": 29
+            }
+        ]
+    }
+}

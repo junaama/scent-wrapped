@@ -1,0 +1,137 @@
+{
+    "name": "Momento",
+    "brand": "Riiffs",
+    "release_year": "2025",
+    "description": "A new perfume byRiiffsfor women and men, released in2025. The scent is sweet-oriental. Projection and longevity are above-average. It is being marketed byAl Fakhar Perfumes and Cosmetics Trading.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/33/33f505_momento-riiffs_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Oriental",
+        "Spicy",
+        "Gourmand",
+        "Woody"
+    ],
+    "top_notes": [
+        "Sugar",
+        "Saffron",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Tonka bean",
+        "Damask rose",
+        "Oud"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Amberwood",
+        "Cedarwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.7",
+            "votes": "155 Ratings"
+        },
+        "durability": {
+            "score": "8.6",
+            "votes": "149 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "150 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "154 Ratings"
+        },
+        "pricing": {
+            "score": "9.5",
+            "votes": "150 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 23
+            },
+            {
+                "name": "Sweet",
+                "votes": 29
+            },
+            {
+                "name": "Oriental",
+                "votes": 27
+            },
+            {
+                "name": "Woody",
+                "votes": 14
+            },
+            {
+                "name": "Gourmand",
+                "votes": 17
+            },
+            {
+                "name": "Creamy",
+                "votes": 9
+            },
+            {
+                "name": "Floral",
+                "votes": 10
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 26
+            },
+            {
+                "name": "Feminine",
+                "votes": 19
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 16
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 31
+            },
+            {
+                "name": "Fall",
+                "votes": 30
+            },
+            {
+                "name": "Spring",
+                "votes": 14
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Leisure",
+                "votes": 13
+            },
+            {
+                "name": "Night Out",
+                "votes": 28
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 29
+            }
+        ]
+    }
+}

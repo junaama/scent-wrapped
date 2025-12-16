@@ -1,0 +1,117 @@
+{
+    "name": "Le Début",
+    "brand": "Masira",
+    "release_year": "2025",
+    "description": "A new perfume byMasirafor women and men, released in2025. The scent is gourmand-spicy. Projection and longevity are above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/3e/3efd7e_le-debut-masira_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Spicy",
+        "Oriental",
+        "Woody",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Neroli"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Coriander",
+        "Jasmine",
+        "Pink pepper",
+        "Rose",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Amber",
+        "Frankincense",
+        "Moss",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.8",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "10",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

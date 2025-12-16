@@ -1,0 +1,121 @@
+{
+    "name": "Peinture d'Homme",
+    "brand": "Filippo Sorcinelli",
+    "release_year": "2025",
+    "description": "A new perfume byFilippo Sorcinellifor women and men, released in2025. The scent is resinous-spicy.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/e8/e89e9c_peinture-d-homme-filippo-sorcinelli_1200.jpg?width=240&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Spicy",
+        "Woody",
+        "Smoky",
+        "Earthy"
+    ],
+    "top_notes": [
+        "Ambrarome",
+        "Oakmoss",
+        "Vanilla"
+    ],
+    "heart_notes": [
+        "Cypriol",
+        "Frankincense",
+        "Patchouli"
+    ],
+    "base_notes": [
+        "Carrot seed",
+        "Cinnamon",
+        "Cumin"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "8 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Smoky",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Resinous",
+                "votes": 4
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

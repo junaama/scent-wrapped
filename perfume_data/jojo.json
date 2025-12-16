@@ -1,0 +1,26 @@
+{
+    "name": "Jojo",
+    "brand": "SoraE",
+    "release_year": "2025",
+    "description": "A new and limited perfume bySoraEfor women and men, released in2025.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/bc/bc28a3_jojo-sorae_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Almond",
+        "Banana",
+        "Buttercream",
+        "Chocolate"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Coconut",
+        "Lily of the valley"
+    ],
+    "base_notes": [
+        "Cashmere",
+        "Vanilla",
+        "White musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

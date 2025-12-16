@@ -1,0 +1,151 @@
+{
+    "name": "Melody",
+    "brand": "Miller Harris",
+    "release_year": "2025",
+    "description": "A new perfume byMiller Harrisfor women and men, released in2025. The scent is floral-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/30/302a6c_melody-miller-harris_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Fruity",
+        "Green",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Bergamot",
+        "Green stems",
+        "Basil"
+    ],
+    "heart_notes": [
+        "Damask rose absolute",
+        "Ceylon tea",
+        "Lavender"
+    ],
+    "base_notes": [
+        "White musk",
+        "Vanilla",
+        "Cashmere wood",
+        "Cedarwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "28 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "23 Ratings"
+        },
+        "sillage": {
+            "score": "6.2",
+            "votes": "23 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "18 Ratings"
+        },
+        "pricing": {
+            "score": "4.8",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 16
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Green",
+                "votes": 11
+            },
+            {
+                "name": "Fruity",
+                "votes": 12
+            },
+            {
+                "name": "Fresh",
+                "votes": 11
+            },
+            {
+                "name": "Creamy",
+                "votes": 8
+            },
+            {
+                "name": "Floral",
+                "votes": 17
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 17
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 11
+            },
+            {
+                "name": "Summer",
+                "votes": 17
+            },
+            {
+                "name": "Spring",
+                "votes": 18
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 16
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 17
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 13
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "London After Midnight",
+    "brand": "Venerian Oddities",
+    "release_year": "2025",
+    "description": "A new perfume byVenerian Odditiesfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/40/408fc5_london-after-midnight-venerian-oddities_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Birch leaf",
+        "Black tea",
+        "Vetiver"
+    ],
+    "heart_notes": [
+        "Salt",
+        "Tuberose",
+        "Woody notes"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cashmeran",
+        "Leather",
+        "Sage",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "4.3",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "4.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "4.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "4.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

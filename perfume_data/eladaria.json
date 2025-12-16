@@ -1,0 +1,139 @@
+{
+    "name": "Eladaria",
+    "brand": "Creed",
+    "release_year": "2025",
+    "description": "A new perfume byCreedfor women, released in2025. The scent is floral-powdery. It is being marketed byKering Beauté.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f9/f9e3b8_eladaria-creed_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Powdery",
+        "Fresh",
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Mandarin orange",
+        "Bergamot",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Powdery notes",
+        "Rosa centifolia",
+        "Peony",
+        "Lily of the valley"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Cashmere wood",
+        "Musk",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "124 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "99 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "100 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "101 Ratings"
+        },
+        "pricing": {
+            "score": "5.7",
+            "votes": "78 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 11
+            },
+            {
+                "name": "Sweet",
+                "votes": 26
+            },
+            {
+                "name": "Powdery",
+                "votes": 31
+            },
+            {
+                "name": "Fruity",
+                "votes": 11
+            },
+            {
+                "name": "Fresh",
+                "votes": 27
+            },
+            {
+                "name": "Creamy",
+                "votes": 15
+            },
+            {
+                "name": "Floral",
+                "votes": 43
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 43
+            },
+            {
+                "name": "Classic",
+                "votes": 16
+            },
+            {
+                "name": "Modern",
+                "votes": 17
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 11
+            },
+            {
+                "name": "Fall",
+                "votes": 22
+            },
+            {
+                "name": "Summer",
+                "votes": 32
+            },
+            {
+                "name": "Spring",
+                "votes": 42
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 41
+            },
+            {
+                "name": "Leisure",
+                "votes": 39
+            },
+            {
+                "name": "Night Out",
+                "votes": 21
+            },
+            {
+                "name": "Business",
+                "votes": 30
+            },
+            {
+                "name": "Evening",
+                "votes": 18
+            }
+        ]
+    }
+}

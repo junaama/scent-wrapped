@@ -1,0 +1,22 @@
+{
+    "name": "Cypress & Grapevine",
+    "brand": "Jo Malone",
+    "release_year": "2025",
+    "description": "A new perfume byJo Malonefor men, released in2025. It is being marketed byEstēe Lauder Companies.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f3/f39bd5_cypress-grapevine-body-spray-jo-malone_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cypress"
+    ],
+    "heart_notes": [
+        "Vetiver",
+        "Cedarwood",
+        "Amber",
+        "Wine Grape"
+    ],
+    "base_notes": [
+        "Amber"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

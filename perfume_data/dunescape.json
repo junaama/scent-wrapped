@@ -1,0 +1,76 @@
+{
+    "name": "Dunescape",
+    "brand": "Armaf",
+    "release_year": "2025",
+    "description": "A new perfume byArmaffor women and men, released in2025. The scent is citrusy-fresh. Projection and longevity are above-average. It is being marketed bySterling Perfumes Industries LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ed/ed9ebe_dunescape-armaf_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Blood orange",
+        "Ginger",
+        "Juniper",
+        "Lemon",
+        "Mandarin orange",
+        "Sage"
+    ],
+    "heart_notes": [
+        "Apple",
+        "Cashmeran",
+        "Geranium",
+        "Ozonic notes",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            }
+        ]
+    }
+}

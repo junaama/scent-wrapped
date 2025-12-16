@@ -1,0 +1,147 @@
+{
+    "name": "Oud Candy",
+    "brand": "Borntostandout",
+    "release_year": "2025",
+    "description": "A new perfume byBorntostandoutfor women and men, released in2025. The scent is sweet-woody. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6b/6ba3ca_oud-candy-borntostandout_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Woody",
+        "Leathery",
+        "Resinous",
+        "Animal"
+    ],
+    "top_notes": [
+        "Brown sugar",
+        "Hard candy",
+        "Milk",
+        "Nuts"
+    ],
+    "heart_notes": [
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Oud",
+        "Ambroxan",
+        "Caramel",
+        "Woody notes",
+        "Leather",
+        "Oakmoss",
+        "Saffron",
+        "Vanilla",
+        "Cedarwood",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "82 Ratings"
+        },
+        "durability": {
+            "score": "9.4",
+            "votes": "74 Ratings"
+        },
+        "sillage": {
+            "score": "9.2",
+            "votes": "74 Ratings"
+        },
+        "bottle": {
+            "score": "8.6",
+            "votes": "74 Ratings"
+        },
+        "pricing": {
+            "score": "7.6",
+            "votes": "63 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 22
+            },
+            {
+                "name": "Smoky",
+                "votes": 4
+            },
+            {
+                "name": "Leathery",
+                "votes": 14
+            },
+            {
+                "name": "Woody",
+                "votes": 18
+            },
+            {
+                "name": "Resinous",
+                "votes": 8
+            },
+            {
+                "name": "Gourmand",
+                "votes": 4
+            },
+            {
+                "name": "Animal",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 11
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Modern",
+                "votes": 20
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 12
+            },
+            {
+                "name": "Fall",
+                "votes": 15
+            },
+            {
+                "name": "Summer",
+                "votes": 13
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 13
+            },
+            {
+                "name": "Leisure",
+                "votes": 16
+            },
+            {
+                "name": "Night Out",
+                "votes": 22
+            },
+            {
+                "name": "Evening",
+                "votes": 20
+            }
+        ]
+    }
+}

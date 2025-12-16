@@ -1,0 +1,24 @@
+{
+    "name": "Mild Rose",
+    "brand": "MYND",
+    "release_year": "2025",
+    "description": "A new perfume byMYNDfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e1/e1fae5_mild-rose-mynd_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Rose",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Frankincense",
+        "Nagarmotha"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cashmeran"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,104 @@
+{
+    "name": "Cosmos",
+    "brand": "Bō",
+    "release_year": "2025",
+    "description": "A new perfume byBōfor women and men, released in2025. The scent is woody-leathery. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/59/59efd9_cosmos-bo_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Leathery",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Metallic notes",
+        "Musk",
+        "Praliné",
+        "Whisky"
+    ],
+    "heart_notes": [
+        "Coal",
+        "Mexican cocoa",
+        "Dragon's blood"
+    ],
+    "base_notes": [
+        "Smoked leather",
+        "Oud",
+        "Orris root concrete"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "14 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "10 Ratings"
+        },
+        "bottle": {
+            "score": "8.9",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Leathery",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

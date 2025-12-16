@@ -1,0 +1,153 @@
+{
+    "name": "Ahl",
+    "brand": "Ahmed Al Maghribi",
+    "release_year": "2025",
+    "description": "A new perfume byAhmed Al Maghribifor women and men, released in2025. The scent is fruity-oriental. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4d/4d67db_ahl-ahmed-al-maghribi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Oriental",
+        "Floral",
+        "Animal",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Angelica root",
+        "Banana",
+        "Bergamot",
+        "Brazilian orange",
+        "Cardamom",
+        "Coconut",
+        "Lavender",
+        "Melon",
+        "Pink pepper",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Cashmere wood",
+        "Cyclamen",
+        "Iris",
+        "Jasmine",
+        "Lily of the valley",
+        "Magnolia",
+        "Marine notes",
+        "Orange blossom",
+        "Patchouli",
+        "Rose",
+        "Tulip"
+    ],
+    "base_notes": [
+        "Thai oud",
+        "Amber",
+        "Caramel",
+        "Moss",
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "22 Ratings"
+        },
+        "durability": {
+            "score": "9.4",
+            "votes": "19 Ratings"
+        },
+        "sillage": {
+            "score": "9.0",
+            "votes": "19 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "19 Ratings"
+        },
+        "pricing": {
+            "score": "8.6",
+            "votes": "17 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 5
+            },
+            {
+                "name": "Leathery",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            },
+            {
+                "name": "Animal",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "name": "Lil Demon",
+    "brand": "Maison Marinelie",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Marineliefor women and men, released in2025. The scent is fruity-floral.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/14/14f9d0_lil-demon-maison-marinelie_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Floral",
+        "Sweet",
+        "Citrus",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Grapefruit zest",
+        "Lychee sorbet",
+        "Vanilla"
+    ],
+    "heart_notes": [
+        "Rose",
+        "Apricot juice",
+        "Prune",
+        "Coconut milk"
+    ],
+    "base_notes": [
+        "Labdanum",
+        "Caramel",
+        "Salt"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "25 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "23 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "23 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "20 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 5
+            },
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Fruity",
+                "votes": 11
+            },
+            {
+                "name": "Fresh",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 11
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 11
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 10
+            },
+            {
+                "name": "Spring",
+                "votes": 10
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

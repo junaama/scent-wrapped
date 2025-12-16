@@ -1,0 +1,105 @@
+{
+    "name": "Verna",
+    "brand": "Tiziana Terenzi",
+    "release_year": "2025",
+    "description": "A new perfume byTiziana Terenzifor women and men, released in2025. The scent is spicy-oriental. Projection and longevity are above-average. It is being marketed byCereria Terenzi Evelino.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e0/e089b1_verna-tiziana-terenzi_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Oriental",
+        "Leathery",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Bulgarian rose",
+        "Chilenean pink pepper",
+        "Italian saffron"
+    ],
+    "heart_notes": [
+        "Ambergris",
+        "Brazilian coconut",
+        "Indian jasmine sambac",
+        "Italian cedar",
+        "Italian peach",
+        "Mexican tuberose",
+        "Omani frankincense",
+        "Thai ylang-ylang",
+        "Tuscan leather"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Bourbon vanilla",
+        "Coumarin",
+        "Italian fennel",
+        "Italian fern",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "name": "Valero",
+    "brand": "Parfums de Marly",
+    "release_year": "2025",
+    "description": "A new perfume byParfums de Marlyfor men, released in2025. The scent is fresh-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/77/77c4de_valero-parfums-de-marly_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Spicy",
+        "Sweet",
+        "Floral",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Juniper",
+        "Citron"
+    ],
+    "heart_notes": [
+        "Lavender",
+        "Bourbon geranium",
+        "Nutmeg",
+        "Cypress"
+    ],
+    "base_notes": [
+        "Ambrox",
+        "Sandalwood",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.6",
+            "votes": "123 Ratings"
+        },
+        "durability": {
+            "score": "6.4",
+            "votes": "104 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "102 Ratings"
+        },
+        "bottle": {
+            "score": "6.3",
+            "votes": "105 Ratings"
+        },
+        "pricing": {
+            "score": "2.1",
+            "votes": "101 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 7
+            },
+            {
+                "name": "Spicy",
+                "votes": 12
+            },
+            {
+                "name": "Synthetic",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 11
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Fresh",
+                "votes": 18
+            },
+            {
+                "name": "Floral",
+                "votes": 11
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 18
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 12
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 11
+            },
+            {
+                "name": "Summer",
+                "votes": 16
+            },
+            {
+                "name": "Spring",
+                "votes": 20
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 17
+            },
+            {
+                "name": "Sport",
+                "votes": 11
+            },
+            {
+                "name": "Leisure",
+                "votes": 17
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 12
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

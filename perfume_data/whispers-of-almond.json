@@ -1,0 +1,30 @@
+{
+    "name": "Whispers of Almond",
+    "brand": "Juliet Rose",
+    "release_year": "2025",
+    "description": "A new perfume byJuliet Rosefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/04/04d34c_whispers-of-almond-juliet-rose_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Almond",
+        "Cherry",
+        "Green almond",
+        "Green apple"
+    ],
+    "heart_notes": [
+        "Frangipani",
+        "Jasmine",
+        "Pistachio",
+        "Tuberose",
+        "White musk"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Blond woods",
+        "Patchouli",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

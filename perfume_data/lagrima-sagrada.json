@@ -1,0 +1,129 @@
+{
+    "name": "Lágrima Sagrada",
+    "brand": "Parfum Prissana",
+    "release_year": "2025",
+    "description": "A new and limited perfume byParfum Prissanafor women and men, released in2025. The scent is woody-green.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/cf/cf953e_lagrima-sagrada-parfum-prissana_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Green",
+        "Smoky",
+        "Resinous",
+        "Spicy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "33 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "27 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "28 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "19 Ratings"
+        },
+        "pricing": {
+            "score": "6.8",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 10
+            },
+            {
+                "name": "Smoky",
+                "votes": 10
+            },
+            {
+                "name": "Woody",
+                "votes": 12
+            },
+            {
+                "name": "Resinous",
+                "votes": 10
+            },
+            {
+                "name": "Green",
+                "votes": 12
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Earthy",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 11
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 8
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 9
+            },
+            {
+                "name": "Fall",
+                "votes": 12
+            },
+            {
+                "name": "Summer",
+                "votes": 9
+            },
+            {
+                "name": "Spring",
+                "votes": 12
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 10
+            },
+            {
+                "name": "Leisure",
+                "votes": 13
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 8
+            },
+            {
+                "name": "Evening",
+                "votes": 10
+            }
+        ]
+    }
+}

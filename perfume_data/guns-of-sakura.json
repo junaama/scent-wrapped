@@ -1,0 +1,73 @@
+{
+    "name": "Guns of Sakura",
+    "brand": "Maison de L'Asie",
+    "release_year": "2025",
+    "description": "A new perfume byMaison de L'Asiefor women and men, released in2025. The scent is fruity-synthetic. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8f/8f22b2_guns-of-sakura-maison-de-l-asie_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Frankincense",
+        "Metallic notes"
+    ],
+    "heart_notes": [
+        "Birch",
+        "Gun powder"
+    ],
+    "base_notes": [
+        "Gaiac wood",
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            }
+        ]
+    }
+}

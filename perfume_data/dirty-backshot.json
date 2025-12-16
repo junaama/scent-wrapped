@@ -1,0 +1,138 @@
+{
+    "name": "Dirty Backshot",
+    "brand": "Maison Marinelie",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Marineliefor women and men, released in2025. The scent is spicy-fruity.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/1a/1aad6a_dirty-backshot-maison-marinelie_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Fruity",
+        "Leathery",
+        "Resinous",
+        "Floral"
+    ],
+    "top_notes": [
+        "Red berries",
+        "Leather",
+        "Red apple"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Hazelnut",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Oud",
+        "Saffron"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "22 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "19 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "18 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "18 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 8
+            },
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Leathery",
+                "votes": 7
+            },
+            {
+                "name": "Resinous",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 7
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

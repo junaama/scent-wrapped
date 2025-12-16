@@ -1,0 +1,136 @@
+{
+    "name": "Phantom Elixir",
+    "brand": "Rabanne",
+    "release_year": "2025",
+    "description": "A new perfume byRabannefor men, released in2025. The scent is sweet-synthetic. It is being marketed byPuig.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/45/456797-phantom-elixir-rabanne_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Synthetic",
+        "Fresh",
+        "Aquatic",
+        "Woody"
+    ],
+    "top_notes": [
+        "Marine notes"
+    ],
+    "heart_notes": [
+        "Oud",
+        "Mineral notes"
+    ],
+    "base_notes": [
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.5",
+            "votes": "73 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "63 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "63 Ratings"
+        },
+        "bottle": {
+            "score": "6.1",
+            "votes": "64 Ratings"
+        },
+        "pricing": {
+            "score": "6.2",
+            "votes": "62 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 11
+            },
+            {
+                "name": "Sweet",
+                "votes": 13
+            },
+            {
+                "name": "Woody",
+                "votes": 7
+            },
+            {
+                "name": "Gourmand",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 11
+            },
+            {
+                "name": "Aquatic",
+                "votes": 9
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 13
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 12
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 9
+            },
+            {
+                "name": "Fall",
+                "votes": 13
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 15
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 11
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 13
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

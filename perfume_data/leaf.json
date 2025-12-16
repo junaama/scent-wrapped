@@ -1,0 +1,125 @@
+{
+    "name": "Leaf",
+    "brand": "Jil Sander",
+    "release_year": "2025",
+    "description": "A new perfume byJil Sanderfor women and men, released in2025. The scent is green-fresh. It is being marketed byCoty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d5/d5e40b_leaf-jil-sander_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Fresh",
+        "Citrus",
+        "Spicy",
+        "Synthetic"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "30 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "26 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "25 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "25 Ratings"
+        },
+        "pricing": {
+            "score": "5.6",
+            "votes": "16 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 9
+            },
+            {
+                "name": "Spicy",
+                "votes": 8
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Green",
+                "votes": 16
+            },
+            {
+                "name": "Fresh",
+                "votes": 13
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 13
+            },
+            {
+                "name": "Feminine",
+                "votes": 14
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 10
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 16
+            },
+            {
+                "name": "Spring",
+                "votes": 15
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 14
+            },
+            {
+                "name": "Sport",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 16
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 15
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

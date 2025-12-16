@@ -1,0 +1,82 @@
+{
+    "name": "Ambra Innamorata",
+    "brand": "Welton",
+    "release_year": "2025",
+    "description": "A new perfume byWeltonfor women and men, released in2025. The scent is woody-sweet. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/1e/1eb341_ambra-innamorata-welton_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Sweet",
+        "Smoky",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Frankincense",
+        "Labdanum"
+    ],
+    "heart_notes": [
+        "Oak",
+        "Thyme"
+    ],
+    "base_notes": [
+        "Amber",
+        "Labdanum",
+        "Moss",
+        "Sea salt"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

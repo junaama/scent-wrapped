@@ -1,0 +1,81 @@
+{
+    "name": "Final Unicorn",
+    "brand": "Zomething Strange",
+    "release_year": "2025",
+    "description": "A new and limited perfume byZomething Strangefor women and men, released in2025. The scent is smoky-sweet.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/3b/3b23b8_final-unicorn-zomething-strange_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Marshmallow",
+        "Strawberry"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Vetiver",
+        "Woods",
+        "Smoky notes"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Sanctuaria",
+    "brand": "La Boticá",
+    "release_year": "2025",
+    "description": "A new perfume byLa Boticáfor women and men, released in2025. The scent is sweet-resinous.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4b/4bd2f2_sanctuaria-la-botica_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Resinous",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Black pepper",
+        "Elemi resin"
+    ],
+    "heart_notes": [
+        "Copal resin",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Dominican amberwood",
+        "Frankincense",
+        "Vanilla absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.3",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

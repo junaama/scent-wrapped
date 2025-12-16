@@ -1,0 +1,145 @@
+{
+    "name": "Mojito Obsession",
+    "brand": "Gulf Orchid",
+    "release_year": "2025",
+    "description": "A new perfume byGulf Orchidfor women and men, released in2025. The scent is citrusy-fruity. It is being marketed byGulf Orchid Fragrances.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/35/35454e_mojito-obsession-gulf-orchid_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fruity",
+        "Sweet",
+        "Fresh",
+        "Green"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Cinnamon",
+        "Lemon",
+        "Mint",
+        "Passion fruit",
+        "Peach"
+    ],
+    "heart_notes": [
+        "Amber notes",
+        "Violet",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Frankincense",
+        "Musk",
+        "Sugar"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "15 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "13 Ratings"
+        },
+        "sillage": {
+            "score": "6.1",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "19 Ratings"
+        },
+        "pricing": {
+            "score": "8.3",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 7
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Green",
+                "votes": 4
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 6
+            },
+            {
+                "name": "Fresh",
+                "votes": 5
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

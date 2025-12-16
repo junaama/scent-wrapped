@@ -1,0 +1,31 @@
+{
+    "name": "Noho of New York",
+    "brand": "Le Chameau",
+    "release_year": "2025",
+    "description": "A new perfume byLe Chameaufor women and men, released in2025. It is being marketed byEmper.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/44/44e96a_noho-of-new-york-le-chameau_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Apple",
+        "Cardamom",
+        "Coriander",
+        "Pineapple",
+        "Red berries"
+    ],
+    "heart_notes": [
+        "Bulgarian rose",
+        "Jasmine sambac",
+        "Magnolia",
+        "Turkish rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cashmere wood",
+        "Cedar",
+        "Moss",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

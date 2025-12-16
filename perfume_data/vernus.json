@@ -1,0 +1,141 @@
+{
+    "name": "Vernus",
+    "brand": "Jorum Studio",
+    "release_year": "2025",
+    "description": "A new and limited perfume byJorum Studiofor women and men, released in2025. The scent is green-earthy. The perfume is vegan according to the manufacturer.CompareLimitedVegan",
+    "image_url": "https://media.parfumo.com/perfumes/2e/2ec84e_vernus-jorum-studio_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Earthy",
+        "Floral",
+        "Spicy",
+        "Smoky"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "19 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "16 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "16 Ratings"
+        },
+        "bottle": {
+            "score": "6.6",
+            "votes": "16 Ratings"
+        },
+        "pricing": {
+            "score": "6.0",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Spicy",
+                "votes": 6
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 8
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 7
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            },
+            {
+                "name": "Animal",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Fiery Amber",
+    "brand": "Costume National",
+    "release_year": "2025",
+    "description": "A new perfume byCostume Nationalfor women and men, released in2025. It is being marketed byBeauty San.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e7/e7bce4_fiery-amber-costume-national_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Indonesian patchouli",
+        "Vanilla",
+        "Virginia cedar wood"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Cistus absolute",
+        "Haitian vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

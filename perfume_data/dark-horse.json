@@ -1,0 +1,35 @@
+{
+    "name": "Dark Horse",
+    "brand": "Moon Stone",
+    "release_year": "2025",
+    "description": "A new perfume byMoon Stonefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9c/9c41a5_dark-horse-moon-stone_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Almond",
+        "Bergamot",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Gardenia",
+        "Geranium",
+        "Jasmine",
+        "Lavender",
+        "Rose",
+        "Water lily"
+    ],
+    "base_notes": [
+        "Amber",
+        "Coffee",
+        "Gaiac wood",
+        "Indonesian patchouli",
+        "Laotian oud",
+        "Oakmoss",
+        "Pink pepper",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

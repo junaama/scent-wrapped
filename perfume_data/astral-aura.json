@@ -1,0 +1,41 @@
+{
+    "name": "Astral Aura",
+    "brand": "Monkoku",
+    "release_year": "2025",
+    "description": "A new perfume byMonkokufor women, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/37/37d648_astral-aura-monkoku_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Grapefruit",
+        "Lemon",
+        "Rose"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Musk",
+        "Sandalwood"
+    ],
+    "base_notes": [
+        "Coffee",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {}
+}

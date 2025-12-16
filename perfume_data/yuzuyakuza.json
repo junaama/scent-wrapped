@@ -1,0 +1,159 @@
+{
+    "name": "Yuzuyakuza",
+    "brand": "Spiritica",
+    "release_year": "2025",
+    "description": "A new and limited perfume bySpiriticafor women and men, released in2025. The scent is citrusy-smoky.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/b2/b23600_yuzuyakuza-spiritica_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Smoky",
+        "Fresh",
+        "Aquatic",
+        "Woody"
+    ],
+    "top_notes": [
+        "Yuzu",
+        "Gun powder",
+        "Sudachi",
+        "Grapefruit",
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Ink",
+        "Petrichor",
+        "Asphalt",
+        "Solar note",
+        "Cherry blossom"
+    ],
+    "base_notes": [
+        "Bank note",
+        "Japanese incense",
+        "Cedarwood",
+        "Mahogany wood",
+        "Suede"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "49 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "44 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "46 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "44 Ratings"
+        },
+        "pricing": {
+            "score": "6.8",
+            "votes": "36 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 15
+            },
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Smoky",
+                "votes": 12
+            },
+            {
+                "name": "Leathery",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 7
+            },
+            {
+                "name": "Green",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 10
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            },
+            {
+                "name": "Aquatic",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 13
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 14
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 15
+            },
+            {
+                "name": "Spring",
+                "votes": 13
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Sport",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 13
+            },
+            {
+                "name": "Night Out",
+                "votes": 10
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 11
+            }
+        ]
+    }
+}

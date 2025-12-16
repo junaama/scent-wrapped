@@ -1,0 +1,31 @@
+{
+    "name": "Hazy Blue",
+    "brand": "Elorea",
+    "release_year": "2025",
+    "description": "A new perfume byEloreafor women and men, released in2025. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/49/495842_hazy-blue-extrait-de-parfum-elorea_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Ozone",
+        "Sea salt"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lily of the valley",
+        "Orange blossom water",
+        "Salt"
+    ],
+    "base_notes": [
+        "Amber",
+        "Mineral notes",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

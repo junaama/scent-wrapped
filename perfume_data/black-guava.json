@@ -1,0 +1,133 @@
+{
+    "name": "Black Guava",
+    "brand": "Borntostandout",
+    "release_year": "2025",
+    "description": "A new perfume byBorntostandoutfor women and men, released in2025. The scent is fruity-sweet. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/0d/0d899f_black-guava-borntostandout_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Floral",
+        "Spicy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Guava",
+        "Madagascan mandarin orange",
+        "Cardamom"
+    ],
+    "heart_notes": [
+        "Oud",
+        "Rose",
+        "Madagascan geranium",
+        "Peony",
+        "Sugar",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Amber",
+        "Ambrostar",
+        "Cypriol",
+        "Madagascan patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "96 Ratings"
+        },
+        "durability": {
+            "score": "9.4",
+            "votes": "80 Ratings"
+        },
+        "sillage": {
+            "score": "9.1",
+            "votes": "82 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "85 Ratings"
+        },
+        "pricing": {
+            "score": "6.5",
+            "votes": "72 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 15
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 18
+            },
+            {
+                "name": "Floral",
+                "votes": 12
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 10
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Modern",
+                "votes": 12
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 12
+            },
+            {
+                "name": "Summer",
+                "votes": 11
+            },
+            {
+                "name": "Spring",
+                "votes": 12
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Night Out",
+                "votes": 13
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 11
+            }
+        ]
+    }
+}

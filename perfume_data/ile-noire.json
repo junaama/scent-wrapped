@@ -1,0 +1,25 @@
+{
+    "name": "île noire",
+    "brand": "Manuel Mathieu",
+    "release_year": "2025",
+    "description": "A new perfume byManuel Mathieufor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/fb/fb87a3_ile-noire-manuel-mathieu_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Ginger",
+        "Grapefruit"
+    ],
+    "heart_notes": [
+        "Ambergris",
+        "Jasmine",
+        "Tobacco"
+    ],
+    "base_notes": [
+        "Frankincense",
+        "Haitian vetiver",
+        "Oak wood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

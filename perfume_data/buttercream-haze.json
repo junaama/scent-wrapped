@@ -1,0 +1,111 @@
+{
+    "name": "Buttercream Haze",
+    "brand": "The 7 Virtues",
+    "release_year": "2025",
+    "description": "A new perfume byThe 7 Virtuesfor women and men, released in2025. The scent is sweet-gourmand. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/67/67b3bf_buttercream-haze-the-7-virtues_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Creamy",
+        "Citrus",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Buttercream",
+        "Cosmos",
+        "Lemon zest",
+        "Rum"
+    ],
+    "heart_notes": [
+        "Maple cream",
+        "Pancake",
+        "Roasted caramel"
+    ],
+    "base_notes": [
+        "Kashmiri musk",
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "6.4",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "5.9",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

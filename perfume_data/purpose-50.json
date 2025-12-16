@@ -1,0 +1,145 @@
+{
+    "name": "Purpose 50",
+    "brand": "Amouage",
+    "release_year": "2025",
+    "description": "A new perfume byAmouagefor men, released in2025. The scent is spicy-woody. Projection and longevity are above-average. It is being marketed bySabco Group / Oman Perfumery.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/02/0264b2-purpose-50-amouage_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Resinous",
+        "Smoky",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Frankincense",
+        "Pimento",
+        "Pink pepper",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Rose",
+        "Sandalwood",
+        "Papyrus",
+        "Vetiver"
+    ],
+    "base_notes": [
+        "Akigalawood®",
+        "Mystikal®",
+        "Saffron",
+        "Suede",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "352 Ratings"
+        },
+        "durability": {
+            "score": "9.4",
+            "votes": "329 Ratings"
+        },
+        "sillage": {
+            "score": "8.9",
+            "votes": "323 Ratings"
+        },
+        "bottle": {
+            "score": "9.0",
+            "votes": "303 Ratings"
+        },
+        "pricing": {
+            "score": "6.3",
+            "votes": "270 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 77
+            },
+            {
+                "name": "Sweet",
+                "votes": 20
+            },
+            {
+                "name": "Smoky",
+                "votes": 55
+            },
+            {
+                "name": "Oriental",
+                "votes": 47
+            },
+            {
+                "name": "Leathery",
+                "votes": 21
+            },
+            {
+                "name": "Woody",
+                "votes": 70
+            },
+            {
+                "name": "Resinous",
+                "votes": 56
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 82
+            },
+            {
+                "name": "Feminine",
+                "votes": 26
+            },
+            {
+                "name": "Classic",
+                "votes": 22
+            },
+            {
+                "name": "Modern",
+                "votes": 59
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 81
+            },
+            {
+                "name": "Fall",
+                "votes": 79
+            },
+            {
+                "name": "Summer",
+                "votes": 14
+            },
+            {
+                "name": "Spring",
+                "votes": 56
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 27
+            },
+            {
+                "name": "Leisure",
+                "votes": 49
+            },
+            {
+                "name": "Night Out",
+                "votes": 74
+            },
+            {
+                "name": "Business",
+                "votes": 32
+            },
+            {
+                "name": "Evening",
+                "votes": 72
+            }
+        ]
+    }
+}

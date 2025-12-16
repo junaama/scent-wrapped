@@ -1,0 +1,138 @@
+{
+    "name": "Latte Pistachio",
+    "brand": "New Notes",
+    "release_year": "2025",
+    "description": "A new perfume byNew Notesfor women and men, released in2025. The scent is sweet-creamy. It is being marketed byHIC Beauty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/32/32fa78-latte-pistachio-new-notes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Creamy",
+        "Gourmand",
+        "Green",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Pistachio",
+        "Salty notes",
+        "Lemon",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Milk",
+        "Cardamom",
+        "Coriander"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sandalwood",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "172 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "137 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "140 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "133 Ratings"
+        },
+        "pricing": {
+            "score": "6.2",
+            "votes": "110 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 26
+            },
+            {
+                "name": "Sweet",
+                "votes": 41
+            },
+            {
+                "name": "Woody",
+                "votes": 12
+            },
+            {
+                "name": "Green",
+                "votes": 29
+            },
+            {
+                "name": "Gourmand",
+                "votes": 35
+            },
+            {
+                "name": "Fresh",
+                "votes": 10
+            },
+            {
+                "name": "Creamy",
+                "votes": 42
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 28
+            },
+            {
+                "name": "Feminine",
+                "votes": 46
+            },
+            {
+                "name": "Modern",
+                "votes": 33
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 32
+            },
+            {
+                "name": "Fall",
+                "votes": 39
+            },
+            {
+                "name": "Summer",
+                "votes": 20
+            },
+            {
+                "name": "Spring",
+                "votes": 40
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 31
+            },
+            {
+                "name": "Leisure",
+                "votes": 47
+            },
+            {
+                "name": "Night Out",
+                "votes": 31
+            },
+            {
+                "name": "Business",
+                "votes": 27
+            },
+            {
+                "name": "Evening",
+                "votes": 30
+            }
+        ]
+    }
+}

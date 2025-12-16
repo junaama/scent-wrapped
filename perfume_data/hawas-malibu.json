@@ -1,0 +1,130 @@
+{
+    "name": "Hawas Malibu",
+    "brand": "Rasasi",
+    "release_year": "2025",
+    "description": "A new perfume byRasasifor men, released in2025. The scent is sweet-fruity.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/05/05fdd2_hawas-malibu-rasasi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Creamy",
+        "Aquatic",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Grapefruit",
+        "Orange",
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Lavender",
+        "Orris root"
+    ],
+    "base_notes": [
+        "Cashmeran",
+        "Musk",
+        "Patchouli",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "20 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "17 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "16 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "21 Ratings"
+        },
+        "pricing": {
+            "score": "8.6",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            },
+            {
+                "name": "Aquatic",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

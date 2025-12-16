@@ -1,0 +1,123 @@
+{
+    "name": "Neon Lights",
+    "brand": "Milano Fragranze",
+    "release_year": "2025",
+    "description": "A new perfume byMilano Fragranzefor women and men, released in2025. The scent is sweet-fruity. It is being marketed byMasque.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c4/c440d3_neon-lights-milano-fragranze_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Floral",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Cardamom",
+        "Clove",
+        "Coriander",
+        "Ylang-ylang"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Heliotrope",
+        "Honey",
+        "Indian tuberose absolute",
+        "Strawberry"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Musk",
+        "Tonka bean",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.5",
+            "votes": "9 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

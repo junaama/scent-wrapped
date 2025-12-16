@@ -1,0 +1,127 @@
+{
+    "name": "Popcorn Cake",
+    "brand": "Federico Cantelli",
+    "release_year": "2025",
+    "description": "A new perfume byFederico Cantellifor women and men, released in2025. The scent is sweet-gourmand. It is being marketed byEssenze&Poesia.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/1f/1fa464_popcorn-cake-federico-cantelli_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Creamy",
+        "Synthetic",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Popcorn",
+        "Caramel"
+    ],
+    "heart_notes": [
+        "Butter",
+        "Sugar"
+    ],
+    "base_notes": [
+        "Strawberry",
+        "Brioche",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "13 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "11 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "11 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Gourmand",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

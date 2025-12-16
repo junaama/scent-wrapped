@@ -1,0 +1,43 @@
+{
+    "name": "Farid",
+    "brand": "Rasasi",
+    "release_year": "2025",
+    "description": "A new perfume byRasasifor women and men, released in2025. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c0/c0c65b_farid-rasasi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Madagascan pepper",
+        "Mexican mint",
+        "Mint",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Lily of the valley",
+        "Oud",
+        "Rose"
+    ],
+    "base_notes": [
+        "Chocolate",
+        "Musk",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "9.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "9.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "9.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Old Money",
+    "brand": "Sedra",
+    "release_year": "2025",
+    "description": "A new perfume bySedrafor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/fa/fa0f16_old-money-sedra_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Mandarin orange",
+        "Orange blossom",
+        "Peach",
+        "Pimento"
+    ],
+    "heart_notes": [
+        "Bank note",
+        "Geranium",
+        "Lavender",
+        "Lily of the valley",
+        "Orris root"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Cedarwood",
+        "Leather",
+        "Musk",
+        "Patchouli"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

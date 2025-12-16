@@ -1,0 +1,29 @@
+{
+    "name": "Rose Wood",
+    "brand": "Pleuvoir",
+    "release_year": "2025",
+    "description": "A new perfume byPleuvoirfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a4/a40a69_rose-wood-hair-perfume-mist-pleuvoir_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Amber",
+        "Rose"
+    ],
+    "heart_notes": [
+        "Aromatic notes",
+        "Earthy notes",
+        "Fresh notes",
+        "Spicy notes"
+    ],
+    "base_notes": [
+        "Gaiac wood",
+        "Musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

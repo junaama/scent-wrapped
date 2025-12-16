@@ -1,0 +1,39 @@
+{
+    "name": "Živeli",
+    "brand": "Boka",
+    "release_year": "2025",
+    "description": "A new perfume byBokafor women and men, released in2025. The scent is fruity-woody.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [
+        "Fruity",
+        "Woody",
+        "Leathery",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Cherry blossom",
+        "Grapefruit",
+        "Mandarin orange",
+        "Pink pepper",
+        "Plum brandy",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Davana",
+        "Honey",
+        "Leather",
+        "Orris butter",
+        "Saffron",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Ambrette seed",
+        "Labdanum",
+        "Oak wood",
+        "Tobacco",
+        "Tonka bean",
+        "Virginia cedar"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

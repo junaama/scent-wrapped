@@ -1,0 +1,139 @@
+{
+    "name": "Eternity for Women Amber Essence",
+    "brand": "Calvin Klein",
+    "release_year": "2025",
+    "description": "A new perfume byCalvin Kleinfor women, released in2025. The scent is floral-sweet. It is being marketed byCoty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c4/c484cd-eternity-for-women-amber-essence-calvin-klein_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Fruity",
+        "Woody",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Angelica root",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Tuberose",
+        "Ylang-ylang",
+        "Jasmine sambac absolute"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Clearwood™",
+        "Smoked wood",
+        "Spanish cistus absolute",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.5",
+            "votes": "39 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "34 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "31 Ratings"
+        },
+        "bottle": {
+            "score": "6.9",
+            "votes": "36 Ratings"
+        },
+        "pricing": {
+            "score": "7.4",
+            "votes": "24 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 10
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Resinous",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 8
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 11
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 11
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 11
+            },
+            {
+                "name": "Fall",
+                "votes": 12
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 10
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

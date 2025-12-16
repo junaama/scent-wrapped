@@ -1,0 +1,135 @@
+{
+    "name": "Generation(s)",
+    "brand": "Ex Nihilo",
+    "release_year": "2025",
+    "description": "A new perfume byEx Nihilofor women and men, released in2025. The scent is creamy-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ae/ae074b_generation-s-ex-nihilo_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Creamy",
+        "Fresh",
+        "Woody",
+        "Sweet",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Frankincense",
+        "Pear",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Fig"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Musk",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "56 Ratings"
+        },
+        "durability": {
+            "score": "6.3",
+            "votes": "39 Ratings"
+        },
+        "sillage": {
+            "score": "5.7",
+            "votes": "39 Ratings"
+        },
+        "bottle": {
+            "score": "6.8",
+            "votes": "41 Ratings"
+        },
+        "pricing": {
+            "score": "5.4",
+            "votes": "31 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 12
+            },
+            {
+                "name": "Woody",
+                "votes": 12
+            },
+            {
+                "name": "Green",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 11
+            },
+            {
+                "name": "Fresh",
+                "votes": 12
+            },
+            {
+                "name": "Creamy",
+                "votes": 18
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 11
+            },
+            {
+                "name": "Feminine",
+                "votes": 20
+            },
+            {
+                "name": "Modern",
+                "votes": 15
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 9
+            },
+            {
+                "name": "Fall",
+                "votes": 13
+            },
+            {
+                "name": "Summer",
+                "votes": 18
+            },
+            {
+                "name": "Spring",
+                "votes": 19
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 17
+            },
+            {
+                "name": "Sport",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 18
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 14
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

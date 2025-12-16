@@ -1,0 +1,138 @@
+{
+    "name": "Ella Ella",
+    "brand": "Cacharel",
+    "release_year": "2025",
+    "description": "A new perfume byCacharelfor women, released in2025. The scent is floral-fruity. It is being marketed byL'Oréal.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/74/7465e0-ella-ella-cacharel_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fruity",
+        "Sweet",
+        "Citrus",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Coconut"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Orange blossom absolute"
+    ],
+    "base_notes": [
+        "Bourbon vanilla",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.2",
+            "votes": "15 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "12 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "20 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Chypre",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

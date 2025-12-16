@@ -1,0 +1,109 @@
+{
+    "name": "Air of Aquarius",
+    "brand": "Sana Jardin",
+    "release_year": "2025",
+    "description": "A new perfume bySana Jardinfor women and men, released in2025. The scent is green-aquatic.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/29/295051-air-of-aquarius-sana-jardin_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Aquatic",
+        "Citrus",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Petitgrain",
+        "Tangerine",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lily of the valley",
+        "Tunisian neroli",
+        "Lavender",
+        "Rosemary"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

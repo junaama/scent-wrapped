@@ -1,0 +1,84 @@
+{
+    "name": "Double Dates",
+    "brand": "Skylar",
+    "release_year": "2025",
+    "description": "A new perfume bySkylarfor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/2e/2e4088_double-dates-skylar_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cinnamon",
+        "Date",
+        "Pastry",
+        "Walnut"
+    ],
+    "heart_notes": [
+        "Benzoin",
+        "Toffee",
+        "Vanilla absolute"
+    ],
+    "base_notes": [
+        "Brown sugar",
+        "Cocoa butter",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "4.0",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "5.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "5.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            }
+        ]
+    }
+}

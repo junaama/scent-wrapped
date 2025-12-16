@@ -1,0 +1,36 @@
+{
+    "name": "Error 404: Elixir of Tux",
+    "brand": "The Dua Brand",
+    "release_year": "2025",
+    "description": "A new perfume byThe Dua Brandfor women and men, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/a4/a4cde4_error-404-elixir-of-tux-the-dua-brand-dua-fragrances_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Lavender",
+        "Mint"
+    ],
+    "heart_notes": [
+        "Benzoin",
+        "Black pepper",
+        "Coriander",
+        "Honey",
+        "Lily of the valley",
+        "Rose",
+        "Tonka bean",
+        "Vanilla",
+        "Violet leaf"
+    ],
+    "base_notes": [
+        "Amber",
+        "Patchouli",
+        "Tobacco"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

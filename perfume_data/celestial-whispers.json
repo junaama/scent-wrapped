@@ -1,0 +1,143 @@
+{
+    "name": "Celestial Whispers",
+    "brand": "Maison Margiela",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Margielafor women and men, released in2025. The scent is resinous-spicy. It is being marketed byL'Oréal.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/47/473dc1_celestial-whispers-maison-margiela_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Spicy",
+        "Smoky",
+        "Woody",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Aldehydes",
+        "Frankincense"
+    ],
+    "heart_notes": [
+        "Iris",
+        "Myrrh"
+    ],
+    "base_notes": [
+        "Musk",
+        "Bourbon vanilla",
+        "Virginia cedar wood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.8",
+            "votes": "30 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "23 Ratings"
+        },
+        "sillage": {
+            "score": "6.2",
+            "votes": "22 Ratings"
+        },
+        "bottle": {
+            "score": "6.9",
+            "votes": "20 Ratings"
+        },
+        "pricing": {
+            "score": "5.1",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 7
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "name": "Elysium Noir",
+    "brand": "Roja Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byRoja Parfumsfor men, released in2025. The scent is synthetic-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c3/c3f9ad_elysium-noir-roja-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Fresh",
+        "Spicy",
+        "Citrus",
+        "Woody"
+    ],
+    "top_notes": [
+        "Lavender",
+        "Bergamot",
+        "Lemon",
+        "Mandarin orange",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Blackberry",
+        "Rose"
+    ],
+    "base_notes": [
+        "Juniper berry",
+        "Ambroxan",
+        "Pink pepper",
+        "Cypress",
+        "Cypriol",
+        "Frankincense",
+        "Leather",
+        "Sandalwood",
+        "Cardamom",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.4",
+            "votes": "165 Ratings"
+        },
+        "durability": {
+            "score": "6.1",
+            "votes": "139 Ratings"
+        },
+        "sillage": {
+            "score": "5.9",
+            "votes": "141 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "133 Ratings"
+        },
+        "pricing": {
+            "score": "3.1",
+            "votes": "131 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 16
+            },
+            {
+                "name": "Spicy",
+                "votes": 20
+            },
+            {
+                "name": "Synthetic",
+                "votes": 25
+            },
+            {
+                "name": "Leathery",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 11
+            },
+            {
+                "name": "Fruity",
+                "votes": 7
+            },
+            {
+                "name": "Fresh",
+                "votes": 24
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 22
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 12
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 18
+            },
+            {
+                "name": "Summer",
+                "votes": 20
+            },
+            {
+                "name": "Spring",
+                "votes": 22
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 20
+            },
+            {
+                "name": "Sport",
+                "votes": 15
+            },
+            {
+                "name": "Leisure",
+                "votes": 20
+            },
+            {
+                "name": "Night Out",
+                "votes": 11
+            },
+            {
+                "name": "Business",
+                "votes": 19
+            },
+            {
+                "name": "Evening",
+                "votes": 13
+            }
+        ]
+    }
+}

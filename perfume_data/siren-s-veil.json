@@ -1,0 +1,51 @@
+{
+    "name": "Siren's Veil",
+    "brand": "Tomavicci",
+    "release_year": "2025",
+    "description": "A new perfume byTomaviccifor women, released in2025. The longevity is above-average. The production was apparently discontinued.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Aniseed",
+        "Birch",
+        "Cinnamon",
+        "Peach",
+        "Plum",
+        "Rum"
+    ],
+    "heart_notes": [
+        "Cream",
+        "Maté",
+        "Raspberry",
+        "Sage",
+        "Sugar powder"
+    ],
+    "base_notes": [
+        "Amber",
+        "Benzoin",
+        "Moss",
+        "Musk",
+        "Patchouli",
+        "Tobacco",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "10",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

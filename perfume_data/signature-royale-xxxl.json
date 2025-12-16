@@ -1,0 +1,99 @@
+{
+    "name": "Signature Royale XXXL",
+    "brand": "Zaharoff",
+    "release_year": "2025",
+    "description": "A new perfume byZaharofffor men, released in2025. The scent is spicy-leathery. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7e/7e6ff2_signature-royale-xxxl-zaharoff_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Leathery",
+        "Floral",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Apple",
+        "Cardamom",
+        "Cumin",
+        "Lavender",
+        "Pimento"
+    ],
+    "heart_notes": [
+        "Cashmere wood",
+        "Costus",
+        "Magnolia",
+        "Suede"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sandalwood",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

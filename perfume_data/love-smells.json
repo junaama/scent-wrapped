@@ -1,0 +1,63 @@
+{
+    "name": "Love Smells",
+    "brand": "Boy Smells",
+    "release_year": "2025",
+    "description": "A new and limited perfume byBoy Smellsfor women and men, released in2025. The scent is floral-fruity.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/eb/eba39b_love-smells-boy-smells_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fruity",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Blackberry",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Freesia",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Pheromones",
+        "Prosecco"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

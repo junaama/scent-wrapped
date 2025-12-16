@@ -1,0 +1,30 @@
+{
+    "name": "Gem Stone",
+    "brand": "Alexandria Fragrances",
+    "release_year": "2025",
+    "description": "A new perfume byAlexandria Fragrancesfor women and men, released in2025. The scent is resinous-earthy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/fa/facb9d_gem-stone-alexandria-fragrances_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Earthy",
+        "Leathery",
+        "Oriental",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Jasmine sambac"
+    ],
+    "heart_notes": [
+        "Frankincense"
+    ],
+    "base_notes": [
+        "Patchouli"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

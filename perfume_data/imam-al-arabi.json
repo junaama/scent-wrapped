@@ -1,0 +1,38 @@
+{
+    "name": "Imam Al Arabi",
+    "brand": "Maison Anthony Marmin",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Anthony Marminfor men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/05/050bf2_imam-al-arabi-maison-anthony-marmin-abdul-karim-al-faransi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Camphor",
+        "Mint"
+    ],
+    "heart_notes": [
+        "Bergamot",
+        "Leather"
+    ],
+    "base_notes": [
+        "Indian oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

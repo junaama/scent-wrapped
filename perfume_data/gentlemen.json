@@ -1,0 +1,34 @@
+{
+    "name": "Gentlemen",
+    "brand": "Artisan Dixit",
+    "release_year": "2025",
+    "description": "A new perfume byArtisan Dixitfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/bf/bff33c_gentlemen-artisan-dixit_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Cherry",
+        "Grapefruit",
+        "Lemon",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Cumin",
+        "Cypriol",
+        "Frankincense",
+        "Hay",
+        "Leather",
+        "Tobacco"
+    ],
+    "base_notes": [
+        "Amber",
+        "Beeswax",
+        "Benzoin",
+        "Cedar",
+        "Civet",
+        "Russian leather",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

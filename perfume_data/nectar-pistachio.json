@@ -1,0 +1,86 @@
+{
+    "name": "Nectar Pistachio",
+    "brand": "Lyora",
+    "release_year": "2025",
+    "description": "A new perfume byLyorafor women, released in2025. The scent is floral-creamy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a3/a3b9a1_nectar-pistachio-lyora_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Pistachio  sorbet",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Orchid"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Madeleine",
+        "Musk",
+        "Pistachio",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "11 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "10 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "10 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "12 Ratings"
+        },
+        "pricing": {
+            "score": "7.3",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            }
+        ]
+    }
+}

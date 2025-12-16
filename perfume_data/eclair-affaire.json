@@ -1,0 +1,129 @@
+{
+    "name": "Eclair Affaire",
+    "brand": "French Avenue",
+    "release_year": "2025",
+    "description": "A new perfume byFrench Avenuefor women, released in2025. The scent is gourmand-sweet. It is being marketed byFragrance World Trading LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4c/4c9953_eclair-affaire-french-avenue_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Sweet",
+        "Creamy",
+        "Powdery",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Coconut milk",
+        "Vanilla",
+        "Jasmine"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Gourmand notes",
+        "Amber"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Musk",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "41 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "39 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "37 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "44 Ratings"
+        },
+        "pricing": {
+            "score": "8.5",
+            "votes": "35 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 15
+            },
+            {
+                "name": "Powdery",
+                "votes": 4
+            },
+            {
+                "name": "Oriental",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 17
+            },
+            {
+                "name": "Creamy",
+                "votes": 13
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 16
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 16
+            },
+            {
+                "name": "Fall",
+                "votes": 16
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 12
+            },
+            {
+                "name": "Leisure",
+                "votes": 15
+            },
+            {
+                "name": "Night Out",
+                "votes": 13
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 15
+            }
+        ]
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "name": "Manie du Café",
+    "brand": "Bortnikoff",
+    "release_year": "2025",
+    "description": "A new perfume byBortnikofffor women and men, released in2025. The scent is woody-smoky.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/49/494614_manie-du-cafe-bortnikoff_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Smoky",
+        "Spicy",
+        "Resinous",
+        "Animal"
+    ],
+    "top_notes": [
+        "Vanilla",
+        "Castoreum"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Hyraceum",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Coffee",
+        "Siberian deer musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "9 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 3
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

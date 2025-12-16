@@ -1,0 +1,43 @@
+{
+    "name": "02.01.83 - First Potion",
+    "brand": "Adi ale Van",
+    "release_year": "2025",
+    "description": "A new perfume byAdi ale Vanfor women and men, released in2025. Projection and longevity are above-average. It was last marketed byAtelier Olfactiv.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8a/8acaca_02-01-83-first-potion-adi-ale-van_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Civet",
+        "Fur",
+        "Hay",
+        "Leather"
+    ],
+    "heart_notes": [
+        "Earthy notes",
+        "Leaves",
+        "Soil"
+    ],
+    "base_notes": [
+        "Moss",
+        "Tree bark",
+        "Vetiver absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "8.8",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {}
+}

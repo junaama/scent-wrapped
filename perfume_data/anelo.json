@@ -1,0 +1,133 @@
+{
+    "name": "Anelo",
+    "brand": "pernoire",
+    "release_year": "2025",
+    "description": "A new perfume bypernoirefor women and men, released in2025. The scent is fruity-citrusy. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3e/3e417f_anelo-pernoire_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Citrus",
+        "Fresh",
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Pineapple",
+        "Honey pomelo",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Ginger",
+        "Mango",
+        "Magnolia"
+    ],
+    "base_notes": [
+        "Amber",
+        "Patchouli",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "306 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "279 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "273 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "253 Ratings"
+        },
+        "pricing": {
+            "score": "6.4",
+            "votes": "227 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 71
+            },
+            {
+                "name": "Sweet",
+                "votes": 56
+            },
+            {
+                "name": "Fruity",
+                "votes": 82
+            },
+            {
+                "name": "Fresh",
+                "votes": 60
+            },
+            {
+                "name": "Creamy",
+                "votes": 20
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 81
+            },
+            {
+                "name": "Feminine",
+                "votes": 56
+            },
+            {
+                "name": "Modern",
+                "votes": 64
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 9
+            },
+            {
+                "name": "Fall",
+                "votes": 23
+            },
+            {
+                "name": "Summer",
+                "votes": 88
+            },
+            {
+                "name": "Spring",
+                "votes": 77
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 74
+            },
+            {
+                "name": "Sport",
+                "votes": 26
+            },
+            {
+                "name": "Leisure",
+                "votes": 81
+            },
+            {
+                "name": "Night Out",
+                "votes": 49
+            },
+            {
+                "name": "Business",
+                "votes": 58
+            },
+            {
+                "name": "Evening",
+                "votes": 34
+            }
+        ]
+    }
+}

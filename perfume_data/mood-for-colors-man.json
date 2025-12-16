@@ -1,0 +1,139 @@
+{
+    "name": "Mood for Colors Man",
+    "brand": "Annayake",
+    "release_year": "2025",
+    "description": "A new and limited perfume byAnnayakefor men, released in2025. The scent is spicy-fruity.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/2d/2dd2ca_mood-for-colors-man-annayake_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Fruity",
+        "Earthy",
+        "Fresh",
+        "Woody"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Cardamom"
+    ],
+    "heart_notes": [
+        "Amberwood",
+        "Plum",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Labdanum",
+        "Brazilian rosewood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "20 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "19 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "18 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "25 Ratings"
+        },
+        "pricing": {
+            "score": "7.9",
+            "votes": "17 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Earthy",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

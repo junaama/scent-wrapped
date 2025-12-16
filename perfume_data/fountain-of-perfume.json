@@ -1,0 +1,28 @@
+{
+    "name": "Fountain of Perfume",
+    "brand": "Rasasi",
+    "release_year": "2025",
+    "description": "A new perfume byRasasifor women and men, released in2025. The scent is fruity-leathery. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d6/d68c89_fountain-of-perfume-rasasi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Leathery"
+    ],
+    "top_notes": [
+        "Leather",
+        "Peach",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Osmanthus",
+        "Toffee",
+        "Violet"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Tonka bean"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

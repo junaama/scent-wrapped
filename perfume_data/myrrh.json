@@ -1,0 +1,34 @@
+{
+    "name": "Myrrh",
+    "brand": "Shaman Perfumery",
+    "release_year": "2025",
+    "description": "A new perfume byShaman Perfumeryfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f0/f0b3ce_myrrh-shaman-perfumery_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Elemi resin",
+        "Lavender",
+        "Yemenite myrrh"
+    ],
+    "heart_notes": [
+        "Myrrh",
+        "Tolu balm",
+        "Tonka bean absolute"
+    ],
+    "base_notes": [
+        "Amber",
+        "Amyris",
+        "Birch tar",
+        "Leather",
+        "Musk",
+        "Rose"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,106 @@
+{
+    "name": "Mango Wave",
+    "brand": "Librery",
+    "release_year": "2025",
+    "description": "A new perfume byLibreryfor women and men, released in2025. The scent is fruity-sweet. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b0/b0d853_mango-wave-librery_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Floral",
+        "Powdery",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Mango",
+        "Orange",
+        "Peach",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Pomegranate",
+        "Raspberry"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cane sugar",
+        "Oakmoss"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.7",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "8.4",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "name": "The Cut",
+    "brand": "Penhaligon's",
+    "release_year": "2025",
+    "description": "A new perfume byPenhaligon'sfor women and men, released in2025. The scent is green-spicy. It is being marketed byPuig.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e9/e9dd8f_the-cut-penhaligon-s_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Spicy",
+        "Fresh",
+        "Woody",
+        "Sweet"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "116 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "101 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "103 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "94 Ratings"
+        },
+        "pricing": {
+            "score": "6.2",
+            "votes": "68 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 30
+            },
+            {
+                "name": "Synthetic",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 19
+            },
+            {
+                "name": "Woody",
+                "votes": 26
+            },
+            {
+                "name": "Resinous",
+                "votes": 10
+            },
+            {
+                "name": "Green",
+                "votes": 36
+            },
+            {
+                "name": "Fresh",
+                "votes": 29
+            },
+            {
+                "name": "Fougère",
+                "votes": 16
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 38
+            },
+            {
+                "name": "Feminine",
+                "votes": 16
+            },
+            {
+                "name": "Classic",
+                "votes": 21
+            },
+            {
+                "name": "Modern",
+                "votes": 21
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 22
+            },
+            {
+                "name": "Fall",
+                "votes": 40
+            },
+            {
+                "name": "Summer",
+                "votes": 27
+            },
+            {
+                "name": "Spring",
+                "votes": 38
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 34
+            },
+            {
+                "name": "Leisure",
+                "votes": 38
+            },
+            {
+                "name": "Night Out",
+                "votes": 18
+            },
+            {
+                "name": "Business",
+                "votes": 36
+            },
+            {
+                "name": "Evening",
+                "votes": 21
+            }
+        ]
+    }
+}

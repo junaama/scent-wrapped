@@ -1,0 +1,35 @@
+{
+    "name": "Prime 03",
+    "brand": "Proud",
+    "release_year": "2025",
+    "description": "A new perfume byProudfor women and men, released in2025. It is being marketed byDeraah Trading Company.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/48/48ef59_prime-03-proud_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Apple",
+        "Cinnamon",
+        "Green notes",
+        "Marine notes",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Orange blossom",
+        "Orchid",
+        "Rose",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Patchouli",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

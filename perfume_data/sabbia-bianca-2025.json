@@ -1,0 +1,123 @@
+{
+    "name": "Sabbia Bianca",
+    "brand": "Profumum Roma",
+    "release_year": "2025",
+    "description": "A new perfume byProfumum Romafor women and men, released in2025. The scent is floral-creamy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/1d/1d1461_sabbia-bianca-2025-profumum-roma_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Creamy",
+        "Sweet",
+        "Spicy",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Coconut"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Tiaré",
+        "Tuberose",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Violet"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "18 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "14 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "6.4",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

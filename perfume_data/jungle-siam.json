@@ -1,0 +1,44 @@
+{
+    "name": "Jungle Siam",
+    "brand": "Luke Hallam",
+    "release_year": "2025",
+    "description": "A new perfume byLuke Hallamfor women and men, released in2025. The scent is fresh-synthetic.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6b/6b5d99_jungle-siam-luke-hallam_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Synthetic"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "5.8",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "4.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "4.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            }
+        ]
+    }
+}

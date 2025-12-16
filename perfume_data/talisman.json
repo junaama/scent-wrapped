@@ -1,0 +1,34 @@
+{
+    "name": "Talismán",
+    "brand": "Pastor Fragrances",
+    "release_year": "2025",
+    "description": "A new perfume byPastor Fragrancesfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3f/3ff573_talisman-pastor-fragrances_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blackcurrant",
+        "Calabrian bergamot",
+        "Florida grapefruit",
+        "French juniper",
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Jasmine sambac absolute",
+        "Peruvian pink pepper",
+        "Tunisian neroli"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Indonesian patchouli",
+        "Musk",
+        "Oakmoss",
+        "Virginia cedar"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

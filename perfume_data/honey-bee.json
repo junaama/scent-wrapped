@@ -1,0 +1,25 @@
+{
+    "name": "Honey Bee",
+    "brand": "Verites",
+    "release_year": "2025",
+    "description": "A new perfume byVeritesfor women, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/6c/6cc304_honey-bee-verites_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Mandarin orange",
+        "Pear",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Gardenia",
+        "Jasmine",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Amber",
+        "Patchouli",
+        "White honey"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

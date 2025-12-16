@@ -1,0 +1,27 @@
+{
+    "name": "Bottari",
+    "brand": "Tamburins",
+    "release_year": "2025",
+    "description": "A new perfume byTamburinsfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/92/926ec0_bottari-perfume-oil-tamburins_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Akigalawood®"
+    ],
+    "heart_notes": [
+        "Ambrette",
+        "Ambroxan"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Moss",
+        "Musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

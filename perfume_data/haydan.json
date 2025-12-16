@@ -1,0 +1,135 @@
+{
+    "name": "Haydan",
+    "brand": "French Avenue",
+    "release_year": "2025",
+    "description": "A new perfume byFrench Avenuefor men, released in2025. The scent is woody-sweet. Projection and longevity are above-average. It is being marketed byFragrance World Trading LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e4/e42444_haydan-french-avenue_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Sweet",
+        "Oriental",
+        "Spicy",
+        "Earthy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Clary sage",
+        "Lavender"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Praliné",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Leather",
+        "Musk",
+        "Oud",
+        "Patchouli",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "19 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "18 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "18 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "18 Ratings"
+        },
+        "pricing": {
+            "score": "8.8",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Oriental",
+                "votes": 3
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

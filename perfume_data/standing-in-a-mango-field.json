@@ -1,0 +1,146 @@
+{
+    "name": "Standing in a Mango Field",
+    "brand": "Anomalous Parfum",
+    "release_year": "2025",
+    "description": "A new and limited perfume byAnomalous Parfumfor women and men, released in2025. The scent is woody-fruity. The longevity is above-average. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/e5/e573f8_standing-in-a-mango-field-anomalous-parfum_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Fruity",
+        "Earthy",
+        "Resinous",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Mango",
+        "Rose",
+        "Bergamot",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Blackcurrant",
+        "Sandalwood",
+        "Rose"
+    ],
+    "base_notes": [
+        "Mysore sandalwood",
+        "Woods",
+        "Soil",
+        "Trees",
+        "White musk",
+        "Australian sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "26 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "24 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "24 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "27 Ratings"
+        },
+        "pricing": {
+            "score": "7.9",
+            "votes": "16 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 6
+            },
+            {
+                "name": "Earthy",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

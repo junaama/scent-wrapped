@@ -1,0 +1,31 @@
+{
+    "name": "Petal Sugar",
+    "brand": "The Dua Brand",
+    "release_year": "2025",
+    "description": "A new perfume byThe Dua Brandfor women and men, released in2025. Projection and longevity are above-average. The perfume is vegan according to the manufacturer.PronunciationCompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/01/01d235_petal-sugar-the-dua-brand-dua-fragrances_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cardamom",
+        "Cocoa butter",
+        "Cocoa powder",
+        "Sugar"
+    ],
+    "heart_notes": [
+        "Jasmine sambac",
+        "Orange blossom",
+        "Rose water"
+    ],
+    "base_notes": [
+        "Amber",
+        "Blond woods",
+        "Patchouli"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

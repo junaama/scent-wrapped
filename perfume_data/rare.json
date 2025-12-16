@@ -1,0 +1,133 @@
+{
+    "name": "Rare",
+    "brand": "Rare Beauty",
+    "release_year": "2025",
+    "description": "A new perfume byRare Beautyfor women and men, released in2025. The scent is sweet-spicy. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/f2/f29e6c_rare-rare-beauty_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Gourmand",
+        "Creamy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Caramel",
+        "Australian pink pepper",
+        "Pistachio"
+    ],
+    "heart_notes": [
+        "Vanilla",
+        "West African cocoa",
+        "Nigerian ginger"
+    ],
+    "base_notes": [
+        "New Caledonian sandalwood",
+        "Venezuelan tonka bean",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "84 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "60 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "56 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "67 Ratings"
+        },
+        "pricing": {
+            "score": "6.8",
+            "votes": "55 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 9
+            },
+            {
+                "name": "Sweet",
+                "votes": 13
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Gourmand",
+                "votes": 7
+            },
+            {
+                "name": "Creamy",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 14
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 12
+            },
+            {
+                "name": "Fall",
+                "votes": 15
+            },
+            {
+                "name": "Summer",
+                "votes": 9
+            },
+            {
+                "name": "Spring",
+                "votes": 11
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 14
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

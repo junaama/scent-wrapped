@@ -1,0 +1,129 @@
+{
+    "name": "L'Eau d'Issey pour Homme",
+    "brand": "Issey Miyake",
+    "release_year": "2025",
+    "description": "A new perfume byIssey Miyakefor men, released in2025. The scent is citrusy-fresh. It is being marketed byShiseido Group / Beauté Prestige International.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/0e/0ea942_l-eau-d-issey-pour-homme-eau-de-parfum-issey-miyake_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Woody",
+        "Spicy",
+        "Aquatic"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "91 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "71 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "73 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "70 Ratings"
+        },
+        "pricing": {
+            "score": "7.2",
+            "votes": "66 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 26
+            },
+            {
+                "name": "Spicy",
+                "votes": 16
+            },
+            {
+                "name": "Woody",
+                "votes": 21
+            },
+            {
+                "name": "Fresh",
+                "votes": 25
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            },
+            {
+                "name": "Aquatic",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 26
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 10
+            },
+            {
+                "name": "Modern",
+                "votes": 14
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 13
+            },
+            {
+                "name": "Summer",
+                "votes": 22
+            },
+            {
+                "name": "Spring",
+                "votes": 26
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 23
+            },
+            {
+                "name": "Sport",
+                "votes": 10
+            },
+            {
+                "name": "Leisure",
+                "votes": 21
+            },
+            {
+                "name": "Night Out",
+                "votes": 10
+            },
+            {
+                "name": "Business",
+                "votes": 22
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

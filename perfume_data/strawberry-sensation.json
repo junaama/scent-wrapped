@@ -1,0 +1,43 @@
+{
+    "name": "Strawberry Sensation",
+    "brand": "Oakcha",
+    "release_year": "2025",
+    "description": "A new perfume byOakchafor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b4/b4294d_strawberry-sensation-oakcha_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Strawberry",
+        "Caramel"
+    ],
+    "heart_notes": [
+        "Ambrette",
+        "Buttercream",
+        "Cyclamen",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Sandalwood",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "6.1",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {}
+}

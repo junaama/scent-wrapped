@@ -1,0 +1,29 @@
+{
+    "name": "Fun & Free",
+    "brand": "El Ganso",
+    "release_year": "2025",
+    "description": "A new perfume byEl Gansofor women, released in2025. It is being marketed byPerfumes y Diseño.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9c/9c4865_fun-free-el-ganso_1200.jpg?width=240&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Mandarin orange",
+        "Mirabelle plum"
+    ],
+    "heart_notes": [
+        "Hazelnut",
+        "Jasmine absolute",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Sandalwood",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

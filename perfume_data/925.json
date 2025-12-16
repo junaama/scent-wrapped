@@ -1,0 +1,72 @@
+{
+    "name": "925",
+    "brand": "Scentplus",
+    "release_year": "2025",
+    "description": "A new perfume byScentplusfor women and men, released in2025. The scent is fresh-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e3/e3e8c3_925-scentplus_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Apple",
+        "Bergamot",
+        "Galbanum",
+        "Orange",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Clove",
+        "Geranium",
+        "Lavender",
+        "Rose",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Frankincense",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

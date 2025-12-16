@@ -1,0 +1,130 @@
+{
+    "name": "Soleil de France",
+    "brand": "Câline",
+    "release_year": "2025",
+    "description": "A new perfume byCâlinefor women, released in2025. The scent is sweet-gourmand. It is being marketed byLifestyle Fragrance & Beauty.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/bb/bb29f3_soleil-de-france-caline_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Creamy",
+        "Synthetic",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Pistachio",
+        "Almond",
+        "Coconut milk",
+        "Hazelnut"
+    ],
+    "heart_notes": [
+        "Salted caramel",
+        "Bourbon vanilla",
+        "Apple"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Chocolate",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.5",
+            "votes": "131 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "116 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "116 Ratings"
+        },
+        "bottle": {
+            "score": "6.7",
+            "votes": "120 Ratings"
+        },
+        "pricing": {
+            "score": "8.8",
+            "votes": "104 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 23
+            },
+            {
+                "name": "Sweet",
+                "votes": 42
+            },
+            {
+                "name": "Gourmand",
+                "votes": 38
+            },
+            {
+                "name": "Fruity",
+                "votes": 12
+            },
+            {
+                "name": "Creamy",
+                "votes": 35
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 41
+            },
+            {
+                "name": "Modern",
+                "votes": 27
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 14
+            },
+            {
+                "name": "Fall",
+                "votes": 25
+            },
+            {
+                "name": "Summer",
+                "votes": 29
+            },
+            {
+                "name": "Spring",
+                "votes": 24
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 23
+            },
+            {
+                "name": "Leisure",
+                "votes": 38
+            },
+            {
+                "name": "Night Out",
+                "votes": 16
+            },
+            {
+                "name": "Business",
+                "votes": 13
+            },
+            {
+                "name": "Evening",
+                "votes": 14
+            }
+        ]
+    }
+}

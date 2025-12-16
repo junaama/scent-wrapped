@@ -1,0 +1,134 @@
+{
+    "name": "Pistachio Chic",
+    "brand": "M. Micallef",
+    "release_year": "2025",
+    "description": "A new perfume byM. Micalleffor women and men, released in2025. The scent is sweet-creamy.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/2b/2bcabe-pistachio-chic-m-micallef_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Creamy",
+        "Gourmand",
+        "Spicy",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Cream",
+        "Pear",
+        "Pistachio"
+    ],
+    "heart_notes": [
+        "Chestnut",
+        "Peony",
+        "Cardamom",
+        "Rum"
+    ],
+    "base_notes": [
+        "Tonka bean",
+        "Cedar",
+        "Marshmallow"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "16 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "13 Ratings"
+        },
+        "sillage": {
+            "score": "5.4",
+            "votes": "13 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "23 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Gourmand",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

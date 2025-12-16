@@ -1,0 +1,49 @@
+{
+    "name": "Seowon",
+    "brand": "hetras.",
+    "release_year": "2025",
+    "description": "A new perfume byhetras.for women and men, released in2025. The scent is earthy-smoky. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d1/d191f1_seowon-hetras_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Earthy",
+        "Smoky",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Black pepper",
+        "Peach"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lily of the valley",
+        "Nutmeg"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Patchouli",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ]
+    }
+}

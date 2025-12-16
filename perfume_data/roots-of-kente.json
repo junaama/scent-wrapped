@@ -1,0 +1,143 @@
+{
+    "name": "Roots of Kente",
+    "brand": "twentysecondofmay",
+    "release_year": "2025",
+    "description": "A new perfume bytwentysecondofmayfor women and men, released in2025. The scent is sweet-gourmand. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/54/547c85_roots-of-kente-twentysecondofmay_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Creamy",
+        "Spicy",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Brown sugar",
+        "Aldehydes"
+    ],
+    "heart_notes": [
+        "Cocoa",
+        "African tonka bean",
+        "Coconut milk",
+        "Heliotrope"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Indian sandalwood",
+        "Labdanum",
+        "Amber",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "88 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "76 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "75 Ratings"
+        },
+        "bottle": {
+            "score": "8.6",
+            "votes": "75 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "64 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 10
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 24
+            },
+            {
+                "name": "Smoky",
+                "votes": 7
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Gourmand",
+                "votes": 19
+            },
+            {
+                "name": "Creamy",
+                "votes": 12
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 14
+            },
+            {
+                "name": "Feminine",
+                "votes": 18
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 14
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 21
+            },
+            {
+                "name": "Fall",
+                "votes": 22
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 14
+            },
+            {
+                "name": "Night Out",
+                "votes": 18
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 22
+            }
+        ]
+    }
+}

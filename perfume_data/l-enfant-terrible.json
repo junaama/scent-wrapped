@@ -1,0 +1,139 @@
+{
+    "name": "L'Enfant Terrible",
+    "brand": "Givenchy",
+    "release_year": "2025",
+    "description": "A new perfume byGivenchyfor women and men, released in2025. The scent is fresh-citrusy. It is being marketed byLVMH.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/85/8561b5_l-enfant-terrible-givenchy_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Citrus",
+        "Woody",
+        "Spicy",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Italian bergamot"
+    ],
+    "heart_notes": [
+        "Ginger",
+        "Sri Lankan black tea CO2"
+    ],
+    "base_notes": [
+        "Labdanum absolute",
+        "Musk",
+        "Ambrox",
+        "Cedarwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "81 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "74 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "71 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "64 Ratings"
+        },
+        "pricing": {
+            "score": "6.0",
+            "votes": "53 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 22
+            },
+            {
+                "name": "Spicy",
+                "votes": 13
+            },
+            {
+                "name": "Sweet",
+                "votes": 10
+            },
+            {
+                "name": "Smoky",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 17
+            },
+            {
+                "name": "Fresh",
+                "votes": 22
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 22
+            },
+            {
+                "name": "Feminine",
+                "votes": 13
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 13
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 13
+            },
+            {
+                "name": "Summer",
+                "votes": 24
+            },
+            {
+                "name": "Spring",
+                "votes": 23
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 20
+            },
+            {
+                "name": "Sport",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 24
+            },
+            {
+                "name": "Night Out",
+                "votes": 12
+            },
+            {
+                "name": "Business",
+                "votes": 17
+            },
+            {
+                "name": "Evening",
+                "votes": 11
+            }
+        ]
+    }
+}

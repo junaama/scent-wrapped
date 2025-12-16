@@ -1,0 +1,27 @@
+{
+    "name": "Opéra Coloré",
+    "brand": "Alex Simone",
+    "release_year": "2025",
+    "description": "A new perfume byAlex Simonefor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/d7/d74b85_opera-colore-alex-simone_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Lychee",
+        "Red fruits"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Rose"
+    ],
+    "base_notes": [
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

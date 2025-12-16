@@ -1,0 +1,127 @@
+{
+    "name": "Olympēa Absolu",
+    "brand": "Rabanne",
+    "release_year": "2025",
+    "description": "A new perfume byRabannefor women, released in2025. The scent is sweet-fruity. It is being marketed byPuig.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/89/899287_olympea-absolu-rabanne_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Floral",
+        "Woody",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Apricot"
+    ],
+    "heart_notes": [
+        "Jasmine absolute"
+    ],
+    "base_notes": [
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "37 Ratings"
+        },
+        "durability": {
+            "score": "6.4",
+            "votes": "30 Ratings"
+        },
+        "sillage": {
+            "score": "6.4",
+            "votes": "30 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "32 Ratings"
+        },
+        "pricing": {
+            "score": "6.4",
+            "votes": "23 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 12
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 12
+            },
+            {
+                "name": "Floral",
+                "votes": 12
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 16
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 8
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 11
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 13
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

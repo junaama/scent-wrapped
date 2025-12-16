@@ -1,0 +1,86 @@
+{
+    "name": "Killer Cutie",
+    "brand": "Zomething Strange",
+    "release_year": "2025",
+    "description": "A new and limited perfume byZomething Strangefor women and men, released in2025. The scent is powdery-fruity. The longevity is above-average.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/73/730d69_killer-cutie-zomething-strange_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Powdery",
+        "Fruity",
+        "Fresh",
+        "Floral",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Apple",
+        "Orange",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Nectarine",
+        "Rose",
+        "Strawberry leaf"
+    ],
+    "base_notes": [
+        "Amber",
+        "Bamboo",
+        "Vanilla",
+        "White musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

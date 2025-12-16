@@ -1,0 +1,35 @@
+{
+    "name": "Jebel Hafeet",
+    "brand": "Miráz",
+    "release_year": "2025",
+    "description": "A new perfume byMirázfor women and men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Ginger",
+        "Grapefruit",
+        "Lemon",
+        "Lime",
+        "Thyme"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Juniper berry",
+        "Leather",
+        "Mastic",
+        "Pink pepper"
+    ],
+    "base_notes": [
+        "Amber",
+        "Amyris",
+        "Benzoin",
+        "Cedarwood",
+        "Patchouli",
+        "Vanilla",
+        "Vetiver",
+        "White musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

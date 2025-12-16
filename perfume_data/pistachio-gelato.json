@@ -1,0 +1,26 @@
+{
+    "name": "Pistachio Gelato",
+    "brand": "Aéropostale",
+    "release_year": "2025",
+    "description": "A new perfume byAéropostalefor women, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Pistachio cream"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Jasmine",
+        "Lily of the valley"
+    ],
+    "base_notes": [
+        "Amber",
+        "Blond woods",
+        "Musk",
+        "Orcanox",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

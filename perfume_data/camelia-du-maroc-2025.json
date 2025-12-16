@@ -1,0 +1,32 @@
+{
+    "name": "Camélia du Maroc",
+    "brand": "Ciro",
+    "release_year": "2025",
+    "description": "A new perfume byCirofor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/dc/dcb0bc_camelia-du-maroc-2025-ciro_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Grapefruit",
+        "Green tea",
+        "Mandarin orange",
+        "Peony"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Jasmine sambac absolute",
+        "Moroccan camellia",
+        "Rose"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Gardenia",
+        "Musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

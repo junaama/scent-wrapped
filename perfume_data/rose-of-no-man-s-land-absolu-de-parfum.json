@@ -1,0 +1,133 @@
+{
+    "name": "Rose of No Man's Land",
+    "brand": "Byredo",
+    "release_year": "2025",
+    "description": "A new perfume byByredofor women and men, released in2025. The scent is floral-woody. It is being marketed byPuig.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/47/47536a_rose-of-no-man-s-land-absolu-de-parfum-byredo_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Woody",
+        "Sweet",
+        "Spicy",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Saffron",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Rose",
+        "Black raspberry",
+        "Peony"
+    ],
+    "base_notes": [
+        "Patchouli",
+        "Black amber",
+        "Papyrus"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "43 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "38 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "37 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "41 Ratings"
+        },
+        "pricing": {
+            "score": "6.2",
+            "votes": "33 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Woody",
+                "votes": 9
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 13
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 12
+            },
+            {
+                "name": "Modern",
+                "votes": 12
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 12
+            },
+            {
+                "name": "Fall",
+                "votes": 13
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 13
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Leisure",
+                "votes": 10
+            },
+            {
+                "name": "Night Out",
+                "votes": 9
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 11
+            }
+        ]
+    }
+}

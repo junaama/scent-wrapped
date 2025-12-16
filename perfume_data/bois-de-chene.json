@@ -1,0 +1,145 @@
+{
+    "name": "Bois de Chêne",
+    "brand": "Fragonard",
+    "release_year": "2025",
+    "description": "A new perfume byFragonardfor women, released in2025. The scent is woody-spicy.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/1d/1d3651_bois-de-chene-fragonard_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Spicy",
+        "Fresh",
+        "Oriental",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Smoked tea",
+        "Shiso",
+        "Moroccan mint"
+    ],
+    "heart_notes": [
+        "Himalaya cedar",
+        "Oak",
+        "Orris butter"
+    ],
+    "base_notes": [
+        "Moss",
+        "Amber",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "5.5",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "6.2",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

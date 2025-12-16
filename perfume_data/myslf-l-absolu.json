@@ -1,0 +1,145 @@
+{
+    "name": "Myslf L'Absolu",
+    "brand": "Yves Saint Laurent",
+    "release_year": "2025",
+    "description": "A new perfume byYves Saint Laurentfor men, released in2025. The scent is floral-fresh. It is being marketed byL'Oréal.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d9/d95c53_myslf-l-absolu-yves-saint-laurent_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Sweet",
+        "Citrus",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Ginger",
+        "Cardamom"
+    ],
+    "heart_notes": [
+        "Morrocan orange blossom"
+    ],
+    "base_notes": [
+        "Indonesian patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "191 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "159 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "156 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "159 Ratings"
+        },
+        "pricing": {
+            "score": "5.8",
+            "votes": "148 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 21
+            },
+            {
+                "name": "Spicy",
+                "votes": 14
+            },
+            {
+                "name": "Synthetic",
+                "votes": 20
+            },
+            {
+                "name": "Sweet",
+                "votes": 24
+            },
+            {
+                "name": "Woody",
+                "votes": 11
+            },
+            {
+                "name": "Fresh",
+                "votes": 35
+            },
+            {
+                "name": "Creamy",
+                "votes": 10
+            },
+            {
+                "name": "Floral",
+                "votes": 36
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 35
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 30
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 24
+            },
+            {
+                "name": "Fall",
+                "votes": 35
+            },
+            {
+                "name": "Summer",
+                "votes": 33
+            },
+            {
+                "name": "Spring",
+                "votes": 38
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 35
+            },
+            {
+                "name": "Sport",
+                "votes": 9
+            },
+            {
+                "name": "Leisure",
+                "votes": 31
+            },
+            {
+                "name": "Night Out",
+                "votes": 18
+            },
+            {
+                "name": "Business",
+                "votes": 25
+            },
+            {
+                "name": "Evening",
+                "votes": 20
+            }
+        ]
+    }
+}

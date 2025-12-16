@@ -1,0 +1,93 @@
+{
+    "name": "Narcotic Euphoria",
+    "brand": "Aholic",
+    "release_year": "2025",
+    "description": "A new perfume byAholicfor women and men, released in2025. The scent is green-spicy. It is being marketed byGroupe Bogart.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/92/92393f_narcotic-euphoria-aholic_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Spicy",
+        "Woody",
+        "Fruity",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Black pepper",
+        "Grapefruit"
+    ],
+    "heart_notes": [
+        "Blackcurrant",
+        "Cannabis",
+        "Frankincense"
+    ],
+    "base_notes": [
+        "Musk",
+        "Nagarmotha",
+        "Palo Santo",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            }
+        ]
+    }
+}

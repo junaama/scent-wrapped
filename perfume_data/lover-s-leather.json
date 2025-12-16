@@ -1,0 +1,41 @@
+{
+    "name": "Lover's Leather",
+    "brand": "Cyklar",
+    "release_year": "2025",
+    "description": "A new perfume byCyklarfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4f/4f8a3c_lover-s-leather-cyklar_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Saffron",
+        "Thyme"
+    ],
+    "heart_notes": [
+        "Clove",
+        "Geranium",
+        "Leather"
+    ],
+    "base_notes": [
+        "Oud",
+        "Patchouli",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "4.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

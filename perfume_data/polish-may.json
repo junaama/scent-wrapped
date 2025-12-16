@@ -1,0 +1,140 @@
+{
+    "name": "Polish May",
+    "brand": "Noctifera",
+    "release_year": "2025",
+    "description": "A new perfume byNoctiferafor women and men, released in2025. The scent is green-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/95/952685_polish-may-noctifera_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Fresh",
+        "Sweet",
+        "Floral",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Grass",
+        "Mint",
+        "Poppy",
+        "Woodland strawberry"
+    ],
+    "heart_notes": [
+        "Chamomile",
+        "Jasmine",
+        "Linden blossom",
+        "Pine"
+    ],
+    "base_notes": [
+        "Marshmallow",
+        "Resins",
+        "Sandalwood",
+        "Smoked wood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "6.7",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

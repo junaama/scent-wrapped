@@ -1,0 +1,137 @@
+{
+    "name": "Crush",
+    "brand": "Akro",
+    "release_year": "2025",
+    "description": "A new perfume byAkrofor women and men, released in2025. The scent is sweet-floral.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9c/9c612a_crush-akro_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Powdery",
+        "Fruity",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Lychee",
+        "Roasted almond"
+    ],
+    "heart_notes": [
+        "Bulgarian rose",
+        "Hazelnut praline"
+    ],
+    "base_notes": [
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "67 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "50 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "48 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "41 Ratings"
+        },
+        "pricing": {
+            "score": "6.9",
+            "votes": "33 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 17
+            },
+            {
+                "name": "Powdery",
+                "votes": 10
+            },
+            {
+                "name": "Gourmand",
+                "votes": 6
+            },
+            {
+                "name": "Fruity",
+                "votes": 10
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 14
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 14
+            },
+            {
+                "name": "Modern",
+                "votes": 11
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 9
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 12
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 10
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Night Out",
+                "votes": 9
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

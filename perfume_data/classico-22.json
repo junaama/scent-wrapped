@@ -1,0 +1,31 @@
+{
+    "name": "Clássico 22",
+    "brand": "Claus Porto",
+    "release_year": "2025",
+    "description": "A new perfume byClaus Portofor men, released in2025. The scent is green-citrusy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/aa/aaadf1_musgo-real-classico-22-claus-porto_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Citrus",
+        "Spicy",
+        "Fresh",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Lemon",
+        "Ozonic notes"
+    ],
+    "heart_notes": [
+        "Basil",
+        "Juniper berry",
+        "Mint"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Musk",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

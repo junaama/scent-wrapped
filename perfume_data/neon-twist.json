@@ -1,0 +1,29 @@
+{
+    "name": "Neon Twist",
+    "brand": "Anna Sui",
+    "release_year": "2025",
+    "description": "A new perfume byAnna Suifor women, released in2025. It is being marketed byInterparfums.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/84/84d568_neon-twist-anna-sui_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Grapefruit"
+    ],
+    "heart_notes": [
+        "Guava  ice cream",
+        "Jasmine",
+        "Neroli"
+    ],
+    "base_notes": [
+        "Amber",
+        "Blond woods",
+        "Musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {}
+}

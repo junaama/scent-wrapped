@@ -1,0 +1,62 @@
+{
+    "name": "Pure Crystal",
+    "brand": "Lattafa Pride",
+    "release_year": "2025",
+    "description": "A new perfume byLattafa Pridefor women and men, released in2025. The scent is gourmand-sweet. It is being marketed byLattafa Perfumes Industries LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/38/3837b6_pure-crystal-lattafa-pride_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Bitter orange",
+        "Cinnamon",
+        "Grapefruit",
+        "Red berries"
+    ],
+    "heart_notes": [
+        "Clary sage",
+        "Cognac",
+        "Ginger"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cardamom",
+        "Musk",
+        "Patchouli",
+        "Sandalwood",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "6.7",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            }
+        ]
+    }
+}

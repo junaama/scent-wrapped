@@ -1,0 +1,83 @@
+{
+    "name": "Kyara no Bara",
+    "brand": "Hunayn",
+    "release_year": "2025",
+    "description": "A new perfume byHunaynfor women and men, released in2025. The scent is floral-woody. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/67/67ec6b_kyara-no-bara-hunayn_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Woody",
+        "Oriental"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "8.7",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "9.5",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

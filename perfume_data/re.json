@@ -1,0 +1,30 @@
+{
+    "name": "Re",
+    "brand": "Oscar London",
+    "release_year": "2025",
+    "description": "A new perfume byOscar Londonfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ff/ffb850_re-oscar-london_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Italian lemon",
+        "Madagascan ginger",
+        "Peach"
+    ],
+    "heart_notes": [
+        "Jasmine absolute",
+        "Orange blossom absolute",
+        "Osmanthus absolute"
+    ],
+    "base_notes": [
+        "Everlasting flower absolute",
+        "Patchouli",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,79 @@
+{
+    "name": "Sister Hildegard",
+    "brand": "Pearfat Parfum",
+    "release_year": "2025",
+    "description": "A new and limited perfume byPearfat Parfumfor women and men, released in2025. The scent is powdery-citrusy. Projection and longevity are above-average. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/48/48c27d_sister-hildegard-pearfat-parfum_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Powdery",
+        "Citrus",
+        "Resinous",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Blood orange",
+        "Dust",
+        "Elemi resin",
+        "Glass accord"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Milk"
+    ],
+    "base_notes": [
+        "Aged wood",
+        "Camphor",
+        "Cyclamen",
+        "Spikenard"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            }
+        ]
+    }
+}

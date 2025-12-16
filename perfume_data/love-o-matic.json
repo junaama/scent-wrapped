@@ -1,0 +1,136 @@
+{
+    "name": "Love-O-Matic",
+    "brand": "Room 1015",
+    "release_year": "2025",
+    "description": "A new perfume byRoom 1015for women and men, released in2025. The scent is sweet-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/81/81d955_love-o-matic-room-1015_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fresh",
+        "Synthetic",
+        "Fruity",
+        "Floral"
+    ],
+    "top_notes": [
+        "Strawberry",
+        "Blackcurrant",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Chewing gum",
+        "Fresh notes"
+    ],
+    "base_notes": [
+        "Musk",
+        "Ambrette",
+        "Cedar"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "84 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "70 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "69 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "66 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "55 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 15
+            },
+            {
+                "name": "Sweet",
+                "votes": 18
+            },
+            {
+                "name": "Fruity",
+                "votes": 14
+            },
+            {
+                "name": "Fresh",
+                "votes": 18
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 10
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 17
+            },
+            {
+                "name": "Modern",
+                "votes": 14
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 10
+            },
+            {
+                "name": "Fall",
+                "votes": 15
+            },
+            {
+                "name": "Summer",
+                "votes": 18
+            },
+            {
+                "name": "Spring",
+                "votes": 19
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 19
+            },
+            {
+                "name": "Sport",
+                "votes": 10
+            },
+            {
+                "name": "Leisure",
+                "votes": 21
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 15
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

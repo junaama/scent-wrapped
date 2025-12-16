@@ -1,0 +1,29 @@
+{
+    "name": "Irresistible Zurich",
+    "brand": "Viage",
+    "release_year": "2025",
+    "description": "A new perfume byViagefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4b/4bafb3_irresistible-zurich-viage_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Caramel",
+        "Cotton candy",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Honey",
+        "Lily of the valley"
+    ],
+    "base_notes": [
+        "Musk",
+        "Patchouli",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

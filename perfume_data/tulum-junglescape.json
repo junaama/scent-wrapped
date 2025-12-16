@@ -1,0 +1,129 @@
+{
+    "name": "Tulum Junglescape",
+    "brand": "Simone Andreoli",
+    "release_year": "2025",
+    "description": "A new perfume bySimone Andreolifor women and men, released in2025. The scent is fruity-green.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8d/8dfd55_tulum-junglescape-simone-andreoli_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Green",
+        "Fresh",
+        "Sweet",
+        "Woody"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "298 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "251 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "253 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "240 Ratings"
+        },
+        "pricing": {
+            "score": "7.4",
+            "votes": "206 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 28
+            },
+            {
+                "name": "Spicy",
+                "votes": 17
+            },
+            {
+                "name": "Sweet",
+                "votes": 42
+            },
+            {
+                "name": "Woody",
+                "votes": 41
+            },
+            {
+                "name": "Green",
+                "votes": 74
+            },
+            {
+                "name": "Fruity",
+                "votes": 74
+            },
+            {
+                "name": "Fresh",
+                "votes": 60
+            },
+            {
+                "name": "Floral",
+                "votes": 21
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 77
+            },
+            {
+                "name": "Feminine",
+                "votes": 58
+            },
+            {
+                "name": "Modern",
+                "votes": 67
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 25
+            },
+            {
+                "name": "Summer",
+                "votes": 89
+            },
+            {
+                "name": "Spring",
+                "votes": 82
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 60
+            },
+            {
+                "name": "Sport",
+                "votes": 22
+            },
+            {
+                "name": "Leisure",
+                "votes": 88
+            },
+            {
+                "name": "Night Out",
+                "votes": 44
+            },
+            {
+                "name": "Business",
+                "votes": 45
+            },
+            {
+                "name": "Evening",
+                "votes": 38
+            }
+        ]
+    }
+}

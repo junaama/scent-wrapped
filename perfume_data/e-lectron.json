@@ -1,0 +1,41 @@
+{
+    "name": "E-lectron",
+    "brand": "Angelos Créations Olfactives",
+    "release_year": "2025",
+    "description": "A new perfume byAngelos Créations Olfactivesfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/91/91a031_e-lectron-angelos-creations-olfactives_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Black pepper absolute",
+        "Blackcurrant",
+        "Cardamom absolute",
+        "Coriander seed",
+        "Elemi resin"
+    ],
+    "heart_notes": [
+        "Ambrette seed",
+        "Cocoa absolute",
+        "Immortelle absolute",
+        "Orris butter",
+        "Osmanthus absolute",
+        "Sweet clover absolute"
+    ],
+    "base_notes": [
+        "Ambrarome",
+        "Ambreine",
+        "Benzoin",
+        "Bran absolute",
+        "Cistus absolute",
+        "Indian sandalwood",
+        "Patchouli absolute",
+        "Tonka bean absolute",
+        "White chocolate"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

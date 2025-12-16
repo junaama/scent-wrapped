@@ -1,0 +1,29 @@
+{
+    "name": "White Queen",
+    "brand": "Oscar London",
+    "release_year": "2025",
+    "description": "A new perfume byOscar Londonfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/09/097d35_white-queen-oscar-london_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Cypress"
+    ],
+    "heart_notes": [
+        "Violet",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Heliotrope",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

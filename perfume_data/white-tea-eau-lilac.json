@@ -1,0 +1,123 @@
+{
+    "name": "White Tea Eau Lilac",
+    "brand": "Elizabeth Arden",
+    "release_year": "2025",
+    "description": "A new perfume byElizabeth Ardenfor women, released in2025. The scent is fresh-floral. It is being marketed byRevlon Inc..Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5f/5f2e34_white-tea-eau-lilac-elizabeth-arden_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Floral",
+        "Citrus",
+        "Powdery",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Jasmine sambac",
+        "Italian mandarin orange"
+    ],
+    "heart_notes": [
+        "French lilac",
+        "Wisteria"
+    ],
+    "base_notes": [
+        "Blond woods",
+        "Musk",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "20 Ratings"
+        },
+        "durability": {
+            "score": "5.6",
+            "votes": "14 Ratings"
+        },
+        "sillage": {
+            "score": "5.7",
+            "votes": "16 Ratings"
+        },
+        "bottle": {
+            "score": "6.9",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 6
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 8
+            },
+            {
+                "name": "Floral",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            }
+        ]
+    }
+}

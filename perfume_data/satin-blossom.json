@@ -1,0 +1,119 @@
+{
+    "name": "Satin Blossom",
+    "brand": "Mango",
+    "release_year": "2025",
+    "description": "A new perfume byMangofor women, released in2025. The scent is powdery-fruity. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4e/4ee54a_satin-blossom-mango_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Powdery",
+        "Fruity",
+        "Floral",
+        "Fresh",
+        "Woody"
+    ],
+    "top_notes": [
+        "Apple",
+        "Bergamot",
+        "Mandarin orange",
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Iris",
+        "Jasmine",
+        "Magnolia",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Moss",
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            }
+        ]
+    }
+}

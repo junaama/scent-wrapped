@@ -1,0 +1,28 @@
+{
+    "name": "Volt",
+    "brand": "Gissah",
+    "release_year": "2025",
+    "description": "A new perfume byGissahfor men, released in2025. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e1/e193dc_volt-gissah_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Lavender",
+        "Rosemary"
+    ],
+    "heart_notes": [
+        "Cypress",
+        "Vetiver"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

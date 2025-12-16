@@ -1,0 +1,47 @@
+{
+    "name": "Heartstrings",
+    "brand": "Skylar",
+    "release_year": "2025",
+    "description": "A new and limited perfume bySkylarfor women and men, released in2025. The scent is fruity-sweet.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/ef/ef12d6_heartstrings-skylar_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Caramel",
+        "Heliotrope",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Honeycomb",
+        "Plum"
+    ],
+    "base_notes": [
+        "Ambrox",
+        "Cedar",
+        "Moss",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "5.0",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

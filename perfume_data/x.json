@@ -1,0 +1,33 @@
+{
+    "name": "X",
+    "brand": "D'Qar",
+    "release_year": "2025",
+    "description": "A new perfume byD'Qarfor women and men, released in2025. The projection is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e5/e569da_x-d-qar_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Apple",
+        "Brazilian rosewood",
+        "Cinnamon",
+        "Lavender"
+    ],
+    "heart_notes": [
+        "Bulgarian rose",
+        "Cedarwood",
+        "Lily of the valley"
+    ],
+    "base_notes": [
+        "Amber",
+        "Laotian oud",
+        "Musk",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

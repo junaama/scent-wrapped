@@ -1,0 +1,134 @@
+{
+    "name": "This Is Him! Burning Love",
+    "brand": "Zadig & Voltaire",
+    "release_year": "2025",
+    "description": "A new and limited perfume byZadig & Voltairefor men, released in2025. The scent is fruity-sweet. It is being marketed byShiseido Group / Beauté Prestige International.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/38/382399_this-is-him-burning-love-zadig-voltaire_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Spicy",
+        "Citrus",
+        "Woody"
+    ],
+    "top_notes": [
+        "Rum",
+        "Grapefruit",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Amberwood",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "51 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "40 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "40 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "47 Ratings"
+        },
+        "pricing": {
+            "score": "7.6",
+            "votes": "37 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 6
+            },
+            {
+                "name": "Spicy",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 10
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Fruity",
+                "votes": 10
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 11
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 8
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 11
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

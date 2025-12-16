@@ -1,0 +1,104 @@
+{
+    "name": "Paltrida",
+    "brand": "Angelos Créations Olfactives",
+    "release_year": "2025",
+    "description": "A new and limited perfume byAngelos Créations Olfactivesfor women and men, released in2025. The scent is fresh-woody. The longevity is above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/0b/0bc750_paltrida-angelos-creations-olfactives_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Woody",
+        "Spicy",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Chinese oud",
+        "Chinese toon",
+        "Moroccan neroli",
+        "Violet leaf"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Clove",
+        "Jasmine",
+        "Orris butter"
+    ],
+    "base_notes": [
+        "Chinese oud",
+        "Haitian vetiver",
+        "Mousse de Saxe",
+        "Nagarmotha",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

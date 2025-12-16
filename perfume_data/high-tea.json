@@ -1,0 +1,117 @@
+{
+    "name": "High Tea",
+    "brand": "Brown Girl Jane",
+    "release_year": "2025",
+    "description": "A new perfume byBrown Girl Janefor women, released in2025. The scent is floral-gourmand.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7b/7bed44_high-tea-brown-girl-jane_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Gourmand",
+        "Sweet",
+        "Creamy",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Macaron",
+        "Madeleine",
+        "Masala chai"
+    ],
+    "heart_notes": [
+        "Freesia",
+        "Milk",
+        "Orange blossom water"
+    ],
+    "base_notes": [
+        "Almond biscuit",
+        "Amber",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.7",
+            "votes": "11 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

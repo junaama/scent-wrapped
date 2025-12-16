@@ -1,0 +1,142 @@
+{
+    "name": "Fleur Majesty Rose Royale | 31",
+    "brand": "Kayali",
+    "release_year": "2025",
+    "description": "A new perfume byKayalifor women and men, released in2025. The scent is floral-sweet. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/4a/4addf1_fleur-majesty-rose-royale-31-kayali_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Fruity",
+        "Synthetic",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Pear",
+        "Mandarin orange",
+        "Orange",
+        "Peach"
+    ],
+    "heart_notes": [
+        "Rosa centifolia",
+        "Magnolia",
+        "White peony",
+        "Violet wood"
+    ],
+    "base_notes": [
+        "Ambrox Super",
+        "Musk",
+        "Praliné",
+        "Tonka bean",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "131 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "99 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "96 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "107 Ratings"
+        },
+        "pricing": {
+            "score": "6.5",
+            "votes": "77 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 19
+            },
+            {
+                "name": "Sweet",
+                "votes": 31
+            },
+            {
+                "name": "Powdery",
+                "votes": 7
+            },
+            {
+                "name": "Fruity",
+                "votes": 23
+            },
+            {
+                "name": "Fresh",
+                "votes": 14
+            },
+            {
+                "name": "Creamy",
+                "votes": 8
+            },
+            {
+                "name": "Floral",
+                "votes": 44
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 42
+            },
+            {
+                "name": "Classic",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 22
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 10
+            },
+            {
+                "name": "Fall",
+                "votes": 22
+            },
+            {
+                "name": "Summer",
+                "votes": 26
+            },
+            {
+                "name": "Spring",
+                "votes": 38
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 27
+            },
+            {
+                "name": "Leisure",
+                "votes": 31
+            },
+            {
+                "name": "Night Out",
+                "votes": 22
+            },
+            {
+                "name": "Business",
+                "votes": 19
+            },
+            {
+                "name": "Evening",
+                "votes": 22
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Chroma",
+    "brand": "Moen Perfume",
+    "release_year": "2025",
+    "description": "A new perfume byMoen Perfumefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c0/c08bf4_chroma-moen-perfume_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Ambergris",
+        "Cedarwood",
+        "Orris root",
+        "Pepper"
+    ],
+    "heart_notes": [
+        "Aquatic notes",
+        "Candied fruits",
+        "Jasmine",
+        "Mandarin orange"
+    ],
+    "base_notes": [
+        "Caraway",
+        "Gaiac wood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

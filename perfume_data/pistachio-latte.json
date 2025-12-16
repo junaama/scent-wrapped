@@ -1,0 +1,44 @@
+{
+    "name": "Pistachio Latte",
+    "brand": "Kitsch",
+    "release_year": "2025",
+    "description": "A new perfume byKitschfor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/07/07e493_pistachio-latte-kitsch_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Melon",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Cherry",
+        "Coconut",
+        "Pistachio"
+    ],
+    "base_notes": [
+        "Amber",
+        "Coffee",
+        "Musk",
+        "Nutty notes",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.5",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "5.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "4.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "5.3",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

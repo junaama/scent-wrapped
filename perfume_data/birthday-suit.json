@@ -1,0 +1,25 @@
+{
+    "name": "Birthday Suit",
+    "brand": "By/Rosie Jane",
+    "release_year": "2025",
+    "description": "A new perfume byBy/Rosie Janefor women and men, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/08/08fbaa_birthday-suit-by-rosie-jane_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Lemon blossom",
+        "Sweet apple",
+        "Tangerine"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lily",
+        "Salty air"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedar",
+        "Musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Saffron Cognac",
+    "brand": "The Dua Brand",
+    "release_year": "2025",
+    "description": "A new perfume byThe Dua Brandfor women and men, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/78/78f267_saffron-cognac-the-dua-brand_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Brandy",
+        "Plum"
+    ],
+    "heart_notes": [
+        "Coffee",
+        "Leather",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Indonesian patchouli",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "3.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

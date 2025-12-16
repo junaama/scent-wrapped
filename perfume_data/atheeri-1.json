@@ -1,0 +1,138 @@
+{
+    "name": "Atheeri",
+    "brand": "Lattafa",
+    "release_year": "2025",
+    "description": "A new perfume byLattafafor women and men, released in2025. The scent is floral-sweet. It is being marketed byLattafa Perfumes Industries LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/00/002577_atheeri-lattafa_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Creamy",
+        "Synthetic",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Passion flower",
+        "Dew drop"
+    ],
+    "heart_notes": [
+        "Orchid",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Amberwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "67 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "60 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "59 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "69 Ratings"
+        },
+        "pricing": {
+            "score": "8.8",
+            "votes": "50 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 6
+            },
+            {
+                "name": "Sweet",
+                "votes": 16
+            },
+            {
+                "name": "Powdery",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 6
+            },
+            {
+                "name": "Fresh",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 14
+            },
+            {
+                "name": "Floral",
+                "votes": 18
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 17
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 10
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 16
+            },
+            {
+                "name": "Spring",
+                "votes": 20
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 19
+            },
+            {
+                "name": "Leisure",
+                "votes": 18
+            },
+            {
+                "name": "Night Out",
+                "votes": 9
+            },
+            {
+                "name": "Business",
+                "votes": 17
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

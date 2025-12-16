@@ -1,0 +1,154 @@
+{
+    "name": "Saffron Mandarin",
+    "brand": "Liquides Imaginaires",
+    "release_year": "2025",
+    "description": "A new perfume byLiquides Imaginairesfor women and men, released in2025. The scent is sweet-citrusy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/da/dad36c_saffron-mandarin-liquides-imaginaires_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Citrus",
+        "Fruity",
+        "Woody",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Italian mandarine Orpur®",
+        "Lemon petitgrain Orpur®",
+        "Blood orange",
+        "Italian green mandarin Orpur®",
+        "Italian lemon",
+        "Madagascan pepper Orpur®",
+        "Peruvian pink pepper Orpur®"
+    ],
+    "heart_notes": [
+        "Comorian ylang-ylang Orpur®",
+        "Jasmine absolute Orpur®",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Oak wood",
+        "Siam benzoin Orpur®",
+        "Spanish labdanum",
+        "Venezuelan tonka bean Orpur®"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

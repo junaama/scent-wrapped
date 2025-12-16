@@ -1,0 +1,84 @@
+{
+    "name": "Labdanum Brut",
+    "brand": "Brioni",
+    "release_year": "2025",
+    "description": "A new perfume byBrionifor women and men, released in2025. The scent is sweet-powdery. Projection and longevity are above-average. It is being marketed byLalique Group / Art & Fragrance. The perfume is vegan according to the manufacturer.PronunciationCompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/35/359ae5_labdanum-brut-brioni_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Powdery",
+        "Leathery",
+        "Woody",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Bergamot zest",
+        "Cardamom",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Bulgarian rose",
+        "Patchouli",
+        "Rosemary"
+    ],
+    "base_notes": [
+        "Cistus",
+        "Vanillin",
+        "Vetiver",
+        "White musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.6",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ]
+    }
+}

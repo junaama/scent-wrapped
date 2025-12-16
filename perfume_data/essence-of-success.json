@@ -1,0 +1,46 @@
+{
+    "name": "Essence of Success",
+    "brand": "Banderas",
+    "release_year": "2025",
+    "description": "A new perfume byBanderasfor men, released in2025. The scent is aquatic-citrusy. It is being marketed byPuig.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4c/4caca1_essence-of-success-banderas_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Aquatic",
+        "Citrus",
+        "Woody",
+        "Fresh",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Green apple"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Lavender",
+        "Sage"
+    ],
+    "base_notes": [
+        "Amber",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

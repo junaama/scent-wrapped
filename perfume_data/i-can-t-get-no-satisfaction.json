@@ -1,0 +1,142 @@
+{
+    "name": "(I Can't Get No) Satisfaction",
+    "brand": "The Rolling Stones",
+    "release_year": "2025",
+    "description": "A new perfume byThe Rolling Stonesfor women and men, released in2025. The scent is woody-sweet. It is being marketed byNirvana Brands.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/09/097aac_i-can-t-get-no-satisfaction-the-rolling-stones_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Sweet",
+        "Synthetic",
+        "Green",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Cinnamon",
+        "Nutmeg",
+        "Pineapple",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Tobacco",
+        "Orange blossom",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Patchouli",
+        "Tonka bean",
+        "Cedar"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.6",
+            "votes": "20 Ratings"
+        },
+        "durability": {
+            "score": "5.9",
+            "votes": "19 Ratings"
+        },
+        "sillage": {
+            "score": "5.8",
+            "votes": "19 Ratings"
+        },
+        "bottle": {
+            "score": "6.2",
+            "votes": "25 Ratings"
+        },
+        "pricing": {
+            "score": "4.5",
+            "votes": "17 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Green",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "name": "Vanille No. 25",
+    "brand": "Câline",
+    "release_year": "2025",
+    "description": "A new perfume byCâlinefor women, released in2025. The scent is sweet-gourmand. It is being marketed byLifestyle Fragrance & Beauty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5a/5adbc1_vanilla-no-25-caline_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Spicy",
+        "Creamy",
+        "Floral"
+    ],
+    "top_notes": [
+        "Jasmine",
+        "Orchid",
+        "White blossoms"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Amber",
+        "Musk",
+        "Sandalwood",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "73 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "62 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "62 Ratings"
+        },
+        "bottle": {
+            "score": "6.9",
+            "votes": "60 Ratings"
+        },
+        "pricing": {
+            "score": "9.4",
+            "votes": "60 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 14
+            },
+            {
+                "name": "Sweet",
+                "votes": 19
+            },
+            {
+                "name": "Oriental",
+                "votes": 5
+            },
+            {
+                "name": "Gourmand",
+                "votes": 17
+            },
+            {
+                "name": "Creamy",
+                "votes": 12
+            },
+            {
+                "name": "Floral",
+                "votes": 10
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 20
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 13
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 19
+            },
+            {
+                "name": "Fall",
+                "votes": 20
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 10
+            },
+            {
+                "name": "Leisure",
+                "votes": 14
+            },
+            {
+                "name": "Night Out",
+                "votes": 15
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 16
+            }
+        ]
+    }
+}

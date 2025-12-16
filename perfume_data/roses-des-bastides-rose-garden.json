@@ -1,0 +1,36 @@
+{
+    "name": "Roses des Bastides",
+    "brand": "Panier des Sens",
+    "release_year": "2025",
+    "description": "A new perfume byPanier des Sensfor women, released in2025. The scent is floral-fruity.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/ce/cef844_rose-des-bastides-panier-des-sens_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fruity",
+        "Leathery",
+        "Spicy",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Cherry",
+        "Plum"
+    ],
+    "heart_notes": [
+        "Hawthorn",
+        "Rosa centifolia",
+        "Violet"
+    ],
+    "base_notes": [
+        "Leather",
+        "Oud",
+        "Patchouli"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

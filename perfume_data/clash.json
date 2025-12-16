@@ -1,0 +1,116 @@
+{
+    "name": "Clash",
+    "brand": "O Boticário",
+    "release_year": "2025",
+    "description": "A new perfume byO Boticáriofor men, released in2025. The scent is aquatic-citrusy. It is being marketed byGrupo Boticário.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/bb/bb85f0_clash-o-boticario_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Aquatic",
+        "Citrus",
+        "Fruity",
+        "Fresh",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Nepalese sichuan pepper",
+        "Starfruit",
+        "Aldehydes",
+        "Marine notes"
+    ],
+    "heart_notes": [
+        "Lavender",
+        "Geranium",
+        "Rosemary",
+        "Sage"
+    ],
+    "base_notes": [
+        "Vetiver",
+        "Moss",
+        "Amber",
+        "Cashmeran",
+        "Cedar",
+        "Coumarin",
+        "Cypress",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "5.5",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "9.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Fougère",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

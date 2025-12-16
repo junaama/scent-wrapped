@@ -1,0 +1,125 @@
+{
+    "name": "Oud Sapparot",
+    "brand": "Montale",
+    "release_year": "2025",
+    "description": "A new perfume byMontalefor women and men, released in2025. The scent is fruity-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/96/96f8ff_oud-sapparot-montale_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Spicy",
+        "Woody",
+        "Leathery"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "86 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "75 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "74 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "84 Ratings"
+        },
+        "pricing": {
+            "score": "7.4",
+            "votes": "65 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 17
+            },
+            {
+                "name": "Synthetic",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 23
+            },
+            {
+                "name": "Leathery",
+                "votes": 11
+            },
+            {
+                "name": "Woody",
+                "votes": 15
+            },
+            {
+                "name": "Fruity",
+                "votes": 26
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 24
+            },
+            {
+                "name": "Feminine",
+                "votes": 20
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 17
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 13
+            },
+            {
+                "name": "Fall",
+                "votes": 21
+            },
+            {
+                "name": "Summer",
+                "votes": 15
+            },
+            {
+                "name": "Spring",
+                "votes": 22
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Leisure",
+                "votes": 15
+            },
+            {
+                "name": "Night Out",
+                "votes": 16
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 19
+            }
+        ]
+    }
+}

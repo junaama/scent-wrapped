@@ -1,0 +1,138 @@
+{
+    "name": "Hemlock",
+    "brand": "Jinx",
+    "release_year": "2025",
+    "description": "A new and limited perfume byJinxfor women and men, released in2025. The scent is aquatic-earthy. Projection and longevity are above-average. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/ea/eabfb4_hemlock-jinx_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Aquatic",
+        "Earthy",
+        "Spicy",
+        "Woody",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Black tea",
+        "Clove",
+        "Fenugreek",
+        "Nutmeg"
+    ],
+    "heart_notes": [
+        "Frangipani",
+        "Patchouli",
+        "Smilax",
+        "Tobacco",
+        "Whisky"
+    ],
+    "base_notes": [
+        "Amber",
+        "Bangladeshian oud",
+        "Black ambergris",
+        "Black tea",
+        "Cambodian oud",
+        "Kashmiri musk",
+        "Mysore sandalwood",
+        "Red kelp",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "8 Ratings"
+        },
+        "durability": {
+            "score": "9.0",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "8.5",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

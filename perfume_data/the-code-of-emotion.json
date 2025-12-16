@@ -1,0 +1,154 @@
+{
+    "name": "The Code of Emotion",
+    "brand": "Francesca Bianchi",
+    "release_year": "2025",
+    "description": "A new perfume byFrancesca Bianchifor women and men, released in2025. The scent is fruity-sweet.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/8e/8e45e9_the-code-of-emotion-francesca-bianchi_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Floral",
+        "Synthetic",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Mango",
+        "Exotic fruits",
+        "Lavender",
+        "Pelargonium"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Sandalwood",
+        "Oakmoss",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.7",
+            "votes": "70 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "54 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "56 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "48 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "34 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Spicy",
+                "votes": 8
+            },
+            {
+                "name": "Synthetic",
+                "votes": 9
+            },
+            {
+                "name": "Sweet",
+                "votes": 17
+            },
+            {
+                "name": "Woody",
+                "votes": 8
+            },
+            {
+                "name": "Fruity",
+                "votes": 17
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Fougère",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 8
+            },
+            {
+                "name": "Floral",
+                "votes": 10
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 9
+            },
+            {
+                "name": "Feminine",
+                "votes": 13
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 16
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 12
+            },
+            {
+                "name": "Summer",
+                "votes": 14
+            },
+            {
+                "name": "Spring",
+                "votes": 16
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 16
+            },
+            {
+                "name": "Night Out",
+                "votes": 10
+            },
+            {
+                "name": "Business",
+                "votes": 8
+            },
+            {
+                "name": "Evening",
+                "votes": 10
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "À La Mangue",
+    "brand": "Flairée",
+    "release_year": "2025",
+    "description": "A new perfume byFlairéefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4b/4b6d8c_a-la-mangue-flairee_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Coconut",
+        "Mango"
+    ],
+    "heart_notes": [
+        "Mango blossom",
+        "Rice milk",
+        "Tiaré"
+    ],
+    "base_notes": [
+        "Brown sugar",
+        "Musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

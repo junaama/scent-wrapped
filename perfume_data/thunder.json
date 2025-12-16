@@ -1,0 +1,134 @@
+{
+    "name": "Thunder",
+    "brand": "French Avenue",
+    "release_year": "2025",
+    "description": "A new perfume byFrench Avenuefor men, released in2025. The scent is powdery-floral. It is being marketed byFragrance World Trading LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3a/3ae46f_thunder-french-avenue_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Powdery",
+        "Floral",
+        "Spicy",
+        "Sweet",
+        "Woody"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Elemi resin",
+        "Lavender",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Iris",
+        "Vanilla milk"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Tonka bean",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "49 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "47 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "46 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "45 Ratings"
+        },
+        "pricing": {
+            "score": "8.8",
+            "votes": "41 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Powdery",
+                "votes": 12
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 9
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 13
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 11
+            },
+            {
+                "name": "Fall",
+                "votes": 13
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 10
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 11
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "name": "Biker's Soul",
+    "brand": "Calaj",
+    "release_year": "2025",
+    "description": "A new perfume byCalajfor women and men, released in2025. The scent is synthetic-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/18/18d3ec_biker-s-soul-calaj_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Spicy",
+        "Leathery",
+        "Woody",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Juniper berry",
+        "Bergamot",
+        "Grapefruit",
+        "Lemon",
+        "Mandarin orange",
+        "Peach"
+    ],
+    "heart_notes": [
+        "Fuel",
+        "Red champaca absolute",
+        "Clove",
+        "Frankincense",
+        "Jasmine sambac absolute",
+        "Ylang-ylang",
+        "Violet leaf absolute"
+    ],
+    "base_notes": [
+        "Cypriol",
+        "Leather",
+        "Castoreum",
+        "Labdanum",
+        "Opoponax absolute",
+        "Suede",
+        "Texas cedar",
+        "Vanilla",
+        "Virginia cedar"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.0",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "5.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

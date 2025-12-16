@@ -1,0 +1,107 @@
+{
+    "name": "Éclat Rouge",
+    "brand": "Vivace Perfumes",
+    "release_year": "2025",
+    "description": "A new perfume byVivace Perfumesfor women and men, released in2025. The scent is fruity-sweet. The longevity is above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/50/50cc24_eclat-rouge-agar-aura_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Woody",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Grapefruit",
+        "Apple",
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Red berries",
+        "Strawberry"
+    ],
+    "base_notes": [
+        "Spices",
+        "Malayan oud",
+        "Woods"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "13 Ratings"
+        },
+        "durability": {
+            "score": "8.6",
+            "votes": "11 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

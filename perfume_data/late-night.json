@@ -1,0 +1,61 @@
+{
+    "name": "Late Night",
+    "brand": "Réservation",
+    "release_year": "2025",
+    "description": "A new perfume byRéservationfor women and men, released in2025. The scent is floral-leathery. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/49/49a2b0_late-night-reservation_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Leathery",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Cardamom"
+    ],
+    "heart_notes": [
+        "Milk"
+    ],
+    "base_notes": [
+        "Australian sandalwood",
+        "Cedarwood",
+        "Indian sandalwood",
+        "Leather",
+        "Patchouli",
+        "Tobacco",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ]
+    }
+}

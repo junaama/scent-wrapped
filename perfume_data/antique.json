@@ -1,0 +1,161 @@
+{
+    "name": "Antique",
+    "brand": "Nebiru Parfvms",
+    "release_year": "2025",
+    "description": "A new perfume byNebiru Parfvmsfor women and men, released in2025. The scent is chypreartig-floral. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d0/d09096_antique-nebiru-parfvms_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Chypre",
+        "Floral",
+        "Citrus",
+        "Sweet",
+        "Animal"
+    ],
+    "top_notes": [
+        "Aldehydes",
+        "Italian bergamot",
+        "Peach",
+        "Italian lemon",
+        "Italian mandarin orange",
+        "Moroccan neroli",
+        "Italian herbs"
+    ],
+    "heart_notes": [
+        "Soap",
+        "Bulgarian rose absolute",
+        "Florentine iris absolute",
+        "Jasmine absolute",
+        "Neroli",
+        "Jasmine",
+        "Orris root resinoid",
+        "Rose",
+        "Ylang-ylang absolute"
+    ],
+    "base_notes": [
+        "Ethiopian civet",
+        "Oakmoss",
+        "Vanilla absolute",
+        "Amber",
+        "Ceylonese sandalwood",
+        "Java vetiver",
+        "Patchouli",
+        "Siam benzoin",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.7",
+            "votes": "49 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "43 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "44 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "34 Ratings"
+        },
+        "pricing": {
+            "score": "8.4",
+            "votes": "31 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Chypre",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            },
+            {
+                "name": "Animal",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

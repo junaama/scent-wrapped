@@ -1,0 +1,142 @@
+{
+    "name": "Choose Happiness",
+    "brand": "Emil Élise",
+    "release_year": "2025",
+    "description": "A new perfume byEmil Élisefor women and men, released in2025. The scent is fruity-floral.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b3/b319a8_choose-happiness-emil-elise_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Floral",
+        "Sweet",
+        "Woody",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Pear",
+        "Peony",
+        "Lychee",
+        "Blackcurrant bud"
+    ],
+    "heart_notes": [
+        "Hibiscus",
+        "Leather",
+        "Frankincense",
+        "Immortelle",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Vanilla",
+        "Woods"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "76 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "66 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "65 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "65 Ratings"
+        },
+        "pricing": {
+            "score": "7.7",
+            "votes": "53 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 11
+            },
+            {
+                "name": "Synthetic",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 15
+            },
+            {
+                "name": "Woody",
+                "votes": 11
+            },
+            {
+                "name": "Fruity",
+                "votes": 18
+            },
+            {
+                "name": "Floral",
+                "votes": 17
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 12
+            },
+            {
+                "name": "Feminine",
+                "votes": 20
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 15
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 14
+            },
+            {
+                "name": "Summer",
+                "votes": 15
+            },
+            {
+                "name": "Spring",
+                "votes": 20
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 17
+            },
+            {
+                "name": "Leisure",
+                "votes": 17
+            },
+            {
+                "name": "Night Out",
+                "votes": 15
+            },
+            {
+                "name": "Business",
+                "votes": 12
+            },
+            {
+                "name": "Evening",
+                "votes": 11
+            }
+        ]
+    }
+}

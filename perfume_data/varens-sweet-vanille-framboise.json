@@ -1,0 +1,39 @@
+{
+    "name": "Varens Sweet - Vanille Framboise",
+    "brand": "Ulric de Varens",
+    "release_year": "2025",
+    "description": "A new perfume byUlric de Varensfor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/dd/dd6072_varens-sweet-vanille-framboise-ulric-de-varens_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Lemon",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Praliné",
+        "Raspberry"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

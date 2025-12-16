@@ -1,0 +1,154 @@
+{
+    "name": "Dark Cedrus",
+    "brand": "Lou de Pre",
+    "release_year": "2025",
+    "description": "A new perfume byLou de Prefor men, released in2025. The scent is citrusy-fruity. It is being marketed byLCC Brands.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d0/d0edb0_dark-cedrus-lou-de-pre_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fruity",
+        "Fresh",
+        "Woody",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Pineapple",
+        "Apple",
+        "Bergamot",
+        "Blackcurrant",
+        "Lemon",
+        "Elemi resin"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Juniper",
+        "Moroccan rose"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Cedarwood",
+        "Leather",
+        "Musk",
+        "Oakmoss"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "52 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "46 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "47 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "47 Ratings"
+        },
+        "pricing": {
+            "score": "9.0",
+            "votes": "46 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 11
+            },
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Smoky",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 8
+            },
+            {
+                "name": "Fruity",
+                "votes": 9
+            },
+            {
+                "name": "Fresh",
+                "votes": 8
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 14
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 15
+            },
+            {
+                "name": "Spring",
+                "votes": 15
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 13
+            },
+            {
+                "name": "Sport",
+                "votes": 8
+            },
+            {
+                "name": "Leisure",
+                "votes": 13
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

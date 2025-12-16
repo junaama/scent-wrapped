@@ -1,0 +1,140 @@
+{
+    "name": "Topaz",
+    "brand": "Kajal",
+    "release_year": "2025",
+    "description": "A new perfume byKajalfor women and men, released in2025. The scent is citrusy-fruity.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/73/7325b2_topaz-kajal_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fruity",
+        "Sweet",
+        "Fresh",
+        "Floral"
+    ],
+    "top_notes": [
+        "Black lemon",
+        "Elderflower",
+        "Orange blossom",
+        "Rum"
+    ],
+    "heart_notes": [
+        "Candied lemon",
+        "Blackcurrant CO2",
+        "Rose absolute",
+        "Cedarwood"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Ambroxan",
+        "Musk",
+        "Cashmere wood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "71 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "63 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "61 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "60 Ratings"
+        },
+        "pricing": {
+            "score": "6.3",
+            "votes": "52 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 25
+            },
+            {
+                "name": "Sweet",
+                "votes": 21
+            },
+            {
+                "name": "Woody",
+                "votes": 7
+            },
+            {
+                "name": "Fruity",
+                "votes": 24
+            },
+            {
+                "name": "Fresh",
+                "votes": 15
+            },
+            {
+                "name": "Floral",
+                "votes": 12
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 19
+            },
+            {
+                "name": "Feminine",
+                "votes": 23
+            },
+            {
+                "name": "Modern",
+                "votes": 20
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 10
+            },
+            {
+                "name": "Fall",
+                "votes": 18
+            },
+            {
+                "name": "Summer",
+                "votes": 21
+            },
+            {
+                "name": "Spring",
+                "votes": 28
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 20
+            },
+            {
+                "name": "Sport",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 26
+            },
+            {
+                "name": "Night Out",
+                "votes": 18
+            },
+            {
+                "name": "Business",
+                "votes": 11
+            },
+            {
+                "name": "Evening",
+                "votes": 14
+            }
+        ]
+    }
+}

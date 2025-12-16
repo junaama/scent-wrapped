@@ -1,0 +1,129 @@
+{
+    "name": "Vanilla Wonders",
+    "brand": "Spirit",
+    "release_year": "2025",
+    "description": "A new perfume bySpiritfor women, released in2025. The scent is gourmand-sweet. It is being marketed byLifestyle Fragrance & Beauty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2d/2d772c_vanilla-wonders-spirit_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Sweet",
+        "Powdery",
+        "Creamy",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Powdery notes",
+        "Milk",
+        "Butter"
+    ],
+    "heart_notes": [
+        "Vanilla",
+        "Caramel",
+        "Raspberry"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "29 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "28 Ratings"
+        },
+        "sillage": {
+            "score": "6.4",
+            "votes": "27 Ratings"
+        },
+        "bottle": {
+            "score": "6.5",
+            "votes": "23 Ratings"
+        },
+        "pricing": {
+            "score": "9.3",
+            "votes": "24 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 9
+            },
+            {
+                "name": "Powdery",
+                "votes": 7
+            },
+            {
+                "name": "Gourmand",
+                "votes": 10
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 10
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

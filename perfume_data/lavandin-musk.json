@@ -1,0 +1,30 @@
+{
+    "name": "Lavandin Musk",
+    "brand": "Barzakh",
+    "release_year": "2025",
+    "description": "A new perfume byBarzakhfor women and men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Apricot",
+        "Provençal lavender",
+        "Yuzu"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Mimosa",
+        "Oakmoss",
+        "Tuberose",
+        "Violet",
+        "White lilac",
+        "White rose"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Sandalwood",
+        "Siberian deer musk",
+        "Thai oud"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

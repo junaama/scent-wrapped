@@ -1,0 +1,48 @@
+{
+    "name": "Aurora Borealis",
+    "brand": "Dark Tales",
+    "release_year": "2025",
+    "description": "A new perfume byDark Talesfor women and men, released in2025. The scent is citrusy-floral.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/51/51e42b_aurora-borealis-parfum-dark-tales_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Floral",
+        "Fresh",
+        "Synthetic",
+        "Woody"
+    ],
+    "top_notes": [
+        "Vervain",
+        "Elemi resin",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Blue cypress",
+        "Jasmine",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Amber",
+        "White musk",
+        "Woody notes"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.7",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

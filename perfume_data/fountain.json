@@ -1,0 +1,31 @@
+{
+    "name": "Fountain",
+    "brand": "House of Matriarch",
+    "release_year": "2025",
+    "description": "A new perfume byHouse of Matriarchfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d1/d14d37_fountain-house-of-matriarch_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Broom",
+        "Holy basil",
+        "Hyssop",
+        "Lotus",
+        "Parma violet"
+    ],
+    "heart_notes": [
+        "Cadam tree",
+        "Lavender",
+        "Limestone",
+        "Rose water",
+        "Watermelon"
+    ],
+    "base_notes": [
+        "Algae",
+        "Aloe vera",
+        "Blue iris",
+        "Dihydroambrettolide",
+        "New Zealand ambergris"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

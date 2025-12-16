@@ -1,0 +1,143 @@
+{
+    "name": "Orchid Mantis",
+    "brand": "Zoologist",
+    "release_year": "2025",
+    "description": "A new perfume byZoologistfor women and men, released in2025. The scent is floral-green. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/36/3664b1_orchid-mantis-zoologist_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Green",
+        "Earthy",
+        "Fresh",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Green notes",
+        "Bergamot",
+        "Pear",
+        "Basil",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Pink orchid",
+        "Ylang-ylang",
+        "Jasmine absolute",
+        "Queen-of-the-night",
+        "Rose absolute"
+    ],
+    "base_notes": [
+        "Moss",
+        "Musk",
+        "Vetiver",
+        "Patchouli",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "59 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "51 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "50 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "48 Ratings"
+        },
+        "pricing": {
+            "score": "6.8",
+            "votes": "33 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Green",
+                "votes": 20
+            },
+            {
+                "name": "Fresh",
+                "votes": 9
+            },
+            {
+                "name": "Earthy",
+                "votes": 14
+            },
+            {
+                "name": "Floral",
+                "votes": 24
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 10
+            },
+            {
+                "name": "Feminine",
+                "votes": 19
+            },
+            {
+                "name": "Classic",
+                "votes": 11
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 13
+            },
+            {
+                "name": "Summer",
+                "votes": 16
+            },
+            {
+                "name": "Spring",
+                "votes": 20
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 11
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 15
+            },
+            {
+                "name": "Night Out",
+                "votes": 17
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 14
+            }
+        ]
+    }
+}

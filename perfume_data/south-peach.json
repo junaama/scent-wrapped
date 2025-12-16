@@ -1,0 +1,34 @@
+{
+    "name": "South Peach",
+    "brand": "The Saltworks Company",
+    "release_year": "2025",
+    "description": "A new perfume byThe Saltworks Companyfor women and men, released in2025. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ed/ed5b3e_south-peach-the-saltworks-company_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Honey",
+        "Lime",
+        "Peach",
+        "Red apple"
+    ],
+    "heart_notes": [
+        "Hibiscus",
+        "Powder"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.5",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

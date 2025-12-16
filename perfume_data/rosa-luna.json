@@ -1,0 +1,24 @@
+{
+    "name": "Rosa Luna",
+    "brand": "Van Dang",
+    "release_year": "2025",
+    "description": "A new perfume byVan Dangfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6e/6ecf99_rosa-luna-van-dang_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cumin",
+        "Pimento"
+    ],
+    "heart_notes": [
+        "Cypriol",
+        "Lily of the valley",
+        "Rose"
+    ],
+    "base_notes": [
+        "Black musk",
+        "Oakmoss",
+        "Patchouli"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

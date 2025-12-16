@@ -1,0 +1,142 @@
+{
+    "name": "Kakigori - White Crush",
+    "brand": "Obvious",
+    "release_year": "2025",
+    "description": "A new perfume byObviousfor women and men, released in2025. The scent is fresh-creamy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/92/92416e_kakigori-white-crush-obvious_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Creamy",
+        "Synthetic",
+        "Floral",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Clean notes",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Orris concrete",
+        "Rose Essential™"
+    ],
+    "base_notes": [
+        "Tonka bean absolute",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.6",
+            "votes": "43 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "32 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "31 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "35 Ratings"
+        },
+        "pricing": {
+            "score": "7.1",
+            "votes": "20 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 12
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Powdery",
+                "votes": 5
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 13
+            },
+            {
+                "name": "Creamy",
+                "votes": 13
+            },
+            {
+                "name": "Floral",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 14
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 13
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 13
+            },
+            {
+                "name": "Summer",
+                "votes": 10
+            },
+            {
+                "name": "Spring",
+                "votes": 16
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 15
+            },
+            {
+                "name": "Sport",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 16
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 15
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

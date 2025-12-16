@@ -1,0 +1,36 @@
+{
+    "name": "Why Not?",
+    "brand": "Sedra",
+    "release_year": "2025",
+    "description": "A new perfume bySedrafor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/30/30bc57_why-not-sedra_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Black pepper",
+        "Blackcurrant",
+        "Blood orange",
+        "Ginger",
+        "Red pepper"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Cardamom",
+        "Cashmere wood",
+        "Cocoa",
+        "Frankincense",
+        "Rose"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Sandalwood",
+        "Tonka bean",
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

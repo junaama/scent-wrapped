@@ -1,0 +1,46 @@
+{
+    "name": "Soul Nectar",
+    "brand": "Mihan Aromatics",
+    "release_year": "2025",
+    "description": "A new and limited perfume byMihan Aromaticsfor women and men, released in2025. The scent is floral-fruity. The perfume is vegan according to the manufacturer.CompareLimitedVegan",
+    "image_url": "https://media.parfumo.com/perfumes/33/332fa3_soul-nectar-mihan-aromatics_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fruity",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Lychee",
+        "Mandarin orange",
+        "Mango"
+    ],
+    "heart_notes": [
+        "Iris",
+        "Jasmine",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Musk",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ]
+    }
+}

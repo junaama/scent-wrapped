@@ -1,0 +1,25 @@
+{
+    "name": "Trois Soeurs",
+    "brand": "Le Marvi",
+    "release_year": "2025",
+    "description": "A new perfume byLe Marvifor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/e1/e151ff_trois-soeurs-le-marvi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Saffron",
+        "Ylang-ylang"
+    ],
+    "heart_notes": [
+        "Cardamom",
+        "Rose",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

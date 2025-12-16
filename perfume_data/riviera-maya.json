@@ -1,0 +1,135 @@
+{
+    "name": "Riviera Maya",
+    "brand": "Aaron Terence Hughes",
+    "release_year": "2025",
+    "description": "A new and limited perfume byAaron Terence Hughesfor women and men, released in2025. The scent is fruity-sweet. Projection and longevity are above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/81/813355_riviera-maya-aaron-terence-hughes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Aquatic",
+        "Citrus",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Lime",
+        "Brazilian orange",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Banana",
+        "Sea salt",
+        "Coconut",
+        "Melon",
+        "Pineapple"
+    ],
+    "base_notes": [
+        "Amber",
+        "Peppermint",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "45 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "44 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "44 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "41 Ratings"
+        },
+        "pricing": {
+            "score": "7.4",
+            "votes": "37 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 6
+            },
+            {
+                "name": "Sweet",
+                "votes": 10
+            },
+            {
+                "name": "Fruity",
+                "votes": 11
+            },
+            {
+                "name": "Fresh",
+                "votes": 6
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Aquatic",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 9
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 12
+            },
+            {
+                "name": "Spring",
+                "votes": 8
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

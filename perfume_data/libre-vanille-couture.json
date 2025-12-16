@@ -1,0 +1,121 @@
+{
+    "name": "Libre Vanille Couture",
+    "brand": "Yves Saint Laurent",
+    "release_year": "2025",
+    "description": "A new and limited perfume byYves Saint Laurentfor women, released in2025. The scent is sweet-floral. The longevity is above-average. It is being marketed byL'Oréal.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/41/418397_libre-vanille-couture-yves-saint-laurent_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Creamy",
+        "Spicy",
+        "Gourmand"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "166 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "137 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "135 Ratings"
+        },
+        "bottle": {
+            "score": "8.8",
+            "votes": "138 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "110 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 20
+            },
+            {
+                "name": "Sweet",
+                "votes": 50
+            },
+            {
+                "name": "Gourmand",
+                "votes": 16
+            },
+            {
+                "name": "Creamy",
+                "votes": 25
+            },
+            {
+                "name": "Floral",
+                "votes": 35
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 51
+            },
+            {
+                "name": "Classic",
+                "votes": 9
+            },
+            {
+                "name": "Modern",
+                "votes": 29
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 46
+            },
+            {
+                "name": "Fall",
+                "votes": 50
+            },
+            {
+                "name": "Summer",
+                "votes": 9
+            },
+            {
+                "name": "Spring",
+                "votes": 23
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 30
+            },
+            {
+                "name": "Leisure",
+                "votes": 33
+            },
+            {
+                "name": "Night Out",
+                "votes": 43
+            },
+            {
+                "name": "Business",
+                "votes": 28
+            },
+            {
+                "name": "Evening",
+                "votes": 40
+            }
+        ]
+    }
+}

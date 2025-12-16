@@ -1,0 +1,139 @@
+{
+    "name": "Antiquity II",
+    "brand": "Areej Le Doré",
+    "release_year": "2025",
+    "description": "A new perfume byAreej Le Doréfor women and men, released in2025. The scent is citrusy-woody. Projection and longevity are above-average. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8c/8c21bd_antiquity-ii-attar-areej-le-dore_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Woody",
+        "Green",
+        "Powdery",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Peach aldehyde",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Patchouli",
+        "Carnation",
+        "Angelica seed",
+        "Cambodian oud",
+        "Violet leaf"
+    ],
+    "base_notes": [
+        "Deer musk absolute",
+        "Indonesian patchouli",
+        "Russian leather",
+        "Oakmoss"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "18 Ratings"
+        },
+        "durability": {
+            "score": "9.3",
+            "votes": "16 Ratings"
+        },
+        "sillage": {
+            "score": "8.3",
+            "votes": "15 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "16 Ratings"
+        },
+        "pricing": {
+            "score": "8.7",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

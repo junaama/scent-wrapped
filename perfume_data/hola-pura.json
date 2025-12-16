@@ -1,0 +1,24 @@
+{
+    "name": "Hola Pura",
+    "brand": "YaKa",
+    "release_year": "2025",
+    "description": "A new perfume byYaKafor women and men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "May rose absolute",
+        "Orange blossom",
+        "Osmanthus absolute"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Narcissus",
+        "Tuberose absolute"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

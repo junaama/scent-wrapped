@@ -1,0 +1,26 @@
+{
+    "name": "Brise Marine",
+    "brand": "Alex Simone",
+    "release_year": "2025",
+    "description": "A new perfume byAlex Simonefor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/61/61c2f5_brise-marine-alex-simone_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Neroli"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

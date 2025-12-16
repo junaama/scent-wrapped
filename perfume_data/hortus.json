@@ -1,0 +1,154 @@
+{
+    "name": "Hortus",
+    "brand": "Giardino Benessere",
+    "release_year": "2025",
+    "description": "A new perfume byGiardino Benesserefor women and men, released in2025. The scent is fresh-citrusy. It is being marketed byCereria Terenzi Evelino.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/73/737651_hortus-giardino-benessere_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Citrus",
+        "Green",
+        "Floral",
+        "Woody"
+    ],
+    "top_notes": [
+        "Italian lemon",
+        "Sicilian orange",
+        "Italian fern",
+        "Italian freesia",
+        "Italian lavender",
+        "Indian cardamom",
+        "Italian osmanthus",
+        "Italian violet"
+    ],
+    "heart_notes": [
+        "Chinese Jasminum grandiflorum",
+        "Thai ylang-ylang",
+        "Apricot blossom",
+        "Asian lotus",
+        "Italian peach blossom",
+        "Italian plum",
+        "Japanese cherry blossom"
+    ],
+    "base_notes": [
+        "Musk",
+        "African ebony",
+        "Australian sandalwood",
+        "Italian oak",
+        "Tuscan oak moss",
+        "Italian birch wood",
+        "Italian red elm"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "120 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "106 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "102 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "97 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "75 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 39
+            },
+            {
+                "name": "Spicy",
+                "votes": 18
+            },
+            {
+                "name": "Woody",
+                "votes": 20
+            },
+            {
+                "name": "Green",
+                "votes": 33
+            },
+            {
+                "name": "Fresh",
+                "votes": 44
+            },
+            {
+                "name": "Floral",
+                "votes": 28
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 40
+            },
+            {
+                "name": "Feminine",
+                "votes": 25
+            },
+            {
+                "name": "Classic",
+                "votes": 20
+            },
+            {
+                "name": "Modern",
+                "votes": 24
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 20
+            },
+            {
+                "name": "Summer",
+                "votes": 42
+            },
+            {
+                "name": "Spring",
+                "votes": 46
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 45
+            },
+            {
+                "name": "Sport",
+                "votes": 18
+            },
+            {
+                "name": "Leisure",
+                "votes": 43
+            },
+            {
+                "name": "Night Out",
+                "votes": 14
+            },
+            {
+                "name": "Business",
+                "votes": 33
+            },
+            {
+                "name": "Evening",
+                "votes": 13
+            }
+        ]
+    }
+}

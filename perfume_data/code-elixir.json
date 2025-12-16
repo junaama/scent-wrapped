@@ -1,0 +1,136 @@
+{
+    "name": "Code Elixir",
+    "brand": "Giorgio Armani",
+    "release_year": "2025",
+    "description": "A new perfume byGiorgio Armanifor men, released in2025. The scent is leathery-spicy. Projection and longevity are above-average. It is being marketed byL'Oréal.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ed/ed0625_code-elixir-giorgio-armani_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Leathery",
+        "Spicy",
+        "Sweet",
+        "Smoky",
+        "Woody"
+    ],
+    "top_notes": [
+        "Calabrian green mandarin orange"
+    ],
+    "heart_notes": [
+        "Smoked leather",
+        "Liqueur"
+    ],
+    "base_notes": [
+        "Roasted tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "118 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "102 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "103 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "103 Ratings"
+        },
+        "pricing": {
+            "score": "7.2",
+            "votes": "92 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 23
+            },
+            {
+                "name": "Sweet",
+                "votes": 21
+            },
+            {
+                "name": "Smoky",
+                "votes": 15
+            },
+            {
+                "name": "Leathery",
+                "votes": 26
+            },
+            {
+                "name": "Woody",
+                "votes": 12
+            },
+            {
+                "name": "Resinous",
+                "votes": 6
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 28
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 16
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 27
+            },
+            {
+                "name": "Fall",
+                "votes": 26
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 13
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Leisure",
+                "votes": 15
+            },
+            {
+                "name": "Night Out",
+                "votes": 27
+            },
+            {
+                "name": "Business",
+                "votes": 10
+            },
+            {
+                "name": "Evening",
+                "votes": 25
+            }
+        ]
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "name": "Oudous Cerasus",
+    "brand": "Nishane",
+    "release_year": "2025",
+    "description": "A new perfume byNishanefor women and men, released in2025. The scent is fruity-spicy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d7/d7042c_oudous-cerasus-nishane_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Spicy",
+        "Woody",
+        "Earthy",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Calone",
+        "Italian mandarin orange",
+        "Honey pomelo",
+        "Maraschino cherry"
+    ],
+    "heart_notes": [
+        "Akigalawood®",
+        "Spanish cistus",
+        "Honeycomb"
+    ],
+    "base_notes": [
+        "Akigalawood®",
+        "Oud",
+        "Indonesian patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "30 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "29 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "29 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "39 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "24 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 8
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Fruity",
+                "votes": 10
+            },
+            {
+                "name": "Earthy",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

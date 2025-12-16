@@ -1,0 +1,24 @@
+{
+    "name": "White Russian",
+    "brand": "Meg Fragrance",
+    "release_year": "2025",
+    "description": "A new perfume byMeg Fragrancefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/51/5183d9_white-russian-meg-fragrance_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cocoa butter",
+        "Coffee"
+    ],
+    "heart_notes": [
+        "Chocolate",
+        "Milky notes"
+    ],
+    "base_notes": [
+        "Cinnamon",
+        "Musk",
+        "Vanilla",
+        "Vodka"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

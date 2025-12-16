@@ -1,0 +1,121 @@
+{
+    "name": "Sun Cities",
+    "brand": "Vilhelm Parfumerie",
+    "release_year": "2025",
+    "description": "A new perfume byVilhelm Parfumeriefor women and men, released in2025. The scent is synthetic-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d2/d2c1dc-sun-cities-vilhelm-parfumerie_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Fresh",
+        "Floral",
+        "Fruity",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Italian mandarin orange",
+        "Pineapple",
+        "Sri Lankan cardamom"
+    ],
+    "heart_notes": [
+        "Corsican immortelle",
+        "Violet",
+        "Greek saffron",
+        "Chinese osmanthus",
+        "Leather",
+        "Oakmoss"
+    ],
+    "base_notes": [
+        "Amber",
+        "Indonesian patchouli",
+        "Musk",
+        "Sugar"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "9 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

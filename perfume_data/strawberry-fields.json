@@ -1,0 +1,93 @@
+{
+    "name": "Strawberry Fields",
+    "brand": "Clean",
+    "release_year": "2025",
+    "description": "A new perfume byCleanfor women, released in2025. The scent is fruity-synthetic. It is being marketed byClean Beauty Collective Inc. / Fusion Brands Inc.. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/ad/ad6812_strawberry-fields-clean_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Synthetic",
+        "Sweet",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Linen",
+        "Woodland strawberry"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Orchid"
+    ],
+    "base_notes": [
+        "Amber",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.3",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "5.0",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "4.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "6.3",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

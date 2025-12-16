@@ -1,0 +1,93 @@
+{
+    "name": "The Lover",
+    "brand": "Antagonist",
+    "release_year": "2025",
+    "description": "A new and limited perfume byAntagonistfor women and men, released in2025. The scent is floral-fresh.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/b6/b6eb88_the-lover-antagonist_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Green"
+    ],
+    "top_notes": [
+        "Bitter orange zest",
+        "Green rose",
+        "Lemon grass"
+    ],
+    "heart_notes": [
+        "Aged paper",
+        "Aquatic notes",
+        "Cinnamon",
+        "Iris",
+        "Rose",
+        "Violet"
+    ],
+    "base_notes": [
+        "Amber",
+        "Benzoin",
+        "Charred sandalwood",
+        "White frankincense"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.0",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "5.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            }
+        ]
+    }
+}

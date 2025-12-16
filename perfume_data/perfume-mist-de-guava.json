@@ -1,0 +1,93 @@
+{
+    "name": "Perfume Mist de Guava",
+    "brand": "Ceremonia",
+    "release_year": "2025",
+    "description": "A new perfume byCeremoniafor women and men, released in2025. The scent is fruity.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7f/7f0f7c_perfume-mist-de-guava-ceremonia_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity"
+    ],
+    "top_notes": [
+        "Guava",
+        "Lemon zest",
+        "Peach"
+    ],
+    "heart_notes": [
+        "Black tea",
+        "Jasmine",
+        "Violet"
+    ],
+    "base_notes": [
+        "Brown sugar",
+        "Tonka bean",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "4.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "1.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Fruity",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "name": "Royal Extract III",
+    "brand": "Guerlain",
+    "release_year": "2025",
+    "description": "A new and limited perfume byGuerlainfor women and men, released in2025. The scent is chypreartig-fruity. It is being marketed byLVMH.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/2b/2b9f91_royal-extract-iii-guerlain_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Chypre",
+        "Fruity",
+        "Creamy",
+        "Floral",
+        "Earthy"
+    ],
+    "top_notes": [
+        "White peach"
+    ],
+    "heart_notes": [
+        "Rose"
+    ],
+    "base_notes": [
+        "Patchouli",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "17 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "14 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "13 Ratings"
+        },
+        "bottle": {
+            "score": "9.4",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Oriental",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Earthy",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            },
+            {
+                "name": "Chypre",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

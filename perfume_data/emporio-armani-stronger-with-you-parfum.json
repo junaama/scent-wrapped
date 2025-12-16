@@ -1,0 +1,133 @@
+{
+    "name": "Emporio Armani - Stronger With You Parfum",
+    "brand": "Giorgio Armani",
+    "release_year": "2025",
+    "description": "A new perfume byGiorgio Armanifor men, released in2025. The scent is sweet-spicy. The longevity is above-average. It is being marketed byL'Oréal.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a1/a16153-emporio-armani-stronger-with-you-parfum-giorgio-armani_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Leathery",
+        "Woody",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Elemi resin",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Lavender",
+        "Clary sage"
+    ],
+    "base_notes": [
+        "Bourbon vanilla",
+        "Leather",
+        "Marron glacé",
+        "Cedar"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "291 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "243 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "240 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "253 Ratings"
+        },
+        "pricing": {
+            "score": "6.8",
+            "votes": "224 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 53
+            },
+            {
+                "name": "Sweet",
+                "votes": 60
+            },
+            {
+                "name": "Oriental",
+                "votes": 19
+            },
+            {
+                "name": "Leathery",
+                "votes": 43
+            },
+            {
+                "name": "Woody",
+                "votes": 34
+            },
+            {
+                "name": "Gourmand",
+                "votes": 30
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 61
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Classic",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 39
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 58
+            },
+            {
+                "name": "Fall",
+                "votes": 57
+            },
+            {
+                "name": "Spring",
+                "votes": 17
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 16
+            },
+            {
+                "name": "Leisure",
+                "votes": 33
+            },
+            {
+                "name": "Night Out",
+                "votes": 58
+            },
+            {
+                "name": "Business",
+                "votes": 16
+            },
+            {
+                "name": "Evening",
+                "votes": 56
+            }
+        ]
+    }
+}

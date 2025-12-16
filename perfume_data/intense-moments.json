@@ -1,0 +1,131 @@
+{
+    "name": "Intense Moments",
+    "brand": "Diana zur Löwen",
+    "release_year": "2025",
+    "description": "A new perfume byDiana zur Löwenfor women, released in2025. The scent is sweet-gourmand. It is being marketed byOnivo Cosmetics.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5d/5df014_intense-moments-diana-zur-lowen_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Creamy",
+        "Woody",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Almond",
+        "Citrus notes",
+        "Pistachio"
+    ],
+    "heart_notes": [
+        "Coconut",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "11 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "5.5",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

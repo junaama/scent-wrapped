@@ -1,0 +1,138 @@
+{
+    "name": "Boss Bottled Bold Citrus",
+    "brand": "Hugo Boss",
+    "release_year": "2025",
+    "description": "A new and limited perfume byHugo Bossfor men, released in2025. The scent is citrusy-fresh. It is being marketed byCoty.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/c4/c4e7ee_boss-bottled-bold-citrus-hugo-boss_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Green",
+        "Woody",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Primofiore lemon",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Bourbon geranium",
+        "Elemi resin"
+    ],
+    "base_notes": [
+        "Patchouli",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "232 Ratings"
+        },
+        "durability": {
+            "score": "6.4",
+            "votes": "202 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "202 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "207 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "185 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 65
+            },
+            {
+                "name": "Spicy",
+                "votes": 28
+            },
+            {
+                "name": "Synthetic",
+                "votes": 14
+            },
+            {
+                "name": "Woody",
+                "votes": 33
+            },
+            {
+                "name": "Green",
+                "votes": 41
+            },
+            {
+                "name": "Fruity",
+                "votes": 17
+            },
+            {
+                "name": "Fresh",
+                "votes": 58
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 60
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Classic",
+                "votes": 15
+            },
+            {
+                "name": "Modern",
+                "votes": 41
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 20
+            },
+            {
+                "name": "Summer",
+                "votes": 66
+            },
+            {
+                "name": "Spring",
+                "votes": 63
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 55
+            },
+            {
+                "name": "Sport",
+                "votes": 42
+            },
+            {
+                "name": "Leisure",
+                "votes": 58
+            },
+            {
+                "name": "Night Out",
+                "votes": 17
+            },
+            {
+                "name": "Business",
+                "votes": 40
+            },
+            {
+                "name": "Evening",
+                "votes": 20
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Hidden Gardens",
+    "brand": "The Dua Brand",
+    "release_year": "2025",
+    "description": "A new perfume byThe Dua Brandfor women and men, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/c7/c7c728_hidden-gardens-the-dua-brand-dua-fragrances_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blackcurrant bud",
+        "Fig",
+        "Water lily"
+    ],
+    "heart_notes": [
+        "Iris",
+        "Jasmine",
+        "Orris root"
+    ],
+    "base_notes": [
+        "Bourbon vanilla",
+        "Musk",
+        "Patchouli",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "4.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

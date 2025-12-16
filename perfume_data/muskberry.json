@@ -1,0 +1,138 @@
+{
+    "name": "Muskberry",
+    "brand": "Moresque",
+    "release_year": "2025",
+    "description": "A new perfume byMoresquefor women and men, released in2025. The scent is fruity-sweet. It is being marketed byHIC Beauty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3f/3f3943_muskberry-moresque_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Synthetic",
+        "Floral",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Strawberry",
+        "Blackberry",
+        "Raspberry",
+        "Passion fruit",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Rose",
+        "Jasmine",
+        "Mossy notes",
+        "Iris"
+    ],
+    "base_notes": [
+        "Amber",
+        "Caramel",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "47 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "42 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "41 Ratings"
+        },
+        "bottle": {
+            "score": "8.7",
+            "votes": "51 Ratings"
+        },
+        "pricing": {
+            "score": "6.5",
+            "votes": "31 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Synthetic",
+                "votes": 14
+            },
+            {
+                "name": "Sweet",
+                "votes": 15
+            },
+            {
+                "name": "Powdery",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 18
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 15
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 13
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 12
+            },
+            {
+                "name": "Spring",
+                "votes": 13
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Night Out",
+                "votes": 10
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 12
+            }
+        ]
+    }
+}

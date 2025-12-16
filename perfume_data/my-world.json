@@ -1,0 +1,31 @@
+{
+    "name": "My World",
+    "brand": "Halloween",
+    "release_year": "2025",
+    "description": "A new perfume byHalloweenfor men, released in2025. It is being marketed byPerfumes y Diseño.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/09/09e546_my-world-halloween_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Cardamom",
+        "Ginger"
+    ],
+    "heart_notes": [
+        "Black pepper",
+        "Clary sage",
+        "Juniper berry",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Cashmeran",
+        "Praliné",
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.2",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {}
+}

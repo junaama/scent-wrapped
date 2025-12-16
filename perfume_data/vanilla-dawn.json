@@ -1,0 +1,33 @@
+{
+    "name": "Vanilla Dawn",
+    "brand": "Crescent Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byCrescent Parfumsfor women and men, released in2025. The scent is gourmand-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/58/589cb5_vanilla-dawn-crescent-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Jasmine",
+        "Vanilla orchid"
+    ],
+    "heart_notes": [
+        "Brown sugar",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cream",
+        "Patchouli",
+        "Vanilla",
+        "White musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

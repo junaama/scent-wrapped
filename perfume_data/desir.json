@@ -1,0 +1,25 @@
+{
+    "name": "Désir",
+    "brand": "Parfums de Luxe",
+    "release_year": "2025",
+    "description": "A new perfume byParfums de Luxefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/fb/fba62a_desir-parfums-de-luxe_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Papaya",
+        "Pineapple"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedar",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

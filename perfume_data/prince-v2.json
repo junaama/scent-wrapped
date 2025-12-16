@@ -1,0 +1,98 @@
+{
+    "name": "Prince v2",
+    "brand": "Lost Tribe",
+    "release_year": "2025",
+    "description": "A new perfume byLost Tribefor women and men, released in2025. The scent is woody-creamy. Projection and longevity are above-average. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7b/7b199c_prince-v2-lost-tribe_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Chinese geranium",
+        "Japanese yuzu",
+        "Maillette lavender",
+        "White ambergris"
+    ],
+    "heart_notes": [
+        "Callitris columellaris",
+        "Jasmine sambac",
+        "Lavender absolute",
+        "Neroli",
+        "Osmanthus",
+        "Turkish rose"
+    ],
+    "base_notes": [
+        "Cedar moss",
+        "Fir needle",
+        "Mongolian musk",
+        "Papua oud",
+        "Patchouli",
+        "Red sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.3",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

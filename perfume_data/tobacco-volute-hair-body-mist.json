@@ -1,0 +1,30 @@
+{
+    "name": "Tobacco Volute",
+    "brand": "L'Atelier Parfum",
+    "release_year": "2025",
+    "description": "A new perfume byL'Atelier Parfumfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e8/e878e1_tobacco-volute-hair-body-mist-l-atelier-parfum_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bitter almond",
+        "Wheat",
+        "Wheat bran"
+    ],
+    "heart_notes": [
+        "Hay",
+        "Maté",
+        "Tobacco"
+    ],
+    "base_notes": [
+        "Bourbon vanilla",
+        "Tonka bean",
+        "Liatris spicata"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

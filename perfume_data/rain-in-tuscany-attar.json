@@ -1,0 +1,44 @@
+{
+    "name": "Rain in Tuscany",
+    "brand": "The Misk Company",
+    "release_year": "2025",
+    "description": "A new perfume byThe Misk Companyfor women and men, released in2025. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f7/f70b75_rain-in-tuscany-attar-the-misk-company_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Aldehydes",
+        "Rose",
+        "Bergamot",
+        "Jasmine",
+        "White blossoms",
+        "Mitti attar"
+    ],
+    "heart_notes": [
+        "Rose",
+        "Saffron",
+        "Spices"
+    ],
+    "base_notes": [
+        "Aromatic notes",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Tom & Jerry",
+    "brand": "House of Sillage",
+    "release_year": "2025",
+    "description": "A new perfume byHouse of Sillagefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/59/597156_tom-jerry-house-of-sillage_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Dew drop",
+        "Lemon",
+        "Pink pepper",
+        "Tangerine"
+    ],
+    "heart_notes": [
+        "Jasmine sambac absolute",
+        "Nectarine",
+        "Rose",
+        "Violet leaf"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

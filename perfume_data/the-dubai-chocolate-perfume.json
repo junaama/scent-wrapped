@@ -1,0 +1,28 @@
+{
+    "name": "The Dubai Chocolate Perfume",
+    "brand": "Vivamor Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byVivamor Parfumsfor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/2c/2c6dac_the-dubai-chocolate-perfume-vivamor-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Pistachio",
+        "Sicilian bergamot"
+    ],
+    "heart_notes": [
+        "Chocolate",
+        "Knafeh",
+        "Pistachio cream"
+    ],
+    "base_notes": [
+        "Bourbon vanilla",
+        "Tonka bean absolute"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

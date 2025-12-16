@@ -1,0 +1,30 @@
+{
+    "name": "Boho Breeze",
+    "brand": "Pepe Jeans",
+    "release_year": "2025",
+    "description": "A new perfume byPepe Jeansfor women, released in2025. It is being marketed byTailored Perfumes.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/72/72e317_boho-breeze-pepe-jeans_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cherry",
+        "Mandarin orange",
+        "Pistachio"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lily of the valley",
+        "Rose"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "4.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

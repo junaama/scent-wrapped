@@ -1,0 +1,139 @@
+{
+    "name": "Chance Eau Splendide",
+    "brand": "Chanel",
+    "release_year": "2025",
+    "description": "A new perfume byChanelfor women, released in2025. The scent is fruity-floral.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/5c/5c92f7_chance-eau-splendide-chanel_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Floral",
+        "Fresh",
+        "Sweet",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Raspberry",
+        "Rose",
+        "Violet"
+    ],
+    "heart_notes": [
+        "Geranium leaf",
+        "Iris"
+    ],
+    "base_notes": [
+        "White musk",
+        "Cedarwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "271 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "221 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "223 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "214 Ratings"
+        },
+        "pricing": {
+            "score": "5.7",
+            "votes": "173 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 28
+            },
+            {
+                "name": "Sweet",
+                "votes": 46
+            },
+            {
+                "name": "Powdery",
+                "votes": 18
+            },
+            {
+                "name": "Fruity",
+                "votes": 88
+            },
+            {
+                "name": "Fresh",
+                "votes": 59
+            },
+            {
+                "name": "Creamy",
+                "votes": 15
+            },
+            {
+                "name": "Floral",
+                "votes": 87
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 92
+            },
+            {
+                "name": "Classic",
+                "votes": 14
+            },
+            {
+                "name": "Modern",
+                "votes": 58
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 13
+            },
+            {
+                "name": "Fall",
+                "votes": 32
+            },
+            {
+                "name": "Summer",
+                "votes": 91
+            },
+            {
+                "name": "Spring",
+                "votes": 100
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 92
+            },
+            {
+                "name": "Sport",
+                "votes": 13
+            },
+            {
+                "name": "Leisure",
+                "votes": 85
+            },
+            {
+                "name": "Night Out",
+                "votes": 25
+            },
+            {
+                "name": "Business",
+                "votes": 68
+            },
+            {
+                "name": "Evening",
+                "votes": 22
+            }
+        ]
+    }
+}

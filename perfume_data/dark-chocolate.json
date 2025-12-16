@@ -1,0 +1,150 @@
+{
+    "name": "Dark Chocolate",
+    "brand": "Gulf Orchid",
+    "release_year": "2025",
+    "description": "A new perfume byGulf Orchidfor women and men, released in2025. The scent is spicy-citrusy. It is being marketed byGulf Orchid Fragrances.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/fb/fbd505_dark-chocolate-gulf-orchid_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Citrus",
+        "Sweet",
+        "Gourmand",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Mandarin orange",
+        "Cardamom"
+    ],
+    "heart_notes": [
+        "Chocolate",
+        "Cocoa",
+        "Aniseed flower",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Musk",
+        "Vanilla",
+        "Amber",
+        "Labdanum"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "19 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "17 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "17 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "19 Ratings"
+        },
+        "pricing": {
+            "score": "9.1",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

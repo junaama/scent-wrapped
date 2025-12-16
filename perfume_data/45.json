@@ -1,0 +1,143 @@
+{
+    "name": "45°",
+    "brand": "Trudon",
+    "release_year": "2025",
+    "description": "A new perfume byTrudonfor women and men, released in2025. The scent is sweet-resinous. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d3/d33860_45-trudon_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Resinous",
+        "Woody",
+        "Powdery",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Honey",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Vanilla absolute",
+        "Vanilla CO2",
+        "Georgywood®"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Vanillin"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "23 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "18 Ratings"
+        },
+        "sillage": {
+            "score": "8.1",
+            "votes": "17 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "19 Ratings"
+        },
+        "pricing": {
+            "score": "6.2",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 10
+            },
+            {
+                "name": "Powdery",
+                "votes": 5
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 7
+            },
+            {
+                "name": "Resinous",
+                "votes": 8
+            },
+            {
+                "name": "Gourmand",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 10
+            },
+            {
+                "name": "Fall",
+                "votes": 11
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 10
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

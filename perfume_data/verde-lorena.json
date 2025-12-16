@@ -1,0 +1,35 @@
+{
+    "name": "Verde Lorena",
+    "brand": "Teatro Fragranze Uniche",
+    "release_year": "2025",
+    "description": "A new perfume byTeatro Fragranze Unichefor women and men, released in2025. The scent is fresh-green.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/63/63b65c_verde-lorena-teatro-fragranze-uniche_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Green"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Lime",
+        "Mint",
+        "Peppermint"
+    ],
+    "heart_notes": [
+        "Fennel",
+        "Matcha",
+        "Violet",
+        "White rose"
+    ],
+    "base_notes": [
+        "Lemon tree wood",
+        "Vetiver",
+        "White musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

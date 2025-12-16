@@ -1,0 +1,126 @@
+{
+    "name": "Emporio Armani - Stronger With You Sandalwood",
+    "brand": "Giorgio Armani",
+    "release_year": "2025",
+    "description": "A new perfume byGiorgio Armanifor men, released in2025. The scent is woody-sweet. The longevity is above-average. It is being marketed byL'Oréal.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/04/046c32_emporio-armani-stronger-with-you-sandalwood-giorgio-armani_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Sweet",
+        "Spicy",
+        "Creamy",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Marron glacé",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Sandalwood",
+        "Cedarwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "110 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "100 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "101 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "101 Ratings"
+        },
+        "pricing": {
+            "score": "7.4",
+            "votes": "93 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 16
+            },
+            {
+                "name": "Sweet",
+                "votes": 21
+            },
+            {
+                "name": "Powdery",
+                "votes": 9
+            },
+            {
+                "name": "Woody",
+                "votes": 22
+            },
+            {
+                "name": "Creamy",
+                "votes": 12
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 22
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 17
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 20
+            },
+            {
+                "name": "Fall",
+                "votes": 22
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 14
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 14
+            },
+            {
+                "name": "Night Out",
+                "votes": 19
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 19
+            }
+        ]
+    }
+}

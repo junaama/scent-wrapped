@@ -1,0 +1,143 @@
+{
+    "name": "Turathi Electric",
+    "brand": "Afnan Perfumes",
+    "release_year": "2025",
+    "description": "A new perfume byAfnan Perfumesfor women and men, released in2025. The scent is fruity-synthetic.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5c/5cca84_turathi-electric-afnan-perfumes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Synthetic",
+        "Sweet",
+        "Fresh",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Pear",
+        "Pink grapefruit",
+        "Mandarin orange",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Apple",
+        "Cedarwood",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Ambrofix",
+        "Musk",
+        "Amber",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "204 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "193 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "195 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "188 Ratings"
+        },
+        "pricing": {
+            "score": "8.2",
+            "votes": "179 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 31
+            },
+            {
+                "name": "Synthetic",
+                "votes": 36
+            },
+            {
+                "name": "Sweet",
+                "votes": 36
+            },
+            {
+                "name": "Fruity",
+                "votes": 39
+            },
+            {
+                "name": "Fresh",
+                "votes": 36
+            },
+            {
+                "name": "Floral",
+                "votes": 11
+            },
+            {
+                "name": "Aquatic",
+                "votes": 12
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 42
+            },
+            {
+                "name": "Feminine",
+                "votes": 21
+            },
+            {
+                "name": "Modern",
+                "votes": 37
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 13
+            },
+            {
+                "name": "Summer",
+                "votes": 48
+            },
+            {
+                "name": "Spring",
+                "votes": 45
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 43
+            },
+            {
+                "name": "Sport",
+                "votes": 24
+            },
+            {
+                "name": "Leisure",
+                "votes": 42
+            },
+            {
+                "name": "Night Out",
+                "votes": 19
+            },
+            {
+                "name": "Business",
+                "votes": 26
+            },
+            {
+                "name": "Evening",
+                "votes": 13
+            }
+        ]
+    }
+}

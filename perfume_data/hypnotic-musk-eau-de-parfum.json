@@ -1,0 +1,139 @@
+{
+    "name": "Hypnotic Musk",
+    "brand": "M. Micallef",
+    "release_year": "2025",
+    "description": "A new perfume byM. Micalleffor women, released in2025. The scent is fruity-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7a/7a1aba_hypnotic-musk-m-micallef_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Floral",
+        "Powdery",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Raspberry",
+        "Bergamot",
+        "Iris"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Lychee",
+        "Violet",
+        "Ginger"
+    ],
+    "base_notes": [
+        "Musk",
+        "Ambergris",
+        "Vanilla",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "126 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "108 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "109 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "111 Ratings"
+        },
+        "pricing": {
+            "score": "6.2",
+            "votes": "83 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 13
+            },
+            {
+                "name": "Sweet",
+                "votes": 39
+            },
+            {
+                "name": "Powdery",
+                "votes": 21
+            },
+            {
+                "name": "Fruity",
+                "votes": 40
+            },
+            {
+                "name": "Fresh",
+                "votes": 8
+            },
+            {
+                "name": "Creamy",
+                "votes": 17
+            },
+            {
+                "name": "Floral",
+                "votes": 21
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 42
+            },
+            {
+                "name": "Classic",
+                "votes": 8
+            },
+            {
+                "name": "Modern",
+                "votes": 23
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 13
+            },
+            {
+                "name": "Fall",
+                "votes": 19
+            },
+            {
+                "name": "Summer",
+                "votes": 30
+            },
+            {
+                "name": "Spring",
+                "votes": 39
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 28
+            },
+            {
+                "name": "Leisure",
+                "votes": 32
+            },
+            {
+                "name": "Night Out",
+                "votes": 23
+            },
+            {
+                "name": "Business",
+                "votes": 17
+            },
+            {
+                "name": "Evening",
+                "votes": 22
+            }
+        ]
+    }
+}

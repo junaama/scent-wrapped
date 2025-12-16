@@ -1,0 +1,22 @@
+{
+    "name": "Jasmine Peach",
+    "brand": "eos",
+    "release_year": "2025",
+    "description": "A new perfume byeosfor women, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/43/432124_jasmine-peach-eos_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Apricot nectar",
+        "Wild rose"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Peach skin"
+    ],
+    "base_notes": [
+        "Honey",
+        "Vanilla sugar"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

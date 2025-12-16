@@ -1,0 +1,161 @@
+{
+    "name": "Mahaba",
+    "brand": "Anfas",
+    "release_year": "2025",
+    "description": "A new perfume byAnfasfor women and men, released in2025. The scent is fruity-citrusy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/37/3725b6_mahaba-2025-anfas_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Citrus",
+        "Spicy",
+        "Sweet",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Lemon",
+        "Mandarin orange",
+        "Neroli",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Ginger",
+        "Juniper",
+        "Lavender",
+        "Leather",
+        "Nuts",
+        "Oud",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "12 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "10 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "10 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "14 Ratings"
+        },
+        "pricing": {
+            "score": "5.8",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

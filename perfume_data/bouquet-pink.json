@@ -1,0 +1,138 @@
+{
+    "name": "Bouquet Pink",
+    "brand": "Câline",
+    "release_year": "2025",
+    "description": "A new perfume byCâlinefor women, released in2025. The scent is fruity-floral. It is being marketed byLifestyle Fragrance & Beauty. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/c0/c01423_bouquet-pink-caline_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Floral",
+        "Sweet",
+        "Powdery",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Blackcurrant",
+        "Pink pepper",
+        "Plum"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Jasmine sambac",
+        "Rose"
+    ],
+    "base_notes": [
+        "Iris",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "20 Ratings"
+        },
+        "durability": {
+            "score": "6.1",
+            "votes": "19 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "18 Ratings"
+        },
+        "bottle": {
+            "score": "6.8",
+            "votes": "19 Ratings"
+        },
+        "pricing": {
+            "score": "8.9",
+            "votes": "17 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 10
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 9
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 10
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Leisure",
+                "votes": 10
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

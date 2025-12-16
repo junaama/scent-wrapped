@@ -1,0 +1,142 @@
+{
+    "name": "Impadia",
+    "brand": "bdk Parfums",
+    "release_year": "2025",
+    "description": "A new perfume bybdk Parfumsfor women and men, released in2025. The scent is sweet-floral. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/88/88f72e_impadia-bdk-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Fruity",
+        "Creamy",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Italian bergamot",
+        "Italian mandarine Orpur®",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Bulgarian rose",
+        "Moroccan orange blossom absolute Orpur®",
+        "Turkish rose absolute Orpur®"
+    ],
+    "base_notes": [
+        "Akigalawood®",
+        "Praliné",
+        "Bourbon vanilla absolute",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "281 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "241 Ratings"
+        },
+        "sillage": {
+            "score": "8.1",
+            "votes": "240 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "248 Ratings"
+        },
+        "pricing": {
+            "score": "7.2",
+            "votes": "200 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 19
+            },
+            {
+                "name": "Synthetic",
+                "votes": 20
+            },
+            {
+                "name": "Sweet",
+                "votes": 57
+            },
+            {
+                "name": "Powdery",
+                "votes": 12
+            },
+            {
+                "name": "Fruity",
+                "votes": 42
+            },
+            {
+                "name": "Creamy",
+                "votes": 26
+            },
+            {
+                "name": "Floral",
+                "votes": 56
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 10
+            },
+            {
+                "name": "Feminine",
+                "votes": 61
+            },
+            {
+                "name": "Classic",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 35
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 25
+            },
+            {
+                "name": "Fall",
+                "votes": 48
+            },
+            {
+                "name": "Summer",
+                "votes": 41
+            },
+            {
+                "name": "Spring",
+                "votes": 58
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 36
+            },
+            {
+                "name": "Leisure",
+                "votes": 50
+            },
+            {
+                "name": "Night Out",
+                "votes": 47
+            },
+            {
+                "name": "Business",
+                "votes": 30
+            },
+            {
+                "name": "Evening",
+                "votes": 45
+            }
+        ]
+    }
+}

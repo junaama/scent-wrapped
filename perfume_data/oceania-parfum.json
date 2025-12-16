@@ -1,0 +1,161 @@
+{
+    "name": "Oceania",
+    "brand": "Roja Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byRoja Parfumsfor women and men, released in2025. The scent is fresh-citrusy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/18/188e0f_oceania-parfum-roja-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Citrus",
+        "Aquatic",
+        "Creamy",
+        "Floral"
+    ],
+    "top_notes": [
+        "Lemon",
+        "Litsea cubeba",
+        "Bergamot",
+        "Grapefruit",
+        "Lime",
+        "Provençal lavender",
+        "Mandarin orange",
+        "Rosemary",
+        "Thyme"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Jasmine sambac",
+        "Grasse jasmine",
+        "Violet",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Vetiver",
+        "Benzoin",
+        "Iris",
+        "Juniper berry",
+        "Labdanum",
+        "Moss",
+        "Musk",
+        "Galbanum",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "117 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "105 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "102 Ratings"
+        },
+        "bottle": {
+            "score": "9.0",
+            "votes": "109 Ratings"
+        },
+        "pricing": {
+            "score": "4.8",
+            "votes": "93 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 28
+            },
+            {
+                "name": "Spicy",
+                "votes": 8
+            },
+            {
+                "name": "Fruity",
+                "votes": 7
+            },
+            {
+                "name": "Fresh",
+                "votes": 30
+            },
+            {
+                "name": "Creamy",
+                "votes": 19
+            },
+            {
+                "name": "Floral",
+                "votes": 19
+            },
+            {
+                "name": "Aquatic",
+                "votes": 23
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 29
+            },
+            {
+                "name": "Feminine",
+                "votes": 13
+            },
+            {
+                "name": "Classic",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 16
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 11
+            },
+            {
+                "name": "Summer",
+                "votes": 29
+            },
+            {
+                "name": "Spring",
+                "votes": 24
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 24
+            },
+            {
+                "name": "Sport",
+                "votes": 12
+            },
+            {
+                "name": "Leisure",
+                "votes": 26
+            },
+            {
+                "name": "Night Out",
+                "votes": 20
+            },
+            {
+                "name": "Business",
+                "votes": 20
+            },
+            {
+                "name": "Evening",
+                "votes": 15
+            }
+        ]
+    }
+}

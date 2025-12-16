@@ -1,0 +1,35 @@
+{
+    "name": "Vintage Vanilla",
+    "brand": "Horace",
+    "release_year": "2025",
+    "description": "A new perfume byHoracefor women and men, released in2025. The scent is sweet-spicy. Projection and longevity are above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/78/785643_vintage-vanilla-horace_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Powdery",
+        "Leathery",
+        "Animal"
+    ],
+    "top_notes": [
+        "Cumin",
+        "Nutmeg",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Saffron",
+        "Violet"
+    ],
+    "base_notes": [
+        "Labdanum",
+        "Leather",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

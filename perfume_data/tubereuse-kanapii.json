@@ -1,0 +1,134 @@
+{
+    "name": "Tubereuse Kanapii",
+    "brand": "Maison Incens",
+    "release_year": "2025",
+    "description": "A new and limited perfume byMaison Incensfor women and men, released in2025. Projection and longevity are above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/5b/5bda46_tubereuse-kanapii-maison-incens_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Animal",
+        "Sweet",
+        "Green",
+        "Citrus",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Fruits",
+        "Green notes",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Cannabis",
+        "Jasmine absolute",
+        "Tuberose",
+        "Violet",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Benzoin",
+        "Musk",
+        "Oakmoss",
+        "Solar note",
+        "Vanilla absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "10",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "10",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "10",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

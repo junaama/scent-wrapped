@@ -1,0 +1,31 @@
+{
+    "name": "Cerulean Bloom",
+    "brand": "Sentier",
+    "release_year": "2025",
+    "description": "A new perfume bySentierfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d6/d66a90_cerulean-bloom-sentier_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Aquatic notes",
+        "Magnolia",
+        "Water lily"
+    ],
+    "heart_notes": [
+        "Freesia",
+        "Jasmine",
+        "Orchid",
+        "Violet"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

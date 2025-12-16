@@ -1,0 +1,105 @@
+{
+    "name": "Moko",
+    "brand": "Wolf Brothers",
+    "release_year": "2025",
+    "description": "A new perfume byWolf Brothersfor women and men, released in2025. The scent is aquatic-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/96/964601_moko-wolf-brothers_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Aquatic",
+        "Fresh",
+        "Green",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Aquatic notes",
+        "Akigalawood®",
+        "Fig leaf",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Salicylate",
+        "Cedarwood",
+        "Lily of the valley"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Oakmoss",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Aquatic",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            }
+        ]
+    }
+}

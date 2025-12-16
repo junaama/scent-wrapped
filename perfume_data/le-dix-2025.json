@@ -1,0 +1,141 @@
+{
+    "name": "Le Dix",
+    "brand": "Balenciaga",
+    "release_year": "2025",
+    "description": "A new perfume byBalenciagafor women and men, released in2025. The scent is powdery-floral. It is being marketed byKering Beauté.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/98/98642e_le-dix-2025-balenciaga_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Powdery",
+        "Floral",
+        "Woody",
+        "Sweet",
+        "Green"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "37 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "30 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "29 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "23 Ratings"
+        },
+        "pricing": {
+            "score": "6.8",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Sweet",
+                "votes": 10
+            },
+            {
+                "name": "Smoky",
+                "votes": 6
+            },
+            {
+                "name": "Powdery",
+                "votes": 17
+            },
+            {
+                "name": "Woody",
+                "votes": 12
+            },
+            {
+                "name": "Resinous",
+                "votes": 6
+            },
+            {
+                "name": "Green",
+                "votes": 7
+            },
+            {
+                "name": "Fresh",
+                "votes": 6
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 16
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 15
+            },
+            {
+                "name": "Feminine",
+                "votes": 13
+            },
+            {
+                "name": "Classic",
+                "votes": 15
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 11
+            },
+            {
+                "name": "Fall",
+                "votes": 15
+            },
+            {
+                "name": "Summer",
+                "votes": 9
+            },
+            {
+                "name": "Spring",
+                "votes": 17
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 12
+            },
+            {
+                "name": "Leisure",
+                "votes": 14
+            },
+            {
+                "name": "Night Out",
+                "votes": 12
+            },
+            {
+                "name": "Business",
+                "votes": 12
+            },
+            {
+                "name": "Evening",
+                "votes": 12
+            }
+        ]
+    }
+}

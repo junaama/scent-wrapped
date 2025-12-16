@@ -1,0 +1,142 @@
+{
+    "name": "Silver Lining",
+    "brand": "Heinsson",
+    "release_year": "2025",
+    "description": "A new perfume byHeinssonfor women and men, released in2025. The scent is citrusy-fresh. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6f/6f828c_silver-lining-heinsson_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Aquatic",
+        "Woody",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Ginger",
+        "Lemon",
+        "Lime",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Mint",
+        "Rosemary"
+    ],
+    "base_notes": [
+        "Woods",
+        "Aquatic notes",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "28 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "24 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "23 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "21 Ratings"
+        },
+        "pricing": {
+            "score": "7.8",
+            "votes": "18 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 11
+            },
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 8
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Fresh",
+                "votes": 10
+            },
+            {
+                "name": "Aquatic",
+                "votes": 9
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 10
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 10
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 11
+            },
+            {
+                "name": "Spring",
+                "votes": 10
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 10
+            },
+            {
+                "name": "Sport",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 10
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 8
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

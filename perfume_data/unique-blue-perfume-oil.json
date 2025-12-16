@@ -1,0 +1,29 @@
+{
+    "name": "Unique Blue",
+    "brand": "Superz.",
+    "release_year": "2025",
+    "description": "A new perfume bySuperz.for women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c3/c3efe4_unique-blue-perfume-oil-superz_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Pineapple",
+        "Passion fruit",
+        "Lemon",
+        "Yuzu"
+    ],
+    "heart_notes": [
+        "Salt",
+        "Eucalyptus",
+        "Peppermint",
+        "Ginger"
+    ],
+    "base_notes": [
+        "Musk",
+        "Marine notes",
+        "Amber",
+        "Cedarwood",
+        "Mossy notes"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

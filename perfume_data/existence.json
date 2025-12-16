@@ -1,0 +1,144 @@
+{
+    "name": "Existence",
+    "brand": "Amouage",
+    "release_year": "2025",
+    "description": "A new perfume byAmouagefor women and men, released in2025. The scent is floral-fresh. Projection and longevity are above-average. It is being marketed bySabco Group / Oman Perfumery.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5b/5b915a_existence-amouage_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Synthetic",
+        "Sweet",
+        "Green"
+    ],
+    "top_notes": [
+        "Lily of the valley",
+        "Rose"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Mystikal®",
+        "Labdanum"
+    ],
+    "base_notes": [
+        "White musk",
+        "Ambergris",
+        "Benzoin"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "214 Ratings"
+        },
+        "durability": {
+            "score": "8.8",
+            "votes": "196 Ratings"
+        },
+        "sillage": {
+            "score": "8.4",
+            "votes": "191 Ratings"
+        },
+        "bottle": {
+            "score": "8.8",
+            "votes": "176 Ratings"
+        },
+        "pricing": {
+            "score": "6.0",
+            "votes": "145 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 45
+            },
+            {
+                "name": "Sweet",
+                "votes": 30
+            },
+            {
+                "name": "Powdery",
+                "votes": 13
+            },
+            {
+                "name": "Resinous",
+                "votes": 15
+            },
+            {
+                "name": "Green",
+                "votes": 20
+            },
+            {
+                "name": "Fresh",
+                "votes": 49
+            },
+            {
+                "name": "Creamy",
+                "votes": 16
+            },
+            {
+                "name": "Floral",
+                "votes": 70
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 16
+            },
+            {
+                "name": "Feminine",
+                "votes": 63
+            },
+            {
+                "name": "Classic",
+                "votes": 23
+            },
+            {
+                "name": "Modern",
+                "votes": 42
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 25
+            },
+            {
+                "name": "Fall",
+                "votes": 49
+            },
+            {
+                "name": "Summer",
+                "votes": 50
+            },
+            {
+                "name": "Spring",
+                "votes": 67
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 41
+            },
+            {
+                "name": "Leisure",
+                "votes": 54
+            },
+            {
+                "name": "Night Out",
+                "votes": 39
+            },
+            {
+                "name": "Business",
+                "votes": 34
+            },
+            {
+                "name": "Evening",
+                "votes": 34
+            }
+        ]
+    }
+}

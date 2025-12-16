@@ -1,0 +1,148 @@
+{
+    "name": "Midnight Oak",
+    "brand": "Reynolds and REYNØLDS",
+    "release_year": "2025",
+    "description": "A new perfume byReynolds and REYNØLDSfor men, released in2025. The scent is woody-resinous. It is being marketed by2 Pilots.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c2/c2f325_midnight-oak-reynolds-and-reynolds_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Resinous",
+        "Spicy",
+        "Smoky",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Frankincense",
+        "Green notes",
+        "Oriental notes"
+    ],
+    "heart_notes": [
+        "Resins",
+        "Woody notes",
+        "Tobacco",
+        "Coffee"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Amber notes",
+        "Patchouli",
+        "Labdanum",
+        "Fig"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.7",
+            "votes": "19 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "19 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "19 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "20 Ratings"
+        },
+        "pricing": {
+            "score": "7.5",
+            "votes": "17 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 4
+            },
+            {
+                "name": "Oriental",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 10
+            },
+            {
+                "name": "Resinous",
+                "votes": 9
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Earthy",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 10
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 11
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 9
+            },
+            {
+                "name": "Business",
+                "votes": 8
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Baklava",
+    "brand": "Elixir Attar",
+    "release_year": "2025",
+    "description": "A new perfume byElixir Attarfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b3/b3aabe_baklava-perfume-oil-elixir-attar_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Honey",
+        "Pastry",
+        "Toasted walnut"
+    ],
+    "heart_notes": [
+        "Cardamom",
+        "Exotic spices",
+        "Rose water",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Amber",
+        "Syrup",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

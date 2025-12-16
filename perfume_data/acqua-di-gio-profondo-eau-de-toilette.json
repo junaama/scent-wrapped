@@ -1,0 +1,133 @@
+{
+    "name": "Acqua di Giò Profondo",
+    "brand": "Giorgio Armani",
+    "release_year": "2025",
+    "description": "A new perfume byGiorgio Armanifor men, released in2025. The scent is fresh-aquatic. It is being marketed byL'Oréal.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a8/a8f38a_acqua-di-gio-profondo-eau-de-toilette-giorgio-armani_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Aquatic",
+        "Citrus",
+        "Spicy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Grapefruit",
+        "Lemon",
+        "Spices"
+    ],
+    "heart_notes": [
+        "Calone",
+        "Cypress",
+        "Provençal lavender"
+    ],
+    "base_notes": [
+        "Mineral notes",
+        "Guatemala patchouly",
+        "Woody notes"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "109 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "95 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "94 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "100 Ratings"
+        },
+        "pricing": {
+            "score": "7.2",
+            "votes": "80 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 27
+            },
+            {
+                "name": "Spicy",
+                "votes": 13
+            },
+            {
+                "name": "Woody",
+                "votes": 10
+            },
+            {
+                "name": "Fruity",
+                "votes": 8
+            },
+            {
+                "name": "Fresh",
+                "votes": 28
+            },
+            {
+                "name": "Aquatic",
+                "votes": 28
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 26
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 21
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 11
+            },
+            {
+                "name": "Summer",
+                "votes": 27
+            },
+            {
+                "name": "Spring",
+                "votes": 24
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 25
+            },
+            {
+                "name": "Sport",
+                "votes": 20
+            },
+            {
+                "name": "Leisure",
+                "votes": 25
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 22
+            },
+            {
+                "name": "Evening",
+                "votes": 10
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Black Sugar",
+    "brand": "Skylar",
+    "release_year": "2025",
+    "description": "A new and limited perfume bySkylarfor women and men, released in2025.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/ae/ae4318_black-sugar-skylar_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Heliotrope",
+        "Sugar"
+    ],
+    "heart_notes": [
+        "Rose",
+        "Black sugar",
+        "Sandalwood"
+    ],
+    "base_notes": [
+        "Amber",
+        "Bourbon vanilla",
+        "Molasses"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

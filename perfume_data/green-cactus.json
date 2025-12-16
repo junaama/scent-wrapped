@@ -1,0 +1,144 @@
+{
+    "name": "Green Cactus",
+    "brand": "Phil Julian",
+    "release_year": "2025",
+    "description": "A new perfume byPhil Julianfor women and men, released in2025. The scent is green-citrusy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/24/24be02_green-cactus-phil-julian_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Citrus",
+        "Fresh",
+        "Fruity",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Prickly pear",
+        "Yuzu",
+        "Bergamot",
+        "Lime"
+    ],
+    "heart_notes": [
+        "Aloe vera",
+        "Cactus",
+        "Fig",
+        "Green tea",
+        "Mint",
+        "Cardamom",
+        "Pink pepper"
+    ],
+    "base_notes": [
+        "Musk",
+        "Amber",
+        "Cedarwood",
+        "Labdanum",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "201 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "189 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "184 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "163 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "158 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 44
+            },
+            {
+                "name": "Spicy",
+                "votes": 11
+            },
+            {
+                "name": "Sweet",
+                "votes": 13
+            },
+            {
+                "name": "Green",
+                "votes": 51
+            },
+            {
+                "name": "Fruity",
+                "votes": 25
+            },
+            {
+                "name": "Fresh",
+                "votes": 44
+            },
+            {
+                "name": "Creamy",
+                "votes": 23
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 46
+            },
+            {
+                "name": "Feminine",
+                "votes": 36
+            },
+            {
+                "name": "Modern",
+                "votes": 40
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 19
+            },
+            {
+                "name": "Summer",
+                "votes": 53
+            },
+            {
+                "name": "Spring",
+                "votes": 44
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 43
+            },
+            {
+                "name": "Sport",
+                "votes": 25
+            },
+            {
+                "name": "Leisure",
+                "votes": 49
+            },
+            {
+                "name": "Night Out",
+                "votes": 17
+            },
+            {
+                "name": "Business",
+                "votes": 34
+            },
+            {
+                "name": "Evening",
+                "votes": 17
+            }
+        ]
+    }
+}

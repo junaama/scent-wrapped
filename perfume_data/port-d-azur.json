@@ -1,0 +1,30 @@
+{
+    "name": "Port d'Azur",
+    "brand": "Montagne Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byMontagne Parfumsfor women and men, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/69/69f522_port-d-azur-montagne-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Pineapple",
+        "Sea salt"
+    ],
+    "heart_notes": [
+        "Ginger",
+        "Passion fruit",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Caramel",
+        "White musk",
+        "Woody notes"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

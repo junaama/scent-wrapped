@@ -1,0 +1,31 @@
+{
+    "name": "Colorful Chaos",
+    "brand": "Pepe Jeans",
+    "release_year": "2025",
+    "description": "A new perfume byPepe Jeansfor women, released in2025. It is being marketed byTailored Perfumes.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/da/da8860_colorful-chaos-pepe-jeans_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Currant",
+        "Lychee",
+        "Pear",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Lily of the valley",
+        "Peony",
+        "Rose absolute"
+    ],
+    "base_notes": [
+        "Cedar",
+        "Moss",
+        "Musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "4.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

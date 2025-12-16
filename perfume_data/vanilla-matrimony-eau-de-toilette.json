@@ -1,0 +1,27 @@
+{
+    "name": "Vanilla Matrimony",
+    "brand": "Maison Chanceux",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Chanceuxfor women, released in2025. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b3/b315b7_vanilla-matrimony-eau-de-toilette-maison-chanceux_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Sugar"
+    ],
+    "heart_notes": [
+        "Cake",
+        "Milk"
+    ],
+    "base_notes": [
+        "Butter",
+        "Tonka bean",
+        "Vanilla absolute"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

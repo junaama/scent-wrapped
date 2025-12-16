@@ -1,0 +1,33 @@
+{
+    "name": "Giardino di Tivoli",
+    "brand": "Etèreo",
+    "release_year": "2025",
+    "description": "A new perfume byEtèreofor women and men, released in2025. The scent is oriental-floral. Projection and longevity are above-average. It is being marketed byStuff of Dreams.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8c/8c9443_giardino-di-tivoli-etereo_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Oriental",
+        "Floral",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Green notes"
+    ],
+    "heart_notes": [
+        "Damask rose",
+        "Violet",
+        "Cotton flower",
+        "Lily of the valley"
+    ],
+    "base_notes": [
+        "Vetiver",
+        "White musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

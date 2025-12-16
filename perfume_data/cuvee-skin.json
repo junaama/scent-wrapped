@@ -1,0 +1,140 @@
+{
+    "name": "Cuvée Skin",
+    "brand": "Borntostandout",
+    "release_year": "2025",
+    "description": "A new perfume byBorntostandoutfor women and men, released in2025. The scent is spicy-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d8/d871fc_cuvee-skin-borntostandout_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Sweet",
+        "Synthetic",
+        "Powdery",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Ambrette seed absolute",
+        "Oakmoss absolute"
+    ],
+    "heart_notes": [
+        "Tonka bean",
+        "Tonka bean absolute",
+        "Tonka bean resinoid",
+        "Vanilla orchid"
+    ],
+    "base_notes": [
+        "Blond woods",
+        "White leather"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.6",
+            "votes": "13 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "6.9",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Miranda",
+    "brand": "Black Swan Society",
+    "release_year": "2025",
+    "description": "A new perfume byBlack Swan Societyfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c3/c3d049_miranda-eau-de-parfum-black-swan-society_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Frankincense",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Musk",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Suede",
+        "Tobacco",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

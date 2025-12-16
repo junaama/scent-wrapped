@@ -1,0 +1,139 @@
+{
+    "name": "Oud Extreme",
+    "brand": "Câline",
+    "release_year": "2025",
+    "description": "A new perfume byCâlinefor men, released in2025. The scent is woody-spicy. It is being marketed byLifestyle Fragrance & Beauty. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/25/25912a_oud-extreme-caline_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Spicy",
+        "Sweet",
+        "Oriental",
+        "Leathery"
+    ],
+    "top_notes": [
+        "Nutmeg",
+        "Cardamom"
+    ],
+    "heart_notes": [
+        "Oud",
+        "Leather"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Vetiver",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "103 Ratings"
+        },
+        "durability": {
+            "score": "6.2",
+            "votes": "98 Ratings"
+        },
+        "sillage": {
+            "score": "6.1",
+            "votes": "95 Ratings"
+        },
+        "bottle": {
+            "score": "6.8",
+            "votes": "95 Ratings"
+        },
+        "pricing": {
+            "score": "9.1",
+            "votes": "96 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 27
+            },
+            {
+                "name": "Sweet",
+                "votes": 17
+            },
+            {
+                "name": "Oriental",
+                "votes": 14
+            },
+            {
+                "name": "Leathery",
+                "votes": 12
+            },
+            {
+                "name": "Woody",
+                "votes": 27
+            },
+            {
+                "name": "Resinous",
+                "votes": 6
+            },
+            {
+                "name": "Earthy",
+                "votes": 6
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 28
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 14
+            },
+            {
+                "name": "Modern",
+                "votes": 14
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 28
+            },
+            {
+                "name": "Fall",
+                "votes": 31
+            },
+            {
+                "name": "Spring",
+                "votes": 15
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 23
+            },
+            {
+                "name": "Leisure",
+                "votes": 26
+            },
+            {
+                "name": "Night Out",
+                "votes": 16
+            },
+            {
+                "name": "Business",
+                "votes": 19
+            },
+            {
+                "name": "Evening",
+                "votes": 19
+            }
+        ]
+    }
+}

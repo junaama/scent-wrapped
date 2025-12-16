@@ -1,0 +1,92 @@
+{
+    "name": "Oud Esma",
+    "brand": "Hermès",
+    "release_year": "2025",
+    "description": "A new and limited perfume byHermèsfor women and men, released in2025. The scent is resinous-sweet. The longevity is above-average.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/d5/d54771_oud-esma-hermes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Sweet",
+        "Spicy",
+        "Oriental",
+        "Woody"
+    ],
+    "top_notes": [
+        "Oud"
+    ],
+    "heart_notes": [
+        "Resins",
+        "Woods"
+    ],
+    "base_notes": [
+        "Balsam"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            }
+        ]
+    }
+}

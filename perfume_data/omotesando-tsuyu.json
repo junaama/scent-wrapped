@@ -1,0 +1,132 @@
+{
+    "name": "Omotesando Tsuyu",
+    "brand": "Rirana",
+    "release_year": "2025",
+    "description": "A new perfume byRiranafor women and men, released in2025. The scent is synthetic-aquatic. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ef/efe203_omotesandu-tsuyu-rirana_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Aquatic",
+        "Citrus",
+        "Spicy",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Mango",
+        "Pineapple",
+        "Yuzu"
+    ],
+    "heart_notes": [
+        "Cypress",
+        "Oakmoss",
+        "Sclarene"
+    ],
+    "base_notes": [
+        "Amber",
+        "Ambroxan"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.9",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "8.5",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Royal Vento",
+    "brand": "Monkoku",
+    "release_year": "2025",
+    "description": "A new perfume byMonkokufor men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/93/93d51a_royal-vento-monkoku_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Apple",
+        "Bergamot",
+        "Blackcurrant",
+        "Lemon",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Indonesian patchouli",
+        "Jasmine",
+        "Pineapple"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Birch",
+        "Musk",
+        "Oakmoss"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.3",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

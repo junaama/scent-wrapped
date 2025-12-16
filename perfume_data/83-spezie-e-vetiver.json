@@ -1,0 +1,101 @@
+{
+    "name": "83 Spezie e Vetiver",
+    "brand": "Compagnia delle Indie",
+    "release_year": "2025",
+    "description": "A new perfume byCompagnia delle Indiefor women and men, released in2025. The scent is earthy-fresh. It is being marketed byMyluna.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/df/dff76a_83-spezie-e-vetiver-compagnia-delle-indie_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Earthy",
+        "Fresh",
+        "Spicy",
+        "Green"
+    ],
+    "top_notes": [
+        "Orange",
+        "Bergamot",
+        "Grapefruit"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Jasmine",
+        "Pepper"
+    ],
+    "base_notes": [
+        "Vetiver",
+        "Cedarwood",
+        "Oakmoss",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

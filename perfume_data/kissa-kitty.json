@@ -1,0 +1,117 @@
+{
+    "name": "Kissa Kitty",
+    "brand": "KST Scent",
+    "release_year": "2025",
+    "description": "A new perfume byKST Scentfor women and men, released in2025. The scent is synthetic-leathery. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/dd/dd382d_kissa-kitty-kst-scent_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Leathery",
+        "Smoky",
+        "Sweet",
+        "Earthy"
+    ],
+    "top_notes": [
+        "Buddha's hand",
+        "Catnip",
+        "Ink"
+    ],
+    "heart_notes": [
+        "Lipstick",
+        "Night-blooming jasmine",
+        "Soju"
+    ],
+    "base_notes": [
+        "Amber",
+        "Black leather",
+        "Tobacco"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.3",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

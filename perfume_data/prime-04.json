@@ -1,0 +1,30 @@
+{
+    "name": "Prime 04",
+    "brand": "Proud",
+    "release_year": "2025",
+    "description": "A new perfume byProudfor women and men, released in2025. It is being marketed byDeraah Trading Company.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ed/eda9e5_prime-04-proud_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Mandarin orange",
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Lavender",
+        "Red berries",
+        "Rose"
+    ],
+    "base_notes": [
+        "Leather",
+        "Oakmoss",
+        "Patchouli"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

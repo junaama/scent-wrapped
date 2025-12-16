@@ -1,0 +1,39 @@
+{
+    "name": "Green Climate",
+    "brand": "The Dua Brand",
+    "release_year": "2025",
+    "description": "A new perfume byThe Dua Brandfor women, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/61/613452_green-climate-the-dua-brand-dua-fragrances_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Aldehydes",
+        "Bergamot",
+        "Peach"
+    ],
+    "heart_notes": [
+        "Bamboo",
+        "Jasmine",
+        "Lily of the valley",
+        "May rose",
+        "Narcissus",
+        "Rosemary",
+        "Tuberose",
+        "Violet",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Amber",
+        "Civet",
+        "Musk",
+        "Sandalwood",
+        "Tonka bean",
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

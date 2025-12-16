@@ -1,0 +1,25 @@
+{
+    "name": "Blueberry Pavlova",
+    "brand": "The Dua Brand",
+    "release_year": "2025",
+    "description": "A new perfume byThe Dua Brandfor women, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/75/75ad3f_blueberry-pavlova-the-dua-brand_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blueberry",
+        "Orange",
+        "Raspberry",
+        "Rosewood"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Moss",
+        "Patchouli"
+    ],
+    "base_notes": [
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,140 @@
+{
+    "name": "Gamechanger",
+    "brand": "Eleven Legends",
+    "release_year": "2025",
+    "description": "A new perfume byEleven Legendsfor women and men, released in2025. The scent is synthetic-floral. It is being marketed byCG-Fragrance.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/56/5622d8_gamechanger-eleven-legends_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Floral",
+        "Citrus",
+        "Creamy",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Lemon",
+        "Cardamom",
+        "Grapefruit",
+        "Tangerine"
+    ],
+    "heart_notes": [
+        "Cashmere wood",
+        "Heliotrope",
+        "Gaiac wood",
+        "Patchouli"
+    ],
+    "base_notes": [
+        "Orange blossom",
+        "Tonka bean",
+        "Amber",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.3",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "5.8",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "4.7",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "6.1",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

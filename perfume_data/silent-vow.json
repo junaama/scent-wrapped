@@ -1,0 +1,104 @@
+{
+    "name": "silent vow",
+    "brand": "equality.fragrances",
+    "release_year": "2025",
+    "description": "A new perfume byequality.fragrancesfor women and men, released in2025. The scent is woody-oriental.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b1/b110b7_silent-vow-equality-fragrances_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Oriental",
+        "Spicy",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Coriander",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Saffron",
+        "Frankincense",
+        "Labdanum"
+    ],
+    "base_notes": [
+        "Amber",
+        "Oakmoss",
+        "Oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "6.3",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

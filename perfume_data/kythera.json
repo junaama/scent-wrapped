@@ -1,0 +1,30 @@
+{
+    "name": "Kythera",
+    "brand": "Noet",
+    "release_year": "2025",
+    "description": "A new perfume byNoetfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/33/33424e_kythera-noet_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Coconut",
+        "Jasmine",
+        "Saffron",
+        "White peach"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Jasmine",
+        "Raspberry",
+        "Tiaré",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Oakmoss",
+        "Talcum",
+        "Vanilla",
+        "White musk",
+        "Woody notes"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

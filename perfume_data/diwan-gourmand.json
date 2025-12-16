@@ -1,0 +1,160 @@
+{
+    "name": "Diwan Gourmand",
+    "brand": "The Spirit of Dubai",
+    "release_year": "2025",
+    "description": "A new perfume byThe Spirit of Dubaifor women and men, released in2025. The scent is spicy-sweet. Projection and longevity are above-average. It is being marketed byNabeel.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/78/78218d_diwan-gourmand-the-spirit-of-dubai_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Sweet",
+        "Oriental",
+        "Leathery",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Cocoa",
+        "Blackcurrant",
+        "Smoke",
+        "Chocolate",
+        "Plum"
+    ],
+    "heart_notes": [
+        "Rose",
+        "Benzoin",
+        "Cinnamon",
+        "Date",
+        "Fir balsam",
+        "Pink pepper",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Musk",
+        "Oud",
+        "Amber",
+        "Cedarwood",
+        "Leather",
+        "Patchouli",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "42 Ratings"
+        },
+        "durability": {
+            "score": "8.6",
+            "votes": "39 Ratings"
+        },
+        "sillage": {
+            "score": "8.5",
+            "votes": "39 Ratings"
+        },
+        "bottle": {
+            "score": "9.1",
+            "votes": "48 Ratings"
+        },
+        "pricing": {
+            "score": "6.5",
+            "votes": "35 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 12
+            },
+            {
+                "name": "Sweet",
+                "votes": 11
+            },
+            {
+                "name": "Smoky",
+                "votes": 5
+            },
+            {
+                "name": "Powdery",
+                "votes": 5
+            },
+            {
+                "name": "Oriental",
+                "votes": 11
+            },
+            {
+                "name": "Leathery",
+                "votes": 9
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Gourmand",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 9
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 10
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 12
+            },
+            {
+                "name": "Fall",
+                "votes": 12
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 11
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 10
+            },
+            {
+                "name": "Night Out",
+                "votes": 12
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 12
+            }
+        ]
+    }
+}

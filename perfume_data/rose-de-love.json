@@ -1,0 +1,35 @@
+{
+    "name": "Rose de Love",
+    "brand": "One Love",
+    "release_year": "2025",
+    "description": "A new perfume byOne Lovefor women, released in2025. It is being marketed byDeraah Trading Company.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/85/8569f2_rose-de-love-one-love_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Lemon",
+        "Raspberry",
+        "Red berries",
+        "Saffron",
+        "Tarragon"
+    ],
+    "heart_notes": [
+        "Iris",
+        "Mandarin  orange blossom",
+        "Orange blossom",
+        "Violet"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Ambrox Super",
+        "Musk",
+        "Sandalwood",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

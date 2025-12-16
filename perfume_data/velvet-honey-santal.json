@@ -1,0 +1,142 @@
+{
+    "name": "Velvet Honey Santal",
+    "brand": "Dolce & Gabbana",
+    "release_year": "2025",
+    "description": "A new perfume byDolce & Gabbanafor women and men, released in2025. The scent is sweet-synthetic.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c8/c8bd82_velvet-honey-santal-dolce-gabbana_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Synthetic",
+        "Woody",
+        "Spicy",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Honey",
+        "Sandalwood"
+    ],
+    "heart_notes": [
+        "Gurjum balsam",
+        "Styrax"
+    ],
+    "base_notes": [
+        "Amber",
+        "Benzoin"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.5",
+            "votes": "19 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "19 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "16 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "13 Ratings"
+        },
+        "pricing": {
+            "score": "5.1",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 10
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

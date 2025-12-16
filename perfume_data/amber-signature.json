@@ -1,0 +1,136 @@
+{
+    "name": "Amber Signature",
+    "brand": "Mustang Jeans",
+    "release_year": "2025",
+    "description": "A new perfume byMustang Jeansfor men, released in2025. The scent is sweet-spicy. It is being marketed byLuxess.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4f/4fa768_amber-signature-mustang-jeans_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Woody",
+        "Synthetic",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Cinnamon",
+        "Ginger",
+        "Savory"
+    ],
+    "heart_notes": [
+        "Aquatic notes",
+        "Cashmere wood",
+        "Magnolia",
+        "Patchouli"
+    ],
+    "base_notes": [
+        "Amber",
+        "Caramel",
+        "Musk",
+        "Myrrh",
+        "Tree moss"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "5.6",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "5.1",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "6.1",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Oriental",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

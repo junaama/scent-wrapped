@@ -1,0 +1,93 @@
+{
+    "name": "Figue Érotique",
+    "brand": "Tom Ford",
+    "release_year": "2025",
+    "description": "A new perfume byTom Fordfor women and men, released in2025. The scent is green-aquatic. Projection and longevity are above-average. It is being marketed byEstēe Lauder Companies.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/0e/0e3611_figue-erotique-tom-ford_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Aquatic",
+        "Fresh",
+        "Floral",
+        "Sweet"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "9.3",
+            "votes": "16 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "13 Ratings"
+        },
+        "sillage": {
+            "score": "8.1",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "32 Ratings"
+        },
+        "pricing": {
+            "score": "5.4",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

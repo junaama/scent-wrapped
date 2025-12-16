@@ -1,0 +1,121 @@
+{
+    "name": "Tawakkul",
+    "brand": "Adamo",
+    "release_year": "2025",
+    "description": "A new perfume byAdamofor women and men, released in2025. The scent is gourmand-sweet. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/54/54dc65_tawakkul-adamo_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Sweet",
+        "Spicy",
+        "Oriental",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Amaretto"
+    ],
+    "heart_notes": [
+        "Cardamom",
+        "Leather",
+        "Oud"
+    ],
+    "base_notes": [
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.0",
+            "votes": "12 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "12 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "22 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

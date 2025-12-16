@@ -1,0 +1,134 @@
+{
+    "name": "MCX",
+    "brand": "Electimuss",
+    "release_year": "2025",
+    "description": "A new and limited perfume byElectimussfor women and men, released in2025. The scent is sweet-creamy. The longevity is above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/46/46a8b0_mcx-electimuss_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Creamy",
+        "Spicy",
+        "Powdery",
+        "Floral"
+    ],
+    "top_notes": [
+        "Madagascan pink pepper",
+        "Cardamom",
+        "Italian bergamot"
+    ],
+    "heart_notes": [
+        "Tuberose",
+        "Iris",
+        "Violet",
+        "Ambergris"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Musk",
+        "Cashmere wood",
+        "Tonka bean",
+        "Vanilla",
+        "Virginia cedar",
+        "Oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "23 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "21 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "21 Ratings"
+        },
+        "bottle": {
+            "score": "8.7",
+            "votes": "25 Ratings"
+        },
+        "pricing": {
+            "score": "5.7",
+            "votes": "18 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Estremo Incanto",
+    "brand": "Cigno Nero",
+    "release_year": "2025",
+    "description": "A new perfume byCigno Nerofor women, released in2025. The scent is floral-fresh. It is being marketed byNiche and Co..PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/df/dff666_estremo-incanto-cigno-nero_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Fruity",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Orange",
+        "Peach",
+        "Tangerine"
+    ],
+    "heart_notes": [
+        "Gardenia",
+        "Heliotrope",
+        "Iris",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sandalwood",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

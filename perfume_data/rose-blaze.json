@@ -1,0 +1,128 @@
+{
+    "name": "Rose Blaze",
+    "brand": "d'Orsay",
+    "release_year": "2025",
+    "description": "A new perfume byd'Orsayfor women and men, released in2025. The scent is sweet-floral. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2f/2f10b1_rose-blaze-d-orsay_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Fruity",
+        "Creamy",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Peach",
+        "Bergamot",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Orris butter",
+        "Rose absolute"
+    ],
+    "base_notes": [
+        "Tonka bean",
+        "Benzoin",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "13 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "11 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "11 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 7
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "name": "Nilam Santal",
+    "brand": "Faizal Privée",
+    "release_year": "2025",
+    "description": "A new perfume byFaizal Privéefor women and men, released in2025. The scent is woody-spicy. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9f/9f6937_nilam-santal-faizal-privee_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Spicy",
+        "Sweet",
+        "Earthy",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Indonesian patchouli",
+        "Sri Lankan sandalwood"
+    ],
+    "heart_notes": [
+        "Cocoa",
+        "Spanish labdanum",
+        "Bourbon vanilla",
+        "Grapefruit"
+    ],
+    "base_notes": [
+        "Mysore sandalwood",
+        "Ambergris",
+        "Elderflower"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

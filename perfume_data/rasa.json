@@ -1,0 +1,22 @@
+{
+    "name": "Rasa",
+    "brand": "Vaelli",
+    "release_year": "2025",
+    "description": "A new perfume byVaellifor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7a/7a80be_rasa-vaelli_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Frankincense",
+        "Sandalwood",
+        "White musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

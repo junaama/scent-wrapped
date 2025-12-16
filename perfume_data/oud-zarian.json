@@ -1,0 +1,135 @@
+{
+    "name": "Oud Zarian",
+    "brand": "Creed",
+    "release_year": "2025",
+    "description": "A new perfume byCreedfor women and men, released in2025. The scent is spicy-woody. Projection and longevity are above-average. It is being marketed byKering Beauté.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/bf/bf0305_oud-zarian-creed_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Oriental",
+        "Sweet",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Frankincense",
+        "Spicy notes",
+        "Ginger",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Rosa centifolia"
+    ],
+    "base_notes": [
+        "Liquorice root",
+        "Myrrh",
+        "Patchouli",
+        "Sandalwood",
+        "Tonka bean",
+        "Oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "240 Ratings"
+        },
+        "durability": {
+            "score": "8.7",
+            "votes": "211 Ratings"
+        },
+        "sillage": {
+            "score": "8.4",
+            "votes": "209 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "197 Ratings"
+        },
+        "pricing": {
+            "score": "4.8",
+            "votes": "184 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 44
+            },
+            {
+                "name": "Sweet",
+                "votes": 26
+            },
+            {
+                "name": "Smoky",
+                "votes": 25
+            },
+            {
+                "name": "Oriental",
+                "votes": 36
+            },
+            {
+                "name": "Woody",
+                "votes": 42
+            },
+            {
+                "name": "Resinous",
+                "votes": 16
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 43
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Classic",
+                "votes": 19
+            },
+            {
+                "name": "Modern",
+                "votes": 23
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 45
+            },
+            {
+                "name": "Fall",
+                "votes": 42
+            },
+            {
+                "name": "Spring",
+                "votes": 11
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Leisure",
+                "votes": 22
+            },
+            {
+                "name": "Night Out",
+                "votes": 42
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 36
+            }
+        ]
+    }
+}

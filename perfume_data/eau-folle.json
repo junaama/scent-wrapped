@@ -1,0 +1,139 @@
+{
+    "name": "Eau Folle",
+    "brand": "Le Galion",
+    "release_year": "2025",
+    "description": "A new perfume byLe Galionfor women and men, released in2025. The scent is green-spicy.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/23/2369e0_eau-folle-le-galion_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Spicy",
+        "Woody",
+        "Fresh",
+        "Fougère"
+    ],
+    "top_notes": [
+        "Absinthe wormwood",
+        "Basil",
+        "Violet leaf"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Ginger",
+        "Provençal lavender",
+        "Rosemary"
+    ],
+    "base_notes": [
+        "Cedar",
+        "Frankincense",
+        "Patchouli",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "18 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "15 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 8
+            },
+            {
+                "name": "Woody",
+                "votes": 7
+            },
+            {
+                "name": "Green",
+                "votes": 9
+            },
+            {
+                "name": "Fresh",
+                "votes": 7
+            },
+            {
+                "name": "Fougère",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 8
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

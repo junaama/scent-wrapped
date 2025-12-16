@@ -1,0 +1,124 @@
+{
+    "name": "Oud al Sayf",
+    "brand": "Lana & Hadi Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byLana & Hadi Parfumsfor women and men, released in2025. The scent is green-woody. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a6/a6868b_oud-al-sayf-lana-hadi-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Woody",
+        "Earthy",
+        "Spicy",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Pink pepper",
+        "Cumin",
+        "Frankincense",
+        "Indian lemon grass",
+        "Wild vetiver",
+        "Apple",
+        "Japanese yuzu",
+        "Patchouli"
+    ],
+    "heart_notes": [
+        "Labdanum",
+        "Indian vetiver",
+        "Nagarmotha",
+        "Sandalwood",
+        "Saffron",
+        "Patchouli"
+    ],
+    "base_notes": [
+        "Leather",
+        "Vetiver",
+        "Birch tar",
+        "Castoreum",
+        "Oakmoss",
+        "Chinese Kyara oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "14 Ratings"
+        },
+        "durability": {
+            "score": "8.6",
+            "votes": "10 Ratings"
+        },
+        "sillage": {
+            "score": "7.9",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Green",
+                "votes": 5
+            },
+            {
+                "name": "Earthy",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

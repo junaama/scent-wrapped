@@ -1,0 +1,27 @@
+{
+    "name": "Jenggala",
+    "brand": "Peculiar",
+    "release_year": "2025",
+    "description": "A new perfume byPeculiarfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/30/30eae8_jenggala-peculiar_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Cistus",
+        "Elemi resin"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Lily of the valley"
+    ],
+    "base_notes": [
+        "Cedarwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

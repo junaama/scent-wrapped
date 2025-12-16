@@ -1,0 +1,133 @@
+{
+    "name": "212 VIP Black Elixir",
+    "brand": "Carolina Herrera",
+    "release_year": "2025",
+    "description": "A new perfume byCarolina Herrerafor men, released in2025. The scent is sweet-synthetic. It is being marketed byPuig.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ed/edc3b7_212-vip-black-elixir-carolina-herrera_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Synthetic",
+        "Gourmand",
+        "Spicy",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Provençal lavender",
+        "Grapefruit",
+        "Juniper"
+    ],
+    "heart_notes": [
+        "Liquorice",
+        "Orange blossom",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Oak wood",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "16 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "10 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "11 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "17 Ratings"
+        },
+        "pricing": {
+            "score": "6.4",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

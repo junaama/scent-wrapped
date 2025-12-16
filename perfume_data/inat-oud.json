@@ -1,0 +1,32 @@
+{
+    "name": "Inat Oud",
+    "brand": "Monreale",
+    "release_year": "2025",
+    "description": "A new and limited perfume byMonrealefor women and men, released in2025.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/b5/b58e6d_inat-oud-monreale_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Ginger",
+        "Orange",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Orange blossom",
+        "Pimento"
+    ],
+    "base_notes": [
+        "Amber",
+        "Assam oud",
+        "Musk",
+        "Sandalwood",
+        "Wine"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

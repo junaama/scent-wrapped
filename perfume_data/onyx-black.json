@@ -1,0 +1,139 @@
+{
+    "name": "Onyx Black",
+    "brand": "Pana Dora",
+    "release_year": "2025",
+    "description": "A new perfume byPana Dorafor women and men, released in2025. The scent is spicy-oriental. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a0/a08d23_onyx-black-pana-dora_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Oriental",
+        "Sweet",
+        "Woody",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Cinnamon",
+        "Bergamot",
+        "Saffron",
+        "Lemon",
+        "Nutmeg"
+    ],
+    "heart_notes": [
+        "Ambergris",
+        "Cypriol",
+        "Frankincense"
+    ],
+    "base_notes": [
+        "Fir resin",
+        "Labdanum",
+        "Cedar"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "238 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "216 Ratings"
+        },
+        "sillage": {
+            "score": "7.9",
+            "votes": "214 Ratings"
+        },
+        "bottle": {
+            "score": "9.1",
+            "votes": "224 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "185 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 26
+            },
+            {
+                "name": "Spicy",
+                "votes": 49
+            },
+            {
+                "name": "Sweet",
+                "votes": 41
+            },
+            {
+                "name": "Oriental",
+                "votes": 45
+            },
+            {
+                "name": "Woody",
+                "votes": 32
+            },
+            {
+                "name": "Resinous",
+                "votes": 19
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 48
+            },
+            {
+                "name": "Feminine",
+                "votes": 17
+            },
+            {
+                "name": "Classic",
+                "votes": 13
+            },
+            {
+                "name": "Modern",
+                "votes": 26
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 48
+            },
+            {
+                "name": "Fall",
+                "votes": 51
+            },
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 31
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 13
+            },
+            {
+                "name": "Leisure",
+                "votes": 35
+            },
+            {
+                "name": "Night Out",
+                "votes": 50
+            },
+            {
+                "name": "Business",
+                "votes": 13
+            },
+            {
+                "name": "Evening",
+                "votes": 51
+            }
+        ]
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "name": "Blue Signature",
+    "brand": "Mustang Jeans",
+    "release_year": "2025",
+    "description": "A new perfume byMustang Jeansfor men, released in2025. The scent is fresh-synthetic. It is being marketed byLuxess.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f8/f897e2_blue-signature-mustang-jeans_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Synthetic",
+        "Aquatic",
+        "Sweet",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Ginger",
+        "Mandarin orange",
+        "Pepper",
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Cashmere wood",
+        "Geranium",
+        "Lavender",
+        "Vetiver"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Patchouli",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.3",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "5.3",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "6.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Fougère",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

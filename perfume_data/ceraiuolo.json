@@ -1,0 +1,143 @@
+{
+    "name": "Ceraiuolo",
+    "brand": "V Canto",
+    "release_year": "2025",
+    "description": "A new perfume byV Cantofor women and men, released in2025. The scent is oriental-fruity. The longevity is above-average. It is being marketed byCereria Terenzi Evelino.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/13/13ddb7_ceraiuolo-v-canto_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Oriental",
+        "Fruity",
+        "Floral",
+        "Sweet",
+        "Woody"
+    ],
+    "top_notes": [
+        "Bulgarian rose",
+        "Calabrian bergamot",
+        "Indian lotus",
+        "Persian saffron",
+        "Sicilian pink grapefruit"
+    ],
+    "heart_notes": [
+        "Ambergris",
+        "Bourbon vanilla",
+        "Carnauba wax",
+        "Indian jasmine sambac",
+        "Italian honey",
+        "Laotian cypriol"
+    ],
+    "base_notes": [
+        "Cambodian oud",
+        "Italian brown sugar",
+        "Italian mahogany",
+        "Laotian white oud",
+        "Musk",
+        "Singapore patchouli",
+        "Tuscan cypress",
+        "Tuscan oak"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Oriental",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

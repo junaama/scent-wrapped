@@ -1,0 +1,151 @@
+{
+    "name": "Spicebomb Metallic Musk",
+    "brand": "Viktor & Rolf",
+    "release_year": "2025",
+    "description": "A new perfume byViktor & Rolffor men, released in2025. The scent is spicy-creamy. It is being marketed byL'Oréal.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4d/4da5c7_spicebomb-metallic-musk-viktor-rolf_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Creamy",
+        "Sweet",
+        "Fresh",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Aldehydes",
+        "Black pepper",
+        "Bergamot",
+        "Elemi resin"
+    ],
+    "heart_notes": [
+        "Pimento",
+        "Cinnamon",
+        "Provençal lavender"
+    ],
+    "base_notes": [
+        "Musk",
+        "Ambrette seed absolute",
+        "Cistus absolute",
+        "Leather"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "163 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "138 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "138 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "140 Ratings"
+        },
+        "pricing": {
+            "score": "7.4",
+            "votes": "128 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 39
+            },
+            {
+                "name": "Synthetic",
+                "votes": 14
+            },
+            {
+                "name": "Sweet",
+                "votes": 32
+            },
+            {
+                "name": "Powdery",
+                "votes": 21
+            },
+            {
+                "name": "Woody",
+                "votes": 9
+            },
+            {
+                "name": "Fresh",
+                "votes": 29
+            },
+            {
+                "name": "Creamy",
+                "votes": 32
+            },
+            {
+                "name": "Floral",
+                "votes": 9
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 41
+            },
+            {
+                "name": "Feminine",
+                "votes": 14
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 36
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 28
+            },
+            {
+                "name": "Fall",
+                "votes": 38
+            },
+            {
+                "name": "Summer",
+                "votes": 18
+            },
+            {
+                "name": "Spring",
+                "votes": 34
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 32
+            },
+            {
+                "name": "Sport",
+                "votes": 10
+            },
+            {
+                "name": "Leisure",
+                "votes": 38
+            },
+            {
+                "name": "Night Out",
+                "votes": 32
+            },
+            {
+                "name": "Business",
+                "votes": 28
+            },
+            {
+                "name": "Evening",
+                "votes": 31
+            }
+        ]
+    }
+}

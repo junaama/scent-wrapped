@@ -1,0 +1,46 @@
+{
+    "name": "06 - Paris Radieux",
+    "brand": "Solférino",
+    "release_year": "2025",
+    "description": "A new perfume bySolférinofor women and men, released in2025. The scent is floral-sweet. It is being marketed byInterparfums.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/51/518209_06-paris-radieux-solferino_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Spicy",
+        "Fresh",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Jasmine sambac",
+        "White gardenia"
+    ],
+    "base_notes": [
+        "Cedar",
+        "Cistus",
+        "Vanillin"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "6.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

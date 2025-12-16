@@ -1,0 +1,149 @@
+{
+    "name": "Gelsomino a Freddo",
+    "brand": "Acqua di Parma",
+    "release_year": "2025",
+    "description": "A new perfume byAcqua di Parmafor women and men, released in2025. The scent is floral-fresh. It is being marketed byLVMH.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/63/639d4a_gelsomino-a-freddo-acqua-di-parma_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Spicy",
+        "Sweet",
+        "Green"
+    ],
+    "top_notes": [
+        "Artemisia",
+        "Lemon",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Orris concrete",
+        "Black tea"
+    ],
+    "base_notes": [
+        "Gaiac wood",
+        "Cypriol",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "44 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "34 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "34 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "37 Ratings"
+        },
+        "pricing": {
+            "score": "5.9",
+            "votes": "26 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Spicy",
+                "votes": 8
+            },
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Green",
+                "votes": 6
+            },
+            {
+                "name": "Fresh",
+                "votes": 9
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 13
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 13
+            },
+            {
+                "name": "Classic",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 11
+            },
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 11
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Leisure",
+                "votes": 13
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "name": "Zahi",
+    "brand": "Paris Corner",
+    "release_year": "2025",
+    "description": "A new perfume byParis Cornerfor women and men, released in2025. The scent is sweet-spicy. It is being marketed byParis Corner Perfumes.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/24/2413b6_zahi-paris-corner_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Woody",
+        "Fruity",
+        "Floral"
+    ],
+    "top_notes": [
+        "Apple",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Rose",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Amber",
+        "Dry woods",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "12 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "11 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "11 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "10 Ratings"
+        },
+        "pricing": {
+            "score": "8.5",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "name": "Magritte",
+    "brand": "Daniel Josier",
+    "release_year": "2025",
+    "description": "A new perfume byDaniel Josierfor women and men, released in2025. The scent is sweet-synthetic.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [
+        "Sweet",
+        "Synthetic",
+        "Aquatic",
+        "Spicy",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Plum",
+        "Metallic notes",
+        "Melon"
+    ],
+    "heart_notes": [
+        "Vanilla",
+        "Aquatic notes",
+        "Jasmine",
+        "Pink pepper"
+    ],
+    "base_notes": [
+        "Brandy",
+        "Vanilla",
+        "Cocoa",
+        "Musk",
+        "Sandalwood",
+        "Tobacco"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

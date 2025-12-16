@@ -1,0 +1,92 @@
+{
+    "name": "Hinoki Fantôme",
+    "brand": "Boy Smells",
+    "release_year": "2025",
+    "description": "A new perfume byBoy Smellsfor women and men, released in2025. The scent is sweet-woody.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d6/d60ab1_hinoki-fantome-2025-boy-smells_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Woody",
+        "Green",
+        "Creamy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "5.2",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "4.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "5.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "5.4",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

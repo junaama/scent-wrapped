@@ -1,0 +1,35 @@
+{
+    "name": "Khullu",
+    "brand": "Hima Jomo",
+    "release_year": "2025",
+    "description": "A new perfume byHima Jomofor women and men, released in2025. The scent is woody-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/25/254939_khullu-hima-jomo_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Spicy",
+        "Resinous",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Cinnamon",
+        "Clove",
+        "Black pepper"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Himalaya cedar",
+        "Indian sandalwood"
+    ],
+    "base_notes": [
+        "Yak butter",
+        "Hay",
+        "Musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

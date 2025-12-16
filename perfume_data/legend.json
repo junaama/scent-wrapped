@@ -1,0 +1,162 @@
+{
+    "name": "Legend+",
+    "brand": "Aaron Terence Hughes",
+    "release_year": "2025",
+    "description": "A new perfume byAaron Terence Hughesfor women and men, released in2025. The scent is citrusy-fresh. The longevity is above-average. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e9/e904b0_legend-aaron-terence-hughes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Floral",
+        "Woody",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Artemisia",
+        "Italian bergamot",
+        "Lemon",
+        "Red mandarin orange"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Apple",
+        "Grapefruit",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Elemi resin",
+        "Oakmoss",
+        "Patchouli",
+        "Pink pepper",
+        "Sandalwood",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "25 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "25 Ratings"
+        },
+        "sillage": {
+            "score": "7.9",
+            "votes": "25 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "22 Ratings"
+        },
+        "pricing": {
+            "score": "7.5",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 6
+            },
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Sport",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

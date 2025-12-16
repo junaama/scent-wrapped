@@ -1,0 +1,27 @@
+{
+    "name": "Tea on Velvet",
+    "brand": "The Dua Brand",
+    "release_year": "2025",
+    "description": "A new perfume byThe Dua Brandfor women and men, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/1f/1fdd69_tea-on-velvet-the-dua-brand-dua-fragrances_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Italian mandarin orange",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Black tea",
+        "Maté"
+    ],
+    "base_notes": [
+        "Cedarwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

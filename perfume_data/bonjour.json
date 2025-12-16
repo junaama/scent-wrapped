@@ -1,0 +1,37 @@
+{
+    "name": "Bonjour",
+    "brand": "Osma",
+    "release_year": "2025",
+    "description": "A new perfume byOsmafor women and men, released in2025. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/77/77fb7c_bonjour-osma_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Oriental blossoms"
+    ],
+    "heart_notes": [
+        "Fruity notes",
+        "Woody notes"
+    ],
+    "base_notes": [
+        "Gourmand notes"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

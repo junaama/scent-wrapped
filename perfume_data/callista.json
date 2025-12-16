@@ -1,0 +1,35 @@
+{
+    "name": "Callista",
+    "brand": "Noet",
+    "release_year": "2025",
+    "description": "A new perfume byNoetfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7b/7b55cf_callista-noet_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bitter almond",
+        "Cardamom",
+        "Pepper",
+        "Peru balsam",
+        "Rosewood",
+        "Tonka bean"
+    ],
+    "heart_notes": [
+        "Cherry",
+        "Jasmine",
+        "Oud",
+        "Rose",
+        "Rosewood",
+        "Sandalwood",
+        "Vetiver"
+    ],
+    "base_notes": [
+        "Amber",
+        "Benzoin",
+        "Cedarwood",
+        "Coconut",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

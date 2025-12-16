@@ -1,0 +1,35 @@
+{
+    "name": "Desert Rose",
+    "brand": "Being Frenshe",
+    "release_year": "2025",
+    "description": "A new perfume byBeing Frenshefor women, released in2025. The scent is earthy-fresh. It is being marketed byMaesa.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/52/52b837_desert-rose-eau-de-parfum-being-frenshe_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Earthy",
+        "Fresh",
+        "Woody",
+        "Citrus"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,79 @@
+{
+    "name": "Renaissance",
+    "brand": "Arina Franzén",
+    "release_year": "2025",
+    "description": "A new perfume byArina Franzénfor women and men, released in2025. The scent is spicy-green.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/0f/0f39eb_renaissance-arina-franzen_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Green"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Green mandarin orange",
+        "Marjoram"
+    ],
+    "heart_notes": [
+        "Amyris",
+        "Carnation",
+        "Linden blossom",
+        "Mimosa"
+    ],
+    "base_notes": [
+        "Palo Santo",
+        "Cypress",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

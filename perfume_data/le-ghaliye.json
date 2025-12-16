@@ -1,0 +1,44 @@
+{
+    "name": "Le Ghaliye",
+    "brand": "Ucca",
+    "release_year": "2025",
+    "description": "A new and limited perfume byUccafor women and men, released in2025. The scent is floral-woody. The longevity is above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/cc/ccc243_le-ghaliye-ucca_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Woody",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Thai ylang-ylang",
+        "Tunisian neroli"
+    ],
+    "heart_notes": [
+        "Bulgarian rose",
+        "Omani rose",
+        "Taif rose"
+    ],
+    "base_notes": [
+        "Kashmiri deer musk",
+        "Ambergris",
+        "Orris butter",
+        "Bourbon vanilla",
+        "Indian oud",
+        "Butter CO2"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "4.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "9.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

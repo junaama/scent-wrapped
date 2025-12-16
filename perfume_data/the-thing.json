@@ -1,0 +1,28 @@
+{
+    "name": "The Thing",
+    "brand": "Xyrena",
+    "release_year": "2025",
+    "description": "A new perfume byXyrenafor women and men, released in2025. The perfume is vegan according to the manufacturer.PronunciationCompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/4d/4d074e_the-thing-xyrena_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Air accord",
+        "Cool notes",
+        "Ice accord"
+    ],
+    "heart_notes": [
+        "Charred wood",
+        "Electrical device",
+        "Fire",
+        "Mist note",
+        "Scotch whisky",
+        "Smoky notes",
+        "Tripoli powder"
+    ],
+    "base_notes": [
+        "Metallic notes",
+        "Sweet notes"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,138 @@
+{
+    "name": "Il Padrino",
+    "brand": "Sospiro",
+    "release_year": "2025",
+    "description": "A new perfume bySospirofor women and men, released in2025. The scent is sweet-fruity. Projection and longevity are above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/88/880bf2_il-padrino-sospiro_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Gourmand",
+        "Spicy",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Amaretto",
+        "Blackcurrant",
+        "Rum",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Patchouli blossom",
+        "Sandalwood"
+    ],
+    "base_notes": [
+        "Labdanum",
+        "Siam benzoin",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.7",
+            "votes": "694 Ratings"
+        },
+        "durability": {
+            "score": "8.9",
+            "votes": "657 Ratings"
+        },
+        "sillage": {
+            "score": "8.6",
+            "votes": "656 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "608 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "569 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 92
+            },
+            {
+                "name": "Sweet",
+                "votes": 135
+            },
+            {
+                "name": "Oriental",
+                "votes": 60
+            },
+            {
+                "name": "Woody",
+                "votes": 42
+            },
+            {
+                "name": "Gourmand",
+                "votes": 94
+            },
+            {
+                "name": "Fruity",
+                "votes": 114
+            },
+            {
+                "name": "Creamy",
+                "votes": 33
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 131
+            },
+            {
+                "name": "Feminine",
+                "votes": 73
+            },
+            {
+                "name": "Classic",
+                "votes": 23
+            },
+            {
+                "name": "Modern",
+                "votes": 88
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 144
+            },
+            {
+                "name": "Fall",
+                "votes": 142
+            },
+            {
+                "name": "Spring",
+                "votes": 61
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 22
+            },
+            {
+                "name": "Leisure",
+                "votes": 60
+            },
+            {
+                "name": "Night Out",
+                "votes": 136
+            },
+            {
+                "name": "Business",
+                "votes": 19
+            },
+            {
+                "name": "Evening",
+                "votes": 138
+            }
+        ]
+    }
+}

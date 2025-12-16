@@ -1,0 +1,141 @@
+{
+    "name": "Green Vanille",
+    "brand": "Régime des Fleurs",
+    "release_year": "2025",
+    "description": "A new perfume byRégime des Fleursfor women and men, released in2025. The scent is spicy-green.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/41/4100ae_green-vanille-eau-de-parfum-regime-des-fleurs_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Green",
+        "Sweet",
+        "Woody",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Almond milk",
+        "Chamomile",
+        "Green hazelnut"
+    ],
+    "heart_notes": [
+        "Coriander",
+        "Siam benzoin",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "New Caledonian sandalwood",
+        "Atlas cedar",
+        "Haitian vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "39 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "25 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "26 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "27 Ratings"
+        },
+        "pricing": {
+            "score": "6.3",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 12
+            },
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 10
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Green",
+                "votes": 11
+            },
+            {
+                "name": "Gourmand",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 12
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 11
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 10
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "name": "La Belle Flower Edition",
+    "brand": "Jean Paul Gaultier",
+    "release_year": "2025",
+    "description": "A new and limited perfume byJean Paul Gaultierfor women, released in2025. The scent is floral-sweet. It is being marketed byPuig.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/89/89fe66-la-belle-flower-edition-jean-paul-gaultier_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Fruity",
+        "Fresh",
+        "Synthetic"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "62 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "51 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "50 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "60 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "36 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 15
+            },
+            {
+                "name": "Green",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 14
+            },
+            {
+                "name": "Fresh",
+                "votes": 9
+            },
+            {
+                "name": "Floral",
+                "votes": 19
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 18
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 15
+            },
+            {
+                "name": "Spring",
+                "votes": 17
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 13
+            },
+            {
+                "name": "Leisure",
+                "votes": 17
+            },
+            {
+                "name": "Night Out",
+                "votes": 9
+            },
+            {
+                "name": "Business",
+                "votes": 11
+            },
+            {
+                "name": "Evening",
+                "votes": 11
+            }
+        ]
+    }
+}

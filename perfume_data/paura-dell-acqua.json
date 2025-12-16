@@ -1,0 +1,132 @@
+{
+    "name": "Paura dell'Acqua",
+    "brand": "ānti",
+    "release_year": "2025",
+    "description": "A new perfume byāntifor women and men, released in2025. The scent is floral-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/0a/0a6daa_paura-dell-acqua-anti_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Spicy",
+        "Oriental",
+        "Citrus",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Ginger",
+        "Mandarin petitgrain"
+    ],
+    "heart_notes": [
+        "Tuberose absolute",
+        "Egyptian jasmine absolute",
+        "Rose absolute"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cistus",
+        "Tonka bean absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Sugar Mallow",
+    "brand": "Atralia",
+    "release_year": "2025",
+    "description": "A new perfume byAtraliafor women, released in2025. The scent is sweet-gourmand.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/bc/bc7d08_sugar-mallow-atralia_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Marshmallow",
+        "Orange",
+        "Strawberry"
+    ],
+    "heart_notes": [
+        "Coconut blossom",
+        "Cream",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Musk",
+        "Raspberry",
+        "Rock sugar"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.0",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

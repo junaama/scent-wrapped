@@ -1,0 +1,25 @@
+{
+    "name": "Pinky Promise",
+    "brand": "Mane Haircare",
+    "release_year": "2025",
+    "description": "A new perfume byMane Haircarefor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9f/9f5c4f_pinky-promise-mane-haircare_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Grapefruit",
+        "Lychee nectar",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Lily of the valley",
+        "Peony",
+        "Rose"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

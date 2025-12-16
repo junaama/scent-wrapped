@@ -1,0 +1,136 @@
+{
+    "name": "Milky Mango Wood",
+    "brand": "Caea + Woodberg",
+    "release_year": "2025",
+    "description": "A new and limited perfume byCaea + Woodbergfor women and men, released in2025. The scent is creamy-woody. Projection and longevity are above-average. The production was apparently discontinued.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/a4/a46337_milky-mango-wood-caea-woodberg_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Creamy",
+        "Woody",
+        "Sweet",
+        "Gourmand",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Mango"
+    ],
+    "heart_notes": [
+        "Milk",
+        "Saffron",
+        "Suede",
+        "Frankincense"
+    ],
+    "base_notes": [
+        "Burnt vanilla",
+        "Cream",
+        "Timbersilk™",
+        "Indian sandalwood",
+        "Oud",
+        "Tonka bean",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "47 Ratings"
+        },
+        "durability": {
+            "score": "8.7",
+            "votes": "43 Ratings"
+        },
+        "sillage": {
+            "score": "8.1",
+            "votes": "43 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "42 Ratings"
+        },
+        "pricing": {
+            "score": "7.7",
+            "votes": "34 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 10
+            },
+            {
+                "name": "Woody",
+                "votes": 13
+            },
+            {
+                "name": "Gourmand",
+                "votes": 9
+            },
+            {
+                "name": "Fruity",
+                "votes": 7
+            },
+            {
+                "name": "Creamy",
+                "votes": 14
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 10
+            },
+            {
+                "name": "Feminine",
+                "votes": 11
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 12
+            },
+            {
+                "name": "Fall",
+                "votes": 14
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 10
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 9
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "name": "Pincett",
+    "brand": "Filippo Sorcinelli",
+    "release_year": "2025",
+    "description": "A new and limited perfume byFilippo Sorcinellifor women and men, released in2025. The scent is fresh-citrusy.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/91/914eca_pincett-filippo-sorcinelli_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Citrus",
+        "Fruity",
+        "Woody",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Amber",
+        "Precious woods",
+        "Musk"
+    ],
+    "heart_notes": [
+        "Rhubarb",
+        "Clary sage",
+        "Ginger",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Lemon",
+        "Mandarin orange",
+        "Orange",
+        "Bergamot"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "18 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "14 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "6.7",
+            "votes": "16 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 6
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 6
+            },
+            {
+                "name": "Fresh",
+                "votes": 7
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Sport",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

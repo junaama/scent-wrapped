@@ -1,0 +1,120 @@
+{
+    "name": "Häxan",
+    "brand": "Heretic",
+    "release_year": "2025",
+    "description": "A new perfume byHereticfor women and men, released in2025. The scent is resinous-floral.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/19/19e483_haxan-heretic_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Floral",
+        "Fresh",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Osmanthus absolute"
+    ],
+    "heart_notes": [
+        "Turkish rose",
+        "Oakmoss absolute"
+    ],
+    "base_notes": [
+        "Fossilised amber",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "5.6",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

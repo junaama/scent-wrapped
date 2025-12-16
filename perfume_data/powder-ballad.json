@@ -1,0 +1,35 @@
+{
+    "name": "Powder Ballad",
+    "brand": "The Saltworks Company",
+    "release_year": "2025",
+    "description": "A new perfume byThe Saltworks Companyfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/75/75314a_powder-ballad-the-saltworks-company_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Aldehydes",
+        "Almond",
+        "Bergamot",
+        "Powder",
+        "Raspberry",
+        "White violet"
+    ],
+    "heart_notes": [
+        "Damask rose",
+        "Iris",
+        "Musk"
+    ],
+    "base_notes": [
+        "Amber",
+        "Frankincense",
+        "Oud",
+        "Saffron",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

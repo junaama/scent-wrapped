@@ -1,0 +1,144 @@
+{
+    "name": "Cocoon",
+    "brand": "Marc Gebauer",
+    "release_year": "2025",
+    "description": "A new perfume byMarc Gebauerfor women and men, released in2025. The scent is fresh-synthetic.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5f/5f9204_cocoon-marc-gebauer_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Synthetic",
+        "Citrus",
+        "Woody",
+        "Aquatic"
+    ],
+    "top_notes": [
+        "Elemi resin",
+        "Bergamot",
+        "Grapefruit"
+    ],
+    "heart_notes": [
+        "Ambroxan",
+        "Salt",
+        "Iris"
+    ],
+    "base_notes": [
+        "Cashmeran",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "322 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "302 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "299 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "315 Ratings"
+        },
+        "pricing": {
+            "score": "6.2",
+            "votes": "272 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 35
+            },
+            {
+                "name": "Spicy",
+                "votes": 9
+            },
+            {
+                "name": "Synthetic",
+                "votes": 42
+            },
+            {
+                "name": "Woody",
+                "votes": 27
+            },
+            {
+                "name": "Resinous",
+                "votes": 10
+            },
+            {
+                "name": "Fresh",
+                "votes": 45
+            },
+            {
+                "name": "Aquatic",
+                "votes": 23
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 45
+            },
+            {
+                "name": "Feminine",
+                "votes": 26
+            },
+            {
+                "name": "Classic",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 39
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 19
+            },
+            {
+                "name": "Fall",
+                "votes": 36
+            },
+            {
+                "name": "Summer",
+                "votes": 43
+            },
+            {
+                "name": "Spring",
+                "votes": 50
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 45
+            },
+            {
+                "name": "Sport",
+                "votes": 29
+            },
+            {
+                "name": "Leisure",
+                "votes": 46
+            },
+            {
+                "name": "Night Out",
+                "votes": 13
+            },
+            {
+                "name": "Business",
+                "votes": 37
+            },
+            {
+                "name": "Evening",
+                "votes": 15
+            }
+        ]
+    }
+}

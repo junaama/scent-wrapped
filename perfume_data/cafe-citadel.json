@@ -1,0 +1,51 @@
+{
+    "name": "Café Citadel",
+    "brand": "Aurora Scents",
+    "release_year": "2025",
+    "description": "A new perfume byAurora Scentsfor women and men, released in2025. The scent is fresh-woody. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3a/3a9004_cafe-citadel-aurora-scents_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Woody",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Pink pepper",
+        "Davana",
+        "Italian bergamot",
+        "Spanish cistus"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Egyptian geranium",
+        "Oud",
+        "Philippine elemi",
+        "Rosemary"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Haitian vetiver",
+        "Indonesian patchouli",
+        "Leather",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "8.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "9.0",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,132 @@
+{
+    "name": "Kolada",
+    "brand": "Kajal",
+    "release_year": "2025",
+    "description": "A new perfume byKajalfor women and men, released in2025. The scent is sweet-fruity.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ea/ea80e5_kolada-kajal_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Creamy",
+        "Floral",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Pineapple",
+        "Fruity notes",
+        "Italian bergamot"
+    ],
+    "heart_notes": [
+        "Lily of the valley",
+        "Violet"
+    ],
+    "base_notes": [
+        "Amber",
+        "Coconut",
+        "Siam benzoin"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "73 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "62 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "62 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "65 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "49 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 18
+            },
+            {
+                "name": "Gourmand",
+                "votes": 7
+            },
+            {
+                "name": "Fruity",
+                "votes": 17
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 14
+            },
+            {
+                "name": "Floral",
+                "votes": 9
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 9
+            },
+            {
+                "name": "Feminine",
+                "votes": 18
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 11
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 17
+            },
+            {
+                "name": "Spring",
+                "votes": 13
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 11
+            },
+            {
+                "name": "Leisure",
+                "votes": 17
+            },
+            {
+                "name": "Night Out",
+                "votes": 12
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 11
+            }
+        ]
+    }
+}

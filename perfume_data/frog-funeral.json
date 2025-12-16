@@ -1,0 +1,63 @@
+{
+    "name": "Frog Funeral",
+    "brand": "Jinx",
+    "release_year": "2025",
+    "description": "A new perfume byJinxfor women and men, released in2025. The scent is floral-fougèreartig. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/06/06b91f_frog-funeral-jinx_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fougère",
+        "Fruity",
+        "Woody",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Carrot seed",
+        "Citrus notes",
+        "Nepalese sichuan pepper",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Blue lotus",
+        "Bushman's candle",
+        "Iris",
+        "Lily of the valley",
+        "May rose",
+        "Myrrh",
+        "Nutmeg",
+        "Patchouli",
+        "Tuberose",
+        "Turkish rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Beaver tail oil",
+        "Burmese oud",
+        "Frankincense",
+        "Kashmiri deer musk",
+        "Mysore sandalwood",
+        "Oakmoss",
+        "Oud",
+        "Siberian deer musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.0",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "9.0",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Fck Rich",
+    "brand": "Duftglas",
+    "release_year": "2025",
+    "description": "A new perfume byDuftglasfor men, released in2025. The production was apparently discontinued.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Cognac"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Hazelnut",
+        "Hedione",
+        "Oak",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Almond",
+        "Oak wood",
+        "Praliné",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

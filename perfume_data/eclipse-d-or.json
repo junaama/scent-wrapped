@@ -1,0 +1,112 @@
+{
+    "name": "Éclipse d'Or",
+    "brand": "The House of Oud",
+    "release_year": "2025",
+    "description": "A new and limited perfume byThe House of Oudfor women and men, released in2025. The scent is floral-fruity. Projection and longevity are above-average. It is being marketed byHIC Beauty.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/61/612bf7_eclipse-d-or-the-house-of-oud_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fruity",
+        "Oriental",
+        "Synthetic",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Mandarin orange",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Orange blossom",
+        "Iris"
+    ],
+    "base_notes": [
+        "Blond woods",
+        "Oud",
+        "Amber",
+        "Animalic notes",
+        "Cypriol",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "8.5",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

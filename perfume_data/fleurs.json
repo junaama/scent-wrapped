@@ -1,0 +1,113 @@
+{
+    "name": "Fleurs",
+    "brand": "Lolita Lempicka",
+    "release_year": "2025",
+    "description": "A new perfume byLolita Lempickafor women, released in2025. The scent is fresh-floral. It is being marketed byLeslie Leonor International.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7e/7eebc9_fleurs-lolita-lempicka_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Floral",
+        "Sweet",
+        "Fruity",
+        "Green"
+    ],
+    "top_notes": [
+        "Magnolia",
+        "Mandarin orange",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Damask rose",
+        "Jasmine sambac",
+        "Granola"
+    ],
+    "base_notes": [
+        "White musk",
+        "Amber",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            }
+        ]
+    }
+}

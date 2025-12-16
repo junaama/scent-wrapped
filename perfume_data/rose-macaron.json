@@ -1,0 +1,81 @@
+{
+    "name": "Rose Macaron",
+    "brand": "Crémerie",
+    "release_year": "2025",
+    "description": "A new perfume byCrémeriefor women, released in2025. The scent is synthetic-powdery.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/54/54489f_rose-macaron-cremerie_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Powdery",
+        "Floral",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Osmanthus",
+        "Tea"
+    ],
+    "heart_notes": [
+        "Freesia",
+        "Orchid",
+        "Rose",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Musk",
+        "Patchouli",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

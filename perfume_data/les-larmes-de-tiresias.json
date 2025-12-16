@@ -1,0 +1,132 @@
+{
+    "name": "Les Larmes de Tirésias",
+    "brand": "Roos & Roos",
+    "release_year": "2025",
+    "description": "A new perfume byRoos & Roosfor women and men, released in2025. The scent is sweet-spicy.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/df/df5b96_les-larmes-de-tiresias-roos-roos-dear-rose_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Leathery",
+        "Woody",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Juniper berry",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Caramelized fig",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Leather",
+        "Amberwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.7",
+            "votes": "9 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Leathery",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

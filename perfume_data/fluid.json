@@ -1,0 +1,27 @@
+{
+    "name": "Fluid",
+    "brand": "OMR Beauty",
+    "release_year": "2025",
+    "description": "A new perfume byOMR Beautyfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a7/a78e05_fluid-omr-beauty_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Jasmine",
+        "Lily of the valley",
+        "Musk",
+        "Vanilla"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Heliotrope",
+        "Musk",
+        "Sugar",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Galbanum"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

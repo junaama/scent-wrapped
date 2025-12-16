@@ -1,0 +1,127 @@
+{
+    "name": "Positano",
+    "brand": "Osma",
+    "release_year": "2025",
+    "description": "A new perfume byOsmafor women and men, released in2025. The scent is floral-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/0c/0c95b0_positano-osma_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Woody",
+        "Creamy",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Sandalwood"
+    ],
+    "heart_notes": [
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Pink pepper"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "9 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

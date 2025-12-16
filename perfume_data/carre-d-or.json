@@ -1,0 +1,27 @@
+{
+    "name": "Carré d'Or",
+    "brand": "Alex Simone",
+    "release_year": "2025",
+    "description": "A new perfume byAlex Simonefor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/c1/c13f29_carre-d-or-alex-simone_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cardamom",
+        "Fig"
+    ],
+    "heart_notes": [
+        "Iris",
+        "Tobacco"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

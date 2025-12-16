@@ -1,0 +1,136 @@
+{
+    "name": "Moonlight Cherry",
+    "brand": "Van Cleef & Arpels",
+    "release_year": "2025",
+    "description": "A new perfume byVan Cleef & Arpelsfor women and men, released in2025. The scent is sweet-fruity. It is being marketed byInterparfums.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5a/5a89b6_moonlight-cherry-van-cleef-arpels_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Gourmand",
+        "Spicy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Bitter almond",
+        "Rum absolute"
+    ],
+    "heart_notes": [
+        "Cherry",
+        "Coffee absolute",
+        "Sandalwood"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Musk",
+        "Tolu balm"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "65 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "51 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "51 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "56 Ratings"
+        },
+        "pricing": {
+            "score": "7.3",
+            "votes": "48 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Sweet",
+                "votes": 22
+            },
+            {
+                "name": "Woody",
+                "votes": 7
+            },
+            {
+                "name": "Gourmand",
+                "votes": 13
+            },
+            {
+                "name": "Fruity",
+                "votes": 19
+            },
+            {
+                "name": "Creamy",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 15
+            },
+            {
+                "name": "Feminine",
+                "votes": 19
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 13
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 19
+            },
+            {
+                "name": "Fall",
+                "votes": 22
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 11
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Leisure",
+                "votes": 14
+            },
+            {
+                "name": "Night Out",
+                "votes": 19
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 19
+            }
+        ]
+    }
+}

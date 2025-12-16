@@ -1,0 +1,45 @@
+{
+    "name": "Bright Amber",
+    "brand": "Monkoku",
+    "release_year": "2025",
+    "description": "A new perfume byMonkokufor women and men, released in2025. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9b/9b214d_bright-amber-monkoku_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Date",
+        "Fig",
+        "Mandarin orange",
+        "Plum",
+        "Raisin"
+    ],
+    "heart_notes": [
+        "Spices",
+        "Jasmine",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cinnamon",
+        "Blond tobacco",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "8.7",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {}
+}

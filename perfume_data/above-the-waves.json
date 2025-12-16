@@ -1,0 +1,141 @@
+{
+    "name": "Above the Waves",
+    "brand": "Etat Libre d'Orange",
+    "release_year": "2025",
+    "description": "A new perfume byEtat Libre d'Orangefor women and men, released in2025. The scent is fresh-woody.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ad/adbbdb_above-the-waves-etat-libre-d-orange_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Woody",
+        "Spicy",
+        "Citrus",
+        "Green"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Cardamom",
+        "Frankincense"
+    ],
+    "heart_notes": [
+        "Ceylon tea",
+        "Black tea",
+        "Maté"
+    ],
+    "base_notes": [
+        "Cedar",
+        "Tonka bean",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "32 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "27 Ratings"
+        },
+        "sillage": {
+            "score": "6.4",
+            "votes": "26 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "28 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "18 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 8
+            },
+            {
+                "name": "Spicy",
+                "votes": 9
+            },
+            {
+                "name": "Woody",
+                "votes": 9
+            },
+            {
+                "name": "Green",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 12
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 11
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Modern",
+                "votes": 8
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 12
+            },
+            {
+                "name": "Spring",
+                "votes": 10
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 11
+            },
+            {
+                "name": "Sport",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 10
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 10
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

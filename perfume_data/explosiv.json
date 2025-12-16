@@ -1,0 +1,144 @@
+{
+    "name": "Explosiv",
+    "brand": "Rammstein",
+    "release_year": "2025",
+    "description": "A new perfume byRammsteinfor women, released in2025. The scent is fruity-sweet. It is being marketed by2 Pilots.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/cb/cbd355_explosiv-rammstein_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Floral",
+        "Woody",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Peony",
+        "Raspberry",
+        "Mandarin orange",
+        "Grapefruit"
+    ],
+    "heart_notes": [
+        "Lily of the valley",
+        "Patchouli",
+        "Rose",
+        "Cedarwood"
+    ],
+    "base_notes": [
+        "Amber",
+        "White musk",
+        "Sandalwood",
+        "Frankincense"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "13 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "12 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "6.9",
+            "votes": "17 Ratings"
+        },
+        "pricing": {
+            "score": "7.8",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 8
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

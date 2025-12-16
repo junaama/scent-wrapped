@@ -1,0 +1,38 @@
+{
+    "name": "Modern Patchouli",
+    "brand": "Cyklar",
+    "release_year": "2025",
+    "description": "A new perfume byCyklarfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6c/6c8181_modern-patchouli-cyklar_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Coconut water",
+        "Pistachio"
+    ],
+    "heart_notes": [
+        "Mimosa"
+    ],
+    "base_notes": [
+        "Patchouli",
+        "Vanilla absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.3",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

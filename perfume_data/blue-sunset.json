@@ -1,0 +1,33 @@
+{
+    "name": "Blue Sunset",
+    "brand": "Oscar Emil",
+    "release_year": "2025",
+    "description": "A new perfume byOscar Emilfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a0/a08bf8_blue-sunset-oscar-emil_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Apple",
+        "Grapefruit",
+        "Pear",
+        "Violet"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lily of the valley",
+        "Rose"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Musk",
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "4.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

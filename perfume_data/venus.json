@@ -1,0 +1,24 @@
+{
+    "name": "Venus",
+    "brand": "Momirov",
+    "release_year": "2025",
+    "description": "A new perfume byMomirovfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/98/984856_venus-momirov_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Champagne",
+        "Cherry"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Patchouli",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

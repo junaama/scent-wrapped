@@ -1,0 +1,25 @@
+{
+    "name": "Joalia",
+    "brand": "Adopt'",
+    "release_year": "2025",
+    "description": "A new perfume byAdopt'for women, released in2025. The scent is fruity-floral.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/c1/c13d17_joalia-adopt_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Floral",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Candied pear"
+    ],
+    "heart_notes": [
+        "Nectar",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,137 @@
+{
+    "name": "Black Ops",
+    "brand": "Lost Tribe",
+    "release_year": "2025",
+    "description": "A new perfume byLost Tribefor women and men, released in2025. The scent is fruity-citrusy. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/48/48391f_black-ops-lost-tribe_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Citrus",
+        "Floral",
+        "Powdery",
+        "Woody"
+    ],
+    "top_notes": [
+        "Grapefruit",
+        "Honeysuckle otto",
+        "Iranian Rose Otto",
+        "Mango",
+        "White ambergris",
+        "Yuzu"
+    ],
+    "heart_notes": [
+        "Jasmine sambac",
+        "Lychee",
+        "Musk",
+        "Narcissus",
+        "Raspberry",
+        "Rhododendron",
+        "Rose",
+        "Rose absolute"
+    ],
+    "base_notes": [
+        "Chinese oud",
+        "Indonesian sandalwood",
+        "Kyara oud",
+        "Orris root",
+        "Oud",
+        "Siberian musk",
+        "Sumatran oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.7",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

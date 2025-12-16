@@ -1,0 +1,24 @@
+{
+    "name": "Green Crush",
+    "brand": "L'Atelier Parfum",
+    "release_year": "2025",
+    "description": "A new perfume byL'Atelier Parfumfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d6/d6e410_green-crush-hair-body-mist-l-atelier-parfum_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Citron",
+        "Mint",
+        "Basil"
+    ],
+    "heart_notes": [
+        "Currant",
+        "Vervain"
+    ],
+    "base_notes": [
+        "Musk",
+        "Cedar",
+        "Patchouli"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

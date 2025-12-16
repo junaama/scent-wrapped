@@ -1,0 +1,119 @@
+{
+    "name": "Suedexcess",
+    "brand": "Devertere",
+    "release_year": "2025",
+    "description": "A new perfume byDeverterefor women and men, released in2025. The scent is leathery-woody.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/56/56ba9c_suedexcess-devertere_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Leathery",
+        "Woody",
+        "Sweet",
+        "Smoky",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Artemisia",
+        "Saffron",
+        "Bergamot",
+        "Cardamom",
+        "Pepper"
+    ],
+    "heart_notes": [
+        "Balsam",
+        "Labdanum",
+        "Tonka bean",
+        "Birch tar",
+        "Iris"
+    ],
+    "base_notes": [
+        "Gaiac wood",
+        "Leather",
+        "Sandalwood",
+        "Oud",
+        "Suede"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

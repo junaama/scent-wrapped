@@ -1,0 +1,140 @@
+{
+    "name": "Candy Shop",
+    "brand": "Jousset Parfums",
+    "release_year": "2025",
+    "description": "A new and limited perfume byJousset Parfumsfor women and men, released in2025. The scent is gourmand-sweet.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/a3/a32a13_candy-shop-jousset-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Sweet",
+        "Powdery",
+        "Fruity",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Lemon",
+        "Lime",
+        "Orange",
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Banana",
+        "Peach"
+    ],
+    "base_notes": [
+        "Sugar",
+        "Vanilla cream"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

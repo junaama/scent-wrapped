@@ -1,0 +1,131 @@
+{
+    "name": "Sol e Samba",
+    "brand": "Birkholz",
+    "release_year": "2025",
+    "description": "A new perfume byBirkholzfor women and men, released in2025. The scent is citrusy-green.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e0/e08660_sol-e-samba-birkholz_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Green",
+        "Fresh",
+        "Fruity",
+        "Woody"
+    ],
+    "top_notes": [
+        "Yuzu",
+        "Grapefruit",
+        "Matcha",
+        "Cardamom"
+    ],
+    "heart_notes": [
+        "Fig leaf",
+        "Juniper berry",
+        "Tobacco"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Amber",
+        "Musk",
+        "Leather"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "221 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "196 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "191 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "190 Ratings"
+        },
+        "pricing": {
+            "score": "7.5",
+            "votes": "162 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 61
+            },
+            {
+                "name": "Woody",
+                "votes": 21
+            },
+            {
+                "name": "Green",
+                "votes": 58
+            },
+            {
+                "name": "Fruity",
+                "votes": 44
+            },
+            {
+                "name": "Fresh",
+                "votes": 56
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 51
+            },
+            {
+                "name": "Feminine",
+                "votes": 44
+            },
+            {
+                "name": "Modern",
+                "votes": 49
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 12
+            },
+            {
+                "name": "Summer",
+                "votes": 67
+            },
+            {
+                "name": "Spring",
+                "votes": 51
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 48
+            },
+            {
+                "name": "Sport",
+                "votes": 22
+            },
+            {
+                "name": "Leisure",
+                "votes": 60
+            },
+            {
+                "name": "Night Out",
+                "votes": 29
+            },
+            {
+                "name": "Business",
+                "votes": 40
+            },
+            {
+                "name": "Evening",
+                "votes": 24
+            }
+        ]
+    }
+}

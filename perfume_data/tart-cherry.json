@@ -1,0 +1,66 @@
+{
+    "name": "Tart Cherry",
+    "brand": "Kitsch",
+    "release_year": "2025",
+    "description": "A new and limited perfume byKitschfor women, released in2025. The scent is fresh-fruity.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/c4/c4c42c_tart-cherry-kitsch_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Fruity",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Ambrette",
+        "Black cherry",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Rose"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sandalwood",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            }
+        ]
+    }
+}

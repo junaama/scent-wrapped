@@ -1,0 +1,23 @@
+{
+    "name": "Vanilla Flowers",
+    "brand": "Fenty",
+    "release_year": "2025",
+    "description": "A new perfume byFentyfor women, released in2025. It is being marketed byLVMH.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a1/a1ab04_vanilla-flowers-fenty_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Lily of the valley",
+        "Vanilla orchid"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sugar",
+        "Tahitian vanilla",
+        "Woods"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

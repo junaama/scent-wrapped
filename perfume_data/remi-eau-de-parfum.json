@@ -1,0 +1,35 @@
+{
+    "name": "Remi",
+    "brand": "By/Rosie Jane",
+    "release_year": "2025",
+    "description": "A new perfume byBy/Rosie Janefor women and men, released in2025. The scent is earthy-green. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/90/905edb_remi-eau-de-parfum-by-rosie-jane_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Earthy",
+        "Green"
+    ],
+    "top_notes": [
+        "Bergamot leaf",
+        "Mandarin orange",
+        "Cardamom"
+    ],
+    "heart_notes": [
+        "Hemp",
+        "Jasminum auriculatum",
+        "Petitgrain",
+        "Verbena leaf",
+        "White gardenia"
+    ],
+    "base_notes": [
+        "Musk",
+        "White amber",
+        "Cedar"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.4",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

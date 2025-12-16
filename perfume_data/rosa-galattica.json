@@ -1,0 +1,132 @@
+{
+    "name": "Rosa Galattica",
+    "brand": "Zeromolecole",
+    "release_year": "2025",
+    "description": "A new and limited perfume byZeromolecolefor women and men, released in2025. The scent is floral-sweet.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/b2/b2a61a_rosa-galattica-zeromolecole_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Synthetic",
+        "Spicy",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Ginger",
+        "Ice accord",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Damask rose",
+        "Vanilla milk"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Cashmere wood",
+        "Papyrus"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "6.4",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

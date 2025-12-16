@@ -1,0 +1,127 @@
+{
+    "name": "Pistachio Voodoo Child",
+    "brand": "Iggywoo",
+    "release_year": "2025",
+    "description": "A new perfume byIggywoofor women and men, released in2025. The scent is sweet-floral.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/f9/f90d56_pistachio-voodoo-child-iggywoo_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Creamy",
+        "Gourmand",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Pistachio"
+    ],
+    "heart_notes": [
+        "Voodoo Dancer daylily",
+        "Jasmine",
+        "Praliné"
+    ],
+    "base_notes": [
+        "Roasted pistachio",
+        "Sandalwood",
+        "Vanilla cream"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "15 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "13 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 9
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 8
+            },
+            {
+                "name": "Floral",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

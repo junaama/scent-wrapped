@@ -1,0 +1,60 @@
+{
+    "name": "Drift",
+    "brand": "Jinx",
+    "release_year": "2025",
+    "description": "A new perfume byJinxfor women and men, released in2025. The scent is sweet-resinous. Projection and longevity are above-average. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/42/429551_drift-jinx_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Resinous",
+        "Synthetic",
+        "Oriental",
+        "Woody"
+    ],
+    "top_notes": [
+        "Aurantiol",
+        "Blackcurrant",
+        "Honey",
+        "Pepper",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Bourbon geranium",
+        "Elemi resin",
+        "Frankincense",
+        "Lily of the valley",
+        "Myrrh",
+        "Patchouli",
+        "Taif rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Black ambergris",
+        "Cambodian oud",
+        "Kashmiri deer musk",
+        "Musk",
+        "Musk ketone",
+        "Musk xylene",
+        "Oud",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "8.5",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

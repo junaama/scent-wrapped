@@ -1,0 +1,29 @@
+{
+    "name": "Cozy",
+    "brand": "Scent of Jarte",
+    "release_year": "2025",
+    "description": "A new perfume byScent of Jartefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/64/6440ab_cozy-scent-of-jarte_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Coconut",
+        "Freesia",
+        "Peach"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Rose"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Toffee",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

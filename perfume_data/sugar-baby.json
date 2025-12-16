@@ -1,0 +1,88 @@
+{
+    "name": "Sugar Baby",
+    "brand": "Boy Smells",
+    "release_year": "2025",
+    "description": "A new perfume byBoy Smellsfor women and men, released in2025. The scent is sweet-floral.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/95/95971b_sugar-baby-boy-smells_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Grapefruit",
+        "Honeysuckle"
+    ],
+    "heart_notes": [
+        "Freesia",
+        "Water lily"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sugar"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "4.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "3.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "5.9",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

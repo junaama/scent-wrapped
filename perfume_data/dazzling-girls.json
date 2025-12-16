@@ -1,0 +1,134 @@
+{
+    "name": "Dazzling Girls",
+    "brand": "Haute Fragrance Company",
+    "release_year": "2025",
+    "description": "A new perfume byHaute Fragrance Companyfor women and men, released in2025. The scent is fruity-floral.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b8/b8b64e_dazzling-girls-haute-fragrance-company_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Floral",
+        "Sweet",
+        "Powdery",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Apricot",
+        "Honeysuckle",
+        "Mirabelle plum",
+        "Tunisian neroli",
+        "Ylang-ylang"
+    ],
+    "heart_notes": [
+        "Ambrette seed",
+        "Jasmine sambac absolute",
+        "Osmanthus absolute",
+        "Sea salt"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Bourbon vanilla absolute",
+        "Heliotrope",
+        "Pear",
+        "Tonka bean absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "12 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "11 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "10 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Powdery",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 6
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

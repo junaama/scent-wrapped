@@ -1,0 +1,92 @@
+{
+    "name": "Windows Down P.C.H.",
+    "brand": "Henry Rose",
+    "release_year": "2025",
+    "description": "A new and limited perfume byHenry Rosefor women and men, released in2025. The scent is citrusy-woody.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/6b/6be176_windows-down-p-c-h-henry-rose_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Woody",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Elemi resin",
+        "Grapefruit",
+        "Lemon",
+        "Tangerine"
+    ],
+    "heart_notes": [
+        "Earl Grey tea",
+        "Jasmine",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Cypriol",
+        "Gaiac wood",
+        "Musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Aether",
+    "brand": "Ethéré",
+    "release_year": "2025",
+    "description": "A new and limited perfume byEthéréfor women and men, released in2025.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/0c/0cc6c9_aether-ethere_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Arabica coffee",
+        "Caramel",
+        "Orange blossom",
+        "White cocoa"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Bourbon whiskey",
+        "Cassia",
+        "Tobacco"
+    ],
+    "base_notes": [
+        "Ambrette seed",
+        "Mahogany",
+        "Musk",
+        "Rosewood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

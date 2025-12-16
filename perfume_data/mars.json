@@ -1,0 +1,52 @@
+{
+    "name": "Mars",
+    "brand": "Lost Tribe",
+    "release_year": "2025",
+    "description": "A new and limited perfume byLost Tribefor women and men, released in2025. The scent is smoky-animal. The longevity is above-average. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/52/529099_mars-lost-tribe_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Animal",
+        "Spicy",
+        "Woody",
+        "Earthy"
+    ],
+    "top_notes": [
+        "Cabreuva",
+        "Yuzu"
+    ],
+    "heart_notes": [
+        "Iris",
+        "Jasmine sambac",
+        "Oakmoss",
+        "Queen-of-the-night",
+        "Red frangipani",
+        "Rose"
+    ],
+    "base_notes": [
+        "Lotus",
+        "Malayan oud",
+        "Mongolian musk",
+        "Pimento",
+        "Red mysore sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

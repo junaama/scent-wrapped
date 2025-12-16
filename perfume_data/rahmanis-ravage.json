@@ -1,0 +1,140 @@
+{
+    "name": "Rahmanis Ravage",
+    "brand": "Nebiru Parfvms",
+    "release_year": "2025",
+    "description": "A new perfume byNebiru Parfvmsfor women and men, released in2025. The scent is spicy-resinous. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3f/3f2057_rahmanis-ravage-nebiru-parfvms_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Resinous",
+        "Fresh",
+        "Woody",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Chinese clove",
+        "Italian bay leaf",
+        "Italian bergamot",
+        "Italian tarragon"
+    ],
+    "heart_notes": [
+        "Bulgarian rose",
+        "French lavender",
+        "Night-blooming jasmine",
+        "Taif rose",
+        "Tobacco flower absolute"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Benzoin",
+        "Borneo oud resin",
+        "Ceylonese sandalwood",
+        "Copaiba balsam",
+        "Ethiopian civet",
+        "Indonesian oud (sumbawa)",
+        "Myrrh",
+        "Sri Lankan oud",
+        "Texas cedar",
+        "White ambergris"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.1",
+            "votes": "18 Ratings"
+        },
+        "durability": {
+            "score": "8.7",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "8.3",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "11 Ratings"
+        },
+        "pricing": {
+            "score": "8.2",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

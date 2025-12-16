@@ -1,0 +1,30 @@
+{
+    "name": "Ember",
+    "brand": "Sunnamusk",
+    "release_year": "2025",
+    "description": "A new and limited perfume bySunnamuskfor women and men, released in2025.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/fe/fe14d2_ember-sunnamusk_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Blackcurrant",
+        "Mandarin orange",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Ginger",
+        "Hibiscus",
+        "Leather",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Frankincense",
+        "Musk",
+        "Tea",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

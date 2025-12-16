@@ -1,0 +1,31 @@
+{
+    "name": "Past Time",
+    "brand": "The Nue Co.",
+    "release_year": "2025",
+    "description": "A new perfume byThe Nue Co.for women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/7c/7c7e2e_past-time-the-nue-co_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Black pepper",
+        "Coconut",
+        "Milk",
+        "Rhubarb"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Ambrette",
+        "Musk"
+    ],
+    "base_notes": [
+        "Haitian vetiver",
+        "Sandalwood",
+        "Wolfwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

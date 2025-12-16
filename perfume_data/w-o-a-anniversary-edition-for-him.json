@@ -1,0 +1,127 @@
+{
+    "name": "W:O:A Anniversary Edition for Him",
+    "brand": "Wacken",
+    "release_year": "2025",
+    "description": "A new perfume byWackenfor men, released in2025. The scent is green-spicy. It is being marketed by2 Pilots.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/30/308f65_w-o-a-anniversary-edition-for-him-wacken_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Spicy",
+        "Woody",
+        "Fresh",
+        "Floral"
+    ],
+    "top_notes": [
+        "Bitter orange",
+        "Pepper tree",
+        "Rosemary"
+    ],
+    "heart_notes": [
+        "Iris",
+        "Jasmine",
+        "Neroli",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Patchouli",
+        "Sandalwood",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.7",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "6.5",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

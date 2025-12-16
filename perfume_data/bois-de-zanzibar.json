@@ -1,0 +1,118 @@
+{
+    "name": "Bois de Zanzibar",
+    "brand": "Anthologie by Lucien Ferrero",
+    "release_year": "2025",
+    "description": "A new perfume byAnthologie by Lucien Ferrerofor women and men, released in2025. The scent is citrusy-spicy. It is being marketed byKaon.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/58/5852e5_bois-de-zanzibar-anthologie-by-lucien-ferrero_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Spicy",
+        "Woody",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Coriander",
+        "Ginger",
+        "Grapefruit",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Brazilian rosewood",
+        "Cedarwood",
+        "Nutmeg",
+        "Teak"
+    ],
+    "base_notes": [
+        "Ambrocenide®",
+        "Clove",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

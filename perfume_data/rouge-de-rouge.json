@@ -1,0 +1,32 @@
+{
+    "name": "Rouge de Rouge",
+    "brand": "Noème",
+    "release_year": "2025",
+    "description": "A new perfume byNoèmefor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/62/626133_rouge-de-rouge-noeme_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Blackcurrant",
+        "Peach",
+        "Plum"
+    ],
+    "heart_notes": [
+        "Bulgarian rose",
+        "Geranium",
+        "Vetiver",
+        "Virginia cedar wood"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

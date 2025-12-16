@@ -1,0 +1,41 @@
+{
+    "name": "06 - Siren Song",
+    "brand": "Noise",
+    "release_year": "2025",
+    "description": "A new perfume byNoisefor women and men, released in2025. The scent is green-powdery. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/01/0119b9_06-siren-song-noise_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Powdery",
+        "Woody",
+        "Fresh",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Fig leaf",
+        "Green leaves",
+        "Violet leaf"
+    ],
+    "heart_notes": [
+        "Fig",
+        "Fig milk",
+        "Pollen",
+        "White woods"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Dried fig",
+        "Immortelle",
+        "Musk",
+        "Oak wood absolute",
+        "Oakmoss",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

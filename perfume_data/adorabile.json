@@ -1,0 +1,137 @@
+{
+    "name": "Adorabile",
+    "brand": "Furla",
+    "release_year": "2025",
+    "description": "A new perfume byFurlafor women, released in2025. The scent is fruity-floral. It is being marketed byMavive.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/6b/6bb440_adorabile-furla_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Floral",
+        "Sweet",
+        "Fresh",
+        "Woody"
+    ],
+    "top_notes": [
+        "Italian lemon",
+        "Lily of the valley",
+        "Nectarine"
+    ],
+    "heart_notes": [
+        "Carnation",
+        "Helvetolide®",
+        "Rosa centifolia"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Vanilla",
+        "Virginia cedar"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

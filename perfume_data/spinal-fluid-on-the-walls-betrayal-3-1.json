@@ -1,0 +1,150 @@
+{
+    "name": "Spinal Fluid on the Walls",
+    "brand": "Toskovat'",
+    "release_year": "2025",
+    "description": "A new perfume byToskovat'for women and men, released in2025. The scent is synthetic-spicy. The longevity is above-average. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/95/955df6_spinal-fluid-on-the-walls-betrayal-3-toskovat_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Spicy",
+        "Fruity",
+        "Green",
+        "Aquatic"
+    ],
+    "top_notes": [
+        "Fruits",
+        "Paint",
+        "Turpentine",
+        "Sulfur"
+    ],
+    "heart_notes": [
+        "Glue",
+        "Blossoms",
+        "Pineapple",
+        "Battery",
+        "Rust"
+    ],
+    "base_notes": [
+        "Meat",
+        "Aldehydes",
+        "Gaiac wood",
+        "Myrrh",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "19 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "16 Ratings"
+        },
+        "sillage": {
+            "score": "7.9",
+            "votes": "16 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "22 Ratings"
+        },
+        "pricing": {
+            "score": "7.6",
+            "votes": "16 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 6
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "name": "Legends Edition Black",
+    "brand": "Eleven Legends",
+    "release_year": "2025",
+    "description": "A new and limited perfume byEleven Legendsfor women and men, released in2025. The scent is fruity-woody. The longevity is above-average. It was last marketed byCG-Fragrance.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/da/da3698_legends-edition-black-eleven-legends_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Woody"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Cypress",
+        "Pink pepper",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Fir balsam",
+        "Jasmine",
+        "Lavender",
+        "Saffron",
+        "Suede"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cyperus",
+        "Orange blossom",
+        "Patchouli",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {
+        "sillage": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "3.1",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "name": "Tira-Miss-You",
+    "brand": "Grandeur",
+    "release_year": "2025",
+    "description": "A new perfume byGrandeurfor women and men, released in2025. The scent is sweet-gourmand. It is being marketed byABC Fragrances.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/20/2073cc_tira-miss-you-grandeur_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Spicy",
+        "Oriental",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Almond",
+        "Coffee",
+        "Milk"
+    ],
+    "heart_notes": [
+        "Amber notes",
+        "Liquorice",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Musk",
+        "Nuts",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.8",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

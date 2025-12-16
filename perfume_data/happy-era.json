@@ -1,0 +1,24 @@
+{
+    "name": "Happy Era",
+    "brand": "Primark",
+    "release_year": "2025",
+    "description": "A new perfume byPrimarkfor women, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Raspberry",
+        "Tropical blossoms"
+    ],
+    "heart_notes": [
+        "ISO-E-Super",
+        "Jasmine",
+        "Powdery notes"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Mossy notes",
+        "Musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

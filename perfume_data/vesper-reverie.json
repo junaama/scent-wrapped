@@ -1,0 +1,158 @@
+{
+    "name": "Vesper Reverie",
+    "brand": "Electimuss",
+    "release_year": "2025",
+    "description": "A new perfume byElectimussfor women and men, released in2025. The scent is leathery-fruity. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ba/baa914_vesper-reverie-electimuss_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Leathery",
+        "Fruity",
+        "Spicy",
+        "Sweet",
+        "Floral"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Blood orange",
+        "Green tea",
+        "Peach",
+        "Mango",
+        "Star anise",
+        "Marine notes"
+    ],
+    "heart_notes": [
+        "Hibiscus",
+        "Champaca",
+        "Iris",
+        "Jasmine sambac absolute",
+        "Lily of the valley",
+        "Magnolia"
+    ],
+    "base_notes": [
+        "Musk",
+        "Amber",
+        "Leather",
+        "Orcanox",
+        "Boxwood absolute",
+        "Oud",
+        "Sandalwood",
+        "Sugar cane",
+        "Bourbon vanilla absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "15 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "16 Ratings"
+        },
+        "pricing": {
+            "score": "5.5",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 6
+            },
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Leathery",
+                "votes": 7
+            },
+            {
+                "name": "Fruity",
+                "votes": 7
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 9
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

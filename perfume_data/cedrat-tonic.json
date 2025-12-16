@@ -1,0 +1,138 @@
+{
+    "name": "Cedrat Tonic",
+    "brand": "Liquides Imaginaires",
+    "release_year": "2025",
+    "description": "A new perfume byLiquides Imaginairesfor women and men, released in2025. The scent is citrusy-fresh.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/fe/fe1fbb_cedrat-tonic-liquides-imaginaires_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Green",
+        "Woody",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Grapefruit zest",
+        "Lemon Orpur®",
+        "Citrus notes",
+        "Gin",
+        "Rosemary"
+    ],
+    "heart_notes": [
+        "Eau de Cologne mint",
+        "Ginger Orpur®",
+        "Jasmin bud",
+        "Pink pepper Orpur®"
+    ],
+    "base_notes": [
+        "Akigalawood®",
+        "Woods",
+        "Ambrette seed absolute Orpur®",
+        "Elemi resin",
+        "Moss"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "23 Ratings"
+        },
+        "durability": {
+            "score": "6.4",
+            "votes": "18 Ratings"
+        },
+        "sillage": {
+            "score": "6.2",
+            "votes": "17 Ratings"
+        },
+        "bottle": {
+            "score": "6.7",
+            "votes": "18 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 8
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 5
+            },
+            {
+                "name": "Fresh",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

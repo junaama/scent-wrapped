@@ -1,0 +1,129 @@
+{
+    "name": "001 Synth Aura",
+    "brand": "Zara",
+    "release_year": "2025",
+    "description": "A new perfume byZarafor men, released in2025. The scent is floral-powdery.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/65/65288b_001-synth-aura-zara_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Powdery",
+        "Synthetic",
+        "Fresh",
+        "Woody"
+    ],
+    "top_notes": [
+        "Sandalwood",
+        "Lily of the valley"
+    ],
+    "heart_notes": [
+        "Iris",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "17 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "13 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "13 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "15 Ratings"
+        },
+        "pricing": {
+            "score": "8.3",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Powdery",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Sport",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            }
+        ]
+    }
+}

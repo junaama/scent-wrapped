@@ -1,0 +1,139 @@
+{
+    "name": "Nφvae Vanilla",
+    "brand": "Atelier des Ors",
+    "release_year": "2025",
+    "description": "A new perfume byAtelier des Orsfor women and men, released in2025. The scent is sweet-woody.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/4e/4e9661_novae-vanilla-atelier-des-ors_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Woody",
+        "Spicy",
+        "Powdery",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Mineral notes"
+    ],
+    "heart_notes": [
+        "Vanilla",
+        "Mimosa absolute"
+    ],
+    "base_notes": [
+        "Bourbon vanilla",
+        "Amberwood",
+        "Bourbon vanilla absolute",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.6",
+            "votes": "56 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "46 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "44 Ratings"
+        },
+        "bottle": {
+            "score": "9.0",
+            "votes": "56 Ratings"
+        },
+        "pricing": {
+            "score": "6.0",
+            "votes": "34 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 13
+            },
+            {
+                "name": "Synthetic",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 18
+            },
+            {
+                "name": "Powdery",
+                "votes": 11
+            },
+            {
+                "name": "Woody",
+                "votes": 13
+            },
+            {
+                "name": "Gourmand",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            },
+            {
+                "name": "Aquatic",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 17
+            },
+            {
+                "name": "Feminine",
+                "votes": 19
+            },
+            {
+                "name": "Modern",
+                "votes": 16
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 19
+            },
+            {
+                "name": "Fall",
+                "votes": 20
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 11
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 10
+            },
+            {
+                "name": "Leisure",
+                "votes": 15
+            },
+            {
+                "name": "Night Out",
+                "votes": 16
+            },
+            {
+                "name": "Business",
+                "votes": 10
+            },
+            {
+                "name": "Evening",
+                "votes": 16
+            }
+        ]
+    }
+}

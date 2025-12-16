@@ -1,0 +1,42 @@
+{
+    "name": "Caelestis",
+    "brand": "Wesker",
+    "release_year": "2025",
+    "description": "A new perfume byWeskerfor women and men, released in2025. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/04/04ff37_caelestis-wesker_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Citron",
+        "Cypress",
+        "Lily of the valley"
+    ],
+    "heart_notes": [
+        "Mimosa",
+        "Neroli",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Frankincense",
+        "Juniper wood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.8",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {}
+}

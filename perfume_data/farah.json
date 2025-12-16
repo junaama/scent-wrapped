@@ -1,0 +1,126 @@
+{
+    "name": "Farah",
+    "brand": "Paris Corner",
+    "release_year": "2025",
+    "description": "A new perfume byParis Cornerfor women and men, released in2025. The scent is sweet-spicy. Projection and longevity are above-average. It is being marketed byParis Corner Perfumes.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9f/9ffdf8_farah-paris-corner_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Oriental",
+        "Woody",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Rum",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Cedar"
+    ],
+    "base_notes": [
+        "Tobacco",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "45 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "43 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "43 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "45 Ratings"
+        },
+        "pricing": {
+            "score": "9.2",
+            "votes": "41 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 17
+            },
+            {
+                "name": "Sweet",
+                "votes": 18
+            },
+            {
+                "name": "Smoky",
+                "votes": 5
+            },
+            {
+                "name": "Oriental",
+                "votes": 12
+            },
+            {
+                "name": "Woody",
+                "votes": 10
+            },
+            {
+                "name": "Gourmand",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 16
+            },
+            {
+                "name": "Feminine",
+                "votes": 12
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 12
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 18
+            },
+            {
+                "name": "Fall",
+                "votes": 19
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 19
+            },
+            {
+                "name": "Evening",
+                "votes": 17
+            }
+        ]
+    }
+}

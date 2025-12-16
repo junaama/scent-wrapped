@@ -1,0 +1,130 @@
+{
+    "name": "Sisters B4 Misters",
+    "brand": "Jusbox",
+    "release_year": "2025",
+    "description": "A new perfume byJusboxfor women, released in2025. The scent is fruity-sweet. It is being marketed byBeauty San.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a5/a5bcf6_sisters-b4-misters-jusbox_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Synthetic",
+        "Gourmand",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Blackcurrant absolute",
+        "Ginger",
+        "Lime"
+    ],
+    "heart_notes": [
+        "Banana",
+        "Strawberry",
+        "Iris resinoid",
+        "Lily of the valley"
+    ],
+    "base_notes": [
+        "Milk",
+        "Amber",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.7",
+            "votes": "26 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "20 Ratings"
+        },
+        "sillage": {
+            "score": "6.2",
+            "votes": "18 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "26 Ratings"
+        },
+        "pricing": {
+            "score": "5.6",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Gourmand",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 8
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

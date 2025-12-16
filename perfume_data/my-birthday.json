@@ -1,0 +1,23 @@
+{
+    "name": "My Birthday",
+    "brand": "Verites",
+    "release_year": "2025",
+    "description": "A new perfume byVeritesfor women, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/2a/2a1011_my-birthday-verites_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Almond",
+        "Apple",
+        "Cinnamon"
+    ],
+    "heart_notes": [
+        "Butter biscuit",
+        "Coconut"
+    ],
+    "base_notes": [
+        "Musky notes",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

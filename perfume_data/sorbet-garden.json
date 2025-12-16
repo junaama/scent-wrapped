@@ -1,0 +1,31 @@
+{
+    "name": "Sorbet Garden",
+    "brand": "Tous",
+    "release_year": "2025",
+    "description": "A new perfume byTousfor women, released in2025. It is being marketed byPerfumes y Diseño.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5a/5a445d_sorbet-garden-tous_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Brazilian pink pepper",
+        "Mango",
+        "Pear",
+        "Red apple"
+    ],
+    "heart_notes": [
+        "Freesia",
+        "White peony",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Dartanol®",
+        "Indonesian patchouli",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.2",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {}
+}

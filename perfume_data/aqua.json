@@ -1,0 +1,53 @@
+{
+    "name": "Aqua",
+    "brand": "Custodia Libertatis",
+    "release_year": "2025",
+    "description": "A new and limited perfume byCustodia Libertatisfor women and men, released in2025. The scent is citrusy-spicy. Projection and longevity are above-average.CompareLimited",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [
+        "Citrus",
+        "Spicy",
+        "Fruity",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Blood orange",
+        "Clementine",
+        "Lime",
+        "Mandarin orange",
+        "Orange",
+        "Pear",
+        "Tangerine",
+        "Yuzu"
+    ],
+    "heart_notes": [
+        "Indian frankincense",
+        "Litsea cubeba",
+        "Seagrass",
+        "Somalian frankincense"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Nepalese cedarwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.6",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

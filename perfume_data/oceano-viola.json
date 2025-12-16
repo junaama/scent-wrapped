@@ -1,0 +1,157 @@
+{
+    "name": "Oceano Viola",
+    "brand": "Filippo Sorcinelli",
+    "release_year": "2025",
+    "description": "A new perfume byFilippo Sorcinellifor women and men, released in2025. The scent is aquatic-powdery. It is being marketed byAlter Duo.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ba/ba535b_oceano-viola-filippo-sorcinelli_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Aquatic",
+        "Powdery",
+        "Floral",
+        "Fresh",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Amethyst",
+        "Everlasting flower",
+        "Elemi resin"
+    ],
+    "heart_notes": [
+        "Kelp",
+        "Iris",
+        "Violet leaf"
+    ],
+    "base_notes": [
+        "Cascalone®",
+        "Driftwood",
+        "Oakmoss"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "14 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "11 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "16 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 6
+            },
+            {
+                "name": "Leathery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            },
+            {
+                "name": "Aquatic",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 8
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Annone Supremo",
+    "brand": "Pantheon",
+    "release_year": "2025",
+    "description": "A new perfume byPantheonfor women and men, released in2025. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/46/466da2_annone-supremo-pantheon_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Saffron",
+        "Mango",
+        "Peach"
+    ],
+    "heart_notes": [
+        "Rose",
+        "Iris",
+        "Honey"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Amber",
+        "Oud"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.4",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

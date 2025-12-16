@@ -1,0 +1,30 @@
+{
+    "name": "Amarillo",
+    "brand": "Shakira",
+    "release_year": "2025",
+    "description": "A new perfume byShakirafor women, released in2025. It is being marketed byPuig.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ea/eabe2f_amarillo-shakira_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Coconut",
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lily of the valley",
+        "Solar note"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

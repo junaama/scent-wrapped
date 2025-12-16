@@ -1,0 +1,59 @@
+{
+    "name": "Isola Oligarch",
+    "brand": "Scentiments",
+    "release_year": "2025",
+    "description": "A new perfume byScentimentsfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a6/a6a50d_isola-oligarch-scentiments_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Lavender",
+        "Lemon",
+        "Lime",
+        "Thyme"
+    ],
+    "heart_notes": [
+        "Apple",
+        "Blackcurrant",
+        "Coconut",
+        "Grasse jasmine",
+        "Lily",
+        "Orange blossom",
+        "Red champaca"
+    ],
+    "base_notes": [
+        "Amber",
+        "Ambergris",
+        "Aniseed",
+        "Birch",
+        "Cedarwood",
+        "Florentine iris",
+        "Galbanum",
+        "Grass",
+        "Juniper berry",
+        "Leather",
+        "Maté",
+        "Musk",
+        "Oakmoss",
+        "Orris absolute",
+        "Patchouli",
+        "Pink pepper",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "durability": {
+            "score": "4.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "4.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "4.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

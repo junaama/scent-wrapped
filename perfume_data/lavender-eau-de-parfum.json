@@ -1,0 +1,25 @@
+{
+    "name": "Lavender",
+    "brand": "O'Douds",
+    "release_year": "2025",
+    "description": "A new perfume byO'Doudsfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/30/30051d_lavender-eau-de-parfum-o-douds_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Lavender",
+        "Lime",
+        "Provençal lavender",
+        "Wild lavender"
+    ],
+    "heart_notes": [
+        "Neroli",
+        "Pink pepper",
+        "Pot marigold"
+    ],
+    "base_notes": [
+        "Patchouli",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

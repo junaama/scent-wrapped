@@ -1,0 +1,27 @@
+{
+    "name": "Hot Stuff",
+    "brand": "Grande",
+    "release_year": "2025",
+    "description": "A new perfume byGrandefor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/36/36ecff_hot-stuff-grande_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Absinth",
+        "Bergamot",
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Apple",
+        "Davana",
+        "Tart",
+        "Tobacco"
+    ],
+    "base_notes": [
+        "Beeswax",
+        "Oakmoss",
+        "Tonka bean",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

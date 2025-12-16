@@ -1,0 +1,28 @@
+{
+    "name": "Pomelisse",
+    "brand": "Maison Chanceux",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Chanceuxfor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d5/d525e8_pomelisse-chanceux_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Grapefruit",
+        "Lemon",
+        "Pomegranate"
+    ],
+    "heart_notes": [
+        "Mandarin orange",
+        "Neroli",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

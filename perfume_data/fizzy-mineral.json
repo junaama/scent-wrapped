@@ -1,0 +1,36 @@
+{
+    "name": "Fizzy Mineral",
+    "brand": "Richard Maison de Parfum",
+    "release_year": "2025",
+    "description": "A new perfume byRichard Maison de Parfumfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/11/116f18_fizzy-mineral-richard-maison-de-parfum-christian-richard_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Citrus notes",
+        "Cyclamen",
+        "Floral notes",
+        "Jasmine",
+        "Marine notes",
+        "Pepper",
+        "Spicy notes"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Amberwood",
+        "Ozone",
+        "Rose",
+        "Sage",
+        "Woody notes"
+    ],
+    "base_notes": [
+        "Aromatic notes",
+        "Cashmeran",
+        "Cedar",
+        "Mineral notes",
+        "Musk",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

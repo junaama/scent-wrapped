@@ -1,0 +1,32 @@
+{
+    "name": "Lavandin Oud",
+    "brand": "Barzakh",
+    "release_year": "2025",
+    "description": "A new perfume byBarzakhfor women and men, released in2025. The longevity is above-average.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Grapefruit",
+        "Mandarin orange",
+        "Petitgrain",
+        "Provençal lavender"
+    ],
+    "heart_notes": [
+        "Bourbon geranium",
+        "Himalaya cedar",
+        "Provençal lavender",
+        "Rose",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Amber",
+        "Brown ambergris",
+        "Chinese oud",
+        "Civet",
+        "Provençal lavender",
+        "Sandalwood",
+        "Tonkin musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

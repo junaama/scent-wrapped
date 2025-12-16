@@ -1,0 +1,113 @@
+{
+    "name": "Siada Regal",
+    "brand": "Zimaya",
+    "release_year": "2025",
+    "description": "A new perfume byZimayafor women and men, released in2025. The scent is sweet-oriental. The longevity is above-average. It is being marketed byAfnan.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ad/ad79d3_siada-regal-zimaya_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Oriental",
+        "Fruity",
+        "Fresh",
+        "Chypre"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Ginger",
+        "Mango",
+        "Red berries"
+    ],
+    "heart_notes": [
+        "Cedar",
+        "Coumarin",
+        "Jasmine",
+        "Pink pepper",
+        "Red berries"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Moss",
+        "Musk",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Chypre",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

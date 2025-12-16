@@ -1,0 +1,43 @@
+{
+    "name": "Nectar de Passion",
+    "brand": "Le Monde Gourmand",
+    "release_year": "2025",
+    "description": "A new perfume byLe Monde Gourmandfor women, released in2025. It is being marketed byTru Fragrance / Romane Fragrances.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3d/3d54e9_nectar-de-passion-le-monde-gourmand_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Passion fruit",
+        "Pink grapefruit",
+        "Woodland strawberry"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Orange blossom",
+        "Peony"
+    ],
+    "base_notes": [
+        "Cream",
+        "French vanilla",
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "4.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

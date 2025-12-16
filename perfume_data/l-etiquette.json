@@ -1,0 +1,30 @@
+{
+    "name": "L'étiquette",
+    "brand": "Horace",
+    "release_year": "2025",
+    "description": "A new and limited perfume byHoracefor women and men, released in2025. The scent is synthetic-fresh.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/57/572926_l-etiquette-horace_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Fresh",
+        "Fougère",
+        "Earthy",
+        "Floral"
+    ],
+    "top_notes": [
+        "Galbanum",
+        "Juniper",
+        "Tobacco"
+    ],
+    "heart_notes": [
+        "Cypress",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Cashmeran",
+        "Iris",
+        "Tonka bean"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

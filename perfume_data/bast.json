@@ -1,0 +1,131 @@
+{
+    "name": "Bast",
+    "brand": "ānti",
+    "release_year": "2025",
+    "description": "A new perfume byāntifor women and men, released in2025. The scent is spicy-resinous. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8b/8b5ad9_bast-anti_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Resinous",
+        "Smoky",
+        "Oriental",
+        "Fougère"
+    ],
+    "top_notes": [
+        "Frankincense",
+        "Cardamom"
+    ],
+    "heart_notes": [
+        "Frankincense absolute",
+        "Greek saffron",
+        "Cypriol"
+    ],
+    "base_notes": [
+        "Amber",
+        "Myrrh"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "13 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 4
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fougère",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

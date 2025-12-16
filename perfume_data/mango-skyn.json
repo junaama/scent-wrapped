@@ -1,0 +1,30 @@
+{
+    "name": "Mango Skyn",
+    "brand": "Montagne Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byMontagne Parfumsfor women and men, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/d0/d07d3e_mango-skyn-montagne-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blackberry",
+        "Mango"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lotus",
+        "Orris root",
+        "Pepper"
+    ],
+    "base_notes": [
+        "Patchouli",
+        "Sugar",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

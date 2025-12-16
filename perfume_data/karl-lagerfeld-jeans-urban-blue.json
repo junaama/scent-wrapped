@@ -1,0 +1,135 @@
+{
+    "name": "Karl Lagerfeld Jeans Urban Blue",
+    "brand": "Karl Lagerfeld",
+    "release_year": "2025",
+    "description": "A new perfume byKarl Lagerfeldfor men, released in2025. The scent is fresh-aquatic. It is being marketed byInterparfums.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/80/80bf8b_karl-lagerfeld-jeans-urban-blue-karl-lagerfeld_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Aquatic",
+        "Spicy",
+        "Citrus",
+        "Green"
+    ],
+    "top_notes": [
+        "Madagascan ginger"
+    ],
+    "heart_notes": [
+        "Aquatic notes"
+    ],
+    "base_notes": [
+        "Silvergreen bryum moss"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.6",
+            "votes": "22 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "20 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "21 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "20 Ratings"
+        },
+        "pricing": {
+            "score": "8.4",
+            "votes": "16 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 7
+            },
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Green",
+                "votes": 5
+            },
+            {
+                "name": "Fresh",
+                "votes": 12
+            },
+            {
+                "name": "Aquatic",
+                "votes": 10
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 12
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 8
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 11
+            },
+            {
+                "name": "Spring",
+                "votes": 12
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Sport",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 10
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

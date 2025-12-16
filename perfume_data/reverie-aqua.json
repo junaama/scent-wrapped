@@ -1,0 +1,134 @@
+{
+    "name": "Reverie Aqua",
+    "brand": "Zimaya",
+    "release_year": "2025",
+    "description": "A new perfume byZimayafor men, released in2025. The scent is sweet-spicy. It is being marketed byAfnan.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6d/6de9a9_reverie-aqua-pour-homme-zimaya_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Gourmand",
+        "Citrus",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Basil",
+        "Cardamom",
+        "Cinnamon"
+    ],
+    "heart_notes": [
+        "Chestnut",
+        "Lavender",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Amber",
+        "Labdanum",
+        "Musk",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "17 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "15 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "16 Ratings"
+        },
+        "pricing": {
+            "score": "9.1",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

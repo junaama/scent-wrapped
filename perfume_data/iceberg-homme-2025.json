@@ -1,0 +1,49 @@
+{
+    "name": "Iceberg Homme",
+    "brand": "Iceberg",
+    "release_year": "2025",
+    "description": "A new perfume byIcebergfor men, released in2025. The scent is spicy-fresh. It is being marketed byGBB (Give Back Beauty) / Brands Beyond Beauty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7e/7e5585_iceberg-homme-2025-iceberg_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Fresh",
+        "Fruity",
+        "Woody",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Ginger",
+        "Lemon",
+        "Rosemary",
+        "Sage"
+    ],
+    "heart_notes": [
+        "Cypress",
+        "Geranium",
+        "Juniper berry"
+    ],
+    "base_notes": [
+        "Patchouli",
+        "Tonka bean",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "4.3",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "4.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "4.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "5.5",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {}
+}

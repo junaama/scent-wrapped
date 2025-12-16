@@ -1,0 +1,29 @@
+{
+    "name": "L'Hôtel",
+    "brand": "Recreation",
+    "release_year": "2025",
+    "description": "A new perfume byRecreationfor women and men, released in2025. The scent is woody-floral.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b7/b7e672_l-hotel-recreation_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Floral",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Peony",
+        "Rose"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Sandalwood",
+        "Tahitian vanilla"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

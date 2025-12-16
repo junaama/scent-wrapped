@@ -1,0 +1,119 @@
+{
+    "name": "Lore - Scent of Remembering",
+    "brand": "Nēomirage",
+    "release_year": "2025",
+    "description": "A new perfume byNēomiragefor women and men, released in2025. The scent is resinous-smoky. Projection and longevity are above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/4d/4d1cbf_lore-scent-of-remembering-neomirage_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Smoky",
+        "Gourmand",
+        "Spicy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Cistus",
+        "Grapefruit",
+        "Thyme"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Cashmeran",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.5",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "10",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "9.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

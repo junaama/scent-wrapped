@@ -1,0 +1,139 @@
+{
+    "name": "Light Blue pour Homme Capri in Love",
+    "brand": "Dolce & Gabbana",
+    "release_year": "2025",
+    "description": "A new perfume byDolce & Gabbanafor men, released in2025. The scent is fresh-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a2/a26d05_light-blue-pour-homme-capri-in-love-dolce-gabbana_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Spicy",
+        "Green",
+        "Citrus",
+        "Aquatic"
+    ],
+    "top_notes": [
+        "Black pepper"
+    ],
+    "heart_notes": [
+        "Italian fig"
+    ],
+    "base_notes": [
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "113 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "93 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "92 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "101 Ratings"
+        },
+        "pricing": {
+            "score": "6.6",
+            "votes": "80 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 10
+            },
+            {
+                "name": "Spicy",
+                "votes": 19
+            },
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Green",
+                "votes": 13
+            },
+            {
+                "name": "Fruity",
+                "votes": 7
+            },
+            {
+                "name": "Fresh",
+                "votes": 23
+            },
+            {
+                "name": "Aquatic",
+                "votes": 10
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 25
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 17
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 9
+            },
+            {
+                "name": "Summer",
+                "votes": 26
+            },
+            {
+                "name": "Spring",
+                "votes": 25
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 17
+            },
+            {
+                "name": "Sport",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 22
+            },
+            {
+                "name": "Night Out",
+                "votes": 11
+            },
+            {
+                "name": "Business",
+                "votes": 16
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

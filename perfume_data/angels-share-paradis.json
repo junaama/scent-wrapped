@@ -1,0 +1,117 @@
+{
+    "name": "Angels' Share Paradis",
+    "brand": "Kilian",
+    "release_year": "2025",
+    "description": "A new perfume byKilianfor women and men, released in2025. The scent is sweet-fruity. Projection and longevity are above-average. It is being marketed byEstēe Lauder Companies.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/56/5639e4-angels-share-paradis-kilian_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Gourmand",
+        "Spicy",
+        "Woody"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "417 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "368 Ratings"
+        },
+        "sillage": {
+            "score": "8.1",
+            "votes": "362 Ratings"
+        },
+        "bottle": {
+            "score": "8.8",
+            "votes": "364 Ratings"
+        },
+        "pricing": {
+            "score": "5.9",
+            "votes": "322 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 64
+            },
+            {
+                "name": "Sweet",
+                "votes": 95
+            },
+            {
+                "name": "Oriental",
+                "votes": 21
+            },
+            {
+                "name": "Woody",
+                "votes": 47
+            },
+            {
+                "name": "Gourmand",
+                "votes": 77
+            },
+            {
+                "name": "Fruity",
+                "votes": 84
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 79
+            },
+            {
+                "name": "Feminine",
+                "votes": 67
+            },
+            {
+                "name": "Classic",
+                "votes": 15
+            },
+            {
+                "name": "Modern",
+                "votes": 66
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 97
+            },
+            {
+                "name": "Fall",
+                "votes": 87
+            },
+            {
+                "name": "Spring",
+                "votes": 36
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 20
+            },
+            {
+                "name": "Leisure",
+                "votes": 37
+            },
+            {
+                "name": "Night Out",
+                "votes": 88
+            },
+            {
+                "name": "Evening",
+                "votes": 93
+            }
+        ]
+    }
+}

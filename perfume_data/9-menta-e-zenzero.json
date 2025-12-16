@@ -1,0 +1,94 @@
+{
+    "name": "9 Menta e Zenzero",
+    "brand": "Compagnia delle Indie",
+    "release_year": "2025",
+    "description": "A new perfume byCompagnia delle Indiefor women and men, released in2025. The scent is green-aquatic. The projection is above-average. It is being marketed byMyluna.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b9/b9e6b7_9-menta-e-zenzero-compagnia-delle-indie_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Aquatic",
+        "Citrus",
+        "Spicy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Mint",
+        "Pink grapefruit"
+    ],
+    "heart_notes": [
+        "Ginger",
+        "Jasmine",
+        "Nutmeg"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Amber",
+        "Musk",
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

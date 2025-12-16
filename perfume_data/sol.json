@@ -1,0 +1,47 @@
+{
+    "name": "Sol",
+    "brand": "Oscar London",
+    "release_year": "2025",
+    "description": "A new perfume byOscar Londonfor women and men, released in2025. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/72/727f74_sol-oscar-london_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Cedar leaf",
+        "Damask rose",
+        "Frankincense"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Cypriol",
+        "Iris",
+        "Leather",
+        "Provençal lavender"
+    ],
+    "base_notes": [
+        "Amber",
+        "Labdanum",
+        "Patchouli",
+        "Suede",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {}
+}

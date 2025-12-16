@@ -1,0 +1,148 @@
+{
+    "name": "Eye of God",
+    "brand": "YLEM",
+    "release_year": "2025",
+    "description": "A new perfume byYLEMfor women and men, released in2025. The scent is spicy-woody. Projection and longevity are above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/86/860429_eye-of-god-ylem_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Leathery",
+        "Earthy",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Birch tar",
+        "Styrax",
+        "Oud",
+        "Sichuan pepper"
+    ],
+    "heart_notes": [
+        "False sandalwood",
+        "Nutmeg",
+        "Cotton candy"
+    ],
+    "base_notes": [
+        "Labdanum",
+        "Moss",
+        "Oud",
+        "Amber",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "27 Ratings"
+        },
+        "durability": {
+            "score": "8.7",
+            "votes": "23 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "24 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "26 Ratings"
+        },
+        "pricing": {
+            "score": "7.8",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 6
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 4
+            },
+            {
+                "name": "Leathery",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Resinous",
+                "votes": 4
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

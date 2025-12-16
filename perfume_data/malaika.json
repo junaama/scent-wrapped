@@ -1,0 +1,32 @@
+{
+    "name": "Malaika",
+    "brand": "Fyyre Perfumes",
+    "release_year": "2025",
+    "description": "A new perfume byFyyre Perfumesfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7b/7bbe87_malaika-fyyre-perfumes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cardamom",
+        "Elemi resin",
+        "Fig"
+    ],
+    "heart_notes": [
+        "Coconut",
+        "Linden tree",
+        "Mimosa",
+        "Orchid",
+        "Palo Santo",
+        "Sage",
+        "Sandalwood"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cashmeran",
+        "Frankincense",
+        "Musk",
+        "Tolu balm",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,134 @@
+{
+    "name": "NeoRio",
+    "brand": "Xerjoff",
+    "release_year": "2025",
+    "description": "A new perfume byXerjofffor women and men, released in2025. The scent is sweet-spicy. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/dd/ddcfa7_neorio-xerjoff_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Resinous",
+        "Gourmand",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Caramelized fig",
+        "Rum",
+        "Elemi absolute",
+        "Spanish cistus absolute"
+    ],
+    "heart_notes": [
+        "Maple syrup",
+        "Rose oil",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Tonka bean",
+        "Patchouli",
+        "Peru balsam"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.6",
+            "votes": "257 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "217 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "219 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "231 Ratings"
+        },
+        "pricing": {
+            "score": "5.4",
+            "votes": "193 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 44
+            },
+            {
+                "name": "Sweet",
+                "votes": 49
+            },
+            {
+                "name": "Smoky",
+                "votes": 24
+            },
+            {
+                "name": "Resinous",
+                "votes": 36
+            },
+            {
+                "name": "Gourmand",
+                "votes": 27
+            },
+            {
+                "name": "Fruity",
+                "votes": 15
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 48
+            },
+            {
+                "name": "Feminine",
+                "votes": 33
+            },
+            {
+                "name": "Modern",
+                "votes": 39
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 49
+            },
+            {
+                "name": "Fall",
+                "votes": 49
+            },
+            {
+                "name": "Summer",
+                "votes": 12
+            },
+            {
+                "name": "Spring",
+                "votes": 31
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 11
+            },
+            {
+                "name": "Leisure",
+                "votes": 32
+            },
+            {
+                "name": "Night Out",
+                "votes": 40
+            },
+            {
+                "name": "Business",
+                "votes": 8
+            },
+            {
+                "name": "Evening",
+                "votes": 40
+            }
+        ]
+    }
+}

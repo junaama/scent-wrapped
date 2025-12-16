@@ -1,0 +1,25 @@
+{
+    "name": "Burst of Joy",
+    "brand": "Maison Chanceux",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Chanceuxfor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c8/c8a383_burst-of-joy-maison-chanceux_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Orange",
+        "Strawberry"
+    ],
+    "heart_notes": [
+        "Linden blossom"
+    ],
+    "base_notes": [
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

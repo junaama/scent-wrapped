@@ -1,0 +1,131 @@
+{
+    "name": "Kakigori - Plum Cream",
+    "brand": "Obvious",
+    "release_year": "2025",
+    "description": "A new perfume byObviousfor women and men, released in2025. The scent is fruity-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d4/d4e26c_kakigori-plum-cream-obvious_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Spicy",
+        "Sweet",
+        "Woody",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Rum absolute",
+        "Davana"
+    ],
+    "heart_notes": [
+        "Cistus absolute",
+        "Immortelle absolute"
+    ],
+    "base_notes": [
+        "Cypriol",
+        "Oak wood",
+        "Saffiano™"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "15 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "10 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "10 Ratings"
+        },
+        "bottle": {
+            "score": "6.8",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 9
+            },
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Leathery",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 7
+            },
+            {
+                "name": "Gourmand",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 10
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 9
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Modern",
+                "votes": 10
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 10
+            },
+            {
+                "name": "Fall",
+                "votes": 12
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

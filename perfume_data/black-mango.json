@@ -1,0 +1,130 @@
+{
+    "name": "Black Mango",
+    "brand": "Borntostandout",
+    "release_year": "2025",
+    "description": "A new perfume byBorntostandoutfor women and men, released in2025. The scent is fruity-sweet. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/75/75cebd_black-mango-borntostandout_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Leathery",
+        "Woody",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Mango",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Mango",
+        "Tolu balm",
+        "Bourbon vanilla",
+        "Sublimolide™"
+    ],
+    "base_notes": [
+        "Oud",
+        "Leather",
+        "Sandalwood",
+        "Cypriol"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "94 Ratings"
+        },
+        "durability": {
+            "score": "9.4",
+            "votes": "79 Ratings"
+        },
+        "sillage": {
+            "score": "9.2",
+            "votes": "78 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "78 Ratings"
+        },
+        "pricing": {
+            "score": "6.4",
+            "votes": "71 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 6
+            },
+            {
+                "name": "Synthetic",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 20
+            },
+            {
+                "name": "Leathery",
+                "votes": 15
+            },
+            {
+                "name": "Woody",
+                "votes": 13
+            },
+            {
+                "name": "Fruity",
+                "votes": 24
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 14
+            },
+            {
+                "name": "Feminine",
+                "votes": 11
+            },
+            {
+                "name": "Modern",
+                "votes": 17
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 11
+            },
+            {
+                "name": "Fall",
+                "votes": 16
+            },
+            {
+                "name": "Summer",
+                "votes": 12
+            },
+            {
+                "name": "Spring",
+                "votes": 14
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 13
+            },
+            {
+                "name": "Night Out",
+                "votes": 18
+            },
+            {
+                "name": "Evening",
+                "votes": 16
+            }
+        ]
+    }
+}

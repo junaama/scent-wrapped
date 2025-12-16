@@ -1,0 +1,31 @@
+{
+    "name": "Cap Ferrat",
+    "brand": "Vacanza",
+    "release_year": "2025",
+    "description": "A new perfume byVacanzafor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5c/5c53f6_cap-ferrat-vacanza_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Coconut",
+        "Fig",
+        "Grapefruit",
+        "Orange zest"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Pine needle",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Ambrox",
+        "Musk",
+        "Patchouli"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

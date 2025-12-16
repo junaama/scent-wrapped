@@ -1,0 +1,41 @@
+{
+    "name": "Caffè Letterario",
+    "brand": "Lumi",
+    "release_year": "2025",
+    "description": "A new perfume byLumifor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/d4/d4e0a2_caffe-letterario-lumi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Coffee",
+        "Dark chocolate"
+    ],
+    "heart_notes": [
+        "Aged wood",
+        "Spicy notes",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Sandalwood",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.1",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {}
+}

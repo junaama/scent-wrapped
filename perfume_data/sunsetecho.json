@@ -1,0 +1,146 @@
+{
+    "name": "Sunsetecho",
+    "brand": "Marc Gebauer",
+    "release_year": "2025",
+    "description": "A new perfume byMarc Gebauerfor women and men, released in2025. The scent is creamy-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d1/d1c453_sunsetecho-marc-gebauer_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Creamy",
+        "Sweet",
+        "Floral",
+        "Fruity",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Californian orange",
+        "Grapefruit",
+        "Mandarin orange",
+        "Cardamom"
+    ],
+    "heart_notes": [
+        "Pink pepper",
+        "Nepalese sichuan pepper",
+        "Neroli"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Cedarwood",
+        "Labdanum"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "94 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "92 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "93 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "87 Ratings"
+        },
+        "pricing": {
+            "score": "6.3",
+            "votes": "82 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 7
+            },
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Sweet",
+                "votes": 15
+            },
+            {
+                "name": "Fruity",
+                "votes": 10
+            },
+            {
+                "name": "Fresh",
+                "votes": 9
+            },
+            {
+                "name": "Creamy",
+                "votes": 16
+            },
+            {
+                "name": "Floral",
+                "votes": 12
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 11
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 12
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 15
+            },
+            {
+                "name": "Spring",
+                "votes": 15
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 13
+            },
+            {
+                "name": "Sport",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 14
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

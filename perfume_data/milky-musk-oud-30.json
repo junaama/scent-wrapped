@@ -1,0 +1,149 @@
+{
+    "name": "Milky Musk Oud | 30",
+    "brand": "Kayali",
+    "release_year": "2025",
+    "description": "A new perfume byKayalifor women and men, released in2025. The scent is woody-animal. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/f2/f2dc0d_milky-musk-oud-30-kayali_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Animal",
+        "Powdery",
+        "Sweet",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Pink pepper",
+        "Saffron",
+        "Coffee",
+        "Strawberry cream"
+    ],
+    "heart_notes": [
+        "Musk",
+        "Frankincense",
+        "Sandalwood"
+    ],
+    "base_notes": [
+        "Musk",
+        "White musk",
+        "Oud",
+        "Tonka bean",
+        "Vanilla",
+        "Praliné"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "18 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "13 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "16 Ratings"
+        },
+        "pricing": {
+            "score": "6.9",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Animal",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

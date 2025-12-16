@@ -1,0 +1,130 @@
+{
+    "name": "Qalbi",
+    "brand": "Attar Collection",
+    "release_year": "2025",
+    "description": "A new perfume byAttar Collectionfor women and men, released in2025. The scent is oriental-floral. The projection is above-average. It is being marketed byMBA Perfumes Manufacturing LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d6/d6b25b_qalbi-attar-collection_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Oriental",
+        "Floral",
+        "Woody",
+        "Citrus",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Cardamom",
+        "Ginger",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Orange blossom",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Akigalawood®",
+        "Oud",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

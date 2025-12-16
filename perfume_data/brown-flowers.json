@@ -1,0 +1,149 @@
+{
+    "name": "Brown Flowers",
+    "brand": "D.S. & Durga",
+    "release_year": "2025",
+    "description": "A new perfume byD.S. & Durgafor women and men, released in2025. The scent is floral-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a0/a05110_brown-flowers-d-s-durga_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Gourmand",
+        "Creamy",
+        "Woody"
+    ],
+    "top_notes": [],
+    "heart_notes": [
+        "Jasmine sambac",
+        "Brown orchid",
+        "Coffee blossom"
+    ],
+    "base_notes": [
+        "Roots",
+        "Coffee",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "27 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "19 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "20 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "22 Ratings"
+        },
+        "pricing": {
+            "score": "5.7",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

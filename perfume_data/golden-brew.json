@@ -1,0 +1,23 @@
+{
+    "name": "Golden Brew",
+    "brand": "PerfumEra",
+    "release_year": "2025",
+    "description": "A new perfume byPerfumErafor women, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/73/733e62_golden-brew-perfumera_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Almond",
+        "Coffee"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Jasmine sambac",
+        "Spikenard"
+    ],
+    "base_notes": [
+        "Cocoa",
+        "Tonka bean"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

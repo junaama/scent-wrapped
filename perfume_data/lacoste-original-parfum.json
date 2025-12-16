@@ -1,0 +1,154 @@
+{
+    "name": "Lacoste Original Parfum",
+    "brand": "Lacoste",
+    "release_year": "2025",
+    "description": "A new perfume byLacostefor men, released in2025. The scent is spicy-woody. It is being marketed byInterparfums.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/eb/eb5fbf_lacoste-original-parfum-lacoste_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Green",
+        "Citrus",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Ginger",
+        "Cardamom"
+    ],
+    "heart_notes": [
+        "Lavender",
+        "Frankincense resin"
+    ],
+    "base_notes": [
+        "Tonka bean",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.4",
+            "votes": "18 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "6.2",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "19 Ratings"
+        },
+        "pricing": {
+            "score": "7.3",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 7
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 6
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Earthy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

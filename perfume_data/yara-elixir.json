@@ -1,0 +1,129 @@
+{
+    "name": "Yara Elixir",
+    "brand": "Lattafa",
+    "release_year": "2025",
+    "description": "A new perfume byLattafafor women, released in2025. The scent is sweet-fruity. It is being marketed byLattafa Perfumes Industries LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f8/f8e3ba_yara-elixir-lattafa_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Creamy",
+        "Gourmand",
+        "Floral"
+    ],
+    "top_notes": [
+        "Strawberry",
+        "S'mores",
+        "Blackcurrant"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Vanilla",
+        "Musk",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "26 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "22 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "20 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "26 Ratings"
+        },
+        "pricing": {
+            "score": "8.6",
+            "votes": "21 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

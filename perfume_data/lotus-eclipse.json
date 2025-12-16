@@ -1,0 +1,28 @@
+{
+    "name": "Lotus Eclipse",
+    "brand": "Pañpuri",
+    "release_year": "2025",
+    "description": "A new perfume byPañpurifor women and men, released in2025. The scent is fresh-floral.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/92/926f1f_lotus-eclipse-panpuri_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Floral",
+        "Sweet"
+    ],
+    "top_notes": [
+        "White lotus"
+    ],
+    "heart_notes": [
+        "Sea salt"
+    ],
+    "base_notes": [
+        "Floral notes"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

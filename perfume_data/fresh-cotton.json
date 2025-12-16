@@ -1,0 +1,25 @@
+{
+    "name": "Fresh Cotton",
+    "brand": "Giovani",
+    "release_year": "2025",
+    "description": "A new perfume byGiovanifor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c0/c0508a_fresh-cotton-giovani_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Jasmine",
+        "Lily of the valley",
+        "Rose"
+    ],
+    "heart_notes": [
+        "Marzipan",
+        "Tonka bean",
+        "Violet"
+    ],
+    "base_notes": [
+        "Labdanum",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

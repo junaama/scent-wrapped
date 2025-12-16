@@ -1,0 +1,156 @@
+{
+    "name": "Tè",
+    "brand": "Lost Tribe",
+    "release_year": "2025",
+    "description": "A new and limited perfume byLost Tribefor women and men, released in2025. The scent is green-spicy. The longevity is above-average. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/c5/c547cd_te-lost-tribe_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Spicy",
+        "Smoky",
+        "Earthy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Civet",
+        "Green tea",
+        "Honeysuckle",
+        "Jasmine tea",
+        "Strawberry gum"
+    ],
+    "heart_notes": [
+        "Cape chamomile",
+        "Clary sage",
+        "Frangipani",
+        "Geranium",
+        "Night-blooming jasmine",
+        "Osmanthus"
+    ],
+    "base_notes": [
+        "Atlas cedar",
+        "Black tea",
+        "Cambodian oud",
+        "Choya Ral",
+        "Costus root",
+        "False sandalwood",
+        "Karo Karounde",
+        "Katrafay",
+        "Labdanum",
+        "Myrrh",
+        "Roasted barley",
+        "Thai Kyara oud",
+        "Tobacco"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.7",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "8.8",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "8.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Smoky",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

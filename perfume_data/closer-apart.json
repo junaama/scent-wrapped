@@ -1,0 +1,129 @@
+{
+    "name": "Closer Apart",
+    "brand": "Ghawali",
+    "release_year": "2025",
+    "description": "A new perfume byGhawalifor women and men, released in2025. The scent is sweet-green. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2b/2b9a63_closer-apart-ghawali_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Green",
+        "Citrus",
+        "Spicy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Ginger",
+        "Mandarin orange",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Lavender",
+        "Rose"
+    ],
+    "base_notes": [
+        "Ambrocenide®",
+        "Cedarwood",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.4",
+            "votes": "8 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

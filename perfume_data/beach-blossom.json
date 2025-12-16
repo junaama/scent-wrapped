@@ -1,0 +1,136 @@
+{
+    "name": "Beach Blossom",
+    "brand": "Jo Malone",
+    "release_year": "2025",
+    "description": "A new and limited perfume byJo Malonefor women and men, released in2025. The scent is fresh-creamy. It is being marketed byEstēe Lauder Companies.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/13/13c3fa_beach-blossom-jo-malone_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Creamy",
+        "Citrus",
+        "Sweet",
+        "Aquatic"
+    ],
+    "top_notes": [
+        "Lime",
+        "Mint"
+    ],
+    "heart_notes": [
+        "Coconut water"
+    ],
+    "base_notes": [
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "82 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "57 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "57 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "65 Ratings"
+        },
+        "pricing": {
+            "score": "6.8",
+            "votes": "43 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 20
+            },
+            {
+                "name": "Sweet",
+                "votes": 20
+            },
+            {
+                "name": "Fruity",
+                "votes": 7
+            },
+            {
+                "name": "Fresh",
+                "votes": 28
+            },
+            {
+                "name": "Creamy",
+                "votes": 26
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            },
+            {
+                "name": "Aquatic",
+                "votes": 11
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 10
+            },
+            {
+                "name": "Feminine",
+                "votes": 31
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 23
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 39
+            },
+            {
+                "name": "Spring",
+                "votes": 23
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 32
+            },
+            {
+                "name": "Sport",
+                "votes": 10
+            },
+            {
+                "name": "Leisure",
+                "votes": 35
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 23
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

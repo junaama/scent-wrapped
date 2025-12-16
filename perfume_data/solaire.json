@@ -1,0 +1,23 @@
+{
+    "name": "Solaire",
+    "brand": "Van Dang",
+    "release_year": "2025",
+    "description": "A new perfume byVan Dangfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/dc/dc0c08_solaire-van-dang_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Petitgrain",
+        "Rosemary"
+    ],
+    "heart_notes": [
+        "Lily of the valley",
+        "Orange blossom absolute",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Amber"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

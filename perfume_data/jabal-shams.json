@@ -1,0 +1,137 @@
+{
+    "name": "Jabal Shams",
+    "brand": "Florian Pontier",
+    "release_year": "2025",
+    "description": "A new perfume byFlorian Pontierfor women and men, released in2025. The scent is spicy-synthetic. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e1/e14ecf_jabal-shams-florian-pontier_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Synthetic",
+        "Oriental",
+        "Smoky",
+        "Woody"
+    ],
+    "top_notes": [
+        "Cypress",
+        "Juniper",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Black pepper",
+        "Cardamom",
+        "Fir balsam",
+        "Pepper",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Amberwood",
+        "Musk",
+        "Oud",
+        "Papyrus",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "11 Ratings"
+        },
+        "durability": {
+            "score": "9.0",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "8.6",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "8.6",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

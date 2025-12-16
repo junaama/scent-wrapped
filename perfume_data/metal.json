@@ -1,0 +1,25 @@
+{
+    "name": "Metal",
+    "brand": "Homework",
+    "release_year": "2025",
+    "description": "A new perfume byHomeworkfor women and men, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Lime",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Bay leaf",
+        "Dry woods",
+        "Pink pepper",
+        "Tobacco"
+    ],
+    "base_notes": [
+        "Camphor wood",
+        "Chinese cedar",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

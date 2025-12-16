@@ -1,0 +1,129 @@
+{
+    "name": "Uhud",
+    "brand": "Arabiyat Prestige",
+    "release_year": "2025",
+    "description": "A new perfume byArabiyat Prestigefor women and men, released in2025. The scent is sweet-creamy. The longevity is above-average. It is being marketed byMy Perfumes / MPF (My Perfumes Factory).Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e1/e1987e_uhud-arabiyat_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Creamy",
+        "Fruity",
+        "Gourmand",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Caramel",
+        "Red fruits",
+        "Rose"
+    ],
+    "heart_notes": [
+        "Honey",
+        "Pink raspberry",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Amber notes",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "14 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "13 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "14 Ratings"
+        },
+        "pricing": {
+            "score": "8.8",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Gourmand",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

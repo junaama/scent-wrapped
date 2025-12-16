@@ -1,0 +1,25 @@
+{
+    "name": "Main Character",
+    "brand": "Alia",
+    "release_year": "2025",
+    "description": "A new perfume byAliafor women, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/71/71df46_main-character-alia_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Angelica root",
+        "Turmeric leaf"
+    ],
+    "heart_notes": [
+        "Mimosa",
+        "Orange blossom",
+        "Orris root",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Oak wood",
+        "White musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

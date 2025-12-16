@@ -1,0 +1,31 @@
+{
+    "name": "Musc Mirage",
+    "brand": "Laurent Smal",
+    "release_year": "2025",
+    "description": "A new perfume byLaurent Smalfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/75/757b9a_musc-mirage-laurent-smal_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Ambrette seed",
+        "Musk",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Damask rose",
+        "Indian sandalwood"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Iris",
+        "Oud",
+        "Tonka bean absolute",
+        "Vanilla orchid absolute"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

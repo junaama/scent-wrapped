@@ -1,0 +1,141 @@
+{
+    "name": "Xtra Pure",
+    "brand": "Câline",
+    "release_year": "2025",
+    "description": "A new perfume byCâlinefor women and men, released in2025. The scent is fruity-sweet. It is being marketed byLifestyle Fragrance & Beauty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3d/3d99d1_xtra-pure-caline_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Synthetic",
+        "Fresh",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Grapefruit",
+        "Lemon",
+        "Bergamot",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Peach",
+        "Pineapple",
+        "Melon",
+        "Pear"
+    ],
+    "base_notes": [
+        "Musk",
+        "Tonka bean",
+        "Vanilla",
+        "Amber",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "210 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "195 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "195 Ratings"
+        },
+        "bottle": {
+            "score": "6.5",
+            "votes": "199 Ratings"
+        },
+        "pricing": {
+            "score": "9.1",
+            "votes": "190 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 21
+            },
+            {
+                "name": "Synthetic",
+                "votes": 40
+            },
+            {
+                "name": "Sweet",
+                "votes": 52
+            },
+            {
+                "name": "Fruity",
+                "votes": 53
+            },
+            {
+                "name": "Fresh",
+                "votes": 29
+            },
+            {
+                "name": "Creamy",
+                "votes": 20
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 52
+            },
+            {
+                "name": "Feminine",
+                "votes": 46
+            },
+            {
+                "name": "Modern",
+                "votes": 35
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 12
+            },
+            {
+                "name": "Fall",
+                "votes": 21
+            },
+            {
+                "name": "Summer",
+                "votes": 43
+            },
+            {
+                "name": "Spring",
+                "votes": 49
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 42
+            },
+            {
+                "name": "Sport",
+                "votes": 13
+            },
+            {
+                "name": "Leisure",
+                "votes": 51
+            },
+            {
+                "name": "Night Out",
+                "votes": 26
+            },
+            {
+                "name": "Business",
+                "votes": 23
+            },
+            {
+                "name": "Evening",
+                "votes": 22
+            }
+        ]
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "name": "Infusion de Rhubarbe",
+    "brand": "Prada",
+    "release_year": "2025",
+    "description": "A new perfume byPradafor women and men, released in2025. The scent is fruity-fresh. It is being marketed byL'Oréal.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/dd/dde88b-infusion-de-rhubarbe-prada_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Fresh",
+        "Floral",
+        "Green",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Green mandarin orange"
+    ],
+    "heart_notes": [
+        "Rhubarb",
+        "Rose"
+    ],
+    "base_notes": [
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "103 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "82 Ratings"
+        },
+        "sillage": {
+            "score": "6.1",
+            "votes": "79 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "78 Ratings"
+        },
+        "pricing": {
+            "score": "6.3",
+            "votes": "50 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 16
+            },
+            {
+                "name": "Sweet",
+                "votes": 15
+            },
+            {
+                "name": "Green",
+                "votes": 19
+            },
+            {
+                "name": "Fruity",
+                "votes": 43
+            },
+            {
+                "name": "Fresh",
+                "votes": 38
+            },
+            {
+                "name": "Floral",
+                "votes": 25
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 9
+            },
+            {
+                "name": "Feminine",
+                "votes": 43
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 31
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 44
+            },
+            {
+                "name": "Spring",
+                "votes": 42
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 38
+            },
+            {
+                "name": "Sport",
+                "votes": 14
+            },
+            {
+                "name": "Leisure",
+                "votes": 42
+            },
+            {
+                "name": "Night Out",
+                "votes": 10
+            },
+            {
+                "name": "Business",
+                "votes": 36
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

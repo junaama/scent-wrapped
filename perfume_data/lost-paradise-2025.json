@@ -1,0 +1,36 @@
+{
+    "name": "Lost Paradise",
+    "brand": "LM Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byLM Parfumsfor women and men, released in2025. The scent is spicy-oriental.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/66/66fa2f_lost-paradise-2025-lm-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Oriental",
+        "Woody",
+        "Floral",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Assam oud",
+        "Saffron",
+        "Ylang-ylang"
+    ],
+    "heart_notes": [
+        "Black leather",
+        "Egyptian jasmine",
+        "Labdanum"
+    ],
+    "base_notes": [
+        "Animalic notes",
+        "Oud",
+        "Patchouli"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.3",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {}
+}

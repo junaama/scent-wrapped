@@ -1,0 +1,129 @@
+{
+    "name": "Carate Urio",
+    "brand": "Zarkoperfume",
+    "release_year": "2025",
+    "description": "A new perfume byZarkoperfumefor women and men, released in2025. The scent is sweet-fruity.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b9/b998c3_carate-urio-zarkoperfume_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Floral",
+        "Woody",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Candied apple",
+        "Pear",
+        "Strawberry"
+    ],
+    "heart_notes": [
+        "Pink rose",
+        "White blossoms",
+        "Iris"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sandalwood",
+        "Cedarwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "24 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "21 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "19 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "21 Ratings"
+        },
+        "pricing": {
+            "score": "6.5",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 9
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Fruity",
+                "votes": 9
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 8
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

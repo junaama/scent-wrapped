@@ -1,0 +1,105 @@
+{
+    "name": "2 AM",
+    "brand": "mesOud",
+    "release_year": "2025",
+    "description": "A new perfume bymesOudfor women and men, released in2025. The scent is resinous-smoky. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/74/744f7b_2-am-mesoud_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Smoky",
+        "Leathery",
+        "Woody",
+        "Spicy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "9.5",
+            "votes": "12 Ratings"
+        },
+        "durability": {
+            "score": "9.5",
+            "votes": "12 Ratings"
+        },
+        "sillage": {
+            "score": "9.0",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "11 Ratings"
+        },
+        "pricing": {
+            "score": "8.8",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Leathery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

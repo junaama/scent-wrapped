@@ -1,0 +1,25 @@
+{
+    "name": "Pralina Party",
+    "brand": "Freevola",
+    "release_year": "2025",
+    "description": "A new perfume byFreevolafor women, released in2025. It is being marketed byThe First.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/50/50dbba_pralina-party-freevola_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Caramel",
+        "Heliotrope"
+    ],
+    "heart_notes": [
+        "Aniseed"
+    ],
+    "base_notes": [
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

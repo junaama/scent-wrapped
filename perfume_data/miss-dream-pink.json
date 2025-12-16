@@ -1,0 +1,126 @@
+{
+    "name": "Miss Dream Pink",
+    "brand": "La Rive",
+    "release_year": "2025",
+    "description": "A new perfume byLa Rivefor women, released in2025. The scent is floral-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b6/b6bbcc-miss-dream-pink-la-rive_1200.jpg?width=240&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Fruity",
+        "Creamy",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Almond",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Peony",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Coumarin",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "6.1",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "6.5",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

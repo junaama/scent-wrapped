@@ -1,0 +1,139 @@
+{
+    "name": "L: Red Tea Vetiver",
+    "brand": "Clive Christian",
+    "release_year": "2025",
+    "description": "A new perfume byClive Christianfor women and men, released in2025. The scent is woody-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/69/69dbf1_l-red-tea-vetiver-clive-christian_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Fresh",
+        "Citrus",
+        "Green",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Primofiore lemon",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Rooibos tea",
+        "Vetiver"
+    ],
+    "base_notes": [
+        "Cashmere wood",
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "124 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "113 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "112 Ratings"
+        },
+        "bottle": {
+            "score": "8.8",
+            "votes": "119 Ratings"
+        },
+        "pricing": {
+            "score": "5.5",
+            "votes": "100 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 26
+            },
+            {
+                "name": "Spicy",
+                "votes": 20
+            },
+            {
+                "name": "Sweet",
+                "votes": 12
+            },
+            {
+                "name": "Woody",
+                "votes": 28
+            },
+            {
+                "name": "Green",
+                "votes": 25
+            },
+            {
+                "name": "Fresh",
+                "votes": 27
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 32
+            },
+            {
+                "name": "Feminine",
+                "votes": 15
+            },
+            {
+                "name": "Classic",
+                "votes": 13
+            },
+            {
+                "name": "Modern",
+                "votes": 20
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 10
+            },
+            {
+                "name": "Fall",
+                "votes": 31
+            },
+            {
+                "name": "Summer",
+                "votes": 26
+            },
+            {
+                "name": "Spring",
+                "votes": 33
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 26
+            },
+            {
+                "name": "Sport",
+                "votes": 8
+            },
+            {
+                "name": "Leisure",
+                "votes": 28
+            },
+            {
+                "name": "Night Out",
+                "votes": 20
+            },
+            {
+                "name": "Business",
+                "votes": 23
+            },
+            {
+                "name": "Evening",
+                "votes": 23
+            }
+        ]
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "name": "Mada",
+    "brand": "Anfas",
+    "release_year": "2025",
+    "description": "A new perfume byAnfasfor women and men, released in2025. The scent is leathery-oriental. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/21/21aea4_mada-anfas_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Leathery",
+        "Oriental",
+        "Sweet",
+        "Fruity",
+        "Woody"
+    ],
+    "top_notes": [
+        "Saffron",
+        "Jasmine",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Leather",
+        "Amber",
+        "Plum"
+    ],
+    "base_notes": [
+        "Musk",
+        "Patchouli",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "138 Ratings"
+        },
+        "durability": {
+            "score": "8.8",
+            "votes": "127 Ratings"
+        },
+        "sillage": {
+            "score": "8.4",
+            "votes": "124 Ratings"
+        },
+        "bottle": {
+            "score": "9.1",
+            "votes": "128 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "109 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 9
+            },
+            {
+                "name": "Sweet",
+                "votes": 24
+            },
+            {
+                "name": "Oriental",
+                "votes": 26
+            },
+            {
+                "name": "Leathery",
+                "votes": 28
+            },
+            {
+                "name": "Woody",
+                "votes": 14
+            },
+            {
+                "name": "Fruity",
+                "votes": 21
+            },
+            {
+                "name": "Animal",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 27
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 18
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 26
+            },
+            {
+                "name": "Fall",
+                "votes": 27
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 14
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 15
+            },
+            {
+                "name": "Night Out",
+                "votes": 27
+            },
+            {
+                "name": "Evening",
+                "votes": 26
+            }
+        ]
+    }
+}

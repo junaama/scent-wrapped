@@ -1,0 +1,139 @@
+{
+    "name": "Only The Brave",
+    "brand": "Diesel",
+    "release_year": "2025",
+    "description": "A new perfume byDieselfor men, released in2025. The scent is aquatic-citrusy. It is being marketed byL'Oréal.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/56/560770-only-the-brave-eau-de-parfum-diesel_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Aquatic",
+        "Citrus",
+        "Leathery",
+        "Sweet",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Italian mandarin orange"
+    ],
+    "heart_notes": [
+        "French clary sage"
+    ],
+    "base_notes": [
+        "Suede"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "17 Ratings"
+        },
+        "durability": {
+            "score": "6.1",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "5.8",
+            "votes": "15 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "20 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "17 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

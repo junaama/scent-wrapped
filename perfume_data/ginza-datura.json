@@ -1,0 +1,137 @@
+{
+    "name": "Ginza Datura",
+    "brand": "Shiseido",
+    "release_year": "2025",
+    "description": "A new perfume byShiseidofor women, released in2025. The scent is floral-sweet. It is being marketed byShiseido Group / Beauté Prestige International.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/21/21c729_ginza-datura-shiseido_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Creamy",
+        "Woody",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Ylang-ylang",
+        "Grapefruit"
+    ],
+    "heart_notes": [
+        "Datura"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Palo Santo"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "55 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "46 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "45 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "48 Ratings"
+        },
+        "pricing": {
+            "score": "7.8",
+            "votes": "33 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 16
+            },
+            {
+                "name": "Powdery",
+                "votes": 11
+            },
+            {
+                "name": "Woody",
+                "votes": 13
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 14
+            },
+            {
+                "name": "Floral",
+                "votes": 19
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 22
+            },
+            {
+                "name": "Classic",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 12
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 15
+            },
+            {
+                "name": "Fall",
+                "votes": 19
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 14
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 11
+            },
+            {
+                "name": "Leisure",
+                "votes": 16
+            },
+            {
+                "name": "Night Out",
+                "votes": 16
+            },
+            {
+                "name": "Business",
+                "votes": 13
+            },
+            {
+                "name": "Evening",
+                "votes": 16
+            }
+        ]
+    }
+}

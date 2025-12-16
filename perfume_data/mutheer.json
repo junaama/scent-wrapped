@@ -1,0 +1,29 @@
+{
+    "name": "Mutheer",
+    "brand": "Render Culture",
+    "release_year": "2025",
+    "description": "A new and limited perfume byRender Culturefor women and men, released in2025.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/53/534b85_mutheer-render-culture_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Lily",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Violet",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Bamboo",
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,105 @@
+{
+    "name": "La Cérémonie de l'Encens",
+    "brand": "L'Artisan Parfumeur",
+    "release_year": "2025",
+    "description": "A new perfume byL'Artisan Parfumeurfor women and men, released in2025. The scent is woody-smoky. It is being marketed byPuig.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/5d/5dbec8_la-ceremonie-de-l-encens-l-artisan-parfumeur_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Smoky",
+        "Spicy",
+        "Resinous",
+        "Sweet"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "13 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "10 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

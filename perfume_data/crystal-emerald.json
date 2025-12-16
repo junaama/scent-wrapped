@@ -1,0 +1,141 @@
+{
+    "name": "Crystal Emerald",
+    "brand": "Versace",
+    "release_year": "2025",
+    "description": "A new perfume byVersacefor women, released in2025. The scent is floral-fresh. It is being marketed byEuroItalia.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/83/83fef3_crystal-emerald-versace_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Fruity",
+        "Sweet",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Calabrian bergamot",
+        "Pink pepper",
+        "Peach"
+    ],
+    "heart_notes": [
+        "Rosebud",
+        "Jasmine",
+        "Raspberry sorbet"
+    ],
+    "base_notes": [
+        "White musk",
+        "Brazilian tonka bean",
+        "Frankincense"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "71 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "55 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "52 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "64 Ratings"
+        },
+        "pricing": {
+            "score": "7.2",
+            "votes": "39 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 10
+            },
+            {
+                "name": "Sweet",
+                "votes": 11
+            },
+            {
+                "name": "Green",
+                "votes": 9
+            },
+            {
+                "name": "Fruity",
+                "votes": 14
+            },
+            {
+                "name": "Fresh",
+                "votes": 20
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 22
+            },
+            {
+                "name": "Aquatic",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 22
+            },
+            {
+                "name": "Modern",
+                "votes": 13
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 14
+            },
+            {
+                "name": "Summer",
+                "votes": 16
+            },
+            {
+                "name": "Spring",
+                "votes": 22
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 20
+            },
+            {
+                "name": "Sport",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 20
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 20
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

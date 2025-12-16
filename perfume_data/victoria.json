@@ -1,0 +1,132 @@
+{
+    "name": "Victoria",
+    "brand": "Lattafa",
+    "release_year": "2025",
+    "description": "A new perfume byLattafafor women, released in2025. The scent is sweet-citrusy. It is being marketed byLattafa Perfumes Industries LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d9/d9f1dc_victoria-lattafa_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Sweet",
+        "Gourmand",
+        "Creamy",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Lemon cake",
+        "Meringue"
+    ],
+    "heart_notes": [
+        "Neroli"
+    ],
+    "base_notes": [
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "222 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "196 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "195 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "211 Ratings"
+        },
+        "pricing": {
+            "score": "8.9",
+            "votes": "183 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 71
+            },
+            {
+                "name": "Sweet",
+                "votes": 71
+            },
+            {
+                "name": "Gourmand",
+                "votes": 63
+            },
+            {
+                "name": "Fruity",
+                "votes": 29
+            },
+            {
+                "name": "Fresh",
+                "votes": 17
+            },
+            {
+                "name": "Creamy",
+                "votes": 44
+            },
+            {
+                "name": "Floral",
+                "votes": 15
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 10
+            },
+            {
+                "name": "Feminine",
+                "votes": 76
+            },
+            {
+                "name": "Modern",
+                "votes": 55
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 44
+            },
+            {
+                "name": "Fall",
+                "votes": 56
+            },
+            {
+                "name": "Summer",
+                "votes": 52
+            },
+            {
+                "name": "Spring",
+                "votes": 67
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 63
+            },
+            {
+                "name": "Leisure",
+                "votes": 64
+            },
+            {
+                "name": "Night Out",
+                "votes": 40
+            },
+            {
+                "name": "Business",
+                "votes": 39
+            },
+            {
+                "name": "Evening",
+                "votes": 37
+            }
+        ]
+    }
+}

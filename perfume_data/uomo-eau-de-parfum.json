@@ -1,0 +1,145 @@
+{
+    "name": "Uomo",
+    "brand": "Gisada",
+    "release_year": "2025",
+    "description": "A new perfume byGisadafor men, released in2025. The scent is spicy-sweet. It is being marketed bySwiss Fragrance.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c9/c956f3_uomo-eau-de-parfum-gisada_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Sweet",
+        "Fruity",
+        "Woody",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Strawberry",
+        "Dried apricot",
+        "Davana",
+        "Italian lemon zest"
+    ],
+    "heart_notes": [
+        "Wisteria",
+        "Honey",
+        "Rose",
+        "Cedarwood",
+        "Jasmine",
+        "Labdanum"
+    ],
+    "base_notes": [
+        "Chocolate",
+        "Moss",
+        "Vanilla",
+        "Oud",
+        "Patchouli",
+        "Suede",
+        "Ambergris"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "64 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "58 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "59 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "66 Ratings"
+        },
+        "pricing": {
+            "score": "7.1",
+            "votes": "52 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 11
+            },
+            {
+                "name": "Synthetic",
+                "votes": 6
+            },
+            {
+                "name": "Sweet",
+                "votes": 11
+            },
+            {
+                "name": "Woody",
+                "votes": 8
+            },
+            {
+                "name": "Fruity",
+                "votes": 10
+            },
+            {
+                "name": "Fresh",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 15
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 10
+            },
+            {
+                "name": "Fall",
+                "votes": 13
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 10
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 11
+            }
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Cocoa Cashmere",
+    "brand": "eos",
+    "release_year": "2025",
+    "description": "A new and limited perfume byeosfor women, released in2025. The scent is sweet-gourmand. The perfume is vegan according to the manufacturer.CompareLimitedVegan",
+    "image_url": "https://media.parfumo.com/perfumes/80/8004be_cocoa-cashmere-eos_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Creamy",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Cocoa",
+        "Orange blossom"
+    ],
+    "heart_notes": [
+        "Iris",
+        "Vanilla marshmallow"
+    ],
+    "base_notes": [
+        "Amber",
+        "Caramel",
+        "Sugar",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "5.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "5.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "5.0",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,81 @@
+{
+    "name": "Private Blend: Funkmaster",
+    "brand": "Ensar Oud",
+    "release_year": "2025",
+    "description": "A new and limited perfume byEnsar Oudfor women and men, released in2025. The scent is woody-spicy. Projection and longevity are above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/02/0261e9_private-blend-funkmaster-ensar-oud-oriscent_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Spicy",
+        "Animal",
+        "Leathery",
+        "Smoky"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "15 Ratings"
+        },
+        "durability": {
+            "score": "9.1",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "8.7",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Animal",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

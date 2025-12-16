@@ -1,0 +1,109 @@
+{
+    "name": "Dubai - Sama",
+    "brand": "The Spirit of Dubai",
+    "release_year": "2025",
+    "description": "A new perfume byThe Spirit of Dubaifor women and men, released in2025. The scent is aquatic-oriental. Projection and longevity are above-average. It is being marketed byNabeel.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/54/5461d7_dubai-sama-the-spirit-of-dubai_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Aquatic",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Apricot",
+        "Bergamot",
+        "Cardamom",
+        "Geranium",
+        "Ginger",
+        "Indian black pepper",
+        "Lemon",
+        "Mandarin orange",
+        "Ozone",
+        "Passion fruit",
+        "Turkish rose"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Cinnamon",
+        "Cypriol",
+        "Fir balsam",
+        "Frankincense",
+        "Jasmine",
+        "Orris root",
+        "Osmanthus",
+        "Salt",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Amber",
+        "Ambergris",
+        "Frankincense",
+        "Indian sandalwood",
+        "Labdanum",
+        "Leather",
+        "Musk",
+        "Oud",
+        "Patchouli",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

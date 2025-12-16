@@ -1,0 +1,25 @@
+{
+    "name": "I",
+    "brand": "Sacré",
+    "release_year": "2025",
+    "description": "A new perfume bySacréfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d8/d8389a_i-sacre_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Oud"
+    ],
+    "heart_notes": [
+        "Saffron"
+    ],
+    "base_notes": [
+        "Cashmere",
+        "Cinnamon",
+        "Labdanum",
+        "Myrrh",
+        "Patchouli",
+        "Rose",
+        "Sandalwood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

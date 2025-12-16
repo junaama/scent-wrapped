@@ -1,0 +1,31 @@
+{
+    "name": "Navigli Fizz",
+    "brand": "KIKO",
+    "release_year": "2025",
+    "description": "A new and limited perfume byKIKOfor women, released in2025. The scent is fresh-citrusy. It is being marketed byPercassi.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/cb/cb4444_navigli-fizz-kiko_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Citrus",
+        "Aquatic",
+        "Green",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Italian lemon",
+        "Mandarin orange",
+        "Orange",
+        "Watermelon"
+    ],
+    "heart_notes": [
+        "Neroli",
+        "Violet leaf absolute",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Ambrofix",
+        "Sandalwood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

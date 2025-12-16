@@ -1,0 +1,94 @@
+{
+    "name": "Zwinglis Solace",
+    "brand": "Umbra Helvetica",
+    "release_year": "2025",
+    "description": "A new perfume byUmbra Helveticafor women and men, released in2025. The scent is sweet-gourmand. Projection and longevity are above-average. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/48/48542e_zwinglis-solace-umbra-helvetica_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Orange zest"
+    ],
+    "heart_notes": [
+        "Cocoa",
+        "Vanilla",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Amberwood",
+        "Chocolate",
+        "Sugar"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.3",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "8.8",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

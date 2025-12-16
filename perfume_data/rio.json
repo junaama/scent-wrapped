@@ -1,0 +1,25 @@
+{
+    "name": "Rio",
+    "brand": "Guess",
+    "release_year": "2025",
+    "description": "A new perfume byGuessfor women, released in2025. It is being marketed byInterparfums.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c5/c53268_rio-guess_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Apple",
+        "Brazilian orange",
+        "Saturn peach"
+    ],
+    "heart_notes": [
+        "Coconut cream",
+        "Freesia",
+        "Pistachio"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Vanilla",
+        "White musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

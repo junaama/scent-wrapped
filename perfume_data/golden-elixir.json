@@ -1,0 +1,49 @@
+{
+    "name": "Golden Elixir",
+    "brand": "Riiffs",
+    "release_year": "2025",
+    "description": "A new perfume byRiiffsfor men, released in2025. The scent is gourmand-spicy. Projection and longevity are above-average. It is being marketed byAl Fakhar Perfumes and Cosmetics Trading.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e4/e442d9_golden-elixir-riiffs_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Spicy",
+        "Oriental",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Cinnamon",
+        "Cardamom",
+        "Nutmeg"
+    ],
+    "heart_notes": [
+        "Date",
+        "Dry woods",
+        "Plum",
+        "Praliné"
+    ],
+    "base_notes": [
+        "Musk",
+        "Oud",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {}
+}

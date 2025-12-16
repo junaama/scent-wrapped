@@ -1,0 +1,22 @@
+{
+    "name": "Blossom Beauty",
+    "brand": "Fernanda",
+    "release_year": "2025",
+    "description": "A new and limited perfume byFernandafor women and men, released in2025.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/70/70e476_blossom-beauty-body-splash-fernanda_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Leaf green"
+    ],
+    "heart_notes": [
+        "Freesia",
+        "Japanese cherry blossom"
+    ],
+    "base_notes": [
+        "Crystal amber",
+        "White musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

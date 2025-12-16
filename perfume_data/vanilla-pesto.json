@@ -1,0 +1,31 @@
+{
+    "name": "Vanilla Pesto",
+    "brand": "artepolé",
+    "release_year": "2025",
+    "description": "A new perfume byartepoléfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b9/b9f7d3_vanilla-pesto-artepole_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Chinese ginger",
+        "Lemon curd",
+        "Smoke"
+    ],
+    "heart_notes": [
+        "Basil",
+        "Cinnamon",
+        "Crème brûlée",
+        "Thai jasmine rice"
+    ],
+    "base_notes": [
+        "Coconut milk",
+        "Vanilla absolute",
+        "White oak"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

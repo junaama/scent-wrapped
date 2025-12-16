@@ -1,0 +1,31 @@
+{
+    "name": "Cassara",
+    "brand": "Monkoku",
+    "release_year": "2025",
+    "description": "A new perfume byMonkokufor women, released in2025. The projection is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/be/bef0a0_cassara-monkoku_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blackcurrant",
+        "Lemon",
+        "Passion fruit"
+    ],
+    "heart_notes": [
+        "Carnation",
+        "Lily",
+        "Lily of the valley",
+        "Narcissus"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sandalwood",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

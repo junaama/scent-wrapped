@@ -1,0 +1,30 @@
+{
+    "name": "Afrodite",
+    "brand": "Yasmin Beauty",
+    "release_year": "2025",
+    "description": "A new perfume byYasmin Beautyfor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e6/e64e74_afrodite-yasmin-beauty_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Freesia",
+        "Grapefruit",
+        "Marine notes",
+        "Pomegranate"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lily of the valley",
+        "Orchid",
+        "Sea salt",
+        "Violet"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cashmere wood",
+        "Musk",
+        "Tropical notes",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

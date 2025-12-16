@@ -1,0 +1,142 @@
+{
+    "name": "Mythe",
+    "brand": "Cos Perfumery",
+    "release_year": "2025",
+    "description": "A new perfume byCos Perfumeryfor women and men, released in2025. The scent is spicy-woody. It is being marketed byH&M Group.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e5/e56558_mythe-cos-perfumery_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Fresh",
+        "Green",
+        "Floral"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Ginger",
+        "Green cardamom"
+    ],
+    "heart_notes": [
+        "Vetiver"
+    ],
+    "base_notes": [
+        "Amyris",
+        "Hooded violet"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "18 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "16 Ratings"
+        },
+        "pricing": {
+            "score": "7.6",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 10
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 8
+            },
+            {
+                "name": "Green",
+                "votes": 5
+            },
+            {
+                "name": "Fresh",
+                "votes": 6
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 10
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 9
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 8
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

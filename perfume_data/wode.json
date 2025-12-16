@@ -1,0 +1,25 @@
+{
+    "name": "Wode",
+    "brand": "Crescent Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byCrescent Parfumsfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d5/d5933b_wode-crescent-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Grapefruit"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Jasmine",
+        "Oud"
+    ],
+    "base_notes": [
+        "Marshmallow",
+        "Musk",
+        "Saffron",
+        "Suede"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

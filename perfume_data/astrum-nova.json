@@ -1,0 +1,155 @@
+{
+    "name": "Astrum Nova",
+    "brand": "Electimuss",
+    "release_year": "2025",
+    "description": "A new perfume byElectimussfor women and men, released in2025. The scent is sweet-fruity. The longevity is above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/38/38dbef_astrum-nova-electimuss_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Spicy",
+        "Synthetic",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Mandarin orange",
+        "Mango",
+        "Lemon",
+        "Ambrette seed",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Osmanthus",
+        "Blackcurrant",
+        "Orris root"
+    ],
+    "base_notes": [
+        "Tonka bean",
+        "Vanilla",
+        "Ambertonic®",
+        "Ambroxan",
+        "Musk",
+        "Oakmoss",
+        "Oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "53 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "45 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "42 Ratings"
+        },
+        "bottle": {
+            "score": "8.6",
+            "votes": "43 Ratings"
+        },
+        "pricing": {
+            "score": "5.6",
+            "votes": "31 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Synthetic",
+                "votes": 6
+            },
+            {
+                "name": "Sweet",
+                "votes": 14
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Fruity",
+                "votes": 14
+            },
+            {
+                "name": "Fresh",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 13
+            },
+            {
+                "name": "Feminine",
+                "votes": 12
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 13
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 13
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 13
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 10
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

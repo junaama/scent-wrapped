@@ -1,0 +1,33 @@
+{
+    "name": "Soul Garden",
+    "brand": "Betty Barclay",
+    "release_year": "2025",
+    "description": "A new perfume byBetty Barclayfor women, released in2025. It is being marketed byMäurer & Wirtz.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5a/5a32c9-soul-garden-body-splash-betty-barclay_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Lemon",
+        "Apple",
+        "Lily of the valley",
+        "Peach blossom"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Water lily",
+        "Lilac",
+        "Rose"
+    ],
+    "base_notes": [
+        "Musk",
+        "Cedarwood",
+        "Amber",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

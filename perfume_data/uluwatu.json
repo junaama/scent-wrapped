@@ -1,0 +1,149 @@
+{
+    "name": "Uluwatu",
+    "brand": "Adamo",
+    "release_year": "2025",
+    "description": "A new perfume byAdamofor women and men, released in2025. The scent is floral-green.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/06/067257_uluwatu-adamo_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Green",
+        "Fresh",
+        "Citrus",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Matcha",
+        "Blackcurrant",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Lily of the valley",
+        "Orange blossom",
+        "Mint"
+    ],
+    "base_notes": [
+        "Patchouli",
+        "Vanilla",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.6",
+            "votes": "37 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "33 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "33 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "41 Ratings"
+        },
+        "pricing": {
+            "score": "5.5",
+            "votes": "21 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 8
+            },
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 9
+            },
+            {
+                "name": "Fresh",
+                "votes": 9
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            },
+            {
+                "name": "Chypre",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 10
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 10
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 12
+            },
+            {
+                "name": "Spring",
+                "votes": 12
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 11
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

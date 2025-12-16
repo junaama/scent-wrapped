@@ -1,0 +1,144 @@
+{
+    "name": "L'Épreuve",
+    "brand": "Maison Mounkam",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Mounkamfor women, released in2025. The scent is sweet-citrusy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/37/37a388_l-epreuve-maison-mounkam_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Citrus",
+        "Gourmand",
+        "Creamy",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Bitter orange",
+        "Cinnamon",
+        "Citrus zest",
+        "Pine resin"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Geranium"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "27 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "24 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "23 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "20 Ratings"
+        },
+        "pricing": {
+            "score": "7.7",
+            "votes": "17 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 9
+            },
+            {
+                "name": "Oriental",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 7
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 7
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 11
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 8
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 10
+            },
+            {
+                "name": "Fall",
+                "votes": 11
+            },
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 9
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 10
+            }
+        ]
+    }
+}

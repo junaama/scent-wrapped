@@ -1,0 +1,101 @@
+{
+    "name": "Legend Noir",
+    "brand": "Aaron Terence Hughes",
+    "release_year": "2025",
+    "description": "A new perfume byAaron Terence Hughesfor women and men, released in2025. The scent is gourmand-spicy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/da/dab5cd_legend-noir-aaron-terence-hughes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Spicy",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Black pepper",
+        "Lavender",
+        "Spices"
+    ],
+    "heart_notes": [
+        "Apple"
+    ],
+    "base_notes": [
+        "Amber",
+        "Frankincense",
+        "Vanilla absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "8.1",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "6.4",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

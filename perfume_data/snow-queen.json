@@ -1,0 +1,23 @@
+{
+    "name": "Snow Queen",
+    "brand": "Aether Arts Perfume",
+    "release_year": "2025",
+    "description": "A new perfume byAether Arts Perfumefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/40/4044b9_snow-queen-aether-arts-perfume_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Ice accord"
+    ],
+    "heart_notes": [
+        "Rose"
+    ],
+    "base_notes": [
+        "Snow",
+        "White amber",
+        "White chocolate",
+        "White iris",
+        "White musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

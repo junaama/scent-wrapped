@@ -1,0 +1,141 @@
+{
+    "name": "Amberwood Nomad",
+    "brand": "Jawhara / جوهرة",
+    "release_year": "2025",
+    "description": "A new perfume byJawhara / جوهرةfor women and men, released in2025. The scent is spicy-oriental. The longevity is above-average. It is being marketed byCoty.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/06/061dd0_amberwood-nomad-jawhara_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Oriental",
+        "Woody",
+        "Resinous",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Myrrh",
+        "Elemi resin"
+    ],
+    "heart_notes": [
+        "Labdanum absolute",
+        "Cedar",
+        "Leather"
+    ],
+    "base_notes": [
+        "Madagascan patchouli",
+        "Ambrostar",
+        "Tonkalactone®"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "51 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "46 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "45 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "49 Ratings"
+        },
+        "pricing": {
+            "score": "9.0",
+            "votes": "45 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 17
+            },
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Smoky",
+                "votes": 7
+            },
+            {
+                "name": "Oriental",
+                "votes": 17
+            },
+            {
+                "name": "Leathery",
+                "votes": 8
+            },
+            {
+                "name": "Woody",
+                "votes": 16
+            },
+            {
+                "name": "Resinous",
+                "votes": 10
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 17
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 12
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 16
+            },
+            {
+                "name": "Fall",
+                "votes": 15
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 10
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 11
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 12
+            }
+        ]
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "name": "The Summit",
+    "brand": "Al Shareef Oudh",
+    "release_year": "2025",
+    "description": "A new and limited perfume byAl Shareef Oudhfor women and men, released in2025. The scent is creamy-woody. The longevity is above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/b9/b979da_the-summit-al-shareef-oudh_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Creamy",
+        "Woody",
+        "Floral",
+        "Fresh",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Blue lotus",
+        "Camphor",
+        "Lavender",
+        "Peppermint",
+        "Rosemary"
+    ],
+    "heart_notes": [
+        "Deer musk",
+        "Frankincense",
+        "Labdanum",
+        "Rose",
+        "Shamamatul amber attar"
+    ],
+    "base_notes": [
+        "Bhutanese oud",
+        "Labdanum",
+        "Musk",
+        "Resins",
+        "Sandalwood",
+        "Woody notes"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

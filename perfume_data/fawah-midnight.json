@@ -1,0 +1,131 @@
+{
+    "name": "Fawah Midnight",
+    "brand": "Nusuk",
+    "release_year": "2025",
+    "description": "A new perfume byNusukfor men, released in2025. The scent is sweet-spicy. It is being marketed byAl Fakhar Perfumes and Cosmetics Trading.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/70/701a2a_fawah-midnight-nusuk_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Oriental",
+        "Resinous",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Honey",
+        "Cinnamon",
+        "Osmanthus"
+    ],
+    "heart_notes": [
+        "Davana",
+        "Amber",
+        "Benzoin",
+        "Labdanum"
+    ],
+    "base_notes": [
+        "Tonka bean",
+        "Vanilla",
+        "Patchouli",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "65 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "60 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "59 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "59 Ratings"
+        },
+        "pricing": {
+            "score": "9.4",
+            "votes": "58 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 11
+            },
+            {
+                "name": "Sweet",
+                "votes": 12
+            },
+            {
+                "name": "Oriental",
+                "votes": 9
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 6
+            },
+            {
+                "name": "Gourmand",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 11
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 12
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 12
+            }
+        ]
+    }
+}

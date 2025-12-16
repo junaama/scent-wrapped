@@ -1,0 +1,104 @@
+{
+    "name": "Aventish Blue",
+    "brand": "Polysnifferous",
+    "release_year": "2025",
+    "description": "A new perfume byPolysnifferousfor women and men, released in2025. The scent is fresh-citrusy.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [
+        "Fresh",
+        "Citrus",
+        "Aquatic"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Lemon",
+        "Pink pepper",
+        "Sea salt",
+        "Spearmint",
+        "Watermelon"
+    ],
+    "heart_notes": [
+        "Coconut",
+        "Iris",
+        "Jasmine",
+        "Patchouli",
+        "Pineapple",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Ambroxan",
+        "Cedarwood",
+        "Musk",
+        "Oakmoss",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.3",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Iris Woods",
+    "brand": "PerfumEra",
+    "release_year": "2025",
+    "description": "A new perfume byPerfumErafor women, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/cd/cd2c9c_iris-woods-perfumera_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cypress",
+        "Iris",
+        "Juniper berry"
+    ],
+    "heart_notes": [
+        "Myrrh",
+        "Patchouli"
+    ],
+    "base_notes": [
+        "Amber",
+        "Honey",
+        "Leather",
+        "Musk",
+        "Vanilla",
+        "Wax",
+        "Woods"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

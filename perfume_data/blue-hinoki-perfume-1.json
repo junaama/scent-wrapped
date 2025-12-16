@@ -1,0 +1,37 @@
+{
+    "name": "Blue Hinoki",
+    "brand": "Tamburins",
+    "release_year": "2025",
+    "description": "A new perfume byTamburinsfor women and men, released in2025. The scent is chypreartig-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/cd/cd00c7_blue-hinoki-perfume-tamburins_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Chypre",
+        "Fresh",
+        "Aquatic"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Hibiscus",
+        "Pine"
+    ],
+    "heart_notes": [
+        "Aquatic notes",
+        "Hinoki cypress"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Frankincense",
+        "Driftwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

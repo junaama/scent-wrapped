@@ -1,0 +1,30 @@
+{
+    "name": "Megève",
+    "brand": "Vacanza",
+    "release_year": "2025",
+    "description": "A new perfume byVacanzafor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ec/ecfa54_megeve-vacanza_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Cardamom",
+        "Mountain air accord",
+        "Violet leaf"
+    ],
+    "heart_notes": [
+        "Clary sage",
+        "Nutmeg",
+        "Pine"
+    ],
+    "base_notes": [
+        "Haitian vetiver",
+        "Virginia cedar wood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

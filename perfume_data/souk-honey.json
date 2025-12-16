@@ -1,0 +1,39 @@
+{
+    "name": "Souk Honey",
+    "brand": "OUI the People",
+    "release_year": "2025",
+    "description": "A new perfume byOUI the Peoplefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/95/95caa0_souk-honey-oui-the-people_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bitter orange blossom nectar",
+        "Jasmine",
+        "Orange blossom"
+    ],
+    "heart_notes": [
+        "Cardamom",
+        "Date syrup",
+        "Pot marigold",
+        "Spices"
+    ],
+    "base_notes": [
+        "Amber",
+        "Manuka honey",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "9.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

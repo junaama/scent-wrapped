@@ -1,0 +1,169 @@
+{
+    "name": "Opal",
+    "brand": "Boadicea the Victorious",
+    "release_year": "2025",
+    "description": "A new perfume byBoadicea the Victoriousfor women and men, released in2025. The scent is floral-spicy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7a/7aad20_opal-boadicea-the-victorious_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Spicy",
+        "Woody",
+        "Resinous",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Coffee",
+        "Bergamot",
+        "Black pepper",
+        "Cinnamon",
+        "Laurel",
+        "Metallic notes",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Cocoa butter",
+        "Suede",
+        "Davana",
+        "Orris butter",
+        "Clary sage",
+        "Geranium",
+        "Nutmeg",
+        "Provençal lavender",
+        "Rose"
+    ],
+    "base_notes": [
+        "Roasted tonka bean",
+        "Iris",
+        "Nepalese sandalwood",
+        "Woods",
+        "Cashmeran",
+        "Cedarwood",
+        "Indonesian patchouli",
+        "Moss",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "51 Ratings"
+        },
+        "durability": {
+            "score": "8.6",
+            "votes": "42 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "42 Ratings"
+        },
+        "bottle": {
+            "score": "9.0",
+            "votes": "56 Ratings"
+        },
+        "pricing": {
+            "score": "4.6",
+            "votes": "41 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Leathery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Resinous",
+                "votes": 6
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            },
+            {
+                "name": "Animal",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 9
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Spring",
+                "votes": 8
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

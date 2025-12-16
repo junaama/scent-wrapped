@@ -1,0 +1,31 @@
+{
+    "name": "New York Chic",
+    "brand": "Bond No. 9",
+    "release_year": "2025",
+    "description": "A new perfume byBond No. 9for women and men, released in2025. Projection and longevity are above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/ae/ae99ef_new-york-chic-bond-no-9_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Davana",
+        "Heliotrope",
+        "Tobacco"
+    ],
+    "heart_notes": [
+        "Cognac",
+        "Indian tuberose",
+        "Serbian immortelle"
+    ],
+    "base_notes": [
+        "Indonesian patchouli",
+        "Musk",
+        "Oud",
+        "Tobacco"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

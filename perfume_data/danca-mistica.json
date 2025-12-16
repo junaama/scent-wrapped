@@ -1,0 +1,140 @@
+{
+    "name": "Dança Mística",
+    "brand": "Sol de Janeiro",
+    "release_year": "2025",
+    "description": "A new and limited perfume bySol de Janeirofor women, released in2025. The scent is green-sweet.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/3e/3e90d5_danca-mistica-sol-de-janeiro_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Sweet",
+        "Woody",
+        "Fruity",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Fig",
+        "Champagne"
+    ],
+    "heart_notes": [
+        "Lily of the valley",
+        "White iris",
+        "Anjou pear"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Vanilla",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "35 Ratings"
+        },
+        "durability": {
+            "score": "6.2",
+            "votes": "25 Ratings"
+        },
+        "sillage": {
+            "score": "5.9",
+            "votes": "24 Ratings"
+        },
+        "bottle": {
+            "score": "6.7",
+            "votes": "26 Ratings"
+        },
+        "pricing": {
+            "score": "7.5",
+            "votes": "22 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 10
+            },
+            {
+                "name": "Woody",
+                "votes": 10
+            },
+            {
+                "name": "Green",
+                "votes": 12
+            },
+            {
+                "name": "Fruity",
+                "votes": 10
+            },
+            {
+                "name": "Fresh",
+                "votes": 8
+            },
+            {
+                "name": "Creamy",
+                "votes": 9
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 15
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 12
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 16
+            },
+            {
+                "name": "Spring",
+                "votes": 14
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 16
+            },
+            {
+                "name": "Sport",
+                "votes": 10
+            },
+            {
+                "name": "Leisure",
+                "votes": 14
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

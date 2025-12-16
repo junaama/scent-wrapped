@@ -1,0 +1,145 @@
+{
+    "name": "Meant to be Seen",
+    "brand": "Nishane",
+    "release_year": "2025",
+    "description": "A new perfume byNishanefor women and men, released in2025. The scent is floral-powdery.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/fc/fcb2af_meant-to-be-seen-nishane_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Powdery",
+        "Fresh",
+        "Creamy",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Violet",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Orris butter",
+        "Moxalone®",
+        "Civet"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Sesame",
+        "Ambrettolide",
+        "Akigalawood®"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "107 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "88 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "86 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "80 Ratings"
+        },
+        "pricing": {
+            "score": "6.6",
+            "votes": "63 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 13
+            },
+            {
+                "name": "Sweet",
+                "votes": 10
+            },
+            {
+                "name": "Powdery",
+                "votes": 27
+            },
+            {
+                "name": "Woody",
+                "votes": 8
+            },
+            {
+                "name": "Fresh",
+                "votes": 17
+            },
+            {
+                "name": "Creamy",
+                "votes": 14
+            },
+            {
+                "name": "Floral",
+                "votes": 32
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 33
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 26
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 20
+            },
+            {
+                "name": "Fall",
+                "votes": 25
+            },
+            {
+                "name": "Summer",
+                "votes": 26
+            },
+            {
+                "name": "Spring",
+                "votes": 36
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 32
+            },
+            {
+                "name": "Sport",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 33
+            },
+            {
+                "name": "Night Out",
+                "votes": 17
+            },
+            {
+                "name": "Business",
+                "votes": 24
+            },
+            {
+                "name": "Evening",
+                "votes": 19
+            }
+        ]
+    }
+}

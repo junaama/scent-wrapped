@@ -1,0 +1,129 @@
+{
+    "name": "Eucalyptus 20",
+    "brand": "Le Labo",
+    "release_year": "2025",
+    "description": "A new perfume byLe Labofor women and men, released in2025. The scent is spicy-woody. It is being marketed byEstēe Lauder Companies.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/41/41c790-eucalyptus-20-le-labo_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Green",
+        "Resinous",
+        "Smoky"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "96 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "71 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "71 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "74 Ratings"
+        },
+        "pricing": {
+            "score": "5.2",
+            "votes": "58 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 35
+            },
+            {
+                "name": "Smoky",
+                "votes": 19
+            },
+            {
+                "name": "Woody",
+                "votes": 33
+            },
+            {
+                "name": "Resinous",
+                "votes": 22
+            },
+            {
+                "name": "Green",
+                "votes": 26
+            },
+            {
+                "name": "Fresh",
+                "votes": 10
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 35
+            },
+            {
+                "name": "Feminine",
+                "votes": 14
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 27
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 21
+            },
+            {
+                "name": "Fall",
+                "votes": 32
+            },
+            {
+                "name": "Summer",
+                "votes": 14
+            },
+            {
+                "name": "Spring",
+                "votes": 28
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 28
+            },
+            {
+                "name": "Sport",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 30
+            },
+            {
+                "name": "Night Out",
+                "votes": 13
+            },
+            {
+                "name": "Business",
+                "votes": 22
+            },
+            {
+                "name": "Evening",
+                "votes": 15
+            }
+        ]
+    }
+}

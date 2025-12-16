@@ -1,0 +1,133 @@
+{
+    "name": "Intenso di Basilico",
+    "brand": "Carthusia",
+    "release_year": "2025",
+    "description": "A new perfume byCarthusiafor women and men, released in2025. The scent is citrusy-green.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/a2/a26476_intenso-di-basilico-carthusia_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Green",
+        "Fresh",
+        "Synthetic",
+        "Woody"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Mandarin orange",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Basil",
+        "Jasmine",
+        "Tea"
+    ],
+    "base_notes": [
+        "Cashmeran",
+        "Patchouli",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "20 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "17 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "17 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "20 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 8
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 7
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Énigma",
+    "brand": "Maison Sental",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Sentalfor women and men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Apple",
+        "Orange",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Coconut",
+        "Jasmine absolute",
+        "Peach",
+        "Tunisian Orange absolute",
+        "Turkish rose absolute"
+    ],
+    "base_notes": [
+        "Amberwood",
+        "Ambroxan",
+        "Bourbon vanilla absolute",
+        "Cashmeran",
+        "Tonka bean absolute"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

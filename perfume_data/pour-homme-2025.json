@@ -1,0 +1,143 @@
+{
+    "name": "Pour Homme",
+    "brand": "Van Cleef & Arpels",
+    "release_year": "2025",
+    "description": "A new perfume byVan Cleef & Arpelsfor men, released in2025. The scent is spicy-green. It is being marketed byInterparfums.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/11/112ee4_pour-homme-2025-van-cleef-arpels_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Green",
+        "Woody",
+        "Earthy",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Lavender",
+        "Sage"
+    ],
+    "heart_notes": [
+        "Clove",
+        "Iris",
+        "Patchouli",
+        "Rose",
+        "Vetiver"
+    ],
+    "base_notes": [
+        "Leather",
+        "Oakmoss",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "14 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "13 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "14 Ratings"
+        },
+        "pricing": {
+            "score": "6.3",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 8
+            },
+            {
+                "name": "Woody",
+                "votes": 7
+            },
+            {
+                "name": "Green",
+                "votes": 7
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Earthy",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 10
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

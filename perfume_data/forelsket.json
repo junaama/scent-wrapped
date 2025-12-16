@@ -1,0 +1,35 @@
+{
+    "name": "Forelsket",
+    "brand": "Antagonist",
+    "release_year": "2025",
+    "description": "A new perfume byAntagonistfor women and men, released in2025. The scent is floral-fruity. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d5/d5add5_forelsket-antagonist_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fruity",
+        "Woody",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Cranberry",
+        "Orange zest",
+        "Prosecco"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Lavender",
+        "Rose"
+    ],
+    "base_notes": [
+        "Apple",
+        "Pineapple",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.2",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

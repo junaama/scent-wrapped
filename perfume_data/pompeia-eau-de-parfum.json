@@ -1,0 +1,26 @@
+{
+    "name": "Pompeia",
+    "brand": "L.T. Piver",
+    "release_year": "2025",
+    "description": "A new perfume byL.T. Piverfor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/65/650cee_pompeia-eau-de-parfum-l-t-piver_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Jasmine",
+        "Orange",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Iris",
+        "Jasmine",
+        "Saffron",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Moss",
+        "Patchouli",
+        "Suede"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

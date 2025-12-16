@@ -1,0 +1,45 @@
+{
+    "name": "Black Viking Ship",
+    "brand": "The Dua Brand",
+    "release_year": "2025",
+    "description": "A new perfume byThe Dua Brandfor men, released in2025. The perfume is vegan according to the manufacturer.PronunciationCompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/08/086d37_black-viking-ship-the-dua-brand_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Basil",
+        "Bergamot",
+        "Juniper",
+        "Lavender",
+        "Lemon",
+        "Lemon vervain",
+        "Mint",
+        "Rosemary"
+    ],
+    "heart_notes": [
+        "Absinthe wormwood",
+        "Angelica",
+        "Artemisia",
+        "Carnation",
+        "Cinnamon",
+        "Coriander",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedar",
+        "Fir balsam",
+        "Leather",
+        "Oakmoss",
+        "Patchouli",
+        "Resins",
+        "Sandalwood",
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "4.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

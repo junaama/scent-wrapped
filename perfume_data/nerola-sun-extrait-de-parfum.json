@@ -1,0 +1,131 @@
+{
+    "name": "Nerola Sun",
+    "brand": "Glowcane",
+    "release_year": "2025",
+    "description": "A new perfume byGlowcanefor women, released in2025. The scent is citrusy-floral.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d6/d6a4e5_nerola-sun-extrait-de-parfum-glowcane_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Floral",
+        "Fresh",
+        "Spicy",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Sicilian neroli"
+    ],
+    "heart_notes": [
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Oakmoss",
+        "Sandalwood",
+        "Vetiver",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.5",
+            "votes": "12 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "10 Ratings"
+        },
+        "sillage": {
+            "score": "5.5",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "6.3",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 6
+            },
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

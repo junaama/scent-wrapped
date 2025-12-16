@@ -1,0 +1,30 @@
+{
+    "name": "Morocco",
+    "brand": "Sand + Fog",
+    "release_year": "2025",
+    "description": "A new perfume bySand + Fogfor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/8f/8f327e_morocco-sand-fog_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Mint",
+        "Neroli",
+        "Pepper"
+    ],
+    "heart_notes": [
+        "Blossoms",
+        "Musk",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Gurjum balsam",
+        "Musk",
+        "Woods"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

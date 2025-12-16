@@ -1,0 +1,129 @@
+{
+    "name": "Banana Milkshake",
+    "brand": "Ellis Brooklyn",
+    "release_year": "2025",
+    "description": "A new and limited perfume byEllis Brooklynfor women and men, released in2025. The scent is fruity-gourmand. The production was apparently discontinued. The perfume is vegan according to the manufacturer.CompareLimitedVegan",
+    "image_url": "https://media.parfumo.com/perfumes/3c/3ca021_banana-milkshake-ellis-brooklyn_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Gourmand",
+        "Sweet",
+        "Creamy",
+        "Floral"
+    ],
+    "top_notes": [
+        "Banana milk",
+        "Muskmelon",
+        "Papaya"
+    ],
+    "heart_notes": [
+        "Apricot skin",
+        "Pineberry",
+        "Vanilla orchid"
+    ],
+    "base_notes": [
+        "Single malt scotch whisky",
+        "Tonka bean",
+        "Vanilla ice cream"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "14 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "5.9",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "6.5",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

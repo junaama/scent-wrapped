@@ -1,0 +1,138 @@
+{
+    "name": "Delulu",
+    "brand": ".Oddity",
+    "release_year": "2025",
+    "description": "A new perfume by.Oddityfor women and men, released in2025. The scent is fruity-citrusy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b4/b4b95d_delulu-oddity_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Citrus",
+        "Fresh",
+        "Sweet",
+        "Green"
+    ],
+    "top_notes": [
+        "Citron",
+        "Mandarin orange",
+        "Rhubarb",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Blackcurrant",
+        "Strawberry jam",
+        "Bulgarian rose",
+        "Frankincense",
+        "Raspberry"
+    ],
+    "base_notes": [
+        "Musk",
+        "Osmanthus",
+        "Sandalwood",
+        "Ambroxan",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "26 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "22 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "18 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "19 Ratings"
+        },
+        "pricing": {
+            "score": "5.5",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 13
+            },
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Green",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 13
+            },
+            {
+                "name": "Fresh",
+                "votes": 8
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 11
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 12
+            },
+            {
+                "name": "Spring",
+                "votes": 10
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 13
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

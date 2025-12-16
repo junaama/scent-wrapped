@@ -1,0 +1,23 @@
+{
+    "name": "Silver",
+    "brand": "Messi",
+    "release_year": "2025",
+    "description": "A new perfume byMessifor men, released in2025. It is being marketed byGame On! Product Group.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/de/de4810_silver-messi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Olive blossom",
+        "Star anise"
+    ],
+    "base_notes": [
+        "Gaiac wood",
+        "Leather",
+        "Tonka bean"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

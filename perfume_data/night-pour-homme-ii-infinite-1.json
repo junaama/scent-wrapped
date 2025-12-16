@@ -1,0 +1,89 @@
+{
+    "name": "Night pour Homme II Infinite",
+    "brand": "Zara",
+    "release_year": "2025",
+    "description": "A new perfume byZarafor men, released in2025. The scent is woody-synthetic.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6e/6edadb_night-pour-homme-ii-infinite-zara_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Synthetic",
+        "Sweet",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Citrus fruits"
+    ],
+    "heart_notes": [
+        "Nutmeg",
+        "Spike lavender"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Woods"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            }
+        ]
+    }
+}

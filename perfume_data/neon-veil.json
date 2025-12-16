@@ -1,0 +1,142 @@
+{
+    "name": "Neon Veil",
+    "brand": "Andrea Maack",
+    "release_year": "2025",
+    "description": "A new perfume byAndrea Maackfor women and men, released in2025. The scent is woody-spicy.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/37/37140a_neon-veil-andrea-maack_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Spicy",
+        "Synthetic",
+        "Powdery",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Ambrette seed",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Iris",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "6.3",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "5.5",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

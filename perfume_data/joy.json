@@ -1,0 +1,31 @@
+{
+    "name": "Joy",
+    "brand": "Tilted Chair",
+    "release_year": "2025",
+    "description": "A new perfume byTilted Chairfor women and men, released in2025. The scent is sweet-green. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/19/194753_joy-tilted-chair_1200.jpg?width=240&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Green",
+        "Gourmand",
+        "Spicy",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Jasmine"
+    ],
+    "heart_notes": [
+        "Sage",
+        "Whisky",
+        "Cedar"
+    ],
+    "base_notes": [
+        "Amber",
+        "Tonka bean",
+        "Vetiver",
+        "Musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

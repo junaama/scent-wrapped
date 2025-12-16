@@ -1,0 +1,138 @@
+{
+    "name": "Almost Dawn",
+    "brand": "Bottega Veneta",
+    "release_year": "2025",
+    "description": "A new perfume byBottega Venetafor women and men, released in2025. The scent is sweet-powdery. The longevity is above-average. It is being marketed byKering Beauté.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/b0/b01d47_almost-dawn-bottega-veneta_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Powdery",
+        "Spicy",
+        "Woody",
+        "Leathery"
+    ],
+    "top_notes": [
+        "Black pepper",
+        "Pink pepper",
+        "Truffle"
+    ],
+    "heart_notes": [
+        "Patchouli",
+        "Chestnut wood"
+    ],
+    "base_notes": [
+        "Clearwood™",
+        "Sylvamber™",
+        "Vanilla absolute",
+        "Cedarwood",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "13 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 6
+            },
+            {
+                "name": "Sweet",
+                "votes": 10
+            },
+            {
+                "name": "Powdery",
+                "votes": 10
+            },
+            {
+                "name": "Leathery",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 10
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 10
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

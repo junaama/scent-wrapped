@@ -1,0 +1,151 @@
+{
+    "name": "Cuir de Russie II",
+    "brand": "Areej Le Doré",
+    "release_year": "2025",
+    "description": "A new perfume byAreej Le Doréfor women and men, released in2025. The scent is floral-spicy. The longevity is above-average. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f8/f814e8_cuir-de-russie-ii-attar-areej-le-dore_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Spicy",
+        "Sweet",
+        "Leathery",
+        "Animal"
+    ],
+    "top_notes": [
+        "Beaver tail oil",
+        "Birch tar"
+    ],
+    "heart_notes": [
+        "Violet leaf",
+        "Blue lotus",
+        "Indonesian jasmine",
+        "Jasminum auriculatum",
+        "Violet",
+        "Azerbaijani rose",
+        "Bulgarian rose",
+        "Moroccan rose",
+        "Pink lotus absolute",
+        "White lotus absolute"
+    ],
+    "base_notes": [
+        "Deer musk absolute",
+        "Amber",
+        "Choya Loban"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.9",
+            "votes": "26 Ratings"
+        },
+        "durability": {
+            "score": "9.2",
+            "votes": "22 Ratings"
+        },
+        "sillage": {
+            "score": "7.9",
+            "votes": "22 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "24 Ratings"
+        },
+        "pricing": {
+            "score": "8.0",
+            "votes": "17 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            },
+            {
+                "name": "Animal",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

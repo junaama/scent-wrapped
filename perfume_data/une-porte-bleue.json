@@ -1,0 +1,27 @@
+{
+    "name": "Une Porte Bleue",
+    "brand": "Merlin",
+    "release_year": "2025",
+    "description": "A new and limited perfume byMerlinfor women and men, released in2025.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/f3/f344c4_une-porte-bleue-merlin_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Fig",
+        "Honey",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Fig leaf",
+        "Musk",
+        "Vanilla",
+        "White amber",
+        "Woody notes"
+    ],
+    "base_notes": [
+        "American cedar",
+        "Atlas cedar",
+        "Sri Lankan patchouli"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

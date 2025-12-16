@@ -1,0 +1,28 @@
+{
+    "name": "Memo",
+    "brand": "Personal Chemistry",
+    "release_year": "2025",
+    "description": "A new perfume byPersonal Chemistryfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f1/f1efde_memo-personal-chemistry_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Coriander",
+        "Cypress"
+    ],
+    "heart_notes": [
+        "Benzoin",
+        "Cashmere",
+        "Cistus",
+        "Moroccan orange",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Moss",
+        "Orcanox",
+        "Patchouli",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

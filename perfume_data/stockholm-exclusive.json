@@ -1,0 +1,106 @@
+{
+    "name": "Stockholm Exclusive",
+    "brand": "Jinx",
+    "release_year": "2025",
+    "description": "A new and limited perfume byJinxfor women and men, released in2025. The scent is floral-oriental. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/bd/bd0682_stockholm-exclusive-jinx_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Oriental",
+        "Spicy",
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Honey",
+        "Lily",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Iris resinoid",
+        "Orris butter",
+        "Persian rose"
+    ],
+    "base_notes": [
+        "Atlas cedar",
+        "Kashmiri musk",
+        "Mysore sandalwood",
+        "Thai oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            }
+        ]
+    }
+}

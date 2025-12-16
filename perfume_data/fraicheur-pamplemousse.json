@@ -1,0 +1,33 @@
+{
+    "name": "Frâicheur Pamplemousse",
+    "brand": "Les Senteurs Gourmandes",
+    "release_year": "2025",
+    "description": "A new perfume byLes Senteurs Gourmandesfor women and men, released in2025. The scent is citrusy-woody. It is being marketed byParfums par Nature.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4c/4c61ac_fraicheur-pamplemousse-les-senteurs-gourmandes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Woody",
+        "Fresh",
+        "Floral"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Grapefruit"
+    ],
+    "heart_notes": [
+        "Lavender",
+        "Rose"
+    ],
+    "base_notes": [
+        "Musk",
+        "Patchouli",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

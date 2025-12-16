@@ -1,0 +1,149 @@
+{
+    "name": "Azure Velvet",
+    "brand": "Khadlaj",
+    "release_year": "2025",
+    "description": "A new perfume byKhadlajfor women and men, released in2025. The scent is sweet-woody. It is being marketed byKhadlaj Perfumes LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c3/c38cb7_azure-velvet-khadlaj_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Woody",
+        "Citrus",
+        "Spicy",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Lavender",
+        "Mint"
+    ],
+    "heart_notes": [
+        "Floral notes",
+        "Fresh notes",
+        "Fruity notes"
+    ],
+    "base_notes": [
+        "Frankincense",
+        "Powdery notes",
+        "Woody notes"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "36 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "34 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "35 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "37 Ratings"
+        },
+        "pricing": {
+            "score": "9.2",
+            "votes": "34 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Oriental",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

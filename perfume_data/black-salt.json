@@ -1,0 +1,140 @@
+{
+    "name": "Black Salt",
+    "brand": "Heretic",
+    "release_year": "2025",
+    "description": "A new perfume byHereticfor women and men, released in2025. The scent is aquatic-floral.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/95/954779_black-salt-heretic_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Aquatic",
+        "Floral",
+        "Earthy",
+        "Fresh",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Lime",
+        "Black pepper",
+        "Eucalyptus",
+        "Tangerine"
+    ],
+    "heart_notes": [
+        "Jasmine sambac",
+        "Water lily",
+        "Sea salt",
+        "Smoke",
+        "Turkish rose"
+    ],
+    "base_notes": [
+        "Petrichor",
+        "Labdanum",
+        "Kelp"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "17 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "13 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "15 Ratings"
+        },
+        "pricing": {
+            "score": "6.5",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 5
+            },
+            {
+                "name": "Earthy",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            },
+            {
+                "name": "Aquatic",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 8
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

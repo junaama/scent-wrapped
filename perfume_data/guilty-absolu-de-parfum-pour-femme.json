@@ -1,0 +1,152 @@
+{
+    "name": "Guilty Absolu de Parfum pour Femme",
+    "brand": "Gucci",
+    "release_year": "2025",
+    "description": "A new perfume byGuccifor women, released in2025. The scent is sweet-floral. The longevity is above-average. It is being marketed byCoty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/35/352d26_guilty-absolu-de-parfum-pour-femme-gucci_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Gourmand",
+        "Resinous",
+        "Woody"
+    ],
+    "top_notes": [
+        "Bitter almond",
+        "Bergamot",
+        "Mandora"
+    ],
+    "heart_notes": [
+        "Wisteria",
+        "Patchouli",
+        "Rose absolute"
+    ],
+    "base_notes": [
+        "Tonka bean absolute",
+        "Bourbon vanilla absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "26 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "19 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "18 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "23 Ratings"
+        },
+        "pricing": {
+            "score": "7.5",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

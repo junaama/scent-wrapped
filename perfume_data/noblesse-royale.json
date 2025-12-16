@@ -1,0 +1,130 @@
+{
+    "name": "Noblesse Royale",
+    "brand": "Câline",
+    "release_year": "2025",
+    "description": "A new perfume byCâlinefor women, released in2025. The scent is sweet-gourmand. It is being marketed byLifestyle Fragrance & Beauty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4a/4a1b2b_noblesse-royale-caline_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Creamy",
+        "Spicy",
+        "Floral"
+    ],
+    "top_notes": [
+        "Cocoa",
+        "Vanilla",
+        "Lavender",
+        "Ginger"
+    ],
+    "heart_notes": [
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Vanilla absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "72 Ratings"
+        },
+        "durability": {
+            "score": "6.1",
+            "votes": "66 Ratings"
+        },
+        "sillage": {
+            "score": "5.9",
+            "votes": "64 Ratings"
+        },
+        "bottle": {
+            "score": "6.7",
+            "votes": "63 Ratings"
+        },
+        "pricing": {
+            "score": "9.3",
+            "votes": "57 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 15
+            },
+            {
+                "name": "Sweet",
+                "votes": 23
+            },
+            {
+                "name": "Powdery",
+                "votes": 6
+            },
+            {
+                "name": "Gourmand",
+                "votes": 18
+            },
+            {
+                "name": "Creamy",
+                "votes": 16
+            },
+            {
+                "name": "Floral",
+                "votes": 11
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 26
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 14
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 26
+            },
+            {
+                "name": "Fall",
+                "votes": 25
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 15
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 18
+            },
+            {
+                "name": "Leisure",
+                "votes": 20
+            },
+            {
+                "name": "Night Out",
+                "votes": 15
+            },
+            {
+                "name": "Business",
+                "votes": 15
+            },
+            {
+                "name": "Evening",
+                "votes": 19
+            }
+        ]
+    }
+}

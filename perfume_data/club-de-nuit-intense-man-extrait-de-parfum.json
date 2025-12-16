@@ -1,0 +1,144 @@
+{
+    "name": "Club de Nuit Intense Man",
+    "brand": "Armaf",
+    "release_year": "2025",
+    "description": "A new perfume byArmaffor men, released in2025. The scent is citrusy-woody. Projection and longevity are above-average. It is being marketed bySterling Perfumes Industries LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3f/3fb232_club-de-nuit-intense-man-extrait-de-parfum-armaf_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Woody",
+        "Fresh",
+        "Smoky",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Lemon",
+        "Bergamot",
+        "Pineapple",
+        "Apple",
+        "Blackcurrant"
+    ],
+    "heart_notes": [
+        "Birch",
+        "Jasmine",
+        "Rose"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Musk",
+        "Patchouli",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.0",
+            "votes": "27 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "26 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "25 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "26 Ratings"
+        },
+        "pricing": {
+            "score": "9.1",
+            "votes": "22 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 9
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 8
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Fresh",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 9
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 9
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Sport",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

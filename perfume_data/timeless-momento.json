@@ -1,0 +1,99 @@
+{
+    "name": "Timeless - Momento",
+    "brand": "Gissah",
+    "release_year": "2025",
+    "description": "A new perfume byGissahfor women and men, released in2025. The scent is woody-leathery.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6e/6e349e_timeless-set-momento-gissah_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Leathery",
+        "Oriental",
+        "Spicy",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Cistus",
+        "Gaiac wood"
+    ],
+    "heart_notes": [
+        "Indonesian patchouli",
+        "Raspberry"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Leather",
+        "Woody notes"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Spicy Ocean",
+    "brand": "Zyara",
+    "release_year": "2025",
+    "description": "A new perfume byZyarafor men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/01/013d18_spicy-ocean-zyara_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Mandarin orange",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Cedar",
+        "Nutmeg",
+        "Patchouli"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

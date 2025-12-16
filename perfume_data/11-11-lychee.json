@@ -1,0 +1,113 @@
+{
+    "name": "11 11 Lychee",
+    "brand": "Lake & Skye",
+    "release_year": "2025",
+    "description": "A new perfume byLake & Skyefor women and men, released in2025. The scent is fruity-synthetic. It is being marketed byTru Fragrance / Romane Fragrances.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ef/efc7ae_11-11-lychee-lake-skye_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Synthetic",
+        "Woody",
+        "Fresh",
+        "Floral"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Lychee",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Ambrette seed",
+        "Peony",
+        "Sugar"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Hinoki wood",
+        "Oak wood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.3",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

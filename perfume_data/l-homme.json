@@ -1,0 +1,130 @@
+{
+    "name": "L'Homme",
+    "brand": "Elie Saab",
+    "release_year": "2025",
+    "description": "A new perfume byElie Saabfor men, released in2025. The scent is spicy-woody. It is being marketed byGBB (Give Back Beauty) / Brands Beyond Beauty.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/ea/ea32db_l-homme-elie-saab_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Citrus",
+        "Fresh",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Vetiver"
+    ],
+    "base_notes": [
+        "Myrrh",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "27 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "22 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "22 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "25 Ratings"
+        },
+        "pricing": {
+            "score": "6.4",
+            "votes": "20 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 8
+            },
+            {
+                "name": "Spicy",
+                "votes": 12
+            },
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 10
+            },
+            {
+                "name": "Fresh",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 12
+            },
+            {
+                "name": "Classic",
+                "votes": 8
+            },
+            {
+                "name": "Modern",
+                "votes": 8
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 11
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 12
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

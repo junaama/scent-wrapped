@@ -1,0 +1,93 @@
+{
+    "name": "Lights Down Low",
+    "brand": "Marley Fragrance",
+    "release_year": "2025",
+    "description": "A new perfume byMarley Fragrancefor men, released in2025. The scent is floral-citrusy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6c/6ced12_lights-down-low-marley-fragrance_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Citrus",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Honey pomelo",
+        "Mandarin orange",
+        "Sea salt"
+    ],
+    "heart_notes": [
+        "Clove leaf",
+        "Geranium",
+        "Rose hip"
+    ],
+    "base_notes": [
+        "Amber",
+        "Sandalwood",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

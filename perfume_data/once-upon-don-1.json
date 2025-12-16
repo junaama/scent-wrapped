@@ -1,0 +1,27 @@
+{
+    "name": "Once upon Don",
+    "brand": "Mykonos",
+    "release_year": "2025",
+    "description": "A new perfume byMykonosfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/18/1891de_once-upon-don-mykonos_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cardamom",
+        "Mandarin orange",
+        "Pineapple",
+        "Violet leaf"
+    ],
+    "heart_notes": [
+        "Artemisia",
+        "Jasmine",
+        "Lavender",
+        "Lily of the valley"
+    ],
+    "base_notes": [
+        "Amberwood",
+        "Moss",
+        "White musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

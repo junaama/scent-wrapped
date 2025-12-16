@@ -1,0 +1,87 @@
+{
+    "name": "Rosa Ataraxis III: Black Rose",
+    "brand": "Hunayn",
+    "release_year": "2025",
+    "description": "A new and limited perfume byHunaynfor women and men, released in2025. The scent is floral-oriental. The longevity is above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/95/95148c_rosa-ataraxis-iii-black-rose-hunayn_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Oriental",
+        "Spicy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "9.0",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

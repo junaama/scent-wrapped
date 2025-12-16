@@ -1,0 +1,127 @@
+{
+    "name": "Green Tea & Black Currant",
+    "brand": "Arina Franzén",
+    "release_year": "2025",
+    "description": "A new perfume byArina Franzénfor women and men, released in2025. The scent is creamy-green. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/44/440aea_green-tea-black-currant-arina-franzen_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Creamy",
+        "Green",
+        "Spicy",
+        "Resinous",
+        "Chypre"
+    ],
+    "top_notes": [
+        "Elemi resin",
+        "Green mandarin orange"
+    ],
+    "heart_notes": [
+        "Blackcurrant",
+        "Clary sage",
+        "Maté"
+    ],
+    "base_notes": [
+        "Black spruce",
+        "Copaiba balsam"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Chypre",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

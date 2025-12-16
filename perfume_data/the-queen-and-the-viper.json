@@ -1,0 +1,157 @@
+{
+    "name": "The Queen and the Viper",
+    "brand": "Stéphane Humbert Lucas",
+    "release_year": "2025",
+    "description": "A new perfume byStéphane Humbert Lucasfor women and men, released in2025. The scent is sweet-green.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/a9/a9be2a_the-queen-and-the-viper-stephane-humbert-lucas_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Green",
+        "Fresh",
+        "Spicy",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Spearmint",
+        "Bergamot",
+        "Blackcurrant bud",
+        "Citrus notes",
+        "Davana",
+        "Frankincense",
+        "Styrax"
+    ],
+    "heart_notes": [
+        "Jasmine sambac",
+        "Osmanthus",
+        "Clary sage",
+        "Moroccan mint",
+        "Vetiver"
+    ],
+    "base_notes": [
+        "Blond tobacco",
+        "Birch",
+        "Hydrocarboresine",
+        "Date",
+        "Saffron"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "57 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "48 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "47 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "54 Ratings"
+        },
+        "pricing": {
+            "score": "6.6",
+            "votes": "36 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 8
+            },
+            {
+                "name": "Spicy",
+                "votes": 11
+            },
+            {
+                "name": "Sweet",
+                "votes": 14
+            },
+            {
+                "name": "Woody",
+                "votes": 8
+            },
+            {
+                "name": "Green",
+                "votes": 13
+            },
+            {
+                "name": "Fruity",
+                "votes": 8
+            },
+            {
+                "name": "Fresh",
+                "votes": 12
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 13
+            },
+            {
+                "name": "Feminine",
+                "votes": 15
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 12
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 10
+            },
+            {
+                "name": "Spring",
+                "votes": 16
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 10
+            },
+            {
+                "name": "Sport",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 15
+            },
+            {
+                "name": "Night Out",
+                "votes": 12
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 10
+            }
+        ]
+    }
+}

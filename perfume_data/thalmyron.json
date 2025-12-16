@@ -1,0 +1,28 @@
+{
+    "name": "Thalmyron",
+    "brand": "Olymra",
+    "release_year": "2025",
+    "description": "A new perfume byOlymrafor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c4/c443ec_thalmyron-olymra_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Neroli",
+        "Petitgrain",
+        "Sea breeze"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Lavender",
+        "Plants"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Marine notes",
+        "Mineral notes",
+        "Musk",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

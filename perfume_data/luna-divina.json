@@ -1,0 +1,26 @@
+{
+    "name": "Luna Divina",
+    "brand": "Natura",
+    "release_year": "2025",
+    "description": "A new perfume byNaturafor women, released in2025. It is being marketed byNatura & Co..Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c5/c5e706_luna-divina-natura_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Pink pepper",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Pink peony"
+    ],
+    "base_notes": [
+        "Moss",
+        "Patchouli"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

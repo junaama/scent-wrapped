@@ -1,0 +1,141 @@
+{
+    "name": "Vanilla Sugar",
+    "brand": "Fragrance World",
+    "release_year": "2025",
+    "description": "A new perfume byFragrance Worldfor women, released in2025. The scent is sweet-gourmand. It is being marketed byFragrance World Trading LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/14/142028_vanilla-sugar-fragrance-world_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Floral",
+        "Fruity",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Marshmallow",
+        "Pear",
+        "Rum",
+        "Vanilla"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Labdanum",
+        "Sandalwood",
+        "Violet leaf",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Cashmeran",
+        "Patchouli",
+        "Tonka bean",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "23 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "21 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "21 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "23 Ratings"
+        },
+        "pricing": {
+            "score": "9.2",
+            "votes": "20 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 9
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Oriental",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 7
+            },
+            {
+                "name": "Fruity",
+                "votes": 6
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 9
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 8
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

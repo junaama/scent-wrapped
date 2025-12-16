@@ -1,0 +1,82 @@
+{
+    "name": "555 Strawberry + Aire",
+    "brand": "Lake & Skye",
+    "release_year": "2025",
+    "description": "A new perfume byLake & Skyefor women and men, released in2025. The scent is fruity-sweet. It is being marketed byTru Fragrance / Romane Fragrances.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2c/2cf7c4_555-strawberry-aire-lake-skye_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Pink pepper",
+        "Strawberry"
+    ],
+    "heart_notes": [
+        "Lily of the valley",
+        "Iris",
+        "Strawberry"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.2",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "4.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

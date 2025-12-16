@@ -1,0 +1,150 @@
+{
+    "name": "Incaro",
+    "brand": "Vapormundum",
+    "release_year": "2025",
+    "description": "A new and limited perfume byVapormundumfor women and men, released in2025. The scent is woody-spicy. The longevity is above-average. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/3d/3d2cba_incaro-vapormundum_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Spicy",
+        "Floral",
+        "Citrus",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Cardamom",
+        "Ginger",
+        "Grapefruit",
+        "Green mandarin orange"
+    ],
+    "heart_notes": [
+        "Rose"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Frankincense",
+        "Oud",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "32 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "29 Ratings"
+        },
+        "sillage": {
+            "score": "7.9",
+            "votes": "28 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "25 Ratings"
+        },
+        "pricing": {
+            "score": "7.8",
+            "votes": "24 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 5
+            },
+            {
+                "name": "Spicy",
+                "votes": 6
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            },
+            {
+                "name": "Animal",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 9
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 9
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "name": "Tabac n' Coke",
+    "brand": "Fragrance World",
+    "release_year": "2025",
+    "description": "A new perfume byFragrance Worldfor men, released in2025. The scent is sweet-spicy. Projection and longevity are above-average. It is being marketed byFragrance World Trading LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a5/a553a7_tabac-n-coke-fragrance-world_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Oriental",
+        "Gourmand",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Cola",
+        "Fruit gummies",
+        "Lime"
+    ],
+    "heart_notes": [
+        "Tobacco",
+        "Immortelle"
+    ],
+    "base_notes": [
+        "Labdanum",
+        "Vanilla",
+        "Benzoin"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "27 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "24 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "24 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "27 Ratings"
+        },
+        "pricing": {
+            "score": "9.1",
+            "votes": "24 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 6
+            },
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Oriental",
+                "votes": 4
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

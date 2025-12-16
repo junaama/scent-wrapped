@@ -1,0 +1,29 @@
+{
+    "name": "Piña Colada",
+    "brand": "Sand + Fog",
+    "release_year": "2025",
+    "description": "A new perfume bySand + Fogfor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/f2/f2358a_pina-colada-sand-fog_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Lemon",
+        "Mandarin orange",
+        "Mango",
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Blackcurrant",
+        "Coconut",
+        "Peach"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Patchouli",
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

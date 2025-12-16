@@ -1,0 +1,95 @@
+{
+    "name": "Aeterna",
+    "brand": "Parfüm Haus",
+    "release_year": "2025",
+    "description": "A new perfume byParfüm Hausfor women and men, released in2025. The scent is powdery-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/fe/fe754c_aeterna-parfum-haus_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Powdery",
+        "Fresh",
+        "Floral",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Davana",
+        "Peach blossom",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Tobacco"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Oud",
+        "Silver fir",
+        "Woody notes"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.0",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

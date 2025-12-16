@@ -1,0 +1,30 @@
+{
+    "name": "Bleu",
+    "brand": "Amaran",
+    "release_year": "2025",
+    "description": "A new perfume byAmaranfor women and men, released in2025. It is being marketed byBeauty & Perfume International Factory LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ad/adec59_bleu-amaran_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Raspberry",
+        "Strawberry"
+    ],
+    "heart_notes": [
+        "Cyclamen",
+        "Rhubarb",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amberwood",
+        "Musk",
+        "Patchouli",
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

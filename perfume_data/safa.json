@@ -1,0 +1,42 @@
+{
+    "name": "Safa",
+    "brand": "Arabiyat Prestige",
+    "release_year": "2025",
+    "description": "A new perfume byArabiyat Prestigefor women, released in2025. Projection and longevity are above-average. It is being marketed byMy Perfumes / MPF (My Perfumes Factory).Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5b/5b7e48_safa-arabiyat_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Hazelnut",
+        "Lychee",
+        "Red fruits"
+    ],
+    "heart_notes": [
+        "Cypriol",
+        "Magnolia",
+        "Turkish rose"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Gourmand notes",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "8.3",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {}
+}

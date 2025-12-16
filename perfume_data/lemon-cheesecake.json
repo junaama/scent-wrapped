@@ -1,0 +1,26 @@
+{
+    "name": "Lemon Cheesecake",
+    "brand": "D'Qar",
+    "release_year": "2025",
+    "description": "A new perfume byD'Qarfor women and men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/480.png",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Blood orange",
+        "Lavender"
+    ],
+    "heart_notes": [
+        "Bulgarian rose",
+        "Cinnamon",
+        "Egyptian jasmine",
+        "Glycyrrhiza glabra"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

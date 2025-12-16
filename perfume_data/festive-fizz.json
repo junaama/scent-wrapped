@@ -1,0 +1,22 @@
+{
+    "name": "Festive Fizz",
+    "brand": "Victoria's Secret",
+    "release_year": "2025",
+    "description": "A new perfume byVictoria's Secretfor women, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/26/26cd17_festive-fizz-victoria-s-secret_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blackberry",
+        "Champagne",
+        "Cranberry"
+    ],
+    "heart_notes": [
+        "Hibiscus",
+        "White amber"
+    ],
+    "base_notes": [
+        "Musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

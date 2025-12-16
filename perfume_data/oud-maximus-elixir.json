@@ -1,0 +1,39 @@
+{
+    "name": "Oud Maximus",
+    "brand": "Bortnikoff",
+    "release_year": "2025",
+    "description": "A new and limited perfume byBortnikofffor women and men, released in2025.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/f2/f24f73_oud-maximus-elixir-bortnikoff_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Jasmine sambac",
+        "Orange",
+        "Cardamom",
+        "Pink pepper",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Rose",
+        "May rose",
+        "Himalayan rose",
+        "Indian rose",
+        "Rose attar",
+        "Tonka bean",
+        "Clove",
+        "Frangipani",
+        "Magnolia"
+    ],
+    "base_notes": [
+        "Borneo oud",
+        "Indian oud",
+        "Sri Lankan oud",
+        "Vietnamese oud",
+        "Civet",
+        "Deer musk",
+        "Vanilla",
+        "Tolu balm",
+        "Birch tar"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

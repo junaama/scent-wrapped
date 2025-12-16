@@ -1,0 +1,129 @@
+{
+    "name": "Havana",
+    "brand": "Florian Pontier",
+    "release_year": "2025",
+    "description": "A new perfume byFlorian Pontierfor women and men, released in2025. The scent is sweet-spicy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/33/3327cb_havana-florian-pontier_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Gourmand",
+        "Oriental",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Black pepper",
+        "Cinnamon",
+        "Tobacco"
+    ],
+    "heart_notes": [
+        "Labdanum",
+        "Nutmeg",
+        "Tonka bean absolute"
+    ],
+    "base_notes": [
+        "Papyrus",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.7",
+            "votes": "47 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "43 Ratings"
+        },
+        "sillage": {
+            "score": "8.4",
+            "votes": "43 Ratings"
+        },
+        "bottle": {
+            "score": "9.2",
+            "votes": "49 Ratings"
+        },
+        "pricing": {
+            "score": "8.1",
+            "votes": "32 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 9
+            },
+            {
+                "name": "Sweet",
+                "votes": 10
+            },
+            {
+                "name": "Oriental",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Gourmand",
+                "votes": 7
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 12
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Modern",
+                "votes": 8
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 11
+            },
+            {
+                "name": "Fall",
+                "votes": 11
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 10
+            },
+            {
+                "name": "Evening",
+                "votes": 10
+            }
+        ]
+    }
+}

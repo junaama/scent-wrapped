@@ -1,0 +1,28 @@
+{
+    "name": "Magic Amulet",
+    "brand": "Boshara",
+    "release_year": "2025",
+    "description": "A new perfume byBosharafor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ed/ed2637_magic-amulet-boshara_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Cardamom",
+        "Cinnamon",
+        "Orange blossom"
+    ],
+    "heart_notes": [
+        "Bourbon vanilla",
+        "Elemi resin"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Candied almond",
+        "Gaiac wood",
+        "Musk",
+        "Praliné",
+        "Tonka bean"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

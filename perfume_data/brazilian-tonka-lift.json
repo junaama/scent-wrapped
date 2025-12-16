@@ -1,0 +1,150 @@
+{
+    "name": "Brazilian Tonka Lift",
+    "brand": "Maison Marinelie",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Marineliefor women and men, released in2025. The scent is fruity-gourmand.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f8/f8b0be_brazilian-tonka-lift-maison-marinelie_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Gourmand",
+        "Sweet",
+        "Synthetic",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Lime",
+        "Ginger",
+        "Grapefruit"
+    ],
+    "heart_notes": [
+        "Almond cream",
+        "Cashmere wood",
+        "Cola",
+        "Rum"
+    ],
+    "base_notes": [
+        "Amber",
+        "Tonka bean",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "27 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "25 Ratings"
+        },
+        "sillage": {
+            "score": "6.4",
+            "votes": "25 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "25 Ratings"
+        },
+        "pricing": {
+            "score": "7.1",
+            "votes": "16 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 8
+            },
+            {
+                "name": "Fruity",
+                "votes": 9
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 9
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 8
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "1 & Only Gentleman",
+    "brand": "The Dua Brand",
+    "release_year": "2025",
+    "description": "A new perfume byThe Dua Brandfor men, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/47/47bc1a_1-only-gentleman-the-dua-brand-dua-fragrances_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Fennel",
+        "Pepper"
+    ],
+    "heart_notes": [
+        "Cardamom",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Patchouli",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.0",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

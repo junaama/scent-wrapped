@@ -1,0 +1,23 @@
+{
+    "name": "Peach Flake",
+    "brand": "Eau de Soie",
+    "release_year": "2025",
+    "description": "A new perfume byEau de Soiefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/12/12baa8_peach-flake-eau-de-soie_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Orange blossom",
+        "Peach"
+    ],
+    "heart_notes": [
+        "Almond",
+        "Bourbon vanilla"
+    ],
+    "base_notes": [
+        "Tonka bean",
+        "Vanilla",
+        "White musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Fabulous Whiskey",
+    "brand": "Routine Paris",
+    "release_year": "2025",
+    "description": "A new perfume byRoutine Parisfor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/02/02e698_fabulous-whiskey-routine-paris_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cognac",
+        "Orange",
+        "Whisky"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Oak",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Praliné",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

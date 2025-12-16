@@ -1,0 +1,115 @@
+{
+    "name": "L'Imperatrice Royale",
+    "brand": "Dolce & Gabbana",
+    "release_year": "2025",
+    "description": "A new and limited perfume byDolce & Gabbanafor women, released in2025. The scent is fresh-fruity.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/38/385f15_l-imperatrice-royale-dolce-gabbana_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Fruity",
+        "Woody",
+        "Green",
+        "Aquatic"
+    ],
+    "top_notes": [
+        "Cranberry"
+    ],
+    "heart_notes": [
+        "Azalea"
+    ],
+    "base_notes": [
+        "Virginia cedar"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "15 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "6.1",
+            "votes": "10 Ratings"
+        },
+        "bottle": {
+            "score": "6.6",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            }
+        ]
+    }
+}

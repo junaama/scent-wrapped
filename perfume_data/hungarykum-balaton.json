@@ -1,0 +1,137 @@
+{
+    "name": "Hungarykum Balaton",
+    "brand": "Hungarykum",
+    "release_year": "2025",
+    "description": "A new perfume byHungarykumfor women and men, released in2025. The scent is fresh-aquatic.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e2/e28dc9_hungarykum-balaton-hungarykum_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Aquatic",
+        "Citrus",
+        "Spicy",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Citrus notes"
+    ],
+    "heart_notes": [
+        "Marine notes",
+        "Salty notes"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Cola"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "8 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 5
+            },
+            {
+                "name": "Aquatic",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Cyan",
+    "brand": "Max Philip",
+    "release_year": "2025",
+    "description": "A new perfume byMax Philipfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f0/f0d48c_cyan-max-philip_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Ambergris",
+        "Jasmine"
+    ],
+    "heart_notes": [
+        "Orris root",
+        "Violet"
+    ],
+    "base_notes": [
+        "Elderflower",
+        "Musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

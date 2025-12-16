@@ -1,0 +1,35 @@
+{
+    "name": "Brazilian Perfume Tropical Juicy 408#",
+    "brand": "Sttes",
+    "release_year": "2025",
+    "description": "A new perfume bySttesfor women, released in2025. The scent is gourmand-citrusy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3d/3d326b_brazilian-perfume-tropical-juicy-408-sttes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Citrus",
+        "Woody",
+        "Fruity",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Coconut water",
+        "Guava nectar"
+    ],
+    "heart_notes": [
+        "Lemon",
+        "Orchid",
+        "Wild iris"
+    ],
+    "base_notes": [
+        "Cotton candy",
+        "Pink musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

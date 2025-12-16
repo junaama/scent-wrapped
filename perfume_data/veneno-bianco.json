@@ -1,0 +1,138 @@
+{
+    "name": "Veneno Bianco",
+    "brand": "French Avenue",
+    "release_year": "2025",
+    "description": "A new perfume byFrench Avenuefor women, released in2025. The scent is creamy-floral. It is being marketed byFragrance World Trading LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/fe/fe88ba_veneno-bianco-french-avenue_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Creamy",
+        "Floral",
+        "Sweet",
+        "Powdery",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Neroli",
+        "Milk"
+    ],
+    "heart_notes": [
+        "Ylang-ylang",
+        "Tiaré",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Gaiac wood",
+        "Vanilla",
+        "Coconut",
+        "Labdanum"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "37 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "34 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "31 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "37 Ratings"
+        },
+        "pricing": {
+            "score": "8.1",
+            "votes": "32 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 13
+            },
+            {
+                "name": "Powdery",
+                "votes": 7
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 16
+            },
+            {
+                "name": "Floral",
+                "votes": 13
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 16
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 14
+            },
+            {
+                "name": "Spring",
+                "votes": 13
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 13
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 15
+            },
+            {
+                "name": "Night Out",
+                "votes": 9
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

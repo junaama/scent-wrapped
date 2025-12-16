@@ -1,0 +1,48 @@
+{
+    "name": "Hayati",
+    "brand": "Amphora Exotica",
+    "release_year": "2025",
+    "description": "A new perfume byAmphora Exoticafor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/cc/cc8e8c_hayati-amphora-exotica_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cardamom",
+        "Orange",
+        "Orange blossom"
+    ],
+    "heart_notes": [
+        "Boronia",
+        "Bulgarian rose",
+        "Iranian rose",
+        "Jasminum grandiflorum",
+        "Kashmiri saffron"
+    ],
+    "base_notes": [
+        "Ambrette",
+        "Beeswax",
+        "Benzoin",
+        "Butter",
+        "Cambodian oud",
+        "Labdanum",
+        "Mysore sandalwood",
+        "Oak wood",
+        "Sumatran vanilla",
+        "White ambergris",
+        "White oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "5.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

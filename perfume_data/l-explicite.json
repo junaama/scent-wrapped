@@ -1,0 +1,136 @@
+{
+    "name": "L'Explicite",
+    "brand": "The House of Oud",
+    "release_year": "2025",
+    "description": "A new perfume byThe House of Oudfor women and men, released in2025. The scent is sweet-gourmand. It is being marketed byHIC Beauty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9c/9cee6f_l-explicite-the-house-of-oud_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Creamy",
+        "Fruity",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Ylang-ylang",
+        "Lemon zest"
+    ],
+    "heart_notes": [
+        "Banana bread",
+        "Spices",
+        "Peanut butter"
+    ],
+    "base_notes": [
+        "Musk",
+        "Amber",
+        "Violet"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.1",
+            "votes": "77 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "60 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "60 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "71 Ratings"
+        },
+        "pricing": {
+            "score": "5.8",
+            "votes": "47 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 6
+            },
+            {
+                "name": "Synthetic",
+                "votes": 6
+            },
+            {
+                "name": "Sweet",
+                "votes": 21
+            },
+            {
+                "name": "Gourmand",
+                "votes": 19
+            },
+            {
+                "name": "Fruity",
+                "votes": 13
+            },
+            {
+                "name": "Creamy",
+                "votes": 18
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 12
+            },
+            {
+                "name": "Feminine",
+                "votes": 20
+            },
+            {
+                "name": "Modern",
+                "votes": 17
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 19
+            },
+            {
+                "name": "Fall",
+                "votes": 20
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 17
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 17
+            },
+            {
+                "name": "Night Out",
+                "votes": 11
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 15
+            }
+        ]
+    }
+}

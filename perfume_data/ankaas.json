@@ -1,0 +1,38 @@
+{
+    "name": "Ankaas",
+    "brand": "Al Absar",
+    "release_year": "2025",
+    "description": "A new perfume byAl Absarfor women and men, released in2025. It is being marketed byABC Fragrances.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/cc/ccaa81_ankaas-al-absar_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Almond",
+        "Bergamot",
+        "Coffee",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Jasmine sambac",
+        "Orange blossom",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cashmere wood",
+        "Cinnamon",
+        "Cocoa",
+        "Musk",
+        "Patchouli",
+        "Praliné",
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

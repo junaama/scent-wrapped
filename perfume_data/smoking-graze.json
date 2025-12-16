@@ -1,0 +1,102 @@
+{
+    "name": "Smoking Graze",
+    "brand": "Toouch",
+    "release_year": "2025",
+    "description": "A new perfume byToouchfor women and men, released in2025. The scent is smoky-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b0/b08078_smoking-graze-toouch_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Sweet",
+        "Spicy",
+        "Leathery",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Cinnamon",
+        "Coffee"
+    ],
+    "heart_notes": [
+        "Almond",
+        "Cocoa",
+        "Honey",
+        "Turkish rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Praliné",
+        "Suede",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

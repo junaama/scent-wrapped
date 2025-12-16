@@ -1,0 +1,50 @@
+{
+    "name": "Aïsha Soul",
+    "brand": "Zhor",
+    "release_year": "2025",
+    "description": "A new perfume byZhorfor women and men, released in2025. The scent is leathery-floral.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f9/f94f0f_aisha-soul-zhor_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Leathery",
+        "Floral",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Pineapple",
+        "Plum",
+        "Saffron",
+        "Strawberry"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lily of the valley",
+        "Red rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Leather",
+        "Musk",
+        "Oud",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

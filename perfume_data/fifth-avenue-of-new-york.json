@@ -1,0 +1,26 @@
+{
+    "name": "Fifth Avenue of New York",
+    "brand": "Le Chameau",
+    "release_year": "2025",
+    "description": "A new perfume byLe Chameaufor women and men, released in2025. It is being marketed byEmper.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/86/86d0c2_fifth-avenue-of-new-york-le-chameau_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Coconut",
+        "Pineapple",
+        "Raspberry",
+        "Strawberry"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Cream",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Tonka bean"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

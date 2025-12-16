@@ -1,0 +1,145 @@
+{
+    "name": "Solomon",
+    "brand": "Eau de Moe",
+    "release_year": "2025",
+    "description": "A new perfume byEau de Moefor men, released in2025. The scent is citrusy-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9d/9da6f3_solomon-eau-de-moe_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Sweet",
+        "Gourmand",
+        "Fruity",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Green mandarin orange",
+        "Italian bergamot",
+        "Spanish lemon"
+    ],
+    "heart_notes": [
+        "Lemon cake",
+        "Orange blossom",
+        "Peach"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "33 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "27 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "25 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "29 Ratings"
+        },
+        "pricing": {
+            "score": "8.4",
+            "votes": "23 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 11
+            },
+            {
+                "name": "Sweet",
+                "votes": 11
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 9
+            },
+            {
+                "name": "Fruity",
+                "votes": 8
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 11
+            },
+            {
+                "name": "Spring",
+                "votes": 10
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Night Out",
+                "votes": 10
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "name": "White Iris",
+    "brand": "Borsalino",
+    "release_year": "2025",
+    "description": "A new perfume byBorsalinofor women, released in2025. It is being marketed byPerfume Street.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/fd/fde138_white-iris-borsalino_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Italian bergamot",
+        "Italian lemon",
+        "Italian iris concrete"
+    ],
+    "heart_notes": [
+        "Jasminum auriculatum absolute",
+        "Orange blossom",
+        "Almond"
+    ],
+    "base_notes": [
+        "Cedar",
+        "Patchouli",
+        "Praliné"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.0",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "6.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

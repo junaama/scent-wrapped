@@ -1,0 +1,139 @@
+{
+    "name": "Comedìa Delle Dune Di Sabbia",
+    "brand": "Comedìa",
+    "release_year": "2025",
+    "description": "A new perfume byComedìafor women and men, released in2025. The scent is resinous-spicy.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/3d/3ddcaa_comedia-delle-dune-di-sabbia-comedia_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Spicy",
+        "Woody",
+        "Oriental",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Spices",
+        "Mineral notes",
+        "Sand"
+    ],
+    "heart_notes": [
+        "Sea daffodil"
+    ],
+    "base_notes": [
+        "Resins",
+        "Woody notes",
+        "Wool"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "8 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "6.5",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 6
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Resinous",
+                "votes": 7
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

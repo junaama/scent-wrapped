@@ -1,0 +1,29 @@
+{
+    "name": "Aurum Elixir",
+    "brand": "Ajmal",
+    "release_year": "2025",
+    "description": "A new perfume byAjmalfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/83/83ecc6_aurum-elixir-ajmal_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Blackcurrant",
+        "Strawberry"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Cashmere wood",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Patchouli",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

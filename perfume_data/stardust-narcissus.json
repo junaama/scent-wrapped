@@ -1,0 +1,117 @@
+{
+    "name": "Stardust Narcissus",
+    "brand": "Sentire",
+    "release_year": "2025",
+    "description": "A new and limited perfume bySentirefor women and men, released in2025. The scent is green-powdery. The longevity is above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/83/83650a_stardust-narcissus-sentire_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Powdery",
+        "Leathery",
+        "Earthy",
+        "Chypre"
+    ],
+    "top_notes": [
+        "Galbanum",
+        "Hyacinth",
+        "Bergamot",
+        "Artemisia"
+    ],
+    "heart_notes": [
+        "Narcissus absolute",
+        "Jonquil absolute",
+        "Orris butter",
+        "Jasmine",
+        "Lily of the valley"
+    ],
+    "base_notes": [
+        "Leather",
+        "Oakmoss",
+        "Vetiver",
+        "Cedarwood",
+        "Patchouli"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Chypre",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

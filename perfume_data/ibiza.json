@@ -1,0 +1,25 @@
+{
+    "name": "Ibiza",
+    "brand": "OUAI",
+    "release_year": "2025",
+    "description": "A new perfume byOUAIfor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/00/00e378_ibiza-ouai_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cocoa",
+        "Sugar",
+        "Tonka bean"
+    ],
+    "heart_notes": [
+        "Cashmeran",
+        "Coffee",
+        "Labdanum"
+    ],
+    "base_notes": [
+        "Cinnamon",
+        "Rum",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

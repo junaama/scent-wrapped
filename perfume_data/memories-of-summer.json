@@ -1,0 +1,121 @@
+{
+    "name": "Memories of Summer",
+    "brand": "Emir",
+    "release_year": "2025",
+    "description": "A new perfume byEmirfor women and men, released in2025. The scent is sweet-fruity. It is being marketed byParis Corner Perfumes.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/06/068181_memories-of-summer-emir_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Synthetic",
+        "Citrus",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Grapefruit",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Ginger"
+    ],
+    "base_notes": [
+        "Musk",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "16 Ratings"
+        },
+        "durability": {
+            "score": "6.4",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "6.4",
+            "votes": "15 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "15 Ratings"
+        },
+        "pricing": {
+            "score": "7.9",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,139 @@
+{
+    "name": "100% Passion Man",
+    "brand": "Abercrombie & Fitch",
+    "release_year": "2025",
+    "description": "A new perfume byAbercrombie & Fitchfor men, released in2025. The scent is fresh-sweet. It is being marketed byInterparfums.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/04/0414ec_100-passion-man-abercrombie-fitch_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Sweet",
+        "Synthetic",
+        "Citrus",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Black pepper"
+    ],
+    "base_notes": [
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.3",
+            "votes": "20 Ratings"
+        },
+        "durability": {
+            "score": "6.2",
+            "votes": "19 Ratings"
+        },
+        "sillage": {
+            "score": "5.7",
+            "votes": "19 Ratings"
+        },
+        "bottle": {
+            "score": "5.9",
+            "votes": "22 Ratings"
+        },
+        "pricing": {
+            "score": "6.2",
+            "votes": "18 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 8
+            },
+            {
+                "name": "Aquatic",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 9
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Sport",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

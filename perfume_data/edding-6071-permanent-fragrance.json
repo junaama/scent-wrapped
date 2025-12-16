@@ -1,0 +1,159 @@
+{
+    "name": "Edding 6071 Permanent Fragrance",
+    "brand": "Edding",
+    "release_year": "2025",
+    "description": "A new and limited perfume byEddingfor women and men, released in2025. The scent is synthetic-green.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/30/3084eb_edding-6071-permanent-fragrance-edding_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Green",
+        "Spicy",
+        "Woody",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Pine needle",
+        "Patchouli",
+        "Vetiver"
+    ],
+    "heart_notes": [
+        "Black birch tar"
+    ],
+    "base_notes": [
+        "Amber",
+        "Benzoin",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "8 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "8.6",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

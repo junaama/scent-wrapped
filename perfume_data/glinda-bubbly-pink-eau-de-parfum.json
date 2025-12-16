@@ -1,0 +1,106 @@
+{
+    "name": "Glinda Bubbly Pink",
+    "brand": "Ariana Grande",
+    "release_year": "2025",
+    "description": "A new and limited perfume byAriana Grandefor women, released in2025. The scent is sweet-fruity. It is being marketed byLuxe Brands.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/6c/6c93e6_glinda-bubbly-pink-ariana-grande_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Powdery",
+        "Floral",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Nectarine",
+        "Pink apple",
+        "Pink pepper CO2"
+    ],
+    "heart_notes": [
+        "Peony",
+        "Tulip"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sugar",
+        "Blond woods",
+        "Cedarwood",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "12 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "5.9",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "6.6",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            }
+        ]
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "name": "Poison Ivy",
+    "brand": "Folkwinds",
+    "release_year": "2025",
+    "description": "A new and limited perfume byFolkwindsfor women and men, released in2025. The scent is green-earthy. Projection and longevity are above-average. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/46/469ae4_poison-ivy-folkwinds_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Earthy",
+        "Woody",
+        "Floral",
+        "Animal"
+    ],
+    "top_notes": [
+        "Brown ambergris",
+        "Linden blossom",
+        "Turkish rose",
+        "Candied apple",
+        "White ambergris"
+    ],
+    "heart_notes": [
+        "Lavender",
+        "Mint",
+        "Jasmine sambac",
+        "Blue lotus",
+        "Frangipani",
+        "Honeysuckle",
+        "Rosa rugosa"
+    ],
+    "base_notes": [
+        "Siberian deer musk",
+        "Thai oud",
+        "Champaca",
+        "Hay",
+        "Liatris spicata",
+        "Mysore sandalwood",
+        "Spices",
+        "Tobacco"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "21 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "18 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "18 Ratings"
+        },
+        "bottle": {
+            "score": "8.6",
+            "votes": "21 Ratings"
+        },
+        "pricing": {
+            "score": "6.6",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 5
+            },
+            {
+                "name": "Earthy",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            },
+            {
+                "name": "Animal",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

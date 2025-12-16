@@ -1,0 +1,37 @@
+{
+    "name": "Arte e Sartoria",
+    "brand": "Capuani",
+    "release_year": "2025",
+    "description": "A new perfume byCapuanifor men, released in2025. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/51/51b6ed_arte-e-sartoria-capuani_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Absinth",
+        "Cardamom",
+        "Juniper",
+        "Pink pepper CO2",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Iris",
+        "Suede",
+        "Walnut",
+        "White tea"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Chypre accord",
+        "Maté absolute",
+        "Oakmoss",
+        "Palo Santo",
+        "Sandalwood",
+        "White musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

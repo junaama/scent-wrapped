@@ -1,0 +1,120 @@
+{
+    "name": "Les Alpes",
+    "brand": "Nissaba",
+    "release_year": "2025",
+    "description": "A new perfume byNissabafor women and men, released in2025. The scent is green-woody.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/63/6398e1_les-alpes-nissaba_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Woody",
+        "Fresh",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Fennel",
+        "Pine needle"
+    ],
+    "heart_notes": [
+        "Mountain juniper",
+        "Cardamom",
+        "Cistus",
+        "Geranium"
+    ],
+    "base_notes": [
+        "Balsam fir",
+        "Hay",
+        "Precious woods"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

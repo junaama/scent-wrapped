@@ -1,0 +1,111 @@
+{
+    "name": "Dukes Carpet",
+    "brand": "ānti",
+    "release_year": "2025",
+    "description": "A new perfume byāntifor women and men, released in2025. The scent is fresh-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7b/7b4957_dukes-carpet-anti_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Spicy",
+        "Citrus",
+        "Woody"
+    ],
+    "top_notes": [
+        "Amalfi lemon",
+        "Cedar leaf",
+        "Ginger",
+        "Ceylonese cardamom"
+    ],
+    "heart_notes": [
+        "Gin",
+        "Red berries"
+    ],
+    "base_notes": [
+        "Aged wood",
+        "Cedarwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

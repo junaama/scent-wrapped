@@ -1,0 +1,73 @@
+{
+    "name": "Choco Musk Pistachio",
+    "brand": "Al Rehab",
+    "release_year": "2025",
+    "description": "A new perfume byAl Rehabfor women and men, released in2025. The scent is gourmand-creamy. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b6/b6e390_choco-musk-pistachio-concentrated-perfume-al-rehab_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Musk",
+        "Pistachio"
+    ],
+    "heart_notes": [
+        "Cocoa"
+    ],
+    "base_notes": [
+        "Amber",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

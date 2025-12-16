@@ -1,0 +1,28 @@
+{
+    "name": "The Duke",
+    "brand": "The Fragrance",
+    "release_year": "2025",
+    "description": "A new perfume byThe Fragrancefor women and men, released in2025. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/64/640d46_the-duke-the-fragrance_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Jasmine",
+        "Lily of the valley"
+    ],
+    "heart_notes": [
+        "Amber"
+    ],
+    "base_notes": [
+        "Mossy notes",
+        "Oud",
+        "Sandalwood",
+        "Suede"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

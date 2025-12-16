@@ -1,0 +1,126 @@
+{
+    "name": "Tommy Summer Edition",
+    "brand": "Tommy Hilfiger",
+    "release_year": "2025",
+    "description": "A new perfume byTommy Hilfigerfor men, released in2025. The scent is citrusy-green. It is being marketed byGBB (Give Back Beauty) / Brands Beyond Beauty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8f/8fb247_tommy-summer-edition-tommy-hilfiger_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Green",
+        "Fresh",
+        "Spicy",
+        "Aquatic"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Rosemary",
+        "Solar note"
+    ],
+    "base_notes": [
+        "Musk",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "24 Ratings"
+        },
+        "durability": {
+            "score": "6.3",
+            "votes": "23 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "23 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "29 Ratings"
+        },
+        "pricing": {
+            "score": "8.0",
+            "votes": "24 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 6
+            },
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 6
+            },
+            {
+                "name": "Fresh",
+                "votes": 6
+            },
+            {
+                "name": "Aquatic",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Sport",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

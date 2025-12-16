@@ -1,0 +1,125 @@
+{
+    "name": "Irrésistible Givenchy",
+    "brand": "Givenchy",
+    "release_year": "2025",
+    "description": "A new perfume byGivenchyfor women, released in2025. The scent is powdery-floral. It is being marketed byLVMH.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c2/c24b2c-irresistible-givenchy-eau-de-parfum-nude-velvet-givenchy_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Powdery",
+        "Floral",
+        "Sweet",
+        "Creamy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Peruvian ambrette seed absolute",
+        "Almond",
+        "Tunisian neroli"
+    ],
+    "heart_notes": [
+        "French iris concrete",
+        "Turkish damask rose",
+        "Turkish rose water"
+    ],
+    "base_notes": [
+        "Musk",
+        "Rice powder",
+        "Virginia cedar"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "83 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "65 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "68 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "68 Ratings"
+        },
+        "pricing": {
+            "score": "6.6",
+            "votes": "44 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 29
+            },
+            {
+                "name": "Powdery",
+                "votes": 36
+            },
+            {
+                "name": "Creamy",
+                "votes": 22
+            },
+            {
+                "name": "Floral",
+                "votes": 34
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 36
+            },
+            {
+                "name": "Classic",
+                "votes": 17
+            },
+            {
+                "name": "Modern",
+                "votes": 16
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 23
+            },
+            {
+                "name": "Fall",
+                "votes": 28
+            },
+            {
+                "name": "Summer",
+                "votes": 14
+            },
+            {
+                "name": "Spring",
+                "votes": 33
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 26
+            },
+            {
+                "name": "Leisure",
+                "votes": 29
+            },
+            {
+                "name": "Night Out",
+                "votes": 17
+            },
+            {
+                "name": "Business",
+                "votes": 24
+            },
+            {
+                "name": "Evening",
+                "votes": 24
+            }
+        ]
+    }
+}

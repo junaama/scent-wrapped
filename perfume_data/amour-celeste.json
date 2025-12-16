@@ -1,0 +1,149 @@
+{
+    "name": "Amour Céleste",
+    "brand": "Guerlain",
+    "release_year": "2025",
+    "description": "A new and limited perfume byGuerlainfor women and men, released in2025. The scent is floral-fruity. It is being marketed byLVMH.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/52/52f500_amour-celeste-guerlain_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fruity",
+        "Sweet",
+        "Fresh",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Orange",
+        "Peach blossom"
+    ],
+    "heart_notes": [
+        "Jasmine sambac",
+        "Osmanthus",
+        "Rose"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Musk",
+        "Smoked tea"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "29 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "25 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "24 Ratings"
+        },
+        "bottle": {
+            "score": "9.0",
+            "votes": "43 Ratings"
+        },
+        "pricing": {
+            "score": "5.1",
+            "votes": "16 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Fruity",
+                "votes": 10
+            },
+            {
+                "name": "Fresh",
+                "votes": 6
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 10
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 8
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 9
+            },
+            {
+                "name": "Spring",
+                "votes": 10
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 10
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

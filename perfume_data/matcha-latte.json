@@ -1,0 +1,29 @@
+{
+    "name": "Matcha Latte",
+    "brand": "Atralia",
+    "release_year": "2025",
+    "description": "A new perfume byAtraliafor women and men, released in2025. The scent is gourmand-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a4/a413e6_matcha-latte-atralia_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Aniseed flower",
+        "Cotton milk",
+        "Vanilla blossom"
+    ],
+    "heart_notes": [
+        "Liquorice",
+        "Sugar powder",
+        "Toffee"
+    ],
+    "base_notes": [
+        "Bourbon vanilla",
+        "Musk",
+        "Tonka bean"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

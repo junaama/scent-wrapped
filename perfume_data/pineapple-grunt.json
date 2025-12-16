@@ -1,0 +1,35 @@
+{
+    "name": "Pineapple Grunt",
+    "brand": "Lush",
+    "release_year": "2025",
+    "description": "A new and limited perfume byLushfor women and men, released in2025. The scent is sweet-fruity. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/88/88ba7d_pineapple-grunt-lush-cosmetics-to-go_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Earthy",
+        "Resinous"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "4.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "5.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

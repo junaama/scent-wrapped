@@ -1,0 +1,141 @@
+{
+    "name": "Rasāyana",
+    "brand": "Amphora Exotica",
+    "release_year": "2025",
+    "description": "A new perfume byAmphora Exoticafor women and men, released in2025. The scent is woody-floral.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/35/35389a-rasayana-amphora-exotica_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Floral",
+        "Spicy",
+        "Citrus",
+        "Animal"
+    ],
+    "top_notes": [
+        "Honey",
+        "Lemon",
+        "Mimosa",
+        "Orange",
+        "Pandanus"
+    ],
+    "heart_notes": [
+        "Bulgarian rose",
+        "Cardamom",
+        "Davana",
+        "Jasminum grandiflorum CO2",
+        "Kashmiri saffron",
+        "White frangipani"
+    ],
+    "base_notes": [
+        "Ambrette",
+        "Benzoin",
+        "Bushman's candle",
+        "Butter",
+        "Cambodian oud",
+        "Hawaiian vanilla",
+        "Indian oud",
+        "Mysore sandalwood",
+        "Turmeric",
+        "White ambergris"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "15 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "10 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "8.7",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            },
+            {
+                "name": "Animal",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            }
+        ]
+    }
+}

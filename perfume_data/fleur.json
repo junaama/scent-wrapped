@@ -1,0 +1,37 @@
+{
+    "name": "Fleur",
+    "brand": "Arina Franzén",
+    "release_year": "2025",
+    "description": "A new perfume byArina Franzénfor women and men, released in2025. The scent is woody-floral.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/2d/2df8e7_fleur-arina-franzen_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Floral"
+    ],
+    "top_notes": [
+        "Elemi resin",
+        "Lavender",
+        "Red grapefruit"
+    ],
+    "heart_notes": [
+        "Carnation",
+        "Geranium",
+        "Jasmine sambac",
+        "Orange blossom",
+        "Purple magnolia",
+        "Rosewood",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Copaiba balsam",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

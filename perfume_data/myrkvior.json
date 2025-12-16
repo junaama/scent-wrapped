@@ -1,0 +1,108 @@
+{
+    "name": "Myrkvior",
+    "brand": "Love Creates Death",
+    "release_year": "2025",
+    "description": "A new perfume byLove Creates Deathfor women and men, released in2025. The scent is green-spicy. Projection and longevity are above-average. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3b/3b3bcc_myrkvior-love-creates-death_1200.jpg?width=240&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Spicy",
+        "Woody",
+        "Fougère",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Cedarwood",
+        "Coumarin",
+        "Lavender",
+        "Oakmoss",
+        "Pine",
+        "Red pine",
+        "Vanilla"
+    ],
+    "heart_notes": [
+        "Amyris",
+        "Benzoin",
+        "Floral notes",
+        "Patchouli",
+        "Propolis",
+        "Styrax"
+    ],
+    "base_notes": [
+        "Birch tar",
+        "Black pepper",
+        "Castoreum",
+        "Forest accord",
+        "Frankincense",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.4",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "8.5",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fougère",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

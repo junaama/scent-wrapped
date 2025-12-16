@@ -1,0 +1,32 @@
+{
+    "name": "Pink Blossom",
+    "brand": "Dossier",
+    "release_year": "2025",
+    "description": "A new perfume byDossierfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6a/6adc68_pink-blossom-dossier_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blackcurrant",
+        "Mandarin orange",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Peony",
+        "Plum",
+        "Rose",
+        "Violet"
+    ],
+    "base_notes": [
+        "Musk",
+        "Patchouli",
+        "Raspberry",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

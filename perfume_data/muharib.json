@@ -1,0 +1,141 @@
+{
+    "name": "Muharib",
+    "brand": "Maison Asrar",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Asrarfor women and men, released in2025. The scent is sweet-creamy. Projection and longevity are above-average. It is being marketed byGulf Orchid Fragrances.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ff/ff50c4_muharib-maison-asrar_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Creamy",
+        "Citrus",
+        "Spicy",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Lemon",
+        "Provençal lavender"
+    ],
+    "heart_notes": [
+        "Cashmere",
+        "Cinnamon",
+        "Honey"
+    ],
+    "base_notes": [
+        "Tobacco",
+        "Jasmine",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "23 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "22 Ratings"
+        },
+        "sillage": {
+            "score": "8.6",
+            "votes": "21 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "20 Ratings"
+        },
+        "pricing": {
+            "score": "9.2",
+            "votes": "18 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

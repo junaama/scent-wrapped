@@ -1,0 +1,27 @@
+{
+    "name": "Copycat",
+    "brand": "Zomething Strange",
+    "release_year": "2025",
+    "description": "A new perfume byZomething Strangefor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/c0/c09e59_copycat-extrait-de-parfum-zomething-strange_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Mandarin orange",
+        "Red berries",
+        "Sugar"
+    ],
+    "heart_notes": [
+        "Cocoa",
+        "Rose",
+        "Spices",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Tonka bean",
+        "Woods"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

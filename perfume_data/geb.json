@@ -1,0 +1,25 @@
+{
+    "name": "Geb",
+    "brand": "Aswan",
+    "release_year": "2025",
+    "description": "A new perfume byAswanfor men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3c/3c250e_geb-aswan_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cedarwood",
+        "Frankincense",
+        "Gurjum balsam"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Cistus",
+        "Leather"
+    ],
+    "base_notes": [
+        "Jasmine",
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

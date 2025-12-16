@@ -1,0 +1,107 @@
+{
+    "name": "Cassandra Rose Vanille",
+    "brand": "Jeanne Arthes",
+    "release_year": "2025",
+    "description": "A new perfume byJeanne Arthesfor women, released in2025. The scent is synthetic-citrusy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9b/9b5b8b_cassandra-rose-vanille-jeanne-arthes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Citrus",
+        "Spicy",
+        "Floral",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Gourmand notes",
+        "Jasmine",
+        "Rose"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

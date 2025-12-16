@@ -1,0 +1,135 @@
+{
+    "name": "The Woods",
+    "brand": "Brooklyn Soap Company",
+    "release_year": "2025",
+    "description": "A new perfume byBrooklyn Soap Companyfor men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/71/711f19_the-woods-extrait-de-parfum-brooklyn-soap-company_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Green",
+        "Citrus",
+        "Spicy",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Mandarin orange",
+        "Black pepper",
+        "Ginger",
+        "Bergamot",
+        "Thyme"
+    ],
+    "heart_notes": [
+        "Nutmeg",
+        "Iris pallida",
+        "Red pepper",
+        "Absinth"
+    ],
+    "base_notes": [
+        "Cashmere wood",
+        "Musk",
+        "Myrrh",
+        "Frankincense",
+        "Siam benzoin",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "5.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "5.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

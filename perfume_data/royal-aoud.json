@@ -1,0 +1,33 @@
+{
+    "name": "Royal Aoud",
+    "brand": "Montagne Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byMontagne Parfumsfor women and men, released in2025. Projection and longevity are above-average. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/ae/aea4ac_royal-aoud-montagne-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Galbanum",
+        "Lime",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Cardamom",
+        "Cedarwood",
+        "Clove"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Frankincense",
+        "Gaiac wood",
+        "Musk",
+        "Oud"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

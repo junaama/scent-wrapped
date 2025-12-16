@@ -1,0 +1,133 @@
+{
+    "name": "Pacific Aura",
+    "brand": "Rayhaan",
+    "release_year": "2025",
+    "description": "A new perfume byRayhaanfor men, released in2025. The scent is fresh-citrusy. It was last marketed byA.R.K. Perfumes & Cosmetics Trading.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e3/e3592d_pacific-aura-rayhaan_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Citrus",
+        "Fruity",
+        "Sweet",
+        "Aquatic"
+    ],
+    "top_notes": [
+        "Mint",
+        "Blackcurrant",
+        "Citron",
+        "Coriander",
+        "Lemon",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Apricot",
+        "Basil",
+        "Carrot seed",
+        "May rose"
+    ],
+    "base_notes": [
+        "Ambrette",
+        "Date",
+        "Fig"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "38 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "40 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "39 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "39 Ratings"
+        },
+        "pricing": {
+            "score": "8.8",
+            "votes": "37 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 9
+            },
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Fruity",
+                "votes": 9
+            },
+            {
+                "name": "Fresh",
+                "votes": 10
+            },
+            {
+                "name": "Aquatic",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 10
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 11
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Sport",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            }
+        ]
+    }
+}

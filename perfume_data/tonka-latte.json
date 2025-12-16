@@ -1,0 +1,137 @@
+{
+    "name": "Tonka Latte",
+    "brand": "Dusita",
+    "release_year": "2025",
+    "description": "A new perfume byDusitafor women and men, released in2025. The scent is sweet-gourmand.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b7/b7e1c7_tonka-latte-dusita_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Creamy",
+        "Synthetic",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Caramel",
+        "Milk",
+        "White chocolate"
+    ],
+    "heart_notes": [
+        "Honey",
+        "Almond",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Musk",
+        "Benzoin"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "73 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "56 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "55 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "57 Ratings"
+        },
+        "pricing": {
+            "score": "6.4",
+            "votes": "42 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 8
+            },
+            {
+                "name": "Synthetic",
+                "votes": 10
+            },
+            {
+                "name": "Sweet",
+                "votes": 30
+            },
+            {
+                "name": "Powdery",
+                "votes": 8
+            },
+            {
+                "name": "Gourmand",
+                "votes": 30
+            },
+            {
+                "name": "Creamy",
+                "votes": 23
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 26
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 14
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 26
+            },
+            {
+                "name": "Fall",
+                "votes": 27
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 10
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 16
+            },
+            {
+                "name": "Leisure",
+                "votes": 24
+            },
+            {
+                "name": "Night Out",
+                "votes": 15
+            },
+            {
+                "name": "Business",
+                "votes": 10
+            },
+            {
+                "name": "Evening",
+                "votes": 17
+            }
+        ]
+    }
+}

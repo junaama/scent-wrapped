@@ -1,0 +1,133 @@
+{
+    "name": "Valor",
+    "brand": "Riggs",
+    "release_year": "2025",
+    "description": "A new perfume byRiggsfor men, released in2025. The scent is smoky-sweet. It is being marketed byConfetti Group.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ae/ae8de0_valor-riggs_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Sweet",
+        "Spicy",
+        "Resinous",
+        "Woody"
+    ],
+    "top_notes": [
+        "Clove",
+        "Roasted chestnut",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Charred wood",
+        "Benzoin",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Cashmeran",
+        "Gaiac wood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.3",
+            "votes": "20 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "14 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "20 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "16 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Smoky",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

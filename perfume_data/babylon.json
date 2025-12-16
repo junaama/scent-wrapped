@@ -1,0 +1,23 @@
+{
+    "name": "Babylon",
+    "brand": "D'Qar",
+    "release_year": "2025",
+    "description": "A new perfume byD'Qarfor women and men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/480.png",
+    "main_accords": [],
+    "top_notes": [
+        "Sicilian orange",
+        "Calabrian bergamot",
+        "Sicilian lemon"
+    ],
+    "heart_notes": [
+        "Fruity notes"
+    ],
+    "base_notes": [
+        "Bourbon vanilla",
+        "Amber",
+        "White musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

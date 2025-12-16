@@ -1,0 +1,125 @@
+{
+    "name": "Libre L'Eau Nue",
+    "brand": "Yves Saint Laurent",
+    "release_year": "2025",
+    "description": "A new perfume byYves Saint Laurentfor women, released in2025. The scent is floral-sweet. It is being marketed byL'Oréal.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/35/35b8bf_libre-l-eau-nue-yves-saint-laurent_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Fresh",
+        "Citrus",
+        "Creamy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "116 Ratings"
+        },
+        "durability": {
+            "score": "6.4",
+            "votes": "92 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "93 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "97 Ratings"
+        },
+        "pricing": {
+            "score": "6.0",
+            "votes": "65 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 24
+            },
+            {
+                "name": "Sweet",
+                "votes": 24
+            },
+            {
+                "name": "Fresh",
+                "votes": 24
+            },
+            {
+                "name": "Creamy",
+                "votes": 20
+            },
+            {
+                "name": "Floral",
+                "votes": 40
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 38
+            },
+            {
+                "name": "Classic",
+                "votes": 9
+            },
+            {
+                "name": "Modern",
+                "votes": 21
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 10
+            },
+            {
+                "name": "Fall",
+                "votes": 17
+            },
+            {
+                "name": "Summer",
+                "votes": 36
+            },
+            {
+                "name": "Spring",
+                "votes": 35
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 34
+            },
+            {
+                "name": "Sport",
+                "votes": 9
+            },
+            {
+                "name": "Leisure",
+                "votes": 34
+            },
+            {
+                "name": "Night Out",
+                "votes": 13
+            },
+            {
+                "name": "Business",
+                "votes": 28
+            },
+            {
+                "name": "Evening",
+                "votes": 11
+            }
+        ]
+    }
+}

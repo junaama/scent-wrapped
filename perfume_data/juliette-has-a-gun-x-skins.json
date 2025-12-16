@@ -1,0 +1,144 @@
+{
+    "name": "Juliette Has A Gun x Skins",
+    "brand": "Juliette Has A Gun",
+    "release_year": "2025",
+    "description": "A new and limited perfume byJuliette Has A Gunfor women and men, released in2025. The scent is synthetic-woody.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/70/702ebb_juliette-has-a-gun-x-skins-juliette-has-a-gun_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Woody",
+        "Creamy",
+        "Sweet",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Ginger",
+        "Lychee"
+    ],
+    "heart_notes": [
+        "Akigalawood®",
+        "Georgywood®"
+    ],
+    "base_notes": [
+        "Musk",
+        "Roasted tonka bean",
+        "Papyrus",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "41 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "37 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "35 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "33 Ratings"
+        },
+        "pricing": {
+            "score": "7.1",
+            "votes": "23 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Synthetic",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 7
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 9
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "name": "Creme of Clouds",
+    "brand": "Fragrance World",
+    "release_year": "2025",
+    "description": "A new perfume byFragrance Worldfor women, released in2025. The scent is sweet-gourmand. It is being marketed byFragrance World Trading LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6e/6e09e0_creme-of-clouds-fragrance-world_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Creamy",
+        "Synthetic",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Vanilla",
+        "Chocolate"
+    ],
+    "heart_notes": [
+        "Creamy notes",
+        "Milk"
+    ],
+    "base_notes": [
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "63 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "58 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "58 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "57 Ratings"
+        },
+        "pricing": {
+            "score": "8.4",
+            "votes": "51 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 20
+            },
+            {
+                "name": "Gourmand",
+                "votes": 19
+            },
+            {
+                "name": "Creamy",
+                "votes": 12
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 19
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 18
+            },
+            {
+                "name": "Fall",
+                "votes": 16
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Leisure",
+                "votes": 15
+            },
+            {
+                "name": "Night Out",
+                "votes": 13
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 15
+            }
+        ]
+    }
+}

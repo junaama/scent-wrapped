@@ -1,0 +1,117 @@
+{
+    "name": "Eartha",
+    "brand": "Harlem Perfume Co.",
+    "release_year": "2025",
+    "description": "A new perfume byHarlem Perfume Co.for women and men, released in2025. The scent is chypreartig-floral. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ce/cef40d_eartha-harlem-perfume-co_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Chypre",
+        "Floral",
+        "Woody",
+        "Spicy",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Lemon zest",
+        "Liquidambar",
+        "Rose",
+        "Sichuan pepper",
+        "Smoke"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "French jasmine",
+        "Labdanum",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Gaiac wood",
+        "Moss",
+        "Oud",
+        "Rosewood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Chypre",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

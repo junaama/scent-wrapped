@@ -1,0 +1,151 @@
+{
+    "name": "Black Moonlight",
+    "brand": "Xerjoff",
+    "release_year": "2025",
+    "description": "A new perfume byXerjofffor women and men, released in2025. The scent is spicy-sweet. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/11/11aecc_black-moonlight-xerjoff_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Sweet",
+        "Resinous",
+        "Oriental",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Saffron",
+        "Bergamot",
+        "Cardamom",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Hazelnut",
+        "Lavender",
+        "Myrrh",
+        "Jasmine sambac absolute",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Tolu balm",
+        "Tonka bean",
+        "Benzoin",
+        "Labdanum",
+        "Patchouli",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "279 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "251 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "248 Ratings"
+        },
+        "bottle": {
+            "score": "9.1",
+            "votes": "259 Ratings"
+        },
+        "pricing": {
+            "score": "6.3",
+            "votes": "219 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 52
+            },
+            {
+                "name": "Sweet",
+                "votes": 47
+            },
+            {
+                "name": "Smoky",
+                "votes": 29
+            },
+            {
+                "name": "Oriental",
+                "votes": 38
+            },
+            {
+                "name": "Woody",
+                "votes": 19
+            },
+            {
+                "name": "Resinous",
+                "votes": 41
+            },
+            {
+                "name": "Creamy",
+                "votes": 15
+            },
+            {
+                "name": "Floral",
+                "votes": 13
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 49
+            },
+            {
+                "name": "Feminine",
+                "votes": 27
+            },
+            {
+                "name": "Classic",
+                "votes": 13
+            },
+            {
+                "name": "Modern",
+                "votes": 37
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 52
+            },
+            {
+                "name": "Fall",
+                "votes": 58
+            },
+            {
+                "name": "Summer",
+                "votes": 10
+            },
+            {
+                "name": "Spring",
+                "votes": 31
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 12
+            },
+            {
+                "name": "Leisure",
+                "votes": 28
+            },
+            {
+                "name": "Night Out",
+                "votes": 54
+            },
+            {
+                "name": "Business",
+                "votes": 14
+            },
+            {
+                "name": "Evening",
+                "votes": 55
+            }
+        ]
+    }
+}

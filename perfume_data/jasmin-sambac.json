@@ -1,0 +1,31 @@
+{
+    "name": "Jasmin Sambac",
+    "brand": "Shaman Perfumery",
+    "release_year": "2025",
+    "description": "A new perfume byShaman Perfumeryfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/bc/bc3a44_jasmin-sambac-shaman-perfumery_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Green notes",
+        "Mandarin orange",
+        "Neroli"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Jasmine sambac absolute",
+        "Tuberose absolute"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Animalic notes",
+        "Musk",
+        "Rose"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,144 @@
+{
+    "name": "Musk Miel",
+    "brand": "Amoros",
+    "release_year": "2025",
+    "description": "A new perfume byAmorosfor women and men, released in2025. The scent is creamy-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6d/6d50d0_musk-miel-amoros_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Creamy",
+        "Sweet",
+        "Fruity",
+        "Woody",
+        "Green"
+    ],
+    "top_notes": [
+        "Coconut",
+        "Egyptian geranium",
+        "Ozone"
+    ],
+    "heart_notes": [
+        "Fig",
+        "Honey",
+        "Musk",
+        "Violet"
+    ],
+    "base_notes": [
+        "Haitian vetiver",
+        "Mysore sandalwood",
+        "Nagarmotha",
+        "Oakmoss",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "11 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "10 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "10 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

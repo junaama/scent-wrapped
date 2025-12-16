@@ -1,0 +1,122 @@
+{
+    "name": "Iris Exquis",
+    "brand": "Brioni",
+    "release_year": "2025",
+    "description": "A new perfume byBrionifor women and men, released in2025. The scent is floral-fresh. It is being marketed byLalique Group / Art & Fragrance. The perfume is vegan according to the manufacturer.PronunciationCompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/ed/ed6b65_iris-exquis-brioni_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Leathery",
+        "Aquatic",
+        "Green"
+    ],
+    "top_notes": [
+        "Black pepper",
+        "Vervain",
+        "Violet leaf"
+    ],
+    "heart_notes": [
+        "Carrot seed",
+        "Lavender",
+        "Orris root"
+    ],
+    "base_notes": [
+        "Black tea",
+        "Maté",
+        "Patchouli",
+        "Suede"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.9",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

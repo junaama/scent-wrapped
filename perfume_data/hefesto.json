@@ -1,0 +1,36 @@
+{
+    "name": "Hefesto",
+    "brand": "Pastor Fragrances",
+    "release_year": "2025",
+    "description": "A new perfume byPastor Fragrancesfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6e/6e5892_hefesto-pastor-fragrances_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blood orange",
+        "Cardamom",
+        "Ginger CO2",
+        "Mango"
+    ],
+    "heart_notes": [
+        "Bark",
+        "Cashmere",
+        "Cinnamon leaf",
+        "Jasmine sambac",
+        "Peruvian pink pepper"
+    ],
+    "base_notes": [
+        "Amber",
+        "Benzoin",
+        "Fruits",
+        "Musk",
+        "Tonka bean",
+        "Virginia cedar"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

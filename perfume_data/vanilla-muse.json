@@ -1,0 +1,137 @@
+{
+    "name": "Vanilla Muse",
+    "brand": "Bruno Banani",
+    "release_year": "2025",
+    "description": "A new perfume byBruno Bananifor women, released in2025. The scent is sweet-floral. It is being marketed byCoty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f7/f7988a_vanilla-muse-bruno-banani_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Gourmand",
+        "Creamy",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Clean notes",
+        "White heliotrope",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Vanilla",
+        "Peach",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "White musk",
+        "Crème brûlée",
+        "Benzoin"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.6",
+            "votes": "36 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "29 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "30 Ratings"
+        },
+        "bottle": {
+            "score": "6.4",
+            "votes": "31 Ratings"
+        },
+        "pricing": {
+            "score": "8.2",
+            "votes": "28 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 9
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 7
+            },
+            {
+                "name": "Fruity",
+                "votes": 7
+            },
+            {
+                "name": "Creamy",
+                "votes": 7
+            },
+            {
+                "name": "Floral",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 9
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

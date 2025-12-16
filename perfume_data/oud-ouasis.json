@@ -1,0 +1,54 @@
+{
+    "name": "Oud Ouasis",
+    "brand": "Amoros",
+    "release_year": "2025",
+    "description": "A new perfume byAmorosfor women and men, released in2025. The scent is fruity-woody. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/19/194a2b_oud-ouasis-amoros_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Woody",
+        "Leathery",
+        "Oriental",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Brazilian pink pepper",
+        "Green apple",
+        "Guatemala cardamom",
+        "Sicilian bergamot"
+    ],
+    "heart_notes": [
+        "African frankincense",
+        "Egyptian geranium",
+        "Jasmine",
+        "Plum",
+        "Raspberry"
+    ],
+    "base_notes": [
+        "Gaiac wood",
+        "Haitian vetiver",
+        "Indonesian patchouli",
+        "Leather",
+        "Spanish labdanum absolute",
+        "Thai oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

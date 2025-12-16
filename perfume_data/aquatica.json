@@ -1,0 +1,125 @@
+{
+    "name": "Aquatica",
+    "brand": "Rayhaan",
+    "release_year": "2025",
+    "description": "A new perfume byRayhaanfor women and men, released in2025. The scent is citrusy-sweet. It is being marketed byA.R.K. Perfumes & Cosmetics Trading.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4a/4a43cb_aquatica-rayhaan_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Sweet",
+        "Fresh",
+        "Fruity",
+        "Aquatic"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "9.0",
+            "votes": "40 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "39 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "39 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "41 Ratings"
+        },
+        "pricing": {
+            "score": "9.5",
+            "votes": "37 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 12
+            },
+            {
+                "name": "Sweet",
+                "votes": 10
+            },
+            {
+                "name": "Fruity",
+                "votes": 8
+            },
+            {
+                "name": "Fresh",
+                "votes": 8
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            },
+            {
+                "name": "Aquatic",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 10
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 12
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 10
+            },
+            {
+                "name": "Sport",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            }
+        ]
+    }
+}

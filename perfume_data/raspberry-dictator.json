@@ -1,0 +1,144 @@
+{
+    "name": "Raspberry Dictator",
+    "brand": "Marc Gebauer",
+    "release_year": "2025",
+    "description": "A new perfume byMarc Gebauerfor women and men, released in2025. The scent is fruity-leathery. Projection and longevity are above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/0c/0c66ff_raspberry-dictator-marc-gebauer_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Leathery",
+        "Synthetic",
+        "Smoky",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Raspberry",
+        "Balsamic notes",
+        "Sicilian mandarin orange",
+        "Ginger"
+    ],
+    "heart_notes": [
+        "Iris",
+        "Black pepper",
+        "Frankincense"
+    ],
+    "base_notes": [
+        "Musk",
+        "Leather",
+        "Styrax",
+        "Ambergris",
+        "Haitian vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.6",
+            "votes": "302 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "278 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "277 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "281 Ratings"
+        },
+        "pricing": {
+            "score": "5.9",
+            "votes": "254 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 12
+            },
+            {
+                "name": "Synthetic",
+                "votes": 21
+            },
+            {
+                "name": "Sweet",
+                "votes": 16
+            },
+            {
+                "name": "Smoky",
+                "votes": 20
+            },
+            {
+                "name": "Oriental",
+                "votes": 10
+            },
+            {
+                "name": "Leathery",
+                "votes": 34
+            },
+            {
+                "name": "Fruity",
+                "votes": 35
+            },
+            {
+                "name": "Floral",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 32
+            },
+            {
+                "name": "Feminine",
+                "votes": 11
+            },
+            {
+                "name": "Classic",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 17
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 35
+            },
+            {
+                "name": "Fall",
+                "votes": 36
+            },
+            {
+                "name": "Spring",
+                "votes": 16
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Leisure",
+                "votes": 21
+            },
+            {
+                "name": "Night Out",
+                "votes": 25
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 32
+            }
+        ]
+    }
+}

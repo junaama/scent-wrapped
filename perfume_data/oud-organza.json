@@ -1,0 +1,128 @@
+{
+    "name": "Oud Organza",
+    "brand": "Mango",
+    "release_year": "2025",
+    "description": "A new perfume byMangofor women, released in2025. The scent is sweet-oriental. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/78/780f2c_oud-organza-mango_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Oriental",
+        "Resinous",
+        "Spicy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Cypriol",
+        "Geranium",
+        "Oud",
+        "Rose"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Coumarin",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "8.6",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "8.1",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "12 Ratings"
+        },
+        "pricing": {
+            "score": "9.7",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

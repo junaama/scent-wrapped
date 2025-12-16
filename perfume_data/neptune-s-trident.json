@@ -1,0 +1,142 @@
+{
+    "name": "Neptune's Trident",
+    "brand": "Argos",
+    "release_year": "2025",
+    "description": "A new perfume byArgosfor women and men, released in2025. The scent is citrusy-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4f/4f883c_neptune-s-trident-argos_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Aquatic",
+        "Green",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Mandarin orange",
+        "Cardamom",
+        "Lavender"
+    ],
+    "heart_notes": [
+        "Green tea",
+        "Geranium",
+        "Jasmine sambac",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Vetiver",
+        "Ambergris",
+        "Iris",
+        "Labdanum",
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "163 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "149 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "151 Ratings"
+        },
+        "bottle": {
+            "score": "9.4",
+            "votes": "149 Ratings"
+        },
+        "pricing": {
+            "score": "5.9",
+            "votes": "132 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 40
+            },
+            {
+                "name": "Spicy",
+                "votes": 13
+            },
+            {
+                "name": "Green",
+                "votes": 25
+            },
+            {
+                "name": "Fresh",
+                "votes": 38
+            },
+            {
+                "name": "Floral",
+                "votes": 11
+            },
+            {
+                "name": "Aquatic",
+                "votes": 27
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 40
+            },
+            {
+                "name": "Feminine",
+                "votes": 17
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 31
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 15
+            },
+            {
+                "name": "Summer",
+                "votes": 43
+            },
+            {
+                "name": "Spring",
+                "votes": 36
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 36
+            },
+            {
+                "name": "Sport",
+                "votes": 26
+            },
+            {
+                "name": "Leisure",
+                "votes": 37
+            },
+            {
+                "name": "Night Out",
+                "votes": 16
+            },
+            {
+                "name": "Business",
+                "votes": 26
+            },
+            {
+                "name": "Evening",
+                "votes": 22
+            }
+        ]
+    }
+}

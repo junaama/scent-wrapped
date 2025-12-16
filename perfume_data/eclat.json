@@ -1,0 +1,27 @@
+{
+    "name": "Eclat",
+    "brand": "Eser",
+    "release_year": "2025",
+    "description": "A new perfume byEserfor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/92/92eee8_eclat-eser_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Mandarin orange",
+        "Orange blossom",
+        "Pear",
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Heliotrope",
+        "Jasmine",
+        "Orange blossom",
+        "Rose"
+    ],
+    "base_notes": [
+        "Moss",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

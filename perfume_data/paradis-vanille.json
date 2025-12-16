@@ -1,0 +1,147 @@
+{
+    "name": "Paradis Vanille",
+    "brand": "Lou de Pre",
+    "release_year": "2025",
+    "description": "A new perfume byLou de Prefor women, released in2025. The scent is fruity-sweet. It is being marketed byLCC Brands.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/19/190b0f_paradis-vanille-lou-de-pre_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Synthetic",
+        "Fresh",
+        "Floral"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Orange",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Tropical fruits",
+        "Violet"
+    ],
+    "base_notes": [
+        "Cashmeran",
+        "White musk",
+        "Sandalwood",
+        "Vanilla",
+        "Ambergris"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "43 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "38 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "37 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "43 Ratings"
+        },
+        "pricing": {
+            "score": "8.5",
+            "votes": "39 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Synthetic",
+                "votes": 6
+            },
+            {
+                "name": "Sweet",
+                "votes": 10
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 12
+            },
+            {
+                "name": "Fresh",
+                "votes": 6
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 11
+            },
+            {
+                "name": "Spring",
+                "votes": 12
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

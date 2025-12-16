@@ -1,0 +1,125 @@
+{
+    "name": "Hero Parfum Intense",
+    "brand": "Burberry",
+    "release_year": "2025",
+    "description": "A new perfume byBurberryfor men, released in2025. The scent is leathery-sweet. Projection and longevity are above-average. It is being marketed byCoty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/91/91be07_hero-parfum-intense-burberry_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Leathery",
+        "Sweet",
+        "Woody",
+        "Spicy",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Black pepper"
+    ],
+    "heart_notes": [
+        "Amyris",
+        "Cypriol",
+        "Cedarwood"
+    ],
+    "base_notes": [
+        "Leather"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "100 Ratings"
+        },
+        "durability": {
+            "score": "8.7",
+            "votes": "85 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "86 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "84 Ratings"
+        },
+        "pricing": {
+            "score": "7.2",
+            "votes": "79 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 13
+            },
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 16
+            },
+            {
+                "name": "Leathery",
+                "votes": 17
+            },
+            {
+                "name": "Woody",
+                "votes": 15
+            },
+            {
+                "name": "Resinous",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 19
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 18
+            },
+            {
+                "name": "Fall",
+                "votes": 19
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 17
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 17
+            }
+        ]
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "name": "Million Gold for Her Parfum",
+    "brand": "Rabanne",
+    "release_year": "2025",
+    "description": "A new perfume byRabannefor women, released in2025. The scent is floral-sweet. It is being marketed byPuig.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/79/794a69_million-gold-for-her-parfum-rabanne_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Creamy",
+        "Synthetic",
+        "Woody"
+    ],
+    "top_notes": [
+        "Ylang-ylang"
+    ],
+    "heart_notes": [
+        "Jasmine absolute"
+    ],
+    "base_notes": [
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "32 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "28 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "26 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "32 Ratings"
+        },
+        "pricing": {
+            "score": "6.5",
+            "votes": "18 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 7
+            },
+            {
+                "name": "Sweet",
+                "votes": 16
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Creamy",
+                "votes": 11
+            },
+            {
+                "name": "Floral",
+                "votes": 18
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 15
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 11
+            },
+            {
+                "name": "Fall",
+                "votes": 15
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 10
+            },
+            {
+                "name": "Leisure",
+                "votes": 11
+            },
+            {
+                "name": "Night Out",
+                "votes": 15
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 11
+            }
+        ]
+    }
+}

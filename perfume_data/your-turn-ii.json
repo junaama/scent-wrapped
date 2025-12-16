@@ -1,0 +1,42 @@
+{
+    "name": "Your Turn II",
+    "brand": "Billie Eilish",
+    "release_year": "2025",
+    "description": "A new perfume byBillie Eilishfor women and men, released in2025. It is being marketed byParlux Ltd.. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/5d/5d1432_your-turn-ii-billie-eilish_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blackcurrant leaf",
+        "Mirabelle plum",
+        "Pimento"
+    ],
+    "heart_notes": [
+        "Black tea",
+        "Fig nectar",
+        "Vanilla orchid"
+    ],
+    "base_notes": [
+        "Frankincense",
+        "Vetiver",
+        "Virginia cedar wood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.1",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "4.0",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "3.5",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "5.3",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {}
+}

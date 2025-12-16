@@ -1,0 +1,24 @@
+{
+    "name": "Ylang-Vanille",
+    "brand": "Les Parfums d'Uzège",
+    "release_year": "2025",
+    "description": "A new perfume byLes Parfums d'Uzègefor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5c/5ce553_ylang-vanille-les-parfums-d-uzege_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Blackcurrant",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Violet",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

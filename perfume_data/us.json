@@ -1,0 +1,34 @@
+{
+    "name": "Us",
+    "brand": "The Nue Co.",
+    "release_year": "2025",
+    "description": "A new perfume byThe Nue Co.for women and men, released in2025. Projection and longevity are above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/61/6175f8_us-the-nue-co_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Orange",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Iris",
+        "Moss"
+    ],
+    "base_notes": [
+        "Ambrofix",
+        "Musk",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {}
+}

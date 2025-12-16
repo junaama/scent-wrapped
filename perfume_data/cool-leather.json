@@ -1,0 +1,30 @@
+{
+    "name": "Cool Leather",
+    "brand": "Joseph Abboud",
+    "release_year": "2025",
+    "description": "A new perfume byJoseph Abboudfor men, released in2025. The scent is sweet-spicy. It is being marketed byWHP Global.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6b/6bce9c_cool-leather-joseph-abboud_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Oriental",
+        "Fresh",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Grapefruit",
+        "Mint"
+    ],
+    "heart_notes": [
+        "Nutmeg",
+        "Patchouli",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amberwood",
+        "Black leather",
+        "Musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

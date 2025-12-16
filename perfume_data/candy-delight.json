@@ -1,0 +1,139 @@
+{
+    "name": "Candy Delight",
+    "brand": "Karl Kani",
+    "release_year": "2025",
+    "description": "A new perfume byKarl Kanifor women, released in2025. The scent is sweet-fruity. It is being marketed by2 Pilots.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2a/2a2291_candy-delight-karl-kani_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Fresh",
+        "Floral",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Apple",
+        "Blackcurrant",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lily of the valley",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Sweet notes",
+        "Amber",
+        "Vanilla",
+        "Woody notes",
+        "Cedarwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.8",
+            "votes": "15 Ratings"
+        },
+        "durability": {
+            "score": "5.9",
+            "votes": "13 Ratings"
+        },
+        "sillage": {
+            "score": "5.5",
+            "votes": "11 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "16 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

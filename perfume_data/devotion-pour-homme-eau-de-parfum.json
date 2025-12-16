@@ -1,0 +1,139 @@
+{
+    "name": "Devotion pour Homme",
+    "brand": "Dolce & Gabbana",
+    "release_year": "2025",
+    "description": "A new perfume byDolce & Gabbanafor men, released in2025. The scent is gourmand-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/83/833208-devotion-pour-homme-dolce-gabbana_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Spicy",
+        "Citrus",
+        "Synthetic",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Italian lemon"
+    ],
+    "heart_notes": [
+        "Coffee"
+    ],
+    "base_notes": [
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.4",
+            "votes": "224 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "176 Ratings"
+        },
+        "sillage": {
+            "score": "6.2",
+            "votes": "178 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "180 Ratings"
+        },
+        "pricing": {
+            "score": "5.4",
+            "votes": "156 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 25
+            },
+            {
+                "name": "Spicy",
+                "votes": 29
+            },
+            {
+                "name": "Synthetic",
+                "votes": 19
+            },
+            {
+                "name": "Sweet",
+                "votes": 14
+            },
+            {
+                "name": "Woody",
+                "votes": 10
+            },
+            {
+                "name": "Gourmand",
+                "votes": 32
+            },
+            {
+                "name": "Fresh",
+                "votes": 12
+            },
+            {
+                "name": "Earthy",
+                "votes": 10
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 36
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 29
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 29
+            },
+            {
+                "name": "Fall",
+                "votes": 33
+            },
+            {
+                "name": "Summer",
+                "votes": 19
+            },
+            {
+                "name": "Spring",
+                "votes": 24
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 22
+            },
+            {
+                "name": "Leisure",
+                "votes": 28
+            },
+            {
+                "name": "Night Out",
+                "votes": 17
+            },
+            {
+                "name": "Business",
+                "votes": 13
+            },
+            {
+                "name": "Evening",
+                "votes": 22
+            }
+        ]
+    }
+}

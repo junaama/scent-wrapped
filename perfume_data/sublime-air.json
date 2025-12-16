@@ -1,0 +1,25 @@
+{
+    "name": "Sublime Air",
+    "brand": "Naseem",
+    "release_year": "2025",
+    "description": "A new perfume byNaseemfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/19/19e84f_sublime-air-naseem_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blackcurrant",
+        "Grapefruit",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Carrot",
+        "Peppermint",
+        "Violet"
+    ],
+    "base_notes": [
+        "Ambrette",
+        "Fig",
+        "Musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

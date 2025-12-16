@@ -1,0 +1,133 @@
+{
+    "name": "Zafferano Ambrosia",
+    "brand": "Acqua di Parma",
+    "release_year": "2025",
+    "description": "A new perfume byAcqua di Parmafor women and men, released in2025. The scent is citrusy-spicy. It is being marketed byLVMH.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/0a/0ad5c7_zafferano-ambrosia-acqua-di-parma_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Spicy",
+        "Sweet",
+        "Fresh",
+        "Earthy"
+    ],
+    "top_notes": [
+        "Italian red mandarin orange",
+        "Calabrian bergamot",
+        "Ginger"
+    ],
+    "heart_notes": [
+        "Saffron",
+        "Orange blossom",
+        "Jasmine sambac"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Amber",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.1",
+            "votes": "11 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "10 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "17 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

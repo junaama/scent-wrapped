@@ -1,0 +1,32 @@
+{
+    "name": "Aurora Salina",
+    "brand": "Giangregorio Cosimo",
+    "release_year": "2025",
+    "description": "A new perfume byGiangregorio Cosimofor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ce/ce65f1_aurora-salina-giangregorio-cosimo_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Artemisia",
+        "Bergamot",
+        "Clary sage",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lavender",
+        "Salt",
+        "Sandalwood"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Cedarwood",
+        "Oakmoss"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

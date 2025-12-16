@@ -1,0 +1,95 @@
+{
+    "name": "Vanilla Bonbon",
+    "brand": "Crémerie",
+    "release_year": "2025",
+    "description": "A new perfume byCrémeriefor women, released in2025. The scent is smoky-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4a/4a97ab_vanilla-bonbon-cremerie_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Sweet",
+        "Oriental",
+        "Woody",
+        "Earthy"
+    ],
+    "top_notes": [
+        "Pear"
+    ],
+    "heart_notes": [
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Caramel",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.5",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "4.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "2.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

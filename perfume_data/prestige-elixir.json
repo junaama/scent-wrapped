@@ -1,0 +1,29 @@
+{
+    "name": "Prestige Elixir",
+    "brand": "Cuba",
+    "release_year": "2025",
+    "description": "A new perfume byCubafor men, released in2025. The longevity is above-average. It is being marketed byPC Design Perfumes.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/07/078ca4_prestige-elixir-cuba_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Citrus notes",
+        "Spices"
+    ],
+    "heart_notes": [
+        "Lavender",
+        "Smoky notes",
+        "Woody notes"
+    ],
+    "base_notes": [
+        "Amber",
+        "Earthy notes",
+        "Patchouli"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

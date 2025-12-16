@@ -1,0 +1,45 @@
+{
+    "name": "Dar Es Salaam",
+    "brand": "Zimaya",
+    "release_year": "2025",
+    "description": "A new perfume byZimayafor women and men, released in2025. The longevity is above-average. It is being marketed byAfnan.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c5/c5de61_dar-es-salaam-zimaya_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Hazelnut",
+        "Pear",
+        "Pink pepper",
+        "Rose"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Jasmine",
+        "Musk",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Labdanum",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.0",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

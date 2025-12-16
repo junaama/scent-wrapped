@@ -1,0 +1,25 @@
+{
+    "name": "Rich Oud",
+    "brand": "Just Juice",
+    "release_year": "2025",
+    "description": "A new perfume byJust Juicefor women and men, released in2025. It is being marketed byThe PCA Companies.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9d/9da7c6_rich-oud-just-juice_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Citron",
+        "Cyclamen"
+    ],
+    "heart_notes": [
+        "Moss",
+        "Saffron",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Amber",
+        "Oud",
+        "Sandalwood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

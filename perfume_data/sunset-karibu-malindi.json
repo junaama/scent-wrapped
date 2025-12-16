@@ -1,0 +1,125 @@
+{
+    "name": "Sunset Karibu - Malindi",
+    "brand": "Anima Mundi",
+    "release_year": "2025",
+    "description": "A new perfume byAnima Mundifor women and men, released in2025. The scent is fruity-aquatic. It is being marketed byNiche and Co..Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7d/7d1bfa_sunset-karibu-malindi-anima-mundi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Aquatic",
+        "Sweet",
+        "Fresh",
+        "Floral"
+    ],
+    "top_notes": [
+        "Grenadilla",
+        "Nashi pear",
+        "Salty air"
+    ],
+    "heart_notes": [
+        "Aquatic notes",
+        "Lychee",
+        "Osmanthus"
+    ],
+    "base_notes": [
+        "Blond woods",
+        "Musk",
+        "Sand"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

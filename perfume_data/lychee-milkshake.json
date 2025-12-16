@@ -1,0 +1,42 @@
+{
+    "name": "Lychee Milkshake",
+    "brand": "Ellis Brooklyn",
+    "release_year": "2025",
+    "description": "A new and limited perfume byEllis Brooklynfor women and men, released in2025. Projection and longevity are above-average. The production was apparently discontinued. The perfume is vegan according to the manufacturer.CompareLimitedVegan",
+    "image_url": "https://media.parfumo.com/perfumes/10/10a1bb_lychee-milkshake-ellis-brooklyn_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Lychee",
+        "Milkshake",
+        "Blackcurrant",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Purple orchid",
+        "Red freesia",
+        "Raspberry leaf"
+    ],
+    "base_notes": [
+        "Sugar cane",
+        "Ambrettolide",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.3",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "name": "Umbra Oud",
+    "brand": "Anomalia",
+    "release_year": "2025",
+    "description": "A new perfume byAnomaliafor women and men, released in2025. The scent is oriental-woody. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/90/9080c3_umbra-oud-anomalia_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Oriental",
+        "Woody",
+        "Resinous",
+        "Leathery",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Rosa centifolia",
+        "Cardamom",
+        "Elemi resin"
+    ],
+    "heart_notes": [
+        "Laotian oud",
+        "Spices",
+        "White leather",
+        "Ambergris"
+    ],
+    "base_notes": [
+        "Frankincense",
+        "Vetiver",
+        "Virginia cedar wood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "22 Ratings"
+        },
+        "durability": {
+            "score": "8.7",
+            "votes": "20 Ratings"
+        },
+        "sillage": {
+            "score": "8.2",
+            "votes": "20 Ratings"
+        },
+        "bottle": {
+            "score": "8.6",
+            "votes": "18 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "16 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Smoky",
+                "votes": 4
+            },
+            {
+                "name": "Oriental",
+                "votes": 8
+            },
+            {
+                "name": "Leathery",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 7
+            },
+            {
+                "name": "Resinous",
+                "votes": 7
+            },
+            {
+                "name": "Earthy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 9
+            },
+            {
+                "name": "Fall",
+                "votes": 9
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

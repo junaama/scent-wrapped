@@ -1,0 +1,39 @@
+{
+    "name": "Caramel Cloud",
+    "brand": "Kylie Cosmetics",
+    "release_year": "2025",
+    "description": "A new perfume byKylie Cosmeticsfor women, released in2025. It is being marketed byCoty. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/1a/1a2eb5_caramel-cloud-kylie-cosmetics_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Almond",
+        "Pistachio butter"
+    ],
+    "heart_notes": [
+        "Brown sugar",
+        "Caramel"
+    ],
+    "base_notes": [
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "6.4",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

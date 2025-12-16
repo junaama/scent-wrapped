@@ -1,0 +1,134 @@
+{
+    "name": "Tubéreuse Nuit Blanche",
+    "brand": "Histoires de Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byHistoires de Parfumsfor women and men, released in2025. The scent is floral-sweet.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/7d/7da681_tubereuse-nuit-blanche-histoires-de-parfums_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Spicy",
+        "Fruity",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Elemi resin",
+        "Ginger",
+        "Rhubarb"
+    ],
+    "heart_notes": [
+        "Tiaré",
+        "Tuberose",
+        "Carnation",
+        "Jasmine",
+        "Orange blossom",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Vanilla",
+        "White musk",
+        "Sandalwood",
+        "Ambroxan"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "19 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "18 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "18 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "17 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 9
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 9
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 10
+            }
+        ]
+    }
+}

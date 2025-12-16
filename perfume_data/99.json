@@ -1,0 +1,39 @@
+{
+    "name": "99%",
+    "brand": "Marafatto",
+    "release_year": "2025",
+    "description": "A new perfume byMarafattofor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/34/3466d9_99-marafatto_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Bitter orange",
+        "Black pepper",
+        "Cardamom",
+        "Frankincense",
+        "Geranium",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Jasmine",
+        "Patchouli",
+        "Peach",
+        "Rose",
+        "Sandalwood",
+        "Vetiver",
+        "Violet"
+    ],
+    "base_notes": [
+        "Clary sage",
+        "Clove",
+        "Cypress",
+        "Frankincense",
+        "Lavender",
+        "Mossy notes",
+        "Tobacco",
+        "Tonka bean"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

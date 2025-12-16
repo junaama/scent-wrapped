@@ -1,0 +1,33 @@
+{
+    "name": "Deep Sea",
+    "brand": "Jeanne Arthes",
+    "release_year": "2025",
+    "description": "A new perfume byJeanne Arthesfor women and men, released in2025. The scent is fresh-woody. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/74/740f30_deep-sea-jeanne-arthes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Woody",
+        "Aquatic"
+    ],
+    "top_notes": [
+        "Lemon",
+        "Marine notes"
+    ],
+    "heart_notes": [
+        "Algae",
+        "Cashmeran",
+        "Lily of the valley"
+    ],
+    "base_notes": [
+        "Ambroxan",
+        "Oakmoss",
+        "Wood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

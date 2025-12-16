@@ -1,0 +1,25 @@
+{
+    "name": "Shines of New York",
+    "brand": "Le Chameau",
+    "release_year": "2025",
+    "description": "A new perfume byLe Chameaufor women and men, released in2025. It is being marketed byEmper.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/17/17b5e3_shines-of-new-york-le-chameau_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Musk",
+        "Rose"
+    ],
+    "heart_notes": [
+        "Oud"
+    ],
+    "base_notes": [
+        "Tonka bean"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

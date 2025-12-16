@@ -1,0 +1,157 @@
+{
+    "name": "Hawas Kobra",
+    "brand": "Rasasi",
+    "release_year": "2025",
+    "description": "A new perfume byRasasifor men, released in2025. The scent is fresh-citrusy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7e/7e74ff_hawas-kobra-rasasi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Citrus",
+        "Sweet",
+        "Fruity",
+        "Woody"
+    ],
+    "top_notes": [
+        "Ginger",
+        "Bergamot",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Green tea",
+        "Neroli",
+        "Cinnamon"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Musk",
+        "Woody notes"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "102 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "95 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "96 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "93 Ratings"
+        },
+        "pricing": {
+            "score": "8.9",
+            "votes": "93 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 14
+            },
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Synthetic",
+                "votes": 6
+            },
+            {
+                "name": "Sweet",
+                "votes": 11
+            },
+            {
+                "name": "Woody",
+                "votes": 7
+            },
+            {
+                "name": "Green",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 7
+            },
+            {
+                "name": "Fresh",
+                "votes": 15
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            },
+            {
+                "name": "Aquatic",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 18
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 14
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Summer",
+                "votes": 19
+            },
+            {
+                "name": "Spring",
+                "votes": 16
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 18
+            },
+            {
+                "name": "Sport",
+                "votes": 15
+            },
+            {
+                "name": "Leisure",
+                "votes": 14
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 15
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "name": "Kinamo",
+    "brand": "ATon",
+    "release_year": "2025",
+    "description": "A new perfume byATonfor women and men, released in2025. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/49/492e1d_kinamo-aton_1200.jpg?width=240&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Civet",
+        "Fir",
+        "Geranium",
+        "Guava leaf",
+        "Hay absolute",
+        "Jasmine",
+        "Petitgrain",
+        "Pineapple",
+        "Rose",
+        "Ylang-ylang"
+    ],
+    "heart_notes": [
+        "Chinese oud",
+        "Indole",
+        "Sandalwood",
+        "Tonka bean",
+        "Violet leaf"
+    ],
+    "base_notes": [
+        "Cambodian oud",
+        "Leather",
+        "Litsea cubeba",
+        "Myrrh",
+        "Oakmoss",
+        "Thai oud",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "9.0",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "8.5",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

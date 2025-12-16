@@ -1,0 +1,30 @@
+{
+    "name": "Black Knight",
+    "brand": "Oscar London",
+    "release_year": "2025",
+    "description": "A new perfume byOscar Londonfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8c/8c869e_black-knight-oscar-london_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cinnamon",
+        "Pink pepper",
+        "Plum",
+        "Tangerine"
+    ],
+    "heart_notes": [
+        "Immortelle"
+    ],
+    "base_notes": [
+        "Patchouli",
+        "Saffron",
+        "Sugar",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

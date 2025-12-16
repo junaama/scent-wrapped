@@ -1,0 +1,106 @@
+{
+    "name": "212 VIP Black NY Rodeo",
+    "brand": "Carolina Herrera",
+    "release_year": "2025",
+    "description": "A new and limited perfume byCarolina Herrerafor men, released in2025. The scent is sweet-synthetic. It is being marketed byPuig.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/21/21ad5e_212-vip-black-ny-rodeo-carolina-herrera_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Synthetic",
+        "Green",
+        "Leathery",
+        "Woody"
+    ],
+    "top_notes": [
+        "Provençal lavender",
+        "Rosemary"
+    ],
+    "heart_notes": [
+        "Absinth",
+        "Saffiano™"
+    ],
+    "base_notes": [
+        "Patchouli",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "6.7",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

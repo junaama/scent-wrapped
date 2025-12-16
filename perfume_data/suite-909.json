@@ -1,0 +1,118 @@
+{
+    "name": "Suite 909",
+    "brand": "Réservation",
+    "release_year": "2025",
+    "description": "A new perfume byRéservationfor women and men, released in2025. The scent is spicy-woody. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f4/f40cc3_suite-909-reservation_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Powdery",
+        "Fresh",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Juniper berry",
+        "Madagascan pepper",
+        "Nutmeg",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Georgywood®",
+        "Patchouli"
+    ],
+    "base_notes": [
+        "Akigalawood®",
+        "Ambrofix",
+        "Serenolide"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

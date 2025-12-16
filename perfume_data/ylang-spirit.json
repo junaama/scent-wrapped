@@ -1,0 +1,144 @@
+{
+    "name": "Ylang Spirit",
+    "brand": "Mizensir",
+    "release_year": "2025",
+    "description": "A new perfume byMizensirfor women and men, released in2025. The scent is floral-creamy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/1d/1d4f46_ylang-spirit-mizensir_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Creamy",
+        "Sweet",
+        "Fresh",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Mandarin orange",
+        "Bergamot",
+        "Ambrox"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Paradisone®",
+        "Ylang-ylang",
+        "Egyptian jasmine absolute",
+        "Hedione",
+        "Muscenone®"
+    ],
+    "base_notes": [
+        "Musk",
+        "Bourbon vanilla",
+        "Benzoin"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "29 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "26 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "25 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "35 Ratings"
+        },
+        "pricing": {
+            "score": "6.1",
+            "votes": "21 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 11
+            },
+            {
+                "name": "Floral",
+                "votes": 11
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 10
+            },
+            {
+                "name": "Spring",
+                "votes": 10
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

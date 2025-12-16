@@ -1,0 +1,27 @@
+{
+    "name": "In Focus",
+    "brand": "LR",
+    "release_year": "2025",
+    "description": "A new perfume byLRfor men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/31/31c87c_in-focus-lr_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Fresh notes",
+        "Lime",
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Lavender",
+        "Lily of the valley",
+        "Moss",
+        "Violet"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Sandalwood",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

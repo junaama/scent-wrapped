@@ -1,0 +1,160 @@
+{
+    "name": "Erotika Maximale",
+    "brand": "New Notes",
+    "release_year": "2025",
+    "description": "A new and limited perfume byNew Notesfor women and men, released in2025. The scent is powdery-sweet. The longevity is above-average. It is being marketed byHIC Beauty.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/37/37a86f_erotika-maximale-new-notes_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Powdery",
+        "Sweet",
+        "Floral",
+        "Synthetic",
+        "Animal"
+    ],
+    "top_notes": [
+        "Mandarin orange",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Violet",
+        "Animalic notes",
+        "Iris",
+        "Labdanum"
+    ],
+    "base_notes": [
+        "Musk",
+        "Cashmere wood",
+        "Vanilla",
+        "Benzoin",
+        "Cedarwood",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.6",
+            "votes": "32 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "25 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "24 Ratings"
+        },
+        "bottle": {
+            "score": "6.2",
+            "votes": "25 Ratings"
+        },
+        "pricing": {
+            "score": "5.8",
+            "votes": "17 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Powdery",
+                "votes": 6
+            },
+            {
+                "name": "Leathery",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            },
+            {
+                "name": "Animal",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

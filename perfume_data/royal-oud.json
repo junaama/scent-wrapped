@@ -1,0 +1,103 @@
+{
+    "name": "Royal Oud",
+    "brand": "4711",
+    "release_year": "2025",
+    "description": "A new perfume by4711for women and men, released in2025. The scent is spicy-leathery. It is being marketed byMäurer & Wirtz.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/68/681da6_royal-oud-4711_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Leathery",
+        "Fruity",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Elemi resin",
+        "Raspberry",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Oud",
+        "Rose absolute",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Amber",
+        "Amyris",
+        "Cedarwood",
+        "Leather",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

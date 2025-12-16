@@ -1,0 +1,90 @@
+{
+    "name": "Neroli & Basil",
+    "brand": "Salt & Stone",
+    "release_year": "2025",
+    "description": "A new perfume bySalt & Stonefor women and men, released in2025. The scent is fresh-spicy. The perfume is vegan according to the manufacturer.PronunciationCompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/89/89addc_neroli-basil-salt-stone_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Spicy",
+        "Green"
+    ],
+    "top_notes": [
+        "Italian bergamot",
+        "Neroli"
+    ],
+    "heart_notes": [
+        "Basil",
+        "French lavender",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Shiso leaf",
+        "Cypress",
+        "Eucalyptus"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.9",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "5.5",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

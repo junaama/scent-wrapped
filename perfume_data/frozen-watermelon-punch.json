@@ -1,0 +1,33 @@
+{
+    "name": "Frozen Watermelon Punch",
+    "brand": "The Dua Brand",
+    "release_year": "2025",
+    "description": "A new perfume byThe Dua Brandfor women and men, released in2025. The perfume is vegan according to the manufacturer.PronunciationCompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/6d/6dc4a1_frozen-watermelon-punch-the-dua-brand_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Italian bergamot",
+        "Mandarin orange zest",
+        "Sea breeze",
+        "Watermelon"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Pear",
+        "Prickly pear",
+        "Red berries"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Sandalwood",
+        "Vanilla ice cream"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

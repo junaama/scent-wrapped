@@ -1,0 +1,124 @@
+{
+    "name": "Lacoste Original pour Femme",
+    "brand": "Lacoste",
+    "release_year": "2025",
+    "description": "A new perfume byLacostefor women, released in2025. The scent is floral-sweet. It is being marketed byInterparfums.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c5/c55b0c_original-pour-femme-lacoste_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Fruity",
+        "Fresh",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Ginger",
+        "Mandarin orange",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Rose",
+        "Solar note"
+    ],
+    "base_notes": [
+        "Amber",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "20 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "17 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "16 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "17 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Fruity",
+                "votes": 6
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

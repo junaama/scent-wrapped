@@ -1,0 +1,117 @@
+{
+    "name": "Bad Boy Elixir",
+    "brand": "Carolina Herrera",
+    "release_year": "2025",
+    "description": "A new perfume byCarolina Herrerafor men, released in2025. The scent is sweet-leathery. It is being marketed byPuig.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/21/214c7c-bad-boy-elixir-carolina-herrera_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Leathery",
+        "Spicy",
+        "Synthetic",
+        "Smoky"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "93 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "77 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "77 Ratings"
+        },
+        "bottle": {
+            "score": "6.9",
+            "votes": "81 Ratings"
+        },
+        "pricing": {
+            "score": "6.5",
+            "votes": "71 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 14
+            },
+            {
+                "name": "Synthetic",
+                "votes": 10
+            },
+            {
+                "name": "Sweet",
+                "votes": 19
+            },
+            {
+                "name": "Smoky",
+                "votes": 9
+            },
+            {
+                "name": "Leathery",
+                "votes": 18
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 18
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 14
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 17
+            },
+            {
+                "name": "Fall",
+                "votes": 17
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 10
+            },
+            {
+                "name": "Night Out",
+                "votes": 15
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 17
+            }
+        ]
+    }
+}

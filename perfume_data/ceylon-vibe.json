@@ -1,0 +1,25 @@
+{
+    "name": "Ceylon Vibe",
+    "brand": "Routine Paris",
+    "release_year": "2025",
+    "description": "A new perfume byRoutine Parisfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5a/5aef4f_ceylon-vibe-routine-paris_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Coriander",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Cedar",
+        "Honey",
+        "Iris",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Bonjour Beach",
+    "brand": "Victoria's Secret",
+    "release_year": "2025",
+    "description": "A new and limited perfume byVictoria's Secretfor women, released in2025.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/f0/f0fc2f_bonjour-beach-victoria-s-secret_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Coconut",
+        "Pear sorbet"
+    ],
+    "heart_notes": [
+        "Gardenia",
+        "Salt",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Sugar",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

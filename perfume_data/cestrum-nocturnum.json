@@ -1,0 +1,114 @@
+{
+    "name": "Cestrum Nocturnum",
+    "brand": "Elixir Attar",
+    "release_year": "2025",
+    "description": "A new perfume byElixir Attarfor women and men, released in2025. The scent is oriental-smoky. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3c/3ca32d_cestrum-nocturnum-elixir-attar_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Oriental",
+        "Smoky",
+        "Animal",
+        "Spicy",
+        "Floral"
+    ],
+    "top_notes": [
+        "Ginger",
+        "Peach",
+        "Raspberry",
+        "Sichuan pepper"
+    ],
+    "heart_notes": [
+        "Jasmine CO2",
+        "Jasmine sambac",
+        "Neroli",
+        "Night-blooming jasmine",
+        "Osmanthus",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Honey",
+        "Irish ambergris",
+        "Majmua",
+        "Malayan oud",
+        "Nutmeg",
+        "Siam benzoin",
+        "Siberian deer musk",
+        "Thai oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

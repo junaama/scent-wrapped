@@ -1,0 +1,24 @@
+{
+    "name": "Talgar",
+    "brand": "Glamira",
+    "release_year": "2025",
+    "description": "A new perfume byGlamirafor men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f8/f876be_talgar-glamira_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Aniseed",
+        "Bergamot",
+        "Pepper"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Musk",
+        "Patchouli",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

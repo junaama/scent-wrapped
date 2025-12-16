@@ -1,0 +1,117 @@
+{
+    "name": "Amber Shadow",
+    "brand": "Avau",
+    "release_year": "2025",
+    "description": "A new perfume byAvaufor women and men, released in2025. The scent is sweet-fruity. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/32/32b173_amber-shadow-avau_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Spicy",
+        "Woody",
+        "Floral"
+    ],
+    "top_notes": [
+        "Nutmeg",
+        "Peach",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Rose absolute",
+        "Tobacco absolute",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Gaiac wood",
+        "Labdanum absolute",
+        "Leather"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

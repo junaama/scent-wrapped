@@ -1,0 +1,133 @@
+{
+    "name": "Coffee Passion",
+    "brand": "Lorenzo Pazzaglia",
+    "release_year": "2025",
+    "description": "A new perfume byLorenzo Pazzagliafor women and men, released in2025. The scent is gourmand-sweet. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f7/f7f442_coffee-passion-lorenzo-pazzaglia_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Sweet",
+        "Spicy",
+        "Creamy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Date",
+        "Coconut",
+        "Hazelnut",
+        "Apricot",
+        "Cinnamon"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Chocolate",
+        "Coconut milk",
+        "Cream",
+        "Heliotrope",
+        "Tonka bean",
+        "Roasted coffee"
+    ],
+    "base_notes": [
+        "Cane sugar",
+        "Vanilla",
+        "White musk",
+        "Benzoin",
+        "Cedarwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "34 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "31 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "32 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "35 Ratings"
+        },
+        "pricing": {
+            "score": "7.3",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 10
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 10
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 9
+            },
+            {
+                "name": "Fall",
+                "votes": 9
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

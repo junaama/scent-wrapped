@@ -1,0 +1,35 @@
+{
+    "name": "Civette",
+    "brand": "Votum",
+    "release_year": "2025",
+    "description": "A new perfume byVotumfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a7/a735c2_civette-votum_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Atlas cedar",
+        "Calabrian bergamot",
+        "Civet",
+        "Lemon",
+        "Rosewood",
+        "Tunisian neroli"
+    ],
+    "heart_notes": [
+        "Bourbon geranium",
+        "Egyptian jasmine",
+        "Lavender",
+        "Moroccan rose",
+        "Orris root"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Bourbon vanilla",
+        "Civet absolute",
+        "Madagascan patchouli",
+        "Mysore sandalwood",
+        "Oakmoss",
+        "Opoponax",
+        "Tonka bean"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Prime 02",
+    "brand": "Proud",
+    "release_year": "2025",
+    "description": "A new perfume byProudfor women and men, released in2025. The scent is fresh-woody. It is being marketed byDeraah Trading Company.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/43/431787_prime-02-proud_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Woody",
+        "Spicy",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Grapefruit"
+    ],
+    "heart_notes": [
+        "Rosemary"
+    ],
+    "base_notes": [
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            }
+        ]
+    }
+}

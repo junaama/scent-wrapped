@@ -1,0 +1,30 @@
+{
+    "name": "True Selection Blue",
+    "brand": "Gin Tonic",
+    "release_year": "2025",
+    "description": "A new perfume byGin Tonicfor men, released in2025. It is being marketed byLuxess.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2f/2feb11_true-selection-blue-gin-tonic_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cardamom",
+        "Grapefruit",
+        "Lemon",
+        "Mandarin orange",
+        "Nutmeg"
+    ],
+    "heart_notes": [
+        "Clove",
+        "Freesia",
+        "Geranium",
+        "Violet leaf"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

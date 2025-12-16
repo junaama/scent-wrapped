@@ -1,0 +1,30 @@
+{
+    "name": "Rockstar",
+    "brand": "Tadhana",
+    "release_year": "2025",
+    "description": "A new perfume byTadhanafor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/0d/0de584_rockstar-tadhana_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bitter orange",
+        "Blackcurrant",
+        "Mango"
+    ],
+    "heart_notes": [
+        "Coconut water",
+        "Philippine ylang-ylang",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Oud",
+        "Philippine vetiver",
+        "Sea breeze"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

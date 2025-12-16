@@ -1,0 +1,125 @@
+{
+    "name": "Golden Rule",
+    "brand": "Phlur",
+    "release_year": "2025",
+    "description": "A new perfume byPhlurfor women, released in2025. The scent is sweet-floral. The perfume is vegan according to the manufacturer.PronunciationCompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/22/2230b9-golden-rule-phlur_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Fruity",
+        "Creamy",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Mandarin orange",
+        "Pink pepper",
+        "Yellow pear"
+    ],
+    "heart_notes": [
+        "Coconut milk",
+        "Jasmine",
+        "Orange blossom water"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Sandalwood",
+        "Vanilla cream"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "47 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "30 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "31 Ratings"
+        },
+        "bottle": {
+            "score": "6.6",
+            "votes": "31 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "22 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 16
+            },
+            {
+                "name": "Fruity",
+                "votes": 10
+            },
+            {
+                "name": "Creamy",
+                "votes": 9
+            },
+            {
+                "name": "Floral",
+                "votes": 15
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 15
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 13
+            },
+            {
+                "name": "Spring",
+                "votes": 13
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 10
+            },
+            {
+                "name": "Leisure",
+                "votes": 11
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

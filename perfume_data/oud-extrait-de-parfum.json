@@ -1,0 +1,150 @@
+{
+    "name": "Oud",
+    "brand": "Les Eaux Primordiales",
+    "release_year": "2025",
+    "description": "A new perfume byLes Eaux Primordialesfor women and men, released in2025. The scent is leathery-fruity. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f3/f3b2db_oud-extrait-de-parfum-les-eaux-primordiales_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Leathery",
+        "Fruity",
+        "Sweet",
+        "Smoky",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Cardamom",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Osmanthus",
+        "Passion fruit",
+        "Peach"
+    ],
+    "base_notes": [
+        "Leather",
+        "Oud",
+        "Tobacco",
+        "Frankincense"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "26 Ratings"
+        },
+        "durability": {
+            "score": "9.0",
+            "votes": "23 Ratings"
+        },
+        "sillage": {
+            "score": "8.6",
+            "votes": "23 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "31 Ratings"
+        },
+        "pricing": {
+            "score": "7.3",
+            "votes": "20 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Smoky",
+                "votes": 3
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

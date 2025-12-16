@@ -1,0 +1,30 @@
+{
+    "name": "Neverland",
+    "brand": "D'Qar",
+    "release_year": "2025",
+    "description": "A new perfume byD'Qarfor women and men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Black truffle",
+        "Blackcurrant",
+        "Ylang-ylang"
+    ],
+    "heart_notes": [
+        "Black orchid",
+        "Floral notes",
+        "Fruity notes",
+        "Lotus wood"
+    ],
+    "base_notes": [
+        "Balsam",
+        "Frankincense",
+        "Patchouli",
+        "Sandalwood",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

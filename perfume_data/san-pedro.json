@@ -1,0 +1,138 @@
+{
+    "name": "San Pedro",
+    "brand": "19-69",
+    "release_year": "2025",
+    "description": "A new perfume by19-69for women and men, released in2025. The scent is green-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/18/18ce77-san-pedro-19-69_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Fresh",
+        "Citrus",
+        "Floral",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Italian bergamot",
+        "Eau de Cologne mint",
+        "Italian lemon"
+    ],
+    "heart_notes": [
+        "Green cactus",
+        "Litsea cubeba",
+        "Peach skin"
+    ],
+    "base_notes": [
+        "Cashmere wood",
+        "Vetiver",
+        "Violet",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "33 Ratings"
+        },
+        "durability": {
+            "score": "5.9",
+            "votes": "26 Ratings"
+        },
+        "sillage": {
+            "score": "5.8",
+            "votes": "25 Ratings"
+        },
+        "bottle": {
+            "score": "6.9",
+            "votes": "27 Ratings"
+        },
+        "pricing": {
+            "score": "5.9",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 11
+            },
+            {
+                "name": "Green",
+                "votes": 13
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Fresh",
+                "votes": 13
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 13
+            },
+            {
+                "name": "Feminine",
+                "votes": 11
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 10
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Summer",
+                "votes": 13
+            },
+            {
+                "name": "Spring",
+                "votes": 10
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 12
+            },
+            {
+                "name": "Sport",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 13
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 11
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Tres Leches",
+    "brand": "Grandeur",
+    "release_year": "2025",
+    "description": "A new perfume byGrandeurfor women and men, released in2025. The scent is sweet-gourmand.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ef/ef87c8_tres-leches-grandeur_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Caramel",
+        "Milk",
+        "Spicy notes",
+        "Sweet notes",
+        "Vanilla"
+    ],
+    "heart_notes": [
+        "Chocolate",
+        "Floral notes",
+        "Milk"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

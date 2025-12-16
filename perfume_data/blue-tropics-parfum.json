@@ -1,0 +1,56 @@
+{
+    "name": "Blue Tropics",
+    "brand": "elkhaldi",
+    "release_year": "2025",
+    "description": "A new and limited perfume byelkhaldifor women and men, released in2025. The scent is floral-fruity. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/c8/c8e74f_blue-tropics-parfum-elkhaldi_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fruity"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "6.9",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            }
+        ]
+    }
+}

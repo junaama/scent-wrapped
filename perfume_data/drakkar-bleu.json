@@ -1,0 +1,145 @@
+{
+    "name": "Drakkar Bleu",
+    "brand": "Guy Laroche",
+    "release_year": "2025",
+    "description": "A new perfume byGuy Larochefor men, released in2025. The scent is fresh-aquatic. It is being marketed byE.A. Cosmetics.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ac/ac87c4_drakkar-bleu-guy-laroche_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Aquatic",
+        "Green",
+        "Synthetic",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Apple",
+        "Bergamot",
+        "Spearmint"
+    ],
+    "heart_notes": [
+        "Lavender",
+        "Sage",
+        "Violet leaf"
+    ],
+    "base_notes": [
+        "Fir balsam",
+        "Moss",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "60 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "48 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "50 Ratings"
+        },
+        "bottle": {
+            "score": "6.6",
+            "votes": "48 Ratings"
+        },
+        "pricing": {
+            "score": "8.5",
+            "votes": "47 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 7
+            },
+            {
+                "name": "Spicy",
+                "votes": 11
+            },
+            {
+                "name": "Synthetic",
+                "votes": 14
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Green",
+                "votes": 17
+            },
+            {
+                "name": "Fruity",
+                "votes": 7
+            },
+            {
+                "name": "Fresh",
+                "votes": 18
+            },
+            {
+                "name": "Aquatic",
+                "votes": 18
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 18
+            },
+            {
+                "name": "Classic",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 15
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 13
+            },
+            {
+                "name": "Summer",
+                "votes": 19
+            },
+            {
+                "name": "Spring",
+                "votes": 17
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 17
+            },
+            {
+                "name": "Sport",
+                "votes": 13
+            },
+            {
+                "name": "Leisure",
+                "votes": 17
+            },
+            {
+                "name": "Night Out",
+                "votes": 9
+            },
+            {
+                "name": "Business",
+                "votes": 15
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

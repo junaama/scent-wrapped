@@ -1,0 +1,32 @@
+{
+    "name": "Nha Trang",
+    "brand": "Barzakh",
+    "release_year": "2025",
+    "description": "A new and limited perfume byBarzakhfor women and men, released in2025.CompareLimited",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Apricot",
+        "Blackcurrant",
+        "Jasmine sambac",
+        "Mimosa"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Bourbon vanilla",
+        "Damask rose",
+        "Myrrh absolute",
+        "Oakmoss",
+        "Orris absolute"
+    ],
+    "base_notes": [
+        "Black ambergris",
+        "Civet",
+        "Hyraceum absolute",
+        "Sri Lankan sandalwood",
+        "Vetiver",
+        "Vietnamese oud"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

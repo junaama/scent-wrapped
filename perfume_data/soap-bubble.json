@@ -1,0 +1,147 @@
+{
+    "name": "Soap Bubble",
+    "brand": "YLEM",
+    "release_year": "2025",
+    "description": "A new perfume byYLEMfor women and men, released in2025. The scent is fruity-sweet.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/9c/9cd117_soap-bubble-ylem_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Fresh",
+        "Floral",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Iris",
+        "Magnolia",
+        "Peach blossom"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Passion fruit",
+        "Patchouli",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Peony",
+        "Sandalwood",
+        "Vanilla",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "22 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "18 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "17 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "20 Ratings"
+        },
+        "pricing": {
+            "score": "7.1",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Fruity",
+                "votes": 8
+            },
+            {
+                "name": "Fresh",
+                "votes": 7
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 6
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 8
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 9
+            },
+            {
+                "name": "Spring",
+                "votes": 10
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Sport",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

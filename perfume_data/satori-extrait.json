@@ -1,0 +1,26 @@
+{
+    "name": "Satori",
+    "brand": "Parfum Satori",
+    "release_year": "2025",
+    "description": "A new perfume byParfum Satorifor women and men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Coriander",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Clove",
+        "Cinnamon",
+        "Cocoa",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Frankincense",
+        "Oud",
+        "Oakmoss",
+        "Sandalwood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

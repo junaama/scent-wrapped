@@ -1,0 +1,144 @@
+{
+    "name": "Oud Luwak II",
+    "brand": "Areej Le Doré",
+    "release_year": "2025",
+    "description": "A new perfume byAreej Le Doréfor women and men, released in2025. The scent is woody-earthy. The longevity is above-average. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a2/a27e07_oud-luwak-ii-areej-le-dore_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Earthy",
+        "Smoky",
+        "Spicy",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Papua oud",
+        "Sumatran coffee"
+    ],
+    "heart_notes": [
+        "Burmese oud",
+        "Civet",
+        "Tonka bean",
+        "Cinnamon leaf",
+        "Spikenard",
+        "Cistus"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Texas cedar",
+        "Indian oud",
+        "Indonesian vetiver absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "98 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "90 Ratings"
+        },
+        "sillage": {
+            "score": "7.9",
+            "votes": "89 Ratings"
+        },
+        "bottle": {
+            "score": "8.7",
+            "votes": "86 Ratings"
+        },
+        "pricing": {
+            "score": "7.3",
+            "votes": "60 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 24
+            },
+            {
+                "name": "Smoky",
+                "votes": 25
+            },
+            {
+                "name": "Oriental",
+                "votes": 10
+            },
+            {
+                "name": "Leathery",
+                "votes": 10
+            },
+            {
+                "name": "Woody",
+                "votes": 27
+            },
+            {
+                "name": "Resinous",
+                "votes": 23
+            },
+            {
+                "name": "Earthy",
+                "votes": 25
+            },
+            {
+                "name": "Animal",
+                "votes": 18
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 24
+            },
+            {
+                "name": "Feminine",
+                "votes": 11
+            },
+            {
+                "name": "Classic",
+                "votes": 17
+            },
+            {
+                "name": "Modern",
+                "votes": 10
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 28
+            },
+            {
+                "name": "Fall",
+                "votes": 28
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 15
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 25
+            },
+            {
+                "name": "Night Out",
+                "votes": 24
+            },
+            {
+                "name": "Evening",
+                "votes": 27
+            }
+        ]
+    }
+}

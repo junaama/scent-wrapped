@@ -1,0 +1,47 @@
+{
+    "name": "Milk & Chill",
+    "brand": "Skylar",
+    "release_year": "2025",
+    "description": "A new and limited perfume bySkylarfor women and men, released in2025. The scent is sweet-fruity.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/4b/4b19c8_milk-chill-skylar_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Oat milk",
+        "Pear",
+        "Peach"
+    ],
+    "heart_notes": [
+        "Brown sugar",
+        "Jasmine",
+        "Amber",
+        "Woods"
+    ],
+    "base_notes": [
+        "Virginia cedar",
+        "Musk",
+        "Vanilla cream"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "4.3",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "4.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "5.0",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

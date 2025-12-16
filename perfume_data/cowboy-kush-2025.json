@@ -1,0 +1,62 @@
+{
+    "name": "Cowboy Kush",
+    "brand": "Boy Smells",
+    "release_year": "2025",
+    "description": "A new perfume byBoy Smellsfor women and men, released in2025. The scent is earthy-green.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/bd/bdc02a_cowboy-kush-2025-boy-smells_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Earthy",
+        "Green"
+    ],
+    "top_notes": [
+        "Hazelnut",
+        "Mandarin orange",
+        "White leather"
+    ],
+    "heart_notes": [
+        "Cannabis",
+        "Saffron",
+        "Suede",
+        "Tobacco"
+    ],
+    "base_notes": [
+        "Oud",
+        "Patchouli",
+        "Suede",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.5",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            }
+        ]
+    }
+}

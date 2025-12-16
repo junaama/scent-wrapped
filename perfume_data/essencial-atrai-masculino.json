@@ -1,0 +1,65 @@
+{
+    "name": "Essencial Atrai Masculino",
+    "brand": "Natura",
+    "release_year": "2025",
+    "description": "A new perfume byNaturafor men, released in2025. The scent is sweet-gourmand. The longevity is above-average. It is being marketed byNatura & Co..PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/4b/4bbea9_essencial-atrai-masculino-natura_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Spicy",
+        "Powdery",
+        "Woody"
+    ],
+    "top_notes": [
+        "Apple",
+        "Basil",
+        "Bergamot",
+        "Black pepper",
+        "Cardamom",
+        "Cinnamon",
+        "Lavender",
+        "Mandarin orange",
+        "Nutmeg",
+        "Pink pepper",
+        "Sage"
+    ],
+    "heart_notes": [
+        "Cream",
+        "Raspberry",
+        "Violet",
+        "Wine lees"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Benzoin",
+        "Cocoa",
+        "Amber",
+        "Cedar",
+        "Moss",
+        "Musk",
+        "Patchouli",
+        "Tonka bean",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.0",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

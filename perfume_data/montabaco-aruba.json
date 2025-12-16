@@ -1,0 +1,151 @@
+{
+    "name": "Montabaco Aruba",
+    "brand": "Ormonde Jayne",
+    "release_year": "2025",
+    "description": "A new and limited perfume byOrmonde Jaynefor women and men, released in2025. The scent is floral-fresh.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/a4/a48856_montabaco-aruba-ormonde-jayne_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fresh",
+        "Citrus",
+        "Spicy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Grapefruit",
+        "Orange absolute",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Magnolia",
+        "Rose",
+        "Violet",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Tobacco",
+        "Cardamom",
+        "Leather",
+        "Sandalore"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "41 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "35 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "34 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "34 Ratings"
+        },
+        "pricing": {
+            "score": "6.9",
+            "votes": "25 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 15
+            },
+            {
+                "name": "Spicy",
+                "votes": 12
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Leathery",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 8
+            },
+            {
+                "name": "Green",
+                "votes": 6
+            },
+            {
+                "name": "Fresh",
+                "votes": 16
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 17
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 18
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 15
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 13
+            },
+            {
+                "name": "Summer",
+                "votes": 15
+            },
+            {
+                "name": "Spring",
+                "votes": 20
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 14
+            },
+            {
+                "name": "Sport",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 18
+            },
+            {
+                "name": "Night Out",
+                "votes": 9
+            },
+            {
+                "name": "Business",
+                "votes": 17
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "name": "The Void",
+    "brand": "Antagonist",
+    "release_year": "2025",
+    "description": "A new and limited perfume byAntagonistfor women and men, released in2025. The scent is smoky-spicy. Projection and longevity are above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/8c/8caae5_the-void-antagonist_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Spicy",
+        "Leathery",
+        "Woody",
+        "Earthy"
+    ],
+    "top_notes": [
+        "Burning wood",
+        "Fuel",
+        "Gun powder",
+        "Smoke"
+    ],
+    "heart_notes": [
+        "Cannabis",
+        "Charcoal",
+        "Frankincense",
+        "Rust"
+    ],
+    "base_notes": [
+        "Air accord",
+        "Ash",
+        "Burnt rubber",
+        "Frankincense",
+        "Myrrh"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "8.6",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

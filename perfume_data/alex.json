@@ -1,0 +1,28 @@
+{
+    "name": "Alex",
+    "brand": "Ayaam Perfumes",
+    "release_year": "2025",
+    "description": "A new perfume byAyaam Perfumesfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6d/6dc798_alex-ayaam-perfumes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Apple",
+        "Bergamot",
+        "Lemon",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Jasmine",
+        "Lily of the valley",
+        "Pink pepper"
+    ],
+    "base_notes": [
+        "Amber",
+        "Gaiac wood",
+        "Musk",
+        "Patchouli"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

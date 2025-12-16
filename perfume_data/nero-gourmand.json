@@ -1,0 +1,45 @@
+{
+    "name": "Nero Gourmand",
+    "brand": "Inconscio",
+    "release_year": "2025",
+    "description": "A new perfume byInconsciofor women and men, released in2025. The scent is spicy-gourmand. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/db/db5bb4_nero-gourmand-inconscio_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Gourmand",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Cocoa powder",
+        "Honey",
+        "Lavender"
+    ],
+    "heart_notes": [
+        "Cocoa powder",
+        "Coffee",
+        "Jasmine",
+        "Labdanum",
+        "Sea salt"
+    ],
+    "base_notes": [
+        "Amber",
+        "Beeswax",
+        "Oakmoss",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

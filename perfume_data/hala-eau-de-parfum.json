@@ -1,0 +1,24 @@
+{
+    "name": "Hala",
+    "brand": "Nabeel",
+    "release_year": "2025",
+    "description": "A new perfume byNabeelfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b4/b4e809_hala-nabeel_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Ambrette",
+        "Milk"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lily of the valley",
+        "Violet"
+    ],
+    "base_notes": [
+        "Musk",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

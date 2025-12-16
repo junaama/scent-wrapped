@@ -1,0 +1,71 @@
+{
+    "name": "Mystical Incense",
+    "brand": "Grande",
+    "release_year": "2025",
+    "description": "A new perfume byGrandefor women and men, released in2025. The scent is sweet-resinous. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ab/ab964b_mystical-incense-grande_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Frankincense CO2",
+        "Lychee water"
+    ],
+    "heart_notes": [
+        "Date",
+        "Frankincense",
+        "Lychee",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Frankincense",
+        "Frankincense absolute",
+        "Frankincense resin",
+        "Musk"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

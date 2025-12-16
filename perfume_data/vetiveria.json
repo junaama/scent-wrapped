@@ -1,0 +1,148 @@
+{
+    "name": "Vetiveria",
+    "brand": "Ormonde Jayne",
+    "release_year": "2025",
+    "description": "A new perfume byOrmonde Jaynefor women and men, released in2025. The scent is green-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ed/edb082_vetiveria-ormonde-jayne_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Spicy",
+        "Fresh",
+        "Citrus",
+        "Woody"
+    ],
+    "top_notes": [
+        "Sage",
+        "Sicilian lime",
+        "Juniper berry",
+        "Nepalese sichuan pepper"
+    ],
+    "heart_notes": [
+        "Lavender",
+        "Jasmine",
+        "Orange blossom",
+        "Snowdrop"
+    ],
+    "base_notes": [
+        "Vetiver",
+        "Moss",
+        "Cistus",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "84 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "67 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "66 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "66 Ratings"
+        },
+        "pricing": {
+            "score": "6.3",
+            "votes": "49 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 18
+            },
+            {
+                "name": "Spicy",
+                "votes": 25
+            },
+            {
+                "name": "Synthetic",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 15
+            },
+            {
+                "name": "Green",
+                "votes": 29
+            },
+            {
+                "name": "Fresh",
+                "votes": 21
+            },
+            {
+                "name": "Earthy",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 29
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Classic",
+                "votes": 14
+            },
+            {
+                "name": "Modern",
+                "votes": 12
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 19
+            },
+            {
+                "name": "Summer",
+                "votes": 25
+            },
+            {
+                "name": "Spring",
+                "votes": 28
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 24
+            },
+            {
+                "name": "Sport",
+                "votes": 11
+            },
+            {
+                "name": "Leisure",
+                "votes": 24
+            },
+            {
+                "name": "Night Out",
+                "votes": 15
+            },
+            {
+                "name": "Business",
+                "votes": 22
+            },
+            {
+                "name": "Evening",
+                "votes": 11
+            }
+        ]
+    }
+}

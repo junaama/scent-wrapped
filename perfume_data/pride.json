@@ -1,0 +1,87 @@
+{
+    "name": "Pride",
+    "brand": "Proad",
+    "release_year": "2025",
+    "description": "A new perfume byProadfor women and men, released in2025. The scent is floral-oriental.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/77/77a34c_pride-proad_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Oriental",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Black pepper",
+        "Cardamom",
+        "Raspberry liqueur"
+    ],
+    "heart_notes": [
+        "Davana",
+        "Ink",
+        "Turkish rose"
+    ],
+    "base_notes": [
+        "Oak wood",
+        "Tobacco",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

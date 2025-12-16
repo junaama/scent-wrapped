@@ -1,0 +1,56 @@
+{
+    "name": "Île de Cristal",
+    "brand": "Francesca Dell'Oro",
+    "release_year": "2025",
+    "description": "A new perfume byFrancesca Dell'Orofor women and men, released in2025. The scent is fresh-aquatic.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/58/587414_ile-de-cristal-francesca-dell-oro_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Aquatic",
+        "Synthetic",
+        "Spicy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Black pepper",
+        "Nacre",
+        "Spindrift",
+        "Violet leaf absolute"
+    ],
+    "heart_notes": [
+        "Sea anemone",
+        "Algae absolute",
+        "Ambergris",
+        "Ambrette seed absolute",
+        "Immortelle absolute",
+        "Moss"
+    ],
+    "base_notes": [
+        "Cashmeran",
+        "Coral",
+        "Gurjum balsam",
+        "Ink",
+        "Labdanum",
+        "Oud",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "6.5",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {}
+}

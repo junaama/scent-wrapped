@@ -1,0 +1,29 @@
+{
+    "name": "Oody Woody",
+    "brand": "Nabeel",
+    "release_year": "2025",
+    "description": "A new perfume byNabeelfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4a/4aa5a2_oody-woody-concentrated-oil-perfume-nabeel_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Strawberry",
+        "Plum"
+    ],
+    "heart_notes": [
+        "Rose",
+        "Lily of the valley",
+        "Jasmine",
+        "Magnolia"
+    ],
+    "base_notes": [
+        "White musk",
+        "Gaiac wood",
+        "Vanilla",
+        "Patchouli",
+        "Ambergris",
+        "Cedarwood",
+        "Sandalwood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

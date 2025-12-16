@@ -1,0 +1,48 @@
+{
+    "name": "Crocus Forte",
+    "brand": "Santa Eulalia",
+    "release_year": "2025",
+    "description": "A new perfume bySanta Eulaliafor women and men, released in2025. The scent is earthy-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/34/34dfe3_crocus-forte-santa-eulalia_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Earthy",
+        "Spicy",
+        "Green",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Juniper",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Moss",
+        "Patchouli",
+        "Rum",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Clove",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

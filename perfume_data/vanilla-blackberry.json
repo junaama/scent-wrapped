@@ -1,0 +1,72 @@
+{
+    "name": "Vanilla Blackberry",
+    "brand": "Phlur",
+    "release_year": "2025",
+    "description": "A new and limited perfume byPhlurfor women and men, released in2025. The scent is fruity-sweet.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/dd/ddadd6_vanilla-blackberry-phlur_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Bitter orange",
+        "Blackberry",
+        "Blackcurrant"
+    ],
+    "heart_notes": [
+        "Purple freesia",
+        "Raspberry blossom",
+        "Vanilla orchid"
+    ],
+    "base_notes": [
+        "Amberwood",
+        "Ambrette",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "6.6",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

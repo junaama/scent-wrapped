@@ -1,0 +1,171 @@
+{
+    "name": "J-D'Orient",
+    "brand": "Jinx",
+    "release_year": "2025",
+    "description": "A new perfume byJinxfor women and men, released in2025. The scent is spicy-animal. Projection and longevity are above-average. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/64/64107f_j-d-orient-jinx_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Animal",
+        "Floral",
+        "Synthetic",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Green mandarin orange",
+        "Red mandarin orange",
+        "Coriander",
+        "Currant",
+        "Mace",
+        "Clove"
+    ],
+    "heart_notes": [
+        "Gallic rose",
+        "May rose",
+        "Aztec tobacco",
+        "Blond tobacco",
+        "Burley tobacco",
+        "Geranium",
+        "Indian rose",
+        "Blue lotus",
+        "Jasminum grandiflorum",
+        "Patchouli",
+        "Plum",
+        "Tuberose",
+        "Turkish damask rose"
+    ],
+    "base_notes": [
+        "Muscarome",
+        "Muscenone®",
+        "Castoreum",
+        "Costus root",
+        "Kashmiri musk",
+        "Mongolian musk",
+        "Siberian musk",
+        "Tibetan musk",
+        "Civet",
+        "Muskrat",
+        "Amber",
+        "Ambergris",
+        "Ambrette",
+        "Civettone",
+        "Skatole",
+        "Bangladeshian oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "20 Ratings"
+        },
+        "durability": {
+            "score": "8.9",
+            "votes": "21 Ratings"
+        },
+        "sillage": {
+            "score": "8.1",
+            "votes": "21 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "23 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            },
+            {
+                "name": "Animal",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

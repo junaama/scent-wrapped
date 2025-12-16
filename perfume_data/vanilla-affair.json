@@ -1,0 +1,68 @@
+{
+    "name": "Vanilla Affair",
+    "brand": "Modern Memory",
+    "release_year": "2025",
+    "description": "A new perfume byModern Memoryfor women, released in2025. The scent is oriental-spicy. The projection is above-average. It is being marketed byTru Fragrance / Romane Fragrances.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/57/573b74_vanilla-affair-modern-memory_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Oriental",
+        "Spicy",
+        "Gourmand",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Ambrette",
+        "Pear",
+        "Plum",
+        "Vanilla orchid"
+    ],
+    "heart_notes": [
+        "Brown sugar",
+        "Lily of the valley",
+        "Rose"
+    ],
+    "base_notes": [
+        "Blond woods",
+        "Patchouli",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            }
+        ]
+    }
+}

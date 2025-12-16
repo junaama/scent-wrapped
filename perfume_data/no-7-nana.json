@@ -1,0 +1,32 @@
+{
+    "name": "No.7 Nana",
+    "brand": "Libroaria",
+    "release_year": "2025",
+    "description": "A new perfume byLibroariafor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/58/584cfe_no-7-nana-libroaria-bluemoment_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Blackcurrant",
+        "Lemon",
+        "Orange",
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Lavender",
+        "Patchouli",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Oakmoss"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

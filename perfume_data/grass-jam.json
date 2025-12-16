@@ -1,0 +1,24 @@
+{
+    "name": "Grass Jam",
+    "brand": "aerse",
+    "release_year": "2025",
+    "description": "A new perfume byaersefor women and men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Artemisia",
+        "Juniper",
+        "Spearmint"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Pink peony"
+    ],
+    "base_notes": [
+        "Frankincense",
+        "Heliotrope",
+        "Sandalwood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

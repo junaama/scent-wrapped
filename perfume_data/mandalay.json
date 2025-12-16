@@ -1,0 +1,168 @@
+{
+    "name": "Mandalay",
+    "brand": "Nebiru Parfvms",
+    "release_year": "2025",
+    "description": "A new perfume byNebiru Parfvmsfor women and men, released in2025. The scent is floral-woody. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/98/98095e-mandalay-nebiru-parfvms_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Woody",
+        "Resinous",
+        "Spicy",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Aldehydes",
+        "Bergamot",
+        "Ginger",
+        "Pink pepper",
+        "Red mandarin orange",
+        "Rosemary",
+        "Spices",
+        "Tangerine",
+        "Tarragon",
+        "Yuzu"
+    ],
+    "heart_notes": [
+        "Thai blue lotus absolute",
+        "Indian pink lotus absolute",
+        "Jasmine sambac",
+        "Chinese gardenia",
+        "Red champaca absolute",
+        "Red Frangipani Absolute",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Burmese oud",
+        "Muskrat",
+        "Cypriol",
+        "Indonesian patchouli",
+        "Paraguayan vetiver",
+        "Resins",
+        "Thai oud",
+        "Balsam",
+        "Castoreum",
+        "Civet",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "45 Ratings"
+        },
+        "durability": {
+            "score": "8.3",
+            "votes": "38 Ratings"
+        },
+        "sillage": {
+            "score": "7.9",
+            "votes": "38 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "39 Ratings"
+        },
+        "pricing": {
+            "score": "7.3",
+            "votes": "27 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 5
+            },
+            {
+                "name": "Spicy",
+                "votes": 11
+            },
+            {
+                "name": "Smoky",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 12
+            },
+            {
+                "name": "Resinous",
+                "votes": 11
+            },
+            {
+                "name": "Earthy",
+                "votes": 6
+            },
+            {
+                "name": "Creamy",
+                "votes": 8
+            },
+            {
+                "name": "Floral",
+                "votes": 14
+            },
+            {
+                "name": "Animal",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 11
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 13
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 13
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

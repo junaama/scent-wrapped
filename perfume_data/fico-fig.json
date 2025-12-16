@@ -1,0 +1,154 @@
+{
+    "name": "Fico",
+    "brand": "L'Erbolario",
+    "release_year": "2025",
+    "description": "A new perfume byL'Erbolariofor women and men, released in2025. The scent is fruity-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3e/3edd26_fico-fig-l-erbolario_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Fresh",
+        "Creamy",
+        "Floral",
+        "Woody"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Fig",
+        "Rose"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Coconut water"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "25 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "22 Ratings"
+        },
+        "sillage": {
+            "score": "6.2",
+            "votes": "21 Ratings"
+        },
+        "bottle": {
+            "score": "6.9",
+            "votes": "22 Ratings"
+        },
+        "pricing": {
+            "score": "8.1",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Green",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 9
+            },
+            {
+                "name": "Fresh",
+                "votes": 6
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 9
+            },
+            {
+                "name": "Spring",
+                "votes": 8
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

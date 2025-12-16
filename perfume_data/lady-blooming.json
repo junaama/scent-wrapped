@@ -1,0 +1,37 @@
+{
+    "name": "Lady Blooming",
+    "brand": "Korloff",
+    "release_year": "2025",
+    "description": "A new perfume byKorlofffor women, released in2025. The scent is green-citrusy. It is being marketed byExtend Beauty / Zylangia.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/18/184752_lady-blooming-korloff_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Citrus",
+        "Woody",
+        "Fruity",
+        "Earthy"
+    ],
+    "top_notes": [
+        "Rhubarb",
+        "Bergamot",
+        "Lychee"
+    ],
+    "heart_notes": [
+        "Peony",
+        "Rose",
+        "Cedar"
+    ],
+    "base_notes": [
+        "Frankincense",
+        "Vetiver",
+        "Cashmere wood",
+        "Musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,54 @@
+{
+    "name": "White Knight",
+    "brand": "Oscar London",
+    "release_year": "2025",
+    "description": "A new perfume byOscar Londonfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f6/f67bd6_white-knight-oscar-london_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Apple",
+        "Bergamot",
+        "Mandarin orange",
+        "Pink pepper",
+        "Pistachio"
+    ],
+    "heart_notes": [
+        "Aquatic notes",
+        "Coconut",
+        "Jasmine",
+        "Neroli",
+        "Pepper",
+        "Rose",
+        "Tuberose",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Benzoin",
+        "Cashmere wood",
+        "Precious woods",
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

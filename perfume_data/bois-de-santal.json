@@ -1,0 +1,132 @@
+{
+    "name": "Bois de Santal",
+    "brand": "Karl Lagerfeld",
+    "release_year": "2025",
+    "description": "A new perfume byKarl Lagerfeldfor men, released in2025. The scent is woody-spicy. It is being marketed byInterparfums.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/85/850e63_bois-de-santal-karl-lagerfeld_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Spicy",
+        "Oriental",
+        "Creamy",
+        "Floral"
+    ],
+    "top_notes": [
+        "Cypress",
+        "Madagascan pepper",
+        "Sage"
+    ],
+    "heart_notes": [
+        "Palo Santo",
+        "Sandalwood absolute"
+    ],
+    "base_notes": [
+        "Amber",
+        "Sympep",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "11 Ratings"
+        },
+        "durability": {
+            "score": "6.4",
+            "votes": "10 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "11 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "16 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

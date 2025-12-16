@@ -1,0 +1,31 @@
+{
+    "name": "Three",
+    "brand": "Onitsuka Tiger",
+    "release_year": "2025",
+    "description": "A new perfume byOnitsuka Tigerfor women and men, released in2025. It is being marketed byPCW.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c3/c3297a_three-onitsuka-tiger_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Angelica root",
+        "Bergamot",
+        "Brazilian orange",
+        "Pink pepper CO2"
+    ],
+    "heart_notes": [
+        "Cardamom",
+        "Marine notes",
+        "Rose",
+        "Violet"
+    ],
+    "base_notes": [
+        "Almond",
+        "Ambrox",
+        "Cypriol",
+        "Musk",
+        "Patchouli",
+        "Sandalwood",
+        "Virginia cedar"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

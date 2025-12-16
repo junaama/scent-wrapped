@@ -1,0 +1,121 @@
+{
+    "name": "Forever Wanted",
+    "brand": "Azzaro",
+    "release_year": "2025",
+    "description": "A new perfume byAzzarofor men, released in2025. The scent is fruity-leathery. It is being marketed byL'Oréal.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/59/59affa_forever-wanted-azzaro_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Leathery",
+        "Sweet",
+        "Spicy",
+        "Synthetic"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "252 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "211 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "212 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "207 Ratings"
+        },
+        "pricing": {
+            "score": "7.4",
+            "votes": "192 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 32
+            },
+            {
+                "name": "Synthetic",
+                "votes": 19
+            },
+            {
+                "name": "Sweet",
+                "votes": 38
+            },
+            {
+                "name": "Leathery",
+                "votes": 43
+            },
+            {
+                "name": "Woody",
+                "votes": 14
+            },
+            {
+                "name": "Fruity",
+                "votes": 44
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 44
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 36
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 41
+            },
+            {
+                "name": "Fall",
+                "votes": 50
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 20
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 17
+            },
+            {
+                "name": "Leisure",
+                "votes": 24
+            },
+            {
+                "name": "Night Out",
+                "votes": 35
+            },
+            {
+                "name": "Business",
+                "votes": 11
+            },
+            {
+                "name": "Evening",
+                "votes": 40
+            }
+        ]
+    }
+}

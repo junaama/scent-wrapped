@@ -1,0 +1,143 @@
+{
+    "name": "Il Colore del Vento",
+    "brand": "Nobile 1942",
+    "release_year": "2025",
+    "description": "A new perfume byNobile 1942for women and men, released in2025. The scent is sweet-citrusy.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/a8/a88963_il-colore-del-vento-nobile-1942_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Citrus",
+        "Gourmand",
+        "Spicy",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Black pepper",
+        "Cardamom",
+        "Coriander",
+        "Ginger",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Bergamot",
+        "Caramel",
+        "Champagne",
+        "Coffee",
+        "Sweet notes"
+    ],
+    "base_notes": [
+        "Amber",
+        "Butter",
+        "Caramel",
+        "Vanilla",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "57 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "48 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "46 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "51 Ratings"
+        },
+        "pricing": {
+            "score": "7.8",
+            "votes": "34 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 13
+            },
+            {
+                "name": "Spicy",
+                "votes": 10
+            },
+            {
+                "name": "Sweet",
+                "votes": 16
+            },
+            {
+                "name": "Gourmand",
+                "votes": 12
+            },
+            {
+                "name": "Fruity",
+                "votes": 6
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 13
+            },
+            {
+                "name": "Modern",
+                "votes": 10
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 14
+            },
+            {
+                "name": "Fall",
+                "votes": 16
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Night Out",
+                "votes": 11
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 10
+            }
+        ]
+    }
+}

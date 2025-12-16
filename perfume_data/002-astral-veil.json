@@ -1,0 +1,45 @@
+{
+    "name": "002 Astral Veil",
+    "brand": "Zara",
+    "release_year": "2025",
+    "description": "A new perfume byZarafor men, released in2025. The scent is sweet-fruity. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2c/2ccc72_002-astral-veil-zara_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Woody",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Lily of the valley",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Hedione",
+        "Sandalwood"
+    ],
+    "base_notes": [
+        "Cashmeran",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "11 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {}
+}

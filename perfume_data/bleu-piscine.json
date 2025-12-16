@@ -1,0 +1,51 @@
+{
+    "name": "Bleu Piscine",
+    "brand": "Réservation",
+    "release_year": "2025",
+    "description": "A new perfume byRéservationfor women and men, released in2025. The scent is fresh-citrusy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/44/44f99e_blue-piscine-reservation_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Citrus",
+        "Aquatic",
+        "Green"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Geranium",
+        "Green mandarin orange",
+        "Juniper berry",
+        "Lime",
+        "Peppermint"
+    ],
+    "heart_notes": [
+        "Cypress",
+        "Lavender",
+        "Red thyme",
+        "Rosemary"
+    ],
+    "base_notes": [
+        "Cistus absolute",
+        "Patchouli",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

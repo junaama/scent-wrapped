@@ -1,0 +1,151 @@
+{
+    "name": "Moroccan Medjool",
+    "brand": "Electimuss",
+    "release_year": "2025",
+    "description": "A new perfume byElectimussfor women and men, released in2025. The scent is sweet-floral.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/71/7118c0_moroccan-medjool-electimuss_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Spicy",
+        "Fruity",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Date",
+        "Grapefruit",
+        "Bergamot",
+        "Lemon",
+        "Cardamom"
+    ],
+    "heart_notes": [
+        "Date",
+        "Rose",
+        "Ylang-ylang",
+        "Carnation",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Cashmere wood",
+        "Vanilla",
+        "Ambergris",
+        "Oakmoss"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "117 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "103 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "101 Ratings"
+        },
+        "bottle": {
+            "score": "8.6",
+            "votes": "100 Ratings"
+        },
+        "pricing": {
+            "score": "6.0",
+            "votes": "70 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 9
+            },
+            {
+                "name": "Spicy",
+                "votes": 27
+            },
+            {
+                "name": "Sweet",
+                "votes": 34
+            },
+            {
+                "name": "Oriental",
+                "votes": 23
+            },
+            {
+                "name": "Gourmand",
+                "votes": 10
+            },
+            {
+                "name": "Fruity",
+                "votes": 23
+            },
+            {
+                "name": "Creamy",
+                "votes": 14
+            },
+            {
+                "name": "Floral",
+                "votes": 30
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 30
+            },
+            {
+                "name": "Feminine",
+                "votes": 34
+            },
+            {
+                "name": "Classic",
+                "votes": 8
+            },
+            {
+                "name": "Modern",
+                "votes": 22
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 26
+            },
+            {
+                "name": "Fall",
+                "votes": 32
+            },
+            {
+                "name": "Summer",
+                "votes": 11
+            },
+            {
+                "name": "Spring",
+                "votes": 31
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 13
+            },
+            {
+                "name": "Leisure",
+                "votes": 26
+            },
+            {
+                "name": "Night Out",
+                "votes": 35
+            },
+            {
+                "name": "Business",
+                "votes": 11
+            },
+            {
+                "name": "Evening",
+                "votes": 34
+            }
+        ]
+    }
+}

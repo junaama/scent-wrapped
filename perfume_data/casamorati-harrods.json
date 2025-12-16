@@ -1,0 +1,146 @@
+{
+    "name": "Casamorati - Harrods",
+    "brand": "Xerjoff",
+    "release_year": "2025",
+    "description": "A new perfume byXerjofffor women and men, released in2025. The scent is green-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2a/2a74c6_casamorati-harrods-xerjoff_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Spicy",
+        "Fresh",
+        "Sweet",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Basil",
+        "Rosemary",
+        "Petitgrain"
+    ],
+    "heart_notes": [
+        "Cedar leaf",
+        "Cypress",
+        "Orange blossom"
+    ],
+    "base_notes": [
+        "Myrrh",
+        "Benzoin",
+        "Cypriol",
+        "Frankincense"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "63 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "57 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "55 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "63 Ratings"
+        },
+        "pricing": {
+            "score": "6.0",
+            "votes": "46 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 5
+            },
+            {
+                "name": "Spicy",
+                "votes": 14
+            },
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 4
+            },
+            {
+                "name": "Green",
+                "votes": 17
+            },
+            {
+                "name": "Fresh",
+                "votes": 11
+            },
+            {
+                "name": "Earthy",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 15
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 11
+            },
+            {
+                "name": "Summer",
+                "votes": 11
+            },
+            {
+                "name": "Spring",
+                "votes": 15
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 16
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 10
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Typhoon",
+    "brand": "Pegador",
+    "release_year": "2025",
+    "description": "A new perfume byPegadorfor men, released in2025. It is being marketed by2 Pilots.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/dd/dd00bc_typhoon-pegador_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Apple",
+        "Bergamot",
+        "Cardamom",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Lavender",
+        "Pineapple"
+    ],
+    "base_notes": [
+        "Amber",
+        "Moss",
+        "Patchouli",
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.8",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {}
+}

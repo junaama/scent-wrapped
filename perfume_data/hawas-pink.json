@@ -1,0 +1,48 @@
+{
+    "name": "Hawas Pink",
+    "brand": "Rasasi",
+    "release_year": "2025",
+    "description": "A new perfume byRasasifor women, released in2025. The scent is sweet-fruity. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/94/94ffa1_hawas-pink-rasasi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Spicy",
+        "Gourmand",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Nutmeg",
+        "Cinnamon",
+        "Egyptian neroli"
+    ],
+    "heart_notes": [
+        "Marshmallow",
+        "Orange blossom",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Cotton candy",
+        "Tonka bean absolute",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,86 @@
+{
+    "name": "Rose of Dawn",
+    "brand": "Jinx",
+    "release_year": "2025",
+    "description": "A new and limited perfume byJinxfor women and men, released in2025. Projection and longevity are above-average. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/0c/0c87ca_rose-of-dawn-jinx_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Lily",
+        "Citrus notes",
+        "Jasmine"
+    ],
+    "heart_notes": [
+        "Iris resinoid",
+        "Orris butter",
+        "Taif rose"
+    ],
+    "base_notes": [
+        "Kashmiri musk",
+        "Cedar",
+        "Mysore sandalwood",
+        "Thai oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "9 Ratings"
+        },
+        "durability": {
+            "score": "8.7",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "6.1",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

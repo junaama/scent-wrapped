@@ -1,0 +1,33 @@
+{
+    "name": "Cherry Cream Dream",
+    "brand": "The Dua Brand",
+    "release_year": "2025",
+    "description": "A new perfume byThe Dua Brandfor women and men, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/11/11b117_cherry-cream-dream-the-dua-brand_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cherry",
+        "Citrus zest",
+        "Red berries"
+    ],
+    "heart_notes": [
+        "Cake",
+        "Cotton candy",
+        "Jasmine",
+        "Sugar icing",
+        "Vanilla cream"
+    ],
+    "base_notes": [
+        "Amber",
+        "Sandalwood",
+        "Tonka bean",
+        "White musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

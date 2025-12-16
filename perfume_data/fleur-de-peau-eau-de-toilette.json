@@ -1,0 +1,129 @@
+{
+    "name": "Fleur de Peau",
+    "brand": "Diptyque",
+    "release_year": "2025",
+    "description": "A new perfume byDiptyquefor women and men, released in2025. The scent is powdery-fresh. It is being marketed byManzanita Capital.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/08/088826_fleur-de-peau-eau-de-toilette-diptyque_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Powdery",
+        "Fresh",
+        "Floral",
+        "Woody",
+        "Synthetic"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "76 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "54 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "54 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "51 Ratings"
+        },
+        "pricing": {
+            "score": "7.4",
+            "votes": "37 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Powdery",
+                "votes": 21
+            },
+            {
+                "name": "Woody",
+                "votes": 9
+            },
+            {
+                "name": "Fresh",
+                "votes": 21
+            },
+            {
+                "name": "Floral",
+                "votes": 21
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 23
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 13
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 13
+            },
+            {
+                "name": "Fall",
+                "votes": 17
+            },
+            {
+                "name": "Summer",
+                "votes": 21
+            },
+            {
+                "name": "Spring",
+                "votes": 23
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 24
+            },
+            {
+                "name": "Sport",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 22
+            },
+            {
+                "name": "Night Out",
+                "votes": 10
+            },
+            {
+                "name": "Business",
+                "votes": 20
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

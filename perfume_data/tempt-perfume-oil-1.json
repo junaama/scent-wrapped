@@ -1,0 +1,26 @@
+{
+    "name": "Tempt",
+    "brand": "Renewed Scents",
+    "release_year": "2025",
+    "description": "A new perfume byRenewed Scentsfor women, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Peach",
+        "Red currant",
+        "Vanilla"
+    ],
+    "heart_notes": [
+        "Bulgarian rose",
+        "Frangipani",
+        "Jasmine",
+        "Mimosa"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

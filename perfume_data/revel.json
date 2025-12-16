@@ -1,0 +1,93 @@
+{
+    "name": "Revel",
+    "brand": "The Maker",
+    "release_year": "2025",
+    "description": "A new perfume byThe Makerfor women and men, released in2025. The scent is floral-fruity. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/2e/2eb194_revel-the-maker_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fruity",
+        "Citrus",
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Lychee",
+        "Grapefruit",
+        "Rose water"
+    ],
+    "heart_notes": [
+        "Pineapple",
+        "Frangipani",
+        "Tiaré"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Indian sandalwood",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            }
+        ]
+    }
+}

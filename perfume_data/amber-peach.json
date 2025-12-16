@@ -1,0 +1,31 @@
+{
+    "name": "Amber Peach",
+    "brand": "INGRID",
+    "release_year": "2025",
+    "description": "A new perfume byINGRIDfor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/9f/9f0f09_amber-peach-ingrid_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Apple",
+        "Grapefruit",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Floral notes",
+        "Jasmine",
+        "White rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Orris root",
+        "Peach",
+        "Plum",
+        "Raspberry",
+        "Vanilla",
+        "Violet",
+        "White musk",
+        "Woods"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

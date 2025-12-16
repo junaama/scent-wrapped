@@ -1,0 +1,25 @@
+{
+    "name": "Core Vetiver",
+    "brand": "Cyklar",
+    "release_year": "2025",
+    "description": "A new perfume byCyklarfor women and men, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/0b/0bbd3b_core-vetiver-cyklar_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Citrus zest",
+        "Freesia",
+        "Tea tree"
+    ],
+    "heart_notes": [
+        "Clary sage",
+        "Eucalyptus",
+        "Rosemary"
+    ],
+    "base_notes": [
+        "Cedar",
+        "Driftwood",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

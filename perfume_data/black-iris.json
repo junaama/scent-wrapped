@@ -1,0 +1,133 @@
+{
+    "name": "Black Iris",
+    "brand": "Borsalino",
+    "release_year": "2025",
+    "description": "A new perfume byBorsalinofor men, released in2025. The scent is floral-powdery. It is being marketed byPerfume Street.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/bf/bfc871_black-iris-borsalino_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Powdery",
+        "Sweet",
+        "Spicy",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Geranium",
+        "Guatemala cardamom",
+        "Italian bergamot"
+    ],
+    "heart_notes": [
+        "Carrot seed",
+        "Italian iris concrete",
+        "Vanilla biscuit"
+    ],
+    "base_notes": [
+        "Amberwood",
+        "Cetalox®",
+        "Virginia cedar"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Powdery",
+                "votes": 4
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

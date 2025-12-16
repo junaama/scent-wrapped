@@ -1,0 +1,75 @@
+{
+    "name": "Zodiac Lunaris",
+    "brand": "Paris Corner",
+    "release_year": "2025",
+    "description": "A new perfume byParis Cornerfor women and men, released in2025. The scent is leathery-oriental. Projection and longevity are above-average. It is being marketed byParis Corner Perfumes.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/0b/0b054e_zodiac-lunaris-paris-corner_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Leathery",
+        "Oriental",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Cinnamon",
+        "Liqueur",
+        "Nutmeg"
+    ],
+    "heart_notes": [
+        "Amber notes",
+        "Cashmere",
+        "Leather",
+        "Nuts"
+    ],
+    "base_notes": [
+        "Benzoin",
+        "Musk",
+        "Oud",
+        "Patchouli",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

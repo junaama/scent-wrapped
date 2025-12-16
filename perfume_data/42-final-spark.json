@@ -1,0 +1,27 @@
+{
+    "name": "42. Final Spark",
+    "brand": "Royal Water",
+    "release_year": "2025",
+    "description": "A new perfume byRoyal Waterfor women and men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Orange",
+        "Peach"
+    ],
+    "heart_notes": [
+        "Lily",
+        "Neroli",
+        "Orchid",
+        "Rose",
+        "Violet"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

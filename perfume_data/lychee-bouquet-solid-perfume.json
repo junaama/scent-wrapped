@@ -1,0 +1,25 @@
+{
+    "name": "Lychee Bouquet",
+    "brand": "Flower Knows",
+    "release_year": "2025",
+    "description": "A new perfume byFlower Knowsfor women, released in2025. The scent is floral.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/40/409eac_lychee-bouquet-solid-perfume-flower-knows_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral"
+    ],
+    "top_notes": [
+        "Berries",
+        "Blackcurrant",
+        "Lemon",
+        "Lychee"
+    ],
+    "heart_notes": [
+        "Rose",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

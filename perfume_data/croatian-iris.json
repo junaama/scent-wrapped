@@ -1,0 +1,140 @@
+{
+    "name": "Croatian Iris",
+    "brand": "Jinx",
+    "release_year": "2025",
+    "description": "A new perfume byJinxfor women and men, released in2025. The scent is woody-floral.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/37/373679_croatian-iris-jinx_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Floral",
+        "Fruity",
+        "Sweet",
+        "Animal"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Blackcurrant",
+        "Neroli",
+        "Spices"
+    ],
+    "heart_notes": [
+        "Iris germanica",
+        "Iris pallida",
+        "Orris absolute",
+        "Orris butter",
+        "Peach",
+        "Tobacco",
+        "Violet"
+    ],
+    "base_notes": [
+        "Chinese oud",
+        "Civet",
+        "Hyraceum",
+        "Kashmiri musk",
+        "Mongolian musk",
+        "Mysore sandalwood",
+        "Oakmoss",
+        "Thai oud",
+        "White ambergris"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "12 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "10 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "10 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            },
+            {
+                "name": "Animal",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            }
+        ]
+    }
+}

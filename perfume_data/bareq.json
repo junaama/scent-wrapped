@@ -1,0 +1,28 @@
+{
+    "name": "Bareq",
+    "brand": "Ard Al Zaafaran",
+    "release_year": "2025",
+    "description": "A new perfume byArd Al Zaafaranfor women and men, released in2025. The scent is citrusy-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/98/98ea8a_bareq-ard-al-zaafaran_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Grapefruit",
+        "Lemon",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Praliné",
+        "Sage",
+        "Tea"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Oakmoss"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

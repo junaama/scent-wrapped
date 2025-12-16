@@ -1,0 +1,146 @@
+{
+    "name": "Tempt Me",
+    "brand": "Naomi Jon",
+    "release_year": "2025",
+    "description": "A new perfume byNaomi Jonfor women, released in2025. The scent is sweet-gourmand. It is being marketed byLifestyle Fragrance & Beauty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/79/790a9b_tempt-me-naomi-jon_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Synthetic",
+        "Creamy",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Biscuit",
+        "Caramel",
+        "Pistachio"
+    ],
+    "heart_notes": [
+        "Apple",
+        "Jasmine",
+        "Peach"
+    ],
+    "base_notes": [
+        "Almond",
+        "Milk",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.5",
+            "votes": "17 Ratings"
+        },
+        "durability": {
+            "score": "5.5",
+            "votes": "13 Ratings"
+        },
+        "sillage": {
+            "score": "5.3",
+            "votes": "15 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "19 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "name": "Pour Homme II",
+    "brand": "Duftanker MGO Duftmanufaktur",
+    "release_year": "2025",
+    "description": "A new perfume byDuftanker MGO Duftmanufakturfor men, released in2025. The scent is spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/1f/1f504f_pour-homme-ii-duftanker-mgo-duftmanufaktur_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy"
+    ],
+    "top_notes": [
+        "Basil",
+        "Clary sage",
+        "Lavender",
+        "Orange zest",
+        "Pepper"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Clove",
+        "Geranium",
+        "Jasmine",
+        "Sandalwood",
+        "Tarragon"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Oakmoss",
+        "Patchouli",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

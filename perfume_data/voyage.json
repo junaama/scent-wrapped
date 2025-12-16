@@ -1,0 +1,27 @@
+{
+    "name": "Voyage",
+    "brand": "Stephen Cordina",
+    "release_year": "2025",
+    "description": "A new perfume byStephen Cordinafor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c9/c9cb43_voyage-stephen-cordina_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Orange",
+        "Pink grapefruit",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Cardamom",
+        "Geranium",
+        "Precious woods"
+    ],
+    "base_notes": [
+        "Amber",
+        "Benzoin",
+        "Musk",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

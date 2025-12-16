@@ -1,0 +1,33 @@
+{
+    "name": "C Major",
+    "brand": "Siam 1928",
+    "release_year": "2025",
+    "description": "A new perfume bySiam 1928for women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/0f/0f4b64_c-major-siam-1928_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Orange",
+        "Peach"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Oolong tea"
+    ],
+    "base_notes": [
+        "Maté",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.6",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

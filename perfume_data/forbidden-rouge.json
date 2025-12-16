@@ -1,0 +1,162 @@
+{
+    "name": "Forbidden Rouge",
+    "brand": "Mystikum",
+    "release_year": "2025",
+    "description": "A new and limited perfume byMystikumfor women and men, released in2025. The scent is sweet-floral. It is being marketed byScherk.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/c4/c485da_forbidden-rouge-mystikum_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Floral",
+        "Fruity",
+        "Synthetic",
+        "Leathery"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Blackcurrant",
+        "Clary sage",
+        "Saffron",
+        "Ginger",
+        "Star anise"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Lavender",
+        "Rosemary",
+        "Cherry",
+        "Freesia",
+        "Raspberry"
+    ],
+    "base_notes": [
+        "Orcanox",
+        "Vanilla",
+        "Cedarwood",
+        "Patchouli",
+        "Tonka bean",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "21 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "19 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "17 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "26 Ratings"
+        },
+        "pricing": {
+            "score": "5.5",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Leathery",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Earthy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 9
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "name": "Fico di Amalfi La Riserva",
+    "brand": "Acqua di Parma",
+    "release_year": "2025",
+    "description": "A new perfume byAcqua di Parmafor women and men, released in2025. The scent is fruity-sweet. It is being marketed byLVMH.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/79/79e893_fico-di-amalfi-la-riserva-acqua-di-parma_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Fresh",
+        "Citrus",
+        "Green"
+    ],
+    "top_notes": [
+        "Grapefruit",
+        "Italian blood orange",
+        "Italian lemon",
+        "Italian mandarin orange"
+    ],
+    "heart_notes": [
+        "Orris concrete",
+        "Fig",
+        "Lemon"
+    ],
+    "base_notes": [
+        "Ambrettolide",
+        "Orcanox",
+        "Tonka bean absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "88 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "82 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "81 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "78 Ratings"
+        },
+        "pricing": {
+            "score": "6.6",
+            "votes": "69 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 18
+            },
+            {
+                "name": "Sweet",
+                "votes": 22
+            },
+            {
+                "name": "Green",
+                "votes": 15
+            },
+            {
+                "name": "Fruity",
+                "votes": 26
+            },
+            {
+                "name": "Fresh",
+                "votes": 20
+            },
+            {
+                "name": "Creamy",
+                "votes": 10
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 26
+            },
+            {
+                "name": "Feminine",
+                "votes": 16
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 23
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 29
+            },
+            {
+                "name": "Spring",
+                "votes": 22
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 25
+            },
+            {
+                "name": "Sport",
+                "votes": 9
+            },
+            {
+                "name": "Leisure",
+                "votes": 23
+            },
+            {
+                "name": "Night Out",
+                "votes": 12
+            },
+            {
+                "name": "Business",
+                "votes": 18
+            },
+            {
+                "name": "Evening",
+                "votes": 12
+            }
+        ]
+    }
+}

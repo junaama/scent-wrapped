@@ -1,0 +1,137 @@
+{
+    "name": "Sì Passione Red Musk",
+    "brand": "Giorgio Armani",
+    "release_year": "2025",
+    "description": "A new perfume byGiorgio Armanifor women, released in2025. The scent is sweet-fruity. It is being marketed byL'Oréal.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ba/ba1681_si-passione-red-musk-giorgio-armani_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Floral",
+        "Creamy",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Strawberry",
+        "Pear",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Damask rose",
+        "Milk",
+        "White peony"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "White musk",
+        "Benzoin"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "77 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "64 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "62 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "72 Ratings"
+        },
+        "pricing": {
+            "score": "6.2",
+            "votes": "49 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 25
+            },
+            {
+                "name": "Gourmand",
+                "votes": 11
+            },
+            {
+                "name": "Fruity",
+                "votes": 25
+            },
+            {
+                "name": "Creamy",
+                "votes": 11
+            },
+            {
+                "name": "Floral",
+                "votes": 17
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 27
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 14
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 13
+            },
+            {
+                "name": "Fall",
+                "votes": 15
+            },
+            {
+                "name": "Summer",
+                "votes": 14
+            },
+            {
+                "name": "Spring",
+                "votes": 21
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 16
+            },
+            {
+                "name": "Leisure",
+                "votes": 21
+            },
+            {
+                "name": "Night Out",
+                "votes": 15
+            },
+            {
+                "name": "Business",
+                "votes": 13
+            },
+            {
+                "name": "Evening",
+                "votes": 12
+            }
+        ]
+    }
+}

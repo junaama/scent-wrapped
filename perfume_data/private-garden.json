@@ -1,0 +1,145 @@
+{
+    "name": "Private Garden",
+    "brand": "Marc Gebauer",
+    "release_year": "2025",
+    "description": "A new perfume byMarc Gebauerfor women and men, released in2025. The scent is fresh-sweet.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/07/0727c2-private-garden-marc-gebauer_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Sweet",
+        "Green",
+        "Floral",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Green apple",
+        "Australian eucalyptus",
+        "Italian bergamot"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Bourbon vanilla",
+        "Persian jasmine"
+    ],
+    "base_notes": [
+        "Musk",
+        "Vanilla",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "710 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "679 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "678 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "653 Ratings"
+        },
+        "pricing": {
+            "score": "6.8",
+            "votes": "630 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 59
+            },
+            {
+                "name": "Sweet",
+                "votes": 98
+            },
+            {
+                "name": "Green",
+                "votes": 83
+            },
+            {
+                "name": "Fruity",
+                "votes": 43
+            },
+            {
+                "name": "Fresh",
+                "votes": 121
+            },
+            {
+                "name": "Creamy",
+                "votes": 30
+            },
+            {
+                "name": "Floral",
+                "votes": 64
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 120
+            },
+            {
+                "name": "Feminine",
+                "votes": 38
+            },
+            {
+                "name": "Classic",
+                "votes": 32
+            },
+            {
+                "name": "Modern",
+                "votes": 86
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 37
+            },
+            {
+                "name": "Fall",
+                "votes": 70
+            },
+            {
+                "name": "Summer",
+                "votes": 130
+            },
+            {
+                "name": "Spring",
+                "votes": 134
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 132
+            },
+            {
+                "name": "Sport",
+                "votes": 48
+            },
+            {
+                "name": "Leisure",
+                "votes": 114
+            },
+            {
+                "name": "Night Out",
+                "votes": 49
+            },
+            {
+                "name": "Business",
+                "votes": 100
+            },
+            {
+                "name": "Evening",
+                "votes": 42
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Kaos",
+    "brand": "Tous",
+    "release_year": "2025",
+    "description": "A new perfume byTousfor women, released in2025. It is being marketed byPerfumes y Diseño.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/eb/eb9d30_kaos-tous_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Lemon",
+        "Pear",
+        "Red fruits sorbet"
+    ],
+    "heart_notes": [
+        "Jasmine sambac",
+        "Peach",
+        "Rose"
+    ],
+    "base_notes": [
+        "Crystallised moss",
+        "Praliné",
+        "White musk",
+        "White woods"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.5",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {}
+}

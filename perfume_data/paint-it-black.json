@@ -1,0 +1,138 @@
+{
+    "name": "Paint It Black",
+    "brand": "The Rolling Stones",
+    "release_year": "2025",
+    "description": "A new perfume byThe Rolling Stonesfor women and men, released in2025. The scent is woody-spicy. It is being marketed byNirvana Brands.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/46/46691e_paint-it-black-the-rolling-stones_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Spicy",
+        "Sweet",
+        "Synthetic",
+        "Leathery"
+    ],
+    "top_notes": [
+        "Blackberry",
+        "Pink pepper",
+        "Nutmeg"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Rose",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Oud",
+        "Musk",
+        "Patchouli",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.2",
+            "votes": "24 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "23 Ratings"
+        },
+        "sillage": {
+            "score": "5.6",
+            "votes": "23 Ratings"
+        },
+        "bottle": {
+            "score": "6.0",
+            "votes": "27 Ratings"
+        },
+        "pricing": {
+            "score": "4.4",
+            "votes": "18 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 8
+            },
+            {
+                "name": "Synthetic",
+                "votes": 7
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Leathery",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 10
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 9
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 9
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

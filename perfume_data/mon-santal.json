@@ -1,0 +1,131 @@
+{
+    "name": "Mon Santal",
+    "brand": "Astrophil & Stella",
+    "release_year": "2025",
+    "description": "A new perfume byAstrophil & Stellafor women and men, released in2025. The scent is sweet-woody. The longevity is above-average. It is being marketed byGida Profumi.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ca/cae7d6_mon-santal-astrophil-stella_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Woody",
+        "Creamy",
+        "Spicy",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Nutmeg",
+        "Rice",
+        "Bergamot",
+        "Grapefruit",
+        "Pink pepper",
+        "Rhubarb"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Lactone",
+        "Palo Santo"
+    ],
+    "base_notes": [
+        "Australian sandalwood",
+        "Vanilla",
+        "Ambroxan",
+        "Caramel",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "39 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "29 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "29 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "30 Ratings"
+        },
+        "pricing": {
+            "score": "7.6",
+            "votes": "23 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Woody",
+                "votes": 8
+            },
+            {
+                "name": "Gourmand",
+                "votes": 6
+            },
+            {
+                "name": "Creamy",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Modern",
+                "votes": 10
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 10
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 9
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

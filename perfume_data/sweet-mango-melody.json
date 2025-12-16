@@ -1,0 +1,85 @@
+{
+    "name": "Sweet Mango Melody",
+    "brand": "Grandeur",
+    "release_year": "2025",
+    "description": "A new perfume byGrandeurfor women and men, released in2025. The scent is fresh-floral. It is being marketed byABC Fragrances.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/d8/d80acf_sweet-mango-melody-grandeur_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Floral",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Grapefruit",
+        "Mango"
+    ],
+    "heart_notes": [
+        "Cashmere",
+        "Mango",
+        "Pudding",
+        "Violet",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Musk",
+        "Patchouli",
+        "Peach"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

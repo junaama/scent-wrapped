@@ -1,0 +1,78 @@
+{
+    "name": "2 Minutes to Midnight",
+    "brand": "The Fragrance",
+    "release_year": "2025",
+    "description": "A new and limited perfume byThe Fragrancefor women and men, released in2025. The longevity is above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/1d/1d6edf_2-minutes-to-midnight-the-fragrance_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Green notes",
+        "Lemon",
+        "Yuzu"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lily of the valley",
+        "Orange blossom",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Oud",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "7.9",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "8.6",
+            "votes": "16 Ratings"
+        }
+    },
+    "community_charts": {
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

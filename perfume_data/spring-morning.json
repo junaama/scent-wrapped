@@ -1,0 +1,99 @@
+{
+    "name": "Spring Morning",
+    "brand": "Sand + Fog",
+    "release_year": "2025",
+    "description": "A new perfume bySand + Fogfor women and men, released in2025. The scent is citrusy-woody.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/98/9820e8_spring-morning-sand-fog_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Woody",
+        "Fresh",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Mandarin orange",
+        "Orange",
+        "Pepper"
+    ],
+    "heart_notes": [
+        "Cypress",
+        "Frankincense",
+        "Pine",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Sandalwood",
+        "Vanilla",
+        "Woods"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "name": "Emerald Herb",
+    "brand": "House of Atropa",
+    "release_year": "2025",
+    "description": "A new perfume byHouse of Atropafor women and men, released in2025. The scent is woody-spicy. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3f/3f8b9d_emerald-herb-house-of-atropa_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Spicy",
+        "Green",
+        "Sweet",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Heliotrope",
+        "Ice accord",
+        "Lemonade",
+        "Neroli",
+        "Salt",
+        "Unripe fruits",
+        "White tea"
+    ],
+    "heart_notes": [
+        "Artemisia",
+        "Fern",
+        "Everlasting flower",
+        "Sugar"
+    ],
+    "base_notes": [
+        "Cabreuva",
+        "Formosan cypress",
+        "Frankincense",
+        "Oud",
+        "Cedar",
+        "Moss"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "9.0",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {}
+}

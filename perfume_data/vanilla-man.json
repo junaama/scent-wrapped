@@ -1,0 +1,30 @@
+{
+    "name": "Vanilla Man",
+    "brand": "Ellis Brooklyn",
+    "release_year": "2025",
+    "description": "A new perfume byEllis Brooklynfor men, released in2025. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/2c/2c81bb_vanilla-man-ellis-brooklyn_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Juniper",
+        "Mandarin orange leaf"
+    ],
+    "heart_notes": [
+        "Clary sage",
+        "Elemi resin",
+        "Lavender bud"
+    ],
+    "base_notes": [
+        "Atlas cedar",
+        "Frankincense",
+        "Vanilla absolute"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {}
+}

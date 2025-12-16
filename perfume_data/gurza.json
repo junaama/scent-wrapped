@@ -1,0 +1,39 @@
+{
+    "name": "Gurza",
+    "brand": "House of Atropa",
+    "release_year": "2025",
+    "description": "A new perfume byHouse of Atropafor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/62/625047_gurza-house-of-atropa_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Champagne",
+        "Cherry",
+        "Durian fruit"
+    ],
+    "heart_notes": [
+        "Cabreuva",
+        "Durian fruit",
+        "Everlasting flower",
+        "Heliotrope",
+        "Honey",
+        "Leather",
+        "Lime",
+        "Mimosa",
+        "Moss",
+        "Sugar",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Cedar",
+        "Oud",
+        "Patchouli",
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

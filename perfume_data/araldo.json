@@ -1,0 +1,37 @@
+{
+    "name": "Araldo",
+    "brand": "Danhera",
+    "release_year": "2025",
+    "description": "A new perfume byDanherafor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/e8/e8544a_araldo-danhera_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blackberry",
+        "Blackcurrant",
+        "Bulgarian rose",
+        "Coconut",
+        "Freesia",
+        "Grapefruit",
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Gardenia",
+        "Italian hazelnut",
+        "Lily of the valley",
+        "Lychee",
+        "Peony",
+        "Pink pepper",
+        "Tuberose",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Bourbon vanilla",
+        "French labdanum",
+        "Musk",
+        "Oakmoss",
+        "Spikenard",
+        "Sugar cane"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,150 @@
+{
+    "name": "Chypre de Grand",
+    "brand": "Maksim Perfume",
+    "release_year": "2025",
+    "description": "A new perfume byMaksim Perfumefor women and men, released in2025. The scent is citrusy-chypre. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/63/63c05e_chypre-de-grand-maksim-perfume_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Chypre",
+        "Green",
+        "Resinous",
+        "Smoky"
+    ],
+    "top_notes": [
+        "White grapefruit",
+        "Lime",
+        "Italian bergamot"
+    ],
+    "heart_notes": [
+        "Thai licorice",
+        "May rose",
+        "Siam benzoin",
+        "Siberian deer musk",
+        "Styrax",
+        "Beeswax",
+        "Paraguayan gaiac wood"
+    ],
+    "base_notes": [
+        "French oakmoss",
+        "Virginia cedar",
+        "Indonesian patchouli",
+        "Spanish labdanum"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "14 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "10 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "10 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Chypre",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            },
+            {
+                "name": "Animal",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

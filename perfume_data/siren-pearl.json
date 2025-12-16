@@ -1,0 +1,35 @@
+{
+    "name": "Siren Pearl",
+    "brand": "Skylar",
+    "release_year": "2025",
+    "description": "A new and limited perfume bySkylarfor women and men, released in2025. The scent is floral-fruity.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/6a/6a6972_siren-pearl-skylar_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fruity",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Passion fruit",
+        "Peach",
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Coconut water",
+        "Lily of the valley",
+        "Monoï",
+        "Sea salt"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sandalwood",
+        "Woods"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "4.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

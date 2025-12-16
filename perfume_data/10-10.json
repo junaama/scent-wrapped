@@ -1,0 +1,44 @@
+{
+    "name": "10/10",
+    "brand": "Syxgott",
+    "release_year": "2025",
+    "description": "A new perfume bySyxgottfor men, released in2025. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a5/a52c41_10-10-syxgott_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Mandarin orange",
+        "Oud",
+        "Peony"
+    ],
+    "heart_notes": [
+        "Apple",
+        "Frankincense",
+        "Praliné"
+    ],
+    "base_notes": [
+        "Blond woods",
+        "Cedar",
+        "Cherry",
+        "Patchouli",
+        "Raspberry"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.9",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

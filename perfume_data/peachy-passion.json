@@ -1,0 +1,42 @@
+{
+    "name": "Peachy Passion",
+    "brand": "PURE. Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byPURE. Parfumsfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/11/1162e2_peachy-passion-pure-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Blood orange",
+        "Peach"
+    ],
+    "heart_notes": [
+        "Cognac",
+        "Rum"
+    ],
+    "base_notes": [
+        "Cashmere wood",
+        "Patchouli",
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "3.8",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.8",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

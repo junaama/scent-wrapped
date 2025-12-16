@@ -1,0 +1,152 @@
+{
+    "name": "Oudous Lux Solis",
+    "brand": "Nishane",
+    "release_year": "2025",
+    "description": "A new perfume byNishanefor women and men, released in2025. The scent is fruity-woody. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7d/7d59a4_oudous-lux-solis-nishane_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Woody",
+        "Sweet",
+        "Oriental",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Tropical fruits",
+        "Honey pomelo",
+        "Italian mandarin orange"
+    ],
+    "heart_notes": [
+        "Honey",
+        "Spanish cistus"
+    ],
+    "base_notes": [
+        "Akigalawood®",
+        "Oud",
+        "Indonesian patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "62 Ratings"
+        },
+        "durability": {
+            "score": "8.9",
+            "votes": "58 Ratings"
+        },
+        "sillage": {
+            "score": "8.3",
+            "votes": "58 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "57 Ratings"
+        },
+        "pricing": {
+            "score": "6.1",
+            "votes": "52 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 5
+            },
+            {
+                "name": "Spicy",
+                "votes": 10
+            },
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 15
+            },
+            {
+                "name": "Oriental",
+                "votes": 13
+            },
+            {
+                "name": "Leathery",
+                "votes": 9
+            },
+            {
+                "name": "Woody",
+                "votes": 19
+            },
+            {
+                "name": "Fruity",
+                "votes": 21
+            },
+            {
+                "name": "Fresh",
+                "votes": 5
+            },
+            {
+                "name": "Animal",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 16
+            },
+            {
+                "name": "Feminine",
+                "votes": 12
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 18
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 21
+            },
+            {
+                "name": "Fall",
+                "votes": 20
+            },
+            {
+                "name": "Summer",
+                "votes": 12
+            },
+            {
+                "name": "Spring",
+                "votes": 15
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Leisure",
+                "votes": 15
+            },
+            {
+                "name": "Night Out",
+                "votes": 17
+            },
+            {
+                "name": "Business",
+                "votes": 9
+            },
+            {
+                "name": "Evening",
+                "votes": 17
+            }
+        ]
+    }
+}

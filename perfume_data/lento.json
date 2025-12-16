@@ -1,0 +1,40 @@
+{
+    "name": "Lento",
+    "brand": "Marcoccia",
+    "release_year": "2025",
+    "description": "A new perfume byMarcocciafor women and men, released in2025. The scent is resinous-citrusy.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/63/6355f0_lento-marcoccia-officine-del-profumo_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Citrus",
+        "Floral",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Hay",
+        "Bergamot",
+        "Lemon",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Olive oil",
+        "Orange blossom",
+        "Petitgrain"
+    ],
+    "base_notes": [
+        "Beeswax",
+        "Cedarwood",
+        "Mastic"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "4.3",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

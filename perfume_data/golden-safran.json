@@ -1,0 +1,159 @@
+{
+    "name": "Golden Safran",
+    "brand": "Lou de Pre",
+    "release_year": "2025",
+    "description": "A new perfume byLou de Prefor men, released in2025. The scent is spicy-resinous. It is being marketed byLCC Brands.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9a/9aca7c_golden-safran-lou-de-pre_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Resinous",
+        "Green",
+        "Smoky",
+        "Woody"
+    ],
+    "top_notes": [
+        "Liquorice",
+        "Pink pepper",
+        "Cardamom",
+        "Grapefruit"
+    ],
+    "heart_notes": [
+        "Lavender",
+        "Nutmeg",
+        "Cinnamon"
+    ],
+    "base_notes": [
+        "Oakmoss",
+        "Patchouli",
+        "Vetiver",
+        "Labdanum"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "42 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "38 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "38 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "40 Ratings"
+        },
+        "pricing": {
+            "score": "8.9",
+            "votes": "38 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 4
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Resinous",
+                "votes": 6
+            },
+            {
+                "name": "Green",
+                "votes": 5
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Fougère",
+                "votes": 3
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 9
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

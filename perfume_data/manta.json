@@ -1,0 +1,130 @@
+{
+    "name": "Manta",
+    "brand": "Ibraheem Al.Qurashi",
+    "release_year": "2025",
+    "description": "A new perfume byIbraheem Al.Qurashifor women and men, released in2025. The scent is synthetic-leathery. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/37/371e7e_manta-ibraheem-al-qurashi_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Leathery",
+        "Woody",
+        "Fruity",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Blackcurrant",
+        "Saffron",
+        "Tropical fruits"
+    ],
+    "heart_notes": [
+        "Benzoin",
+        "Oud",
+        "Raspberry"
+    ],
+    "base_notes": [
+        "Amber",
+        "Leather",
+        "Patchouli",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.0",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "9.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "9.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

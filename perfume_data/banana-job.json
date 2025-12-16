@@ -1,0 +1,34 @@
+{
+    "name": "Banana Job",
+    "brand": "Fluez",
+    "release_year": "2025",
+    "description": "A new perfume byFluezfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/38/38de8d_banana-job-fluez_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Banana leaf",
+        "Basil",
+        "Blackcurrant",
+        "Clove",
+        "Tagetes"
+    ],
+    "heart_notes": [
+        "Banana",
+        "Jasmine",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Mineral notes",
+        "Musk",
+        "Patchouli",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

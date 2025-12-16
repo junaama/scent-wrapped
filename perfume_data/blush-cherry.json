@@ -1,0 +1,119 @@
+{
+    "name": "Blush Cherry",
+    "brand": "Benetton",
+    "release_year": "2025",
+    "description": "A new perfume byBenettonfor women, released in2025. The scent is fruity-floral. It is being marketed byPuig.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/da/da7536_blush-cherry-benetton_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Floral",
+        "Sweet",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Pear",
+        "Pink pepper",
+        "Cherry",
+        "Red berries"
+    ],
+    "heart_notes": [
+        "Orange blossom",
+        "Rose",
+        "Iris",
+        "Jasmine sambac"
+    ],
+    "base_notes": [
+        "Praliné",
+        "Moss",
+        "Patchouli",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "5.6",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "5.4",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "6.9",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

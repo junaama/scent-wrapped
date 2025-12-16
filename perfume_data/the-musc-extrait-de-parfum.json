@@ -1,0 +1,143 @@
+{
+    "name": "The Musc",
+    "brand": "Essential Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byEssential Parfumsfor women and men, released in2025. The scent is powdery-woody.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/4c/4c578a_the-musc-extrait-de-parfum-essential-parfums_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Powdery",
+        "Woody",
+        "Floral",
+        "Fruity",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Cinnamon"
+    ],
+    "heart_notes": [
+        "Fruity notes",
+        "Georgywood®",
+        "Rose"
+    ],
+    "base_notes": [
+        "Ambrarome absolute",
+        "Ambrofix",
+        "Beeswax absolute",
+        "Patchouli",
+        "White musk",
+        "Sandalwood",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

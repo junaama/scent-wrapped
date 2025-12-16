@@ -1,0 +1,32 @@
+{
+    "name": "Magic Mango",
+    "brand": "Fugazzi",
+    "release_year": "2025",
+    "description": "A new perfume byFugazzifor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/90/908eda_magic-mango-body-mist-fugazzi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Clove",
+        "Mango",
+        "Nutmeg"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Leather",
+        "Moss",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Akigalawood®",
+        "Cypriol",
+        "Patchouli",
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

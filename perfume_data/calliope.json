@@ -1,0 +1,26 @@
+{
+    "name": "Calliope",
+    "brand": "Elysian Soap Shop",
+    "release_year": "2025",
+    "description": "A new perfume byElysian Soap Shopfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3c/3cbc82_calliope-elysian-soap-shop_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Black tea",
+        "Lemon vervain",
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Blue tansy",
+        "Gardenia",
+        "Magnolia",
+        "Roman chamomile"
+    ],
+    "base_notes": [
+        "Amber",
+        "Mysore sandalwood",
+        "Tonka bean"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,146 @@
+{
+    "name": "Rose Absolue",
+    "brand": "Tauer Perfumes",
+    "release_year": "2025",
+    "description": "A new perfume byTauer Perfumesfor women and men, released in2025. The scent is floral-spicy. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/75/75b44f_rose-absolue-tauer-perfumes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Spicy",
+        "Sweet",
+        "Resinous",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Berries",
+        "Spices",
+        "Citrus notes"
+    ],
+    "heart_notes": [
+        "Rose absolute",
+        "Floral notes"
+    ],
+    "base_notes": [
+        "Amber",
+        "Resins",
+        "Benzoin",
+        "Ambergris",
+        "Woods"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "34 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "32 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "29 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "29 Ratings"
+        },
+        "pricing": {
+            "score": "6.7",
+            "votes": "21 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Spicy",
+                "votes": 11
+            },
+            {
+                "name": "Sweet",
+                "votes": 9
+            },
+            {
+                "name": "Oriental",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Resinous",
+                "votes": 9
+            },
+            {
+                "name": "Fruity",
+                "votes": 9
+            },
+            {
+                "name": "Floral",
+                "votes": 12
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 11
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 10
+            },
+            {
+                "name": "Fall",
+                "votes": 12
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 10
+            },
+            {
+                "name": "Night Out",
+                "votes": 11
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 12
+            }
+        ]
+    }
+}

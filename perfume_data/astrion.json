@@ -1,0 +1,24 @@
+{
+    "name": "Astrion",
+    "brand": "Monkoku",
+    "release_year": "2025",
+    "description": "A new perfume byMonkokufor men, released in2025.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Blackcurrant",
+        "Grapefruit"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Mandarin orange",
+        "Vetiver"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Dry woods"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

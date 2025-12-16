@@ -1,0 +1,135 @@
+{
+    "name": "Opus Magnum",
+    "brand": "French Avenue",
+    "release_year": "2025",
+    "description": "A new perfume byFrench Avenuefor men, released in2025. The scent is spicy-smoky. Projection and longevity are above-average. It is being marketed byFragrance World Trading LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/29/29c489_opus-magnum-french-avenue_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Smoky",
+        "Resinous",
+        "Woody",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Basil",
+        "Bergamot",
+        "Cardamom",
+        "Frankincense"
+    ],
+    "heart_notes": [
+        "Fenugreek",
+        "Lavender",
+        "Tobacco"
+    ],
+    "base_notes": [
+        "Amber",
+        "Oud",
+        "Peru balsam",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "19 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "18 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "17 Ratings"
+        },
+        "bottle": {
+            "score": "6.9",
+            "votes": "17 Ratings"
+        },
+        "pricing": {
+            "score": "8.2",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Smoky",
+                "votes": 6
+            },
+            {
+                "name": "Oriental",
+                "votes": 3
+            },
+            {
+                "name": "Leathery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 4
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

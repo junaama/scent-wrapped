@@ -1,0 +1,29 @@
+{
+    "name": "Bergamot Bond",
+    "brand": "Cyklar",
+    "release_year": "2025",
+    "description": "A new perfume byCyklarfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b7/b7803e_bergamot-bond-cyklar_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Lavender"
+    ],
+    "heart_notes": [
+        "Bamboo",
+        "Peony",
+        "Vervain"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cashmere wood",
+        "Musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

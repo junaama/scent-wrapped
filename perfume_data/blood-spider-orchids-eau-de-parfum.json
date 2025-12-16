@@ -1,0 +1,113 @@
+{
+    "name": "Blood Spider Orchids",
+    "brand": "Régime des Fleurs",
+    "release_year": "2025",
+    "description": "A new perfume byRégime des Fleursfor women and men, released in2025. The scent is spicy-oriental.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/5e/5e7222_blood-spider-orchids-eau-de-parfum-regime-des-fleurs_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Oriental",
+        "Sweet",
+        "Woody",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Cinnamon",
+        "Clove",
+        "Java nutmeg"
+    ],
+    "heart_notes": [
+        "Egyptian jasmine",
+        "Patchouli",
+        "Somalian frankincense"
+    ],
+    "base_notes": [
+        "Tonka bean absolute",
+        "Siam benzoin",
+        "Virginia cedar"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "8 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "7 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

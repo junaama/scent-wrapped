@@ -1,0 +1,47 @@
+{
+    "name": "Crystal Musk",
+    "brand": "Christian Provenzano",
+    "release_year": "2025",
+    "description": "A new perfume byChristian Provenzanofor women and men, released in2025. The scent is citrusy-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/59/59fb0a_crystal-musk-christian-provenzano_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Floral",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Neroli",
+        "Osmanthus",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cashmeran",
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {}
+}

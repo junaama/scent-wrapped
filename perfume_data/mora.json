@@ -1,0 +1,143 @@
+{
+    "name": "Mora",
+    "brand": "Wolf Brothers",
+    "release_year": "2025",
+    "description": "A new perfume byWolf Brothersfor women and men, released in2025. The scent is fresh-citrusy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/96/96e2a1_mora-wolf-brothers_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Citrus",
+        "Green",
+        "Spicy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Grapefruit",
+        "Aquatic notes",
+        "Pink pepper",
+        "Sichuan pepper",
+        "Thyme"
+    ],
+    "heart_notes": [
+        "Aquatic notes",
+        "Cardamom",
+        "Cypress",
+        "Geranium",
+        "Hemp",
+        "Marsh Labrador tea"
+    ],
+    "base_notes": [
+        "Fir balsam",
+        "Frankincense",
+        "Leather",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "17 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "14 Ratings"
+        },
+        "pricing": {
+            "score": "6.4",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 5
+            },
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 5
+            },
+            {
+                "name": "Fresh",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

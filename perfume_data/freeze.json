@@ -1,0 +1,137 @@
+{
+    "name": "Freeze",
+    "brand": "Riiffs",
+    "release_year": "2025",
+    "description": "A new perfume byRiiffsfor women, released in2025. The scent is synthetic-aquatic. It is being marketed byAl Fakhar Perfumes and Cosmetics Trading.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/80/803342_freeze-riiffs_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Aquatic",
+        "Citrus",
+        "Floral",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Sweets",
+        "Bergamot",
+        "Orange",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Blackcurrant",
+        "Jasmine",
+        "Violet"
+    ],
+    "base_notes": [
+        "Cashmere",
+        "Musk",
+        "Amber",
+        "Jasmine",
+        "Moss",
+        "Violet"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "18 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "16 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "15 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "16 Ratings"
+        },
+        "pricing": {
+            "score": "7.9",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            },
+            {
+                "name": "Aquatic",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

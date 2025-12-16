@@ -1,0 +1,146 @@
+{
+    "name": "Shiyaaka Shadow",
+    "brand": "Khadlaj",
+    "release_year": "2025",
+    "description": "A new perfume byKhadlajfor women and men, released in2025. The scent is fresh-woody. It is being marketed byKhadlaj Perfumes LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/91/917e03_shiyaaka-shadow-khadlaj_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Woody",
+        "Citrus",
+        "Fruity",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Grapefruit",
+        "Lavender",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Cedarwood",
+        "Plum"
+    ],
+    "base_notes": [
+        "Moss",
+        "Musk",
+        "Patchouli",
+        "Truffle"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "33 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "32 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "31 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "30 Ratings"
+        },
+        "pricing": {
+            "score": "9.0",
+            "votes": "32 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 7
+            },
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 9
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Fresh",
+                "votes": 9
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 9
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 9
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Sport",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

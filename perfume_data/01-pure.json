@@ -1,0 +1,146 @@
+{
+    "name": "01 Pure",
+    "brand": "Zara",
+    "release_year": "2025",
+    "description": "A new perfume byZarafor men, released in2025. The scent is citrusy-floral.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a2/a29626_01-pure-zara_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Floral",
+        "Woody",
+        "Creamy",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Grapefruit wood",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Iris",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Cedar",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "21 Ratings"
+        },
+        "durability": {
+            "score": "6.3",
+            "votes": "21 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "21 Ratings"
+        },
+        "bottle": {
+            "score": "6.7",
+            "votes": "25 Ratings"
+        },
+        "pricing": {
+            "score": "8.9",
+            "votes": "23 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 7
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            },
+            {
+                "name": "Floral",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

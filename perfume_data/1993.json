@@ -1,0 +1,30 @@
+{
+    "name": "1993",
+    "brand": "Mabra Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byMabra Parfumsfor women and men, released in2025. The scent is resinous-animal.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/78/781aaa_1993-mabra-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Animal",
+        "Sweet",
+        "Woody",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Peach"
+    ],
+    "heart_notes": [
+        "Chocolate"
+    ],
+    "base_notes": [
+        "Patchouli"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

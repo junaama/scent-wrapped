@@ -1,0 +1,28 @@
+{
+    "name": "Morning Iris",
+    "brand": "Rahasia",
+    "release_year": "2025",
+    "description": "A new perfume byRahasiafor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ff/ff15a6_morning-iris-rahasia_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Mandarin orange",
+        "Ozone"
+    ],
+    "heart_notes": [
+        "Carnation",
+        "Freesia",
+        "Jasmine",
+        "Lily of the valley",
+        "Orris root"
+    ],
+    "base_notes": [
+        "Atlas cedar",
+        "Cypriol",
+        "Gaiac wood",
+        "Sandalwood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

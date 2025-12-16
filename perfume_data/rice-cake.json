@@ -1,0 +1,123 @@
+{
+    "name": "Rice Cake",
+    "brand": "KST Scent",
+    "release_year": "2025",
+    "description": "A new perfume byKST Scentfor women and men, released in2025. The scent is sweet-green.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a9/a9f459_rice-cake-kst-scent_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Green",
+        "Earthy",
+        "Creamy",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Rice",
+        "Fig leaf",
+        "Pine needle"
+    ],
+    "heart_notes": [
+        "Sesame"
+    ],
+    "base_notes": [
+        "Amber",
+        "Green tea",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "4.3",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "4.7",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

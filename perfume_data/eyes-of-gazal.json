@@ -1,0 +1,147 @@
+{
+    "name": "Eyes of Gazal",
+    "brand": "Ahom World",
+    "release_year": "2025",
+    "description": "A new perfume byAhom Worldfor women and men, released in2025. The scent is floral-animal. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6d/6d70b5-eyes-of-gazal-ahom-world_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Animal",
+        "Spicy",
+        "Woody",
+        "Earthy"
+    ],
+    "top_notes": [
+        "Bergamot zest",
+        "Yuzu",
+        "Jasmine",
+        "Cardamom",
+        "Orange blossom",
+        "Lavender"
+    ],
+    "heart_notes": [
+        "Jasmine absolute",
+        "Mandarin orange",
+        "Patchouli",
+        "Rose"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Indian oud",
+        "Musk",
+        "Cedarwood",
+        "Frankincense"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "17 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "15 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 6
+            },
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Oriental",
+                "votes": 3
+            },
+            {
+                "name": "Leathery",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 7
+            },
+            {
+                "name": "Earthy",
+                "votes": 7
+            },
+            {
+                "name": "Floral",
+                "votes": 8
+            },
+            {
+                "name": "Animal",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

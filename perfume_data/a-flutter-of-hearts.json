@@ -1,0 +1,35 @@
+{
+    "name": "A Flutter of Hearts",
+    "brand": "Vanitas Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byVanitas Parfumsfor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/f3/f377e9_a-flutter-of-hearts-vanitas-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Chamomile CO2",
+        "Ginger CO2",
+        "Petitgrain sur Fleurs",
+        "Sicilian green mandarin orange",
+        "Sicilian tangerine"
+    ],
+    "heart_notes": [
+        "Clary sage absolute",
+        "Jasminum grandiflorum absolute",
+        "Tuberose absolute",
+        "Violet leaf absolute"
+    ],
+    "base_notes": [
+        "Amber",
+        "Mimosa absolute",
+        "Musk",
+        "Sandalwood",
+        "Siam benzoin"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

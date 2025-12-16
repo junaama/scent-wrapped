@@ -1,0 +1,132 @@
+{
+    "name": "Bärleen",
+    "brand": "Duftkumpels",
+    "release_year": "2025",
+    "description": "A new and limited perfume byDuftkumpelsfor men, released in2025. The scent is leathery-woody. Projection and longevity are above-average. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/17/175766_barleen-duftkumpels_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Leathery",
+        "Woody",
+        "Spicy",
+        "Animal",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Cocoa",
+        "Dark chocolate",
+        "Diesel fuel",
+        "Leather",
+        "Roasted coffee"
+    ],
+    "heart_notes": [
+        "Oud"
+    ],
+    "base_notes": [
+        "Animalic notes",
+        "Pheromones"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "23 Ratings"
+        },
+        "durability": {
+            "score": "9.2",
+            "votes": "20 Ratings"
+        },
+        "sillage": {
+            "score": "8.6",
+            "votes": "21 Ratings"
+        },
+        "bottle": {
+            "score": "8.6",
+            "votes": "21 Ratings"
+        },
+        "pricing": {
+            "score": "6.6",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 6
+            },
+            {
+                "name": "Smoky",
+                "votes": 3
+            },
+            {
+                "name": "Leathery",
+                "votes": 9
+            },
+            {
+                "name": "Woody",
+                "votes": 7
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            },
+            {
+                "name": "Animal",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

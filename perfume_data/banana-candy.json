@@ -1,0 +1,25 @@
+{
+    "name": "Banana Candy",
+    "brand": "Skylar",
+    "release_year": "2025",
+    "description": "A new and limited perfume bySkylarfor women and men, released in2025.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/ce/ce3b44_banana-candy-skylar_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Banana leaf",
+        "Bergamot",
+        "Coconut water"
+    ],
+    "heart_notes": [
+        "Banana",
+        "Jasmine",
+        "Monoï"
+    ],
+    "base_notes": [
+        "Amber",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

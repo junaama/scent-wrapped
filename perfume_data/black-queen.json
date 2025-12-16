@@ -1,0 +1,39 @@
+{
+    "name": "Black Queen",
+    "brand": "Oscar London",
+    "release_year": "2025",
+    "description": "A new perfume byOscar Londonfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e1/e1db26_black-queen-oscar-london_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Apple",
+        "Basil",
+        "Mandarin orange",
+        "Sicilian bergamot"
+    ],
+    "heart_notes": [
+        "Aquatic notes",
+        "Cardamom",
+        "Egyptian jasmine",
+        "Jasmine sambac",
+        "Leather",
+        "Liquorice",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Cashmere wood",
+        "Gaiac wood",
+        "Moss",
+        "Patchouli",
+        "Sandalwood",
+        "Suede"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,143 @@
+{
+    "name": "204 Figue Edamame Essence d'Ambrette",
+    "brand": "Bon Parfumeur",
+    "release_year": "2025",
+    "description": "A new perfume byBon Parfumeurfor women and men, released in2025. The scent is fresh-fruity.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/5e/5eb2f4_204-figue-edamame-essence-d-ambrette-bon-parfumeur_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Fruity",
+        "Green",
+        "Woody",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Fig",
+        "Violet leaf"
+    ],
+    "heart_notes": [
+        "Orris concrete",
+        "Ambrette seed",
+        "Soy bean"
+    ],
+    "base_notes": [
+        "Cedar",
+        "New Caledonian sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "30 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "28 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "28 Ratings"
+        },
+        "bottle": {
+            "score": "6.6",
+            "votes": "27 Ratings"
+        },
+        "pricing": {
+            "score": "7.9",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Powdery",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 9
+            },
+            {
+                "name": "Green",
+                "votes": 10
+            },
+            {
+                "name": "Fruity",
+                "votes": 10
+            },
+            {
+                "name": "Fresh",
+                "votes": 11
+            },
+            {
+                "name": "Creamy",
+                "votes": 9
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 9
+            },
+            {
+                "name": "Feminine",
+                "votes": 12
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 12
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 9
+            },
+            {
+                "name": "Summer",
+                "votes": 16
+            },
+            {
+                "name": "Spring",
+                "votes": 16
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 13
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 14
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 12
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

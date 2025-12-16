@@ -1,0 +1,46 @@
+{
+    "name": "Vainilla",
+    "brand": "Amoros",
+    "release_year": "2025",
+    "description": "A new perfume byAmorosfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2b/2b7d11_vainilla-amoros_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Chinese ginger",
+        "Saffron",
+        "Sicilian lemon",
+        "Spanish red mandarin"
+    ],
+    "heart_notes": [
+        "Almond",
+        "Suede",
+        "Vanilla",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Bourbon vanilla absolute",
+        "Caramel",
+        "Ultravanil®",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.3",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

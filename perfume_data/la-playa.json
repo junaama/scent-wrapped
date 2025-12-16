@@ -1,0 +1,125 @@
+{
+    "name": "La Playa",
+    "brand": "Carner",
+    "release_year": "2025",
+    "description": "A new perfume byCarnerfor women and men, released in2025. The scent is sweet-creamy.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/d5/d5c4bc_la-playa-carner_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Creamy",
+        "Floral",
+        "Fruity",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Italian bergamot",
+        "Madagascan ylang-ylang",
+        "Orange blossom"
+    ],
+    "heart_notes": [
+        "Coconut milk",
+        "Pistachio",
+        "Indian cardamom"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Musk",
+        "Venezuelan tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "95 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "81 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "80 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "70 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "65 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 5
+            },
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 26
+            },
+            {
+                "name": "Fruity",
+                "votes": 9
+            },
+            {
+                "name": "Creamy",
+                "votes": 24
+            },
+            {
+                "name": "Floral",
+                "votes": 16
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 26
+            },
+            {
+                "name": "Modern",
+                "votes": 18
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 27
+            },
+            {
+                "name": "Spring",
+                "votes": 19
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 20
+            },
+            {
+                "name": "Leisure",
+                "votes": 26
+            },
+            {
+                "name": "Night Out",
+                "votes": 10
+            },
+            {
+                "name": "Business",
+                "votes": 13
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

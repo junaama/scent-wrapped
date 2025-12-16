@@ -1,0 +1,151 @@
+{
+    "name": "Beso de Mar",
+    "brand": "Beso Beach",
+    "release_year": "2025",
+    "description": "A new perfume byBeso Beachfor women and men, released in2025. The scent is fresh-floral.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/32/327420_beso-de-mar-beso-beach_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Floral",
+        "Spicy",
+        "Aquatic",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Chamomile",
+        "Lavender",
+        "Lemon",
+        "Rosemary"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lily of the valley",
+        "Mahonial®",
+        "Tea",
+        "Sage"
+    ],
+    "base_notes": [
+        "Akigalawood®",
+        "Ambergris",
+        "Cedar",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "9 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 5
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

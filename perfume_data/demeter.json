@@ -1,0 +1,26 @@
+{
+    "name": "Demeter",
+    "brand": "Velixir",
+    "release_year": "2025",
+    "description": "A new perfume byVelixirfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/46/46d224_demeter-velixir_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Basil",
+        "Lemon",
+        "Mint",
+        "Thyme"
+    ],
+    "heart_notes": [
+        "Blackcurrant",
+        "Jasmine",
+        "Lavender",
+        "Rosemary"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Cutesy",
+    "brand": "Renewed Scents",
+    "release_year": "2025",
+    "description": "A new perfume byRenewed Scentsfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/06/066c5f_cutesy-perfume-renewed-scents_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Italian lemon",
+        "Raspberry",
+        "Strawberry"
+    ],
+    "heart_notes": [
+        "Cream",
+        "Marshmallow",
+        "Strawberry"
+    ],
+    "base_notes": [
+        "Coconut",
+        "Musk",
+        "Sugar",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

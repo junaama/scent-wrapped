@@ -1,0 +1,126 @@
+{
+    "name": "Bo-Bo Intense",
+    "brand": "Carner",
+    "release_year": "2025",
+    "description": "A new perfume byCarnerfor women and men, released in2025. The scent is sweet-citrusy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e1/e10b04_bo-bo-intense-carner_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Citrus",
+        "Creamy",
+        "Fresh",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Italian mandarin orange",
+        "Italian bergamot",
+        "Pear"
+    ],
+    "heart_notes": [
+        "African orange blossom",
+        "Jasminum auriculatum",
+        "Lily of the valley"
+    ],
+    "base_notes": [
+        "Musk",
+        "Sandalwood",
+        "Vanilla",
+        "White amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

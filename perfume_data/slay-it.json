@@ -1,0 +1,35 @@
+{
+    "name": "Slay It",
+    "brand": "QOT - Question of Time",
+    "release_year": "2025",
+    "description": "A new perfume byQOT - Question of Timefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/79/79e79c_slay-it-qot-question-of-time_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Chili",
+        "Grapefruit",
+        "Pink pepper",
+        "Red berries"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Frankincense",
+        "Nepalese sichuan pepper",
+        "Saffron",
+        "Tobacco"
+    ],
+    "base_notes": [
+        "Amber",
+        "Benzoin",
+        "Cashmere wood",
+        "White musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

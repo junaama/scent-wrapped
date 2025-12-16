@@ -1,0 +1,25 @@
+{
+    "name": "Ferox Perfume",
+    "brand": "BeeBoz",
+    "release_year": "2025",
+    "description": "A new perfume byBeeBozfor men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/be/beeb4c_ferox-perfume-beeboz_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Aromatic notes",
+        "Bergamot",
+        "Pepper"
+    ],
+    "heart_notes": [
+        "Ambroxan",
+        "Geranium",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Cedar",
+        "Patchouli",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

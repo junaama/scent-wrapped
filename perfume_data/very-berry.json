@@ -1,0 +1,41 @@
+{
+    "name": "Very Berry",
+    "brand": "Sunnamusk",
+    "release_year": "2025",
+    "description": "A new perfume bySunnamuskfor women and men, released in2025. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/23/23e92f_very-berry-sunnamusk_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Candied berries",
+        "Raspberry",
+        "Strawberry"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Violet"
+    ],
+    "base_notes": [
+        "Amber",
+        "Ambergris",
+        "Musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.0",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "9.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "9.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

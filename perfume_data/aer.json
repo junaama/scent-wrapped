@@ -1,0 +1,101 @@
+{
+    "name": "Aër",
+    "brand": "Custodia Libertatis",
+    "release_year": "2025",
+    "description": "A new and limited perfume byCustodia Libertatisfor women and men, released in2025. The scent is spicy-woody. Projection and longevity are above-average.CompareLimited",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Floral",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Jasmine absolute",
+        "Orris butter",
+        "Ylang-ylang"
+    ],
+    "heart_notes": [
+        "Frangipani",
+        "Orange blossom",
+        "Pomelo blossom",
+        "Rose concrete"
+    ],
+    "base_notes": [
+        "Butter",
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.7",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "8.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

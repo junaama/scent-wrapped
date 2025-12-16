@@ -1,0 +1,50 @@
+{
+    "name": "Cherry on Top",
+    "brand": "QOT - Question of Time",
+    "release_year": "2025",
+    "description": "A new perfume byQOT - Question of Timefor women and men, released in2025. The scent is fruity-sweet. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/37/37bdcb_cherry-on-top-qot-question-of-time_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Cherry",
+        "Coconut"
+    ],
+    "heart_notes": [
+        "Heliotrope",
+        "Jasmine",
+        "Oud",
+        "Pistachio",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Gaiac wood",
+        "Musk",
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            }
+        ]
+    }
+}

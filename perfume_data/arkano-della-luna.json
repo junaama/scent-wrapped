@@ -1,0 +1,129 @@
+{
+    "name": "Arkano della Luna",
+    "brand": "V Canto",
+    "release_year": "2025",
+    "description": "A new perfume byV Cantofor women and men, released in2025. The scent is fruity-floral. Projection and longevity are above-average. It is being marketed byCereria Terenzi Evelino.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/31/31e215_arkano-della-luna-v-canto_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Floral",
+        "Spicy",
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Amalfi lemon",
+        "Bulgarian rose",
+        "Greek saffron",
+        "Italian hazelnut",
+        "Italian red apple"
+    ],
+    "heart_notes": [
+        "Indian jasmine sambac",
+        "Indonesian coconut milk",
+        "Italian raspberry",
+        "Tahitian vanilla"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Hawaiian frangipani",
+        "Turkish caramel",
+        "Tuscan oak moss"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "8 Ratings"
+        },
+        "durability": {
+            "score": "9.0",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "8.4",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "17 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

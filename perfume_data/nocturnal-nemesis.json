@@ -1,0 +1,149 @@
+{
+    "name": "Nocturnal Nemesis",
+    "brand": "Nebiru Parfvms",
+    "release_year": "2025",
+    "description": "A new perfume byNebiru Parfvmsfor women and men, released in2025. The scent is oriental-woody. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a1/a1780a_nocturnal-nemesis-nebiru-parfvms_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Oriental",
+        "Woody",
+        "Resinous",
+        "Spicy",
+        "Floral"
+    ],
+    "top_notes": [
+        "Ceylonese cinnamon",
+        "Hibiscus",
+        "Indian eucalyptus",
+        "Italian bergamot",
+        "Italian rosemary",
+        "Kashmiri clove"
+    ],
+    "heart_notes": [
+        "Black spruce absolute",
+        "Boronia absolute",
+        "Chinese ginseng",
+        "Osmanthus absolute",
+        "Turkish rose absolute"
+    ],
+    "base_notes": [
+        "Borneo oud resin",
+        "Castoreum",
+        "Malayan oud",
+        "Myrrh",
+        "Mysore sandalwood",
+        "Onycha",
+        "Papua oud",
+        "Patchouli",
+        "Peru balsam",
+        "Wool Absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.3",
+            "votes": "14 Ratings"
+        },
+        "durability": {
+            "score": "8.6",
+            "votes": "12 Ratings"
+        },
+        "sillage": {
+            "score": "8.4",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

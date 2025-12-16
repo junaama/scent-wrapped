@@ -1,0 +1,29 @@
+{
+    "name": "Flower Study",
+    "brand": "CGS",
+    "release_year": "2025",
+    "description": "A new perfume byCGSfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c6/c680de_flower-study-cgs_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Lemon",
+        "Lime",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Cyclamen",
+        "Cypress",
+        "Lily of the valley",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Patchouli",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Honey, I Bought a House!",
+    "brand": "House of Atropa",
+    "release_year": "2025",
+    "description": "A new perfume byHouse of Atropafor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a2/a2ff9c_honey-i-bought-a-house-house-of-atropa_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Grass",
+        "Isabella grape",
+        "Ozone"
+    ],
+    "heart_notes": [
+        "Coconut milk",
+        "Milk",
+        "Rice"
+    ],
+    "base_notes": [
+        "Blue spruce",
+        "Cabreuva",
+        "Oud"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {}
+}

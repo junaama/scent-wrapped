@@ -1,0 +1,124 @@
+{
+    "name": "Veles",
+    "brand": "Wolf Brothers",
+    "release_year": "2025",
+    "description": "A new perfume byWolf Brothersfor women and men, released in2025. The scent is smoky-leathery.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c1/c1e84d_veles-wolf-brothers_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Leathery",
+        "Spicy",
+        "Woody",
+        "Earthy"
+    ],
+    "top_notes": [
+        "Ginger",
+        "Honey",
+        "Rhubarb",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Smoke",
+        "Labdanum",
+        "Patchouli",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Birch tar",
+        "Leather",
+        "Amber",
+        "Oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "7.2",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Smoky",
+                "votes": 6
+            },
+            {
+                "name": "Leathery",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Earthy",
+                "votes": 3
+            },
+            {
+                "name": "Animal",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

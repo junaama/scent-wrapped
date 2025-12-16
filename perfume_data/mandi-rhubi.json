@@ -1,0 +1,121 @@
+{
+    "name": "Mandi Rhubi",
+    "brand": "Isabelle Larignon",
+    "release_year": "2025",
+    "description": "A new perfume byIsabelle Larignonfor women and men, released in2025. The scent is fresh-fruity.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/83/83da8f_mandi-rhubi-isabelle-larignon_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Fruity",
+        "Citrus",
+        "Green",
+        "Woody"
+    ],
+    "top_notes": [
+        "Green mandarin orange",
+        "Bergamot",
+        "Lime",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Blackcurrant",
+        "Juniper",
+        "Rhubarb",
+        "Black pepper",
+        "Elemi resin",
+        "Galbanum"
+    ],
+    "base_notes": [
+        "Virginia cedar",
+        "Cypress",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "13 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "13 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 6
+            },
+            {
+                "name": "Fresh",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            }
+        ]
+    }
+}

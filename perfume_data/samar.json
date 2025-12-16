@@ -1,0 +1,144 @@
+{
+    "name": "Samar",
+    "brand": "Widian",
+    "release_year": "2025",
+    "description": "A new perfume byWidianfor women and men, released in2025. The scent is spicy-woody.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8a/8a8011-samar-widian-aj-arabia_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Smoky",
+        "Floral",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Clove",
+        "Pink pepper",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Osmanthus",
+        "Cinnamon",
+        "Gardenia",
+        "Jasmine"
+    ],
+    "base_notes": [
+        "Labdanum",
+        "Vanilla",
+        "Oud",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.0",
+            "votes": "62 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "56 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "55 Ratings"
+        },
+        "bottle": {
+            "score": "9.1",
+            "votes": "67 Ratings"
+        },
+        "pricing": {
+            "score": "5.8",
+            "votes": "43 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 15
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Smoky",
+                "votes": 11
+            },
+            {
+                "name": "Oriental",
+                "votes": 10
+            },
+            {
+                "name": "Woody",
+                "votes": 12
+            },
+            {
+                "name": "Fruity",
+                "votes": 8
+            },
+            {
+                "name": "Floral",
+                "votes": 11
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 15
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 10
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 11
+            },
+            {
+                "name": "Fall",
+                "votes": 16
+            },
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 11
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 10
+            },
+            {
+                "name": "Night Out",
+                "votes": 12
+            },
+            {
+                "name": "Business",
+                "votes": 10
+            },
+            {
+                "name": "Evening",
+                "votes": 16
+            }
+        ]
+    }
+}

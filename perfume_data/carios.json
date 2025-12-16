@@ -1,0 +1,139 @@
+{
+    "name": "Carios",
+    "brand": "Parfums de Marly",
+    "release_year": "2025",
+    "description": "A new perfume byParfums de Marlyfor men, released in2025. The scent is woody-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5f/5fc3d0_carios-parfums-de-marly_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Sweet",
+        "Fruity",
+        "Spicy",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Red mandarin orange",
+        "Saffron",
+        "Bergamot",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Red thyme",
+        "Black pepper",
+        "Geranium"
+    ],
+    "base_notes": [
+        "Vetiver",
+        "Cedarwood",
+        "Ambroxan",
+        "Roasted tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.0",
+            "votes": "100 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "86 Ratings"
+        },
+        "sillage": {
+            "score": "6.4",
+            "votes": "85 Ratings"
+        },
+        "bottle": {
+            "score": "6.3",
+            "votes": "89 Ratings"
+        },
+        "pricing": {
+            "score": "2.6",
+            "votes": "84 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 9
+            },
+            {
+                "name": "Synthetic",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 10
+            },
+            {
+                "name": "Woody",
+                "votes": 11
+            },
+            {
+                "name": "Fruity",
+                "votes": 10
+            },
+            {
+                "name": "Fresh",
+                "votes": 8
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 10
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 13
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 8
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 9
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 9
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 10
+            }
+        ]
+    }
+}

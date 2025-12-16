@@ -1,0 +1,131 @@
+{
+    "name": "Sandalwood & Spiced Apricot",
+    "brand": "Jo Malone",
+    "release_year": "2025",
+    "description": "A new and limited perfume byJo Malonefor women and men, released in2025. The scent is spicy-woody. It is being marketed byEstēe Lauder Companies.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/13/133ce8_sandalwood-spiced-apricot-jo-malone_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Creamy",
+        "Fruity",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Apricot"
+    ],
+    "heart_notes": [
+        "Sandalwood"
+    ],
+    "base_notes": [
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "30 Ratings"
+        },
+        "durability": {
+            "score": "6.4",
+            "votes": "23 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "20 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "31 Ratings"
+        },
+        "pricing": {
+            "score": "7.1",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 10
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 9
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 10
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 9
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Sport",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

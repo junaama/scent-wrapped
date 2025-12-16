@@ -1,0 +1,33 @@
+{
+    "name": "My Sweetest Taboo",
+    "brand": "The Perfume Sanctuary",
+    "release_year": "2025",
+    "description": "A new perfume byThe Perfume Sanctuaryfor women and men, released in2025. The scent is gourmand-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/59/59d984_my-sweetest-taboo-the-perfume-sanctuary_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Spicy",
+        "Floral",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Dark chocolate",
+        "Rum",
+        "Tangerine",
+        "Tunisian neroli"
+    ],
+    "heart_notes": [
+        "Honey",
+        "Indonesian patchouli",
+        "Orange blossom absolute"
+    ],
+    "base_notes": [
+        "Civet",
+        "Musk",
+        "Sandalwood",
+        "Vanilla absolute",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

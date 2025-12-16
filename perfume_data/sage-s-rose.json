@@ -1,0 +1,91 @@
+{
+    "name": "Sage's Rose",
+    "brand": "Tsu Lange Yor",
+    "release_year": "2025",
+    "description": "A new perfume byTsu Lange Yorfor women and men, released in2025. The scent is floral-woody.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/17/17faca_sage-s-rose-tsu-lange-yor_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Woody",
+        "Sweet",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Cistus",
+        "Myrrh",
+        "Sugar"
+    ],
+    "heart_notes": [
+        "Corn rose",
+        "Damask rose",
+        "Egyptian geranium"
+    ],
+    "base_notes": [
+        "Amber",
+        "Gaiac wood",
+        "Haitian vetiver",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "7 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "8.7",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

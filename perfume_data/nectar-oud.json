@@ -1,0 +1,143 @@
+{
+    "name": "Nectar Oud",
+    "brand": "bdk Parfums",
+    "release_year": "2025",
+    "description": "A new perfume bybdk Parfumsfor women and men, released in2025. The scent is leathery-sweet. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/49/4995e2_nectar-oud-bdk-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Leathery",
+        "Sweet",
+        "Woody",
+        "Fruity",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Raspberry",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Cypriol",
+        "Frankincense",
+        "Oud"
+    ],
+    "base_notes": [
+        "Atlas cedar",
+        "Benzoin"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "41 Ratings"
+        },
+        "durability": {
+            "score": "8.6",
+            "votes": "38 Ratings"
+        },
+        "sillage": {
+            "score": "8.1",
+            "votes": "38 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "44 Ratings"
+        },
+        "pricing": {
+            "score": "6.8",
+            "votes": "34 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 7
+            },
+            {
+                "name": "Smoky",
+                "votes": 5
+            },
+            {
+                "name": "Oriental",
+                "votes": 4
+            },
+            {
+                "name": "Leathery",
+                "votes": 8
+            },
+            {
+                "name": "Woody",
+                "votes": 7
+            },
+            {
+                "name": "Resinous",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 9
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

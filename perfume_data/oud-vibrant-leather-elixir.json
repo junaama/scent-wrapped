@@ -1,0 +1,107 @@
+{
+    "name": "Oud Vibrant Leather Elixir",
+    "brand": "Zara",
+    "release_year": "2025",
+    "description": "A new perfume byZarafor men, released in2025. The scent is spicy-woody.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a7/a7d1a2_oud-vibrant-leather-elixir-zara_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Leathery"
+    ],
+    "top_notes": [
+        "Apple",
+        "Bergamot",
+        "Kumquat"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Geranium",
+        "Violet"
+    ],
+    "base_notes": [
+        "Oak",
+        "Oud",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "11 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "11 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "11 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "13 Ratings"
+        },
+        "pricing": {
+            "score": "8.4",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

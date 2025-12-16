@@ -1,0 +1,125 @@
+{
+    "name": "Serpent",
+    "brand": "Vapormundum",
+    "release_year": "2025",
+    "description": "A new perfume byVapormundumfor women and men, released in2025. The scent is green-leathery. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a0/a04580_serpent-vapormundum_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Leathery",
+        "Floral",
+        "Earthy",
+        "Spicy"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "135 Ratings"
+        },
+        "durability": {
+            "score": "8.8",
+            "votes": "126 Ratings"
+        },
+        "sillage": {
+            "score": "8.4",
+            "votes": "125 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "112 Ratings"
+        },
+        "pricing": {
+            "score": "7.8",
+            "votes": "104 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 11
+            },
+            {
+                "name": "Smoky",
+                "votes": 10
+            },
+            {
+                "name": "Leathery",
+                "votes": 28
+            },
+            {
+                "name": "Woody",
+                "votes": 10
+            },
+            {
+                "name": "Green",
+                "votes": 31
+            },
+            {
+                "name": "Earthy",
+                "votes": 21
+            },
+            {
+                "name": "Floral",
+                "votes": 22
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 31
+            },
+            {
+                "name": "Feminine",
+                "votes": 22
+            },
+            {
+                "name": "Modern",
+                "votes": 25
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 20
+            },
+            {
+                "name": "Fall",
+                "votes": 31
+            },
+            {
+                "name": "Summer",
+                "votes": 11
+            },
+            {
+                "name": "Spring",
+                "votes": 28
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 18
+            },
+            {
+                "name": "Night Out",
+                "votes": 23
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 24
+            }
+        ]
+    }
+}

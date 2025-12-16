@@ -1,0 +1,134 @@
+{
+    "name": "Maraviglia",
+    "brand": "Profumo di Firenze",
+    "release_year": "2025",
+    "description": "A new perfume byProfumo di Firenzefor women and men, released in2025. The scent is citrusy-fruity. It is being marketed byArnoway.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ff/ffc8d7_maraviglia-profumo-di-firenze_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fruity",
+        "Sweet",
+        "Gourmand",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Coconut",
+        "Ginger",
+        "Lemon",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Orange blossom",
+        "Sea salt"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Oakmoss"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "10 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

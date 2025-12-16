@@ -1,0 +1,95 @@
+{
+    "name": "Extasia",
+    "brand": "Adopt'",
+    "release_year": "2025",
+    "description": "A new perfume byAdopt'for women, released in2025. The scent is creamy-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/40/40ec2a_extasia-adopt-reserve-naturelle_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Creamy",
+        "Sweet",
+        "Citrus",
+        "Spicy",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Citrus fruits"
+    ],
+    "heart_notes": [
+        "Ginger flower"
+    ],
+    "base_notes": [
+        "Cinnamon wood",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

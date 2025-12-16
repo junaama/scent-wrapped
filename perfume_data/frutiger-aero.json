@@ -1,0 +1,60 @@
+{
+    "name": "Frutiger Aero",
+    "brand": "Unjust Jewelry",
+    "release_year": "2025",
+    "description": "A new perfume byUnjust Jewelryfor women and men, released in2025. The scent is fresh-aquatic. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/89/89a536_frutiger-aero-unjust-jewelry_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Aquatic"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            }
+        ]
+    }
+}

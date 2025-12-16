@@ -1,0 +1,37 @@
+{
+    "name": "Exotic Lychee",
+    "brand": "Angel Schlesser",
+    "release_year": "2025",
+    "description": "A new perfume byAngel Schlesserfor women, released in2025. The scent is fruity-fresh. It is being marketed byAB Parfums / Angelini Beauty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/22/22ad6f_exotic-lychee-angel-schlesser_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Fresh",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Grapefruit",
+        "Green lemon",
+        "Green tea"
+    ],
+    "heart_notes": [
+        "Lychee",
+        "Maté",
+        "Osmanthus"
+    ],
+    "base_notes": [
+        "Musk",
+        "Woods"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {}
+}

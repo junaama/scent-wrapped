@@ -1,0 +1,35 @@
+{
+    "name": "Red Jasmine Rice",
+    "brand": "D. Grayi",
+    "release_year": "2025",
+    "description": "A new perfume byD. Grayifor women and men, released in2025. The scent is gourmand-powdery. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c8/c859a1_red-jasmine-rice-d-grayi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Powdery",
+        "Fresh",
+        "Floral",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Black tea",
+        "Red jasmine rice",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Rice powder",
+        "Vietnamese jasmine sambac"
+    ],
+    "base_notes": [
+        "Rice bran",
+        "Sticky rice",
+        "Vietnamese oud"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

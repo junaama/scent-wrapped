@@ -1,0 +1,121 @@
+{
+    "name": "Nightchild",
+    "brand": "Epichron",
+    "release_year": "2025",
+    "description": "A new perfume byEpichronfor women and men, released in2025. The scent is earthy-spicy.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/88/8862ed_nightchild-epichron_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Earthy",
+        "Spicy",
+        "Green",
+        "Smoky",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Chrysanthemum",
+        "Cistus",
+        "Clary sage",
+        "Cypress leaf",
+        "Gentian root"
+    ],
+    "heart_notes": [
+        "Frankincense CO2",
+        "Labdanum",
+        "Lavender",
+        "Nootka cypress"
+    ],
+    "base_notes": [
+        "Cade juniper",
+        "Chinese cedar",
+        "Musk",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Green",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Red Essence",
+    "brand": "Esprit",
+    "release_year": "2025",
+    "description": "A new perfume byEspritfor women, released in2025. The scent is synthetic-woody. It is being marketed byLuxess.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ab/ab506f_red-essence-esprit_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Synthetic",
+        "Woody",
+        "Fruity",
+        "Sweet",
+        "Animal"
+    ],
+    "top_notes": [
+        "Lemon",
+        "Red fruits"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Rose",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Amber notes",
+        "Musky notes",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.1",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "6.3",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "6.2",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,136 @@
+{
+    "name": "Tiramisù",
+    "brand": "Profumi di Polignano",
+    "release_year": "2025",
+    "description": "A new perfume byProfumi di Polignanofor women and men, released in2025. The scent is sweet-gourmand.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a5/a52000_tiramisu-eau-de-parfum-profumi-di-polignano_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Citrus",
+        "Creamy",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Bitter orange",
+        "Frangipani"
+    ],
+    "heart_notes": [
+        "Butter",
+        "Milk",
+        "Sugar"
+    ],
+    "base_notes": [
+        "Biscuit",
+        "Vanilla",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "8 Ratings"
+        },
+        "durability": {
+            "score": "6.4",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "6.2",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "6.9",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 6
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 6
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

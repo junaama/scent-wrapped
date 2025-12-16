@@ -1,0 +1,132 @@
+{
+    "name": "Al Noor",
+    "brand": "Arabiyat Prestige",
+    "release_year": "2025",
+    "description": "A new perfume byArabiyat Prestigefor women and men, released in2025. The scent is resinous-oriental. It is being marketed byMy Perfumes / MPF (My Perfumes Factory).Compare",
+    "image_url": "https://media.parfumo.com/perfumes/0e/0ed2f3_al-noor-arabiyat_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Resinous",
+        "Oriental",
+        "Spicy",
+        "Smoky",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Nutmeg",
+        "Cardamom",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Cistus",
+        "Labdanum",
+        "Vetiver",
+        "Green fig",
+        "Iris"
+    ],
+    "base_notes": [
+        "Leather",
+        "Patchouli",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "19 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "18 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "17 Ratings"
+        },
+        "bottle": {
+            "score": "9.0",
+            "votes": "19 Ratings"
+        },
+        "pricing": {
+            "score": "9.3",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Smoky",
+                "votes": 3
+            },
+            {
+                "name": "Oriental",
+                "votes": 4
+            },
+            {
+                "name": "Leathery",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

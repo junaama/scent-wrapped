@@ -1,0 +1,117 @@
+{
+    "name": "Chemin d'Amande",
+    "brand": "Une Nuit Nomade",
+    "release_year": "2025",
+    "description": "A new perfume byUne Nuit Nomadefor women and men, released in2025. The scent is sweet-gourmand.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/15/154353_chemin-d-amande-une-nuit-nomade_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Creamy",
+        "Spicy",
+        "Powdery"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "177 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "156 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "150 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "146 Ratings"
+        },
+        "pricing": {
+            "score": "7.2",
+            "votes": "126 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 31
+            },
+            {
+                "name": "Sweet",
+                "votes": 60
+            },
+            {
+                "name": "Powdery",
+                "votes": 19
+            },
+            {
+                "name": "Woody",
+                "votes": 17
+            },
+            {
+                "name": "Gourmand",
+                "votes": 55
+            },
+            {
+                "name": "Creamy",
+                "votes": 45
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 36
+            },
+            {
+                "name": "Feminine",
+                "votes": 59
+            },
+            {
+                "name": "Modern",
+                "votes": 43
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 60
+            },
+            {
+                "name": "Fall",
+                "votes": 63
+            },
+            {
+                "name": "Spring",
+                "votes": 26
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 36
+            },
+            {
+                "name": "Leisure",
+                "votes": 44
+            },
+            {
+                "name": "Night Out",
+                "votes": 47
+            },
+            {
+                "name": "Business",
+                "votes": 24
+            },
+            {
+                "name": "Evening",
+                "votes": 55
+            }
+        ]
+    }
+}

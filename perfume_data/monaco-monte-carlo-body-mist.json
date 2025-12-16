@@ -1,0 +1,31 @@
+{
+    "name": "Monaco Monte-Carlo",
+    "brand": "Mucha",
+    "release_year": "2025",
+    "description": "A new perfume byMuchafor women and men, released in2025. It is being marketed byMASH Group.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f3/f3bce4_monaco-monte-carlo-body-mist-mucha_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Blood orange",
+        "Lemon",
+        "Tangerine"
+    ],
+    "heart_notes": [
+        "Floral notes",
+        "Lilac",
+        "Pepper"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Elemi resin",
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "4.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

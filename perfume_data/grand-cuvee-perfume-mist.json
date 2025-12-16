@@ -1,0 +1,39 @@
+{
+    "name": "Grand Cuvée",
+    "brand": "Vacation",
+    "release_year": "2025",
+    "description": "A new and limited perfume byVacationfor women and men, released in2025. The scent is sweet-creamy. The perfume is vegan according to the manufacturer.CompareLimitedVegan",
+    "image_url": "https://media.parfumo.com/perfumes/4d/4d223b_grand-cuvee-perfume-mist-vacation_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Argania",
+        "Chardonnay",
+        "Peach brandy",
+        "Vanilla"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Cedarwood",
+        "Marine notes",
+        "Sensual skin accord",
+        "Solar note"
+    ],
+    "base_notes": [
+        "Cognac",
+        "Cork"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "4.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

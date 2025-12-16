@@ -1,0 +1,33 @@
+{
+    "name": "Le Grand II",
+    "brand": "Potencía",
+    "release_year": "2025",
+    "description": "A new perfume byPotencíafor women and men, released in2025. The scent is woody-leathery.Compare",
+    "image_url": "https://images.parfumo.de/perfume_bottle/240.png",
+    "main_accords": [
+        "Woody",
+        "Leathery",
+        "Spicy",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Apple",
+        "Cinnamon",
+        "Lavender",
+        "Rosewood"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Lily of the valley",
+        "Rose"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Cambodian oud",
+        "Musk",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

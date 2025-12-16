@@ -1,0 +1,126 @@
+{
+    "name": "Love is coming… Chapter II",
+    "brand": "The Different Company",
+    "release_year": "2025",
+    "description": "A new perfume byThe Different Companyfor women and men, released in2025. The scent is green-floral.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f0/f07455_love-is-coming-chapter-ii-the-different-company_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Floral",
+        "Fresh",
+        "Spicy",
+        "Woody"
+    ],
+    "top_notes": [
+        "Tomato",
+        "Blackcurrant",
+        "Bell pepper",
+        "Pimento"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Damask rose",
+        "Provençal lavender"
+    ],
+    "base_notes": [
+        "Amberwood",
+        "Musk",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "16 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "14 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 8
+            },
+            {
+                "name": "Fresh",
+                "votes": 7
+            },
+            {
+                "name": "Floral",
+                "votes": 8
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 9
+            },
+            {
+                "name": "Modern",
+                "votes": 8
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 8
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

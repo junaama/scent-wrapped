@@ -1,0 +1,41 @@
+{
+    "name": "Pistachio Treat",
+    "brand": "The Dua Brand",
+    "release_year": "2025",
+    "description": "A new perfume byThe Dua Brandfor women and men, released in2025. The perfume is vegan according to the manufacturer.PronunciationCompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/b4/b4bf1e_pistachio-treat-the-dua-brand-dua-fragrances_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Brown butter",
+        "Roasted coconut"
+    ],
+    "heart_notes": [
+        "Caramelized nuts",
+        "Milk",
+        "Roasted pistachio"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Vanilla",
+        "Vanilla milk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "5.6",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

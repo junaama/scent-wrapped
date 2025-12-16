@@ -1,0 +1,113 @@
+{
+    "name": "Arabian Shine",
+    "brand": "Les Perles D'Orient",
+    "release_year": "2025",
+    "description": "A new perfume byLes Perles D'Orientfor men, released in2025. The scent is sweet-spicy. It is being marketed byDremar Parfum International.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/24/2402c8_arabian-shine-les-perles-d-orient_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Powdery",
+        "Oriental",
+        "Woody"
+    ],
+    "top_notes": [
+        "Apple",
+        "Bergamot",
+        "Red fruits"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Jasmine",
+        "Rose"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Cashmere",
+        "Musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

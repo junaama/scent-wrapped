@@ -1,0 +1,105 @@
+{
+    "name": "Hypnotic Musk Nectar",
+    "brand": "M. Micallef",
+    "release_year": "2025",
+    "description": "A new perfume byM. Micalleffor women, released in2025. The scent is fruity-powdery.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/36/368def_hypnotic-musk-nectar-m-micallef_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Powdery",
+        "Sweet",
+        "Spicy",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Raspberry",
+        "Bergamot",
+        "Iris"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Lychee",
+        "Violet",
+        "Ginger"
+    ],
+    "base_notes": [
+        "Musk",
+        "Ambergris",
+        "Vanilla",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.4",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ]
+    }
+}

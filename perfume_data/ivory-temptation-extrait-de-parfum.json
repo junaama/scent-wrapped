@@ -1,0 +1,52 @@
+{
+    "name": "Ivory Temptation",
+    "brand": "The Gate",
+    "release_year": "2025",
+    "description": "A new perfume byThe Gatefor women and men, released in2025. The scent is spicy-woody. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/83/834ba2_ivory-temptation-extrait-de-parfum-the-gate_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Woody",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Mandarin orange",
+        "Nectarine",
+        "White peach"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Clove",
+        "Orange blossom",
+        "Rose",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Kashmiri musk",
+        "Patchouli",
+        "Sandalwood",
+        "Tonka bean",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

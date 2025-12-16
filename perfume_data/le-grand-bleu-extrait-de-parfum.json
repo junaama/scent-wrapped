@@ -1,0 +1,116 @@
+{
+    "name": "Le Grand Bleu",
+    "brand": "The Gate",
+    "release_year": "2025",
+    "description": "A new perfume byThe Gatefor women and men, released in2025. The scent is citrusy-fresh. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8e/8e9e1d_le-grand-bleu-extrait-de-parfum-the-gate_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Floral"
+    ],
+    "top_notes": [
+        "Apple",
+        "Bergamot",
+        "Davana",
+        "Ginger",
+        "Grapefruit",
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Magnolia",
+        "Rose"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Musk",
+        "Patchouli",
+        "Tonka bean",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.2",
+            "votes": "9 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

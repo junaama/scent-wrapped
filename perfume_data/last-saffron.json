@@ -1,0 +1,37 @@
+{
+    "name": "Last Saffron",
+    "brand": "Pesade",
+    "release_year": "2025",
+    "description": "A new perfume byPesadefor women and men, released in2025. The scent is fruity-woody. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/cf/cfead1_last-saffron-pesade_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Woody",
+        "Spicy",
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Apple",
+        "Red berries"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Rose",
+        "Saffron"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Musk",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

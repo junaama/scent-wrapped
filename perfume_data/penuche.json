@@ -1,0 +1,88 @@
+{
+    "name": "Penuche",
+    "brand": "Atwood",
+    "release_year": "2025",
+    "description": "A new perfume byAtwoodfor women and men, released in2025. The scent is gourmand-leathery. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5d/5d12fa_penuche-atwood_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Leathery",
+        "Floral",
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Salty air"
+    ],
+    "heart_notes": [
+        "Leather"
+    ],
+    "base_notes": [
+        "Vanilla ice cream",
+        "Waffle cone"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

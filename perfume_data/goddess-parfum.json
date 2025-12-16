@@ -1,0 +1,144 @@
+{
+    "name": "Goddess Parfum",
+    "brand": "Burberry",
+    "release_year": "2025",
+    "description": "A new perfume byBurberryfor women, released in2025. The scent is sweet-leathery. It is being marketed byCoty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e2/e2f699_goddess-parfum-burberry_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Leathery",
+        "Spicy",
+        "Fruity",
+        "Floral"
+    ],
+    "top_notes": [
+        "Lavender",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Suede"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.9",
+            "votes": "77 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "62 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "61 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "60 Ratings"
+        },
+        "pricing": {
+            "score": "6.9",
+            "votes": "43 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 22
+            },
+            {
+                "name": "Synthetic",
+                "votes": 8
+            },
+            {
+                "name": "Sweet",
+                "votes": 28
+            },
+            {
+                "name": "Leathery",
+                "votes": 26
+            },
+            {
+                "name": "Woody",
+                "votes": 8
+            },
+            {
+                "name": "Gourmand",
+                "votes": 8
+            },
+            {
+                "name": "Fruity",
+                "votes": 20
+            },
+            {
+                "name": "Creamy",
+                "votes": 8
+            },
+            {
+                "name": "Floral",
+                "votes": 12
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 13
+            },
+            {
+                "name": "Feminine",
+                "votes": 26
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 18
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 29
+            },
+            {
+                "name": "Fall",
+                "votes": 32
+            },
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 15
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 19
+            },
+            {
+                "name": "Leisure",
+                "votes": 20
+            },
+            {
+                "name": "Night Out",
+                "votes": 25
+            },
+            {
+                "name": "Business",
+                "votes": 14
+            },
+            {
+                "name": "Evening",
+                "votes": 27
+            }
+        ]
+    }
+}

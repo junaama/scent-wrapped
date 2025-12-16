@@ -1,0 +1,32 @@
+{
+    "name": "Scent",
+    "brand": "The Dua Brand",
+    "release_year": "2025",
+    "description": "A new and limited perfume byThe Dua Brandfor women and men, released in2025. The perfume is vegan according to the manufacturer.CompareLimitedVegan",
+    "image_url": "https://media.parfumo.com/perfumes/c3/c37334_scent-the-dua-brand-dua-fragrances_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Rose"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Blackcurrant",
+        "Oud",
+        "Patchouli",
+        "Raspberry",
+        "Saffron",
+        "Spices",
+        "Vanilla absolute"
+    ],
+    "base_notes": [
+        "Musk",
+        "Smoked wood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "5.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

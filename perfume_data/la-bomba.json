@@ -1,0 +1,124 @@
+{
+    "name": "La Bomba",
+    "brand": "Carolina Herrera",
+    "release_year": "2025",
+    "description": "A new perfume byCarolina Herrerafor women, released in2025. The scent is sweet-fruity. It is being marketed byPuig.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5d/5df0e4_la-bomba-carolina-herrera_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Floral",
+        "Synthetic",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Dragon fruit"
+    ],
+    "heart_notes": [
+        "Cherry Hill peony",
+        "Red frangipani"
+    ],
+    "base_notes": [
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.7",
+            "votes": "192 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "145 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "149 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "174 Ratings"
+        },
+        "pricing": {
+            "score": "6.8",
+            "votes": "118 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 34
+            },
+            {
+                "name": "Sweet",
+                "votes": 57
+            },
+            {
+                "name": "Fruity",
+                "votes": 51
+            },
+            {
+                "name": "Fresh",
+                "votes": 9
+            },
+            {
+                "name": "Floral",
+                "votes": 41
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 59
+            },
+            {
+                "name": "Classic",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 41
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 25
+            },
+            {
+                "name": "Fall",
+                "votes": 37
+            },
+            {
+                "name": "Summer",
+                "votes": 29
+            },
+            {
+                "name": "Spring",
+                "votes": 42
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 26
+            },
+            {
+                "name": "Leisure",
+                "votes": 40
+            },
+            {
+                "name": "Night Out",
+                "votes": 40
+            },
+            {
+                "name": "Business",
+                "votes": 21
+            },
+            {
+                "name": "Evening",
+                "votes": 34
+            }
+        ]
+    }
+}

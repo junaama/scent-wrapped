@@ -1,0 +1,135 @@
+{
+    "name": "Daisy Eau So Fresh Glow",
+    "brand": "Marc Jacobs",
+    "release_year": "2025",
+    "description": "A new and limited perfume byMarc Jacobsfor women, released in2025. The scent is fruity-fresh. It is being marketed byCoty.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/38/38579b-daisy-eau-so-fresh-glow-marc-jacobs_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Fresh",
+        "Floral",
+        "Sweet",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Grapefruit",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Violet",
+        "Raspberry"
+    ],
+    "base_notes": [
+        "Mimosa",
+        "Musk",
+        "Cedarwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.7",
+            "votes": "15 Ratings"
+        },
+        "durability": {
+            "score": "5.6",
+            "votes": "12 Ratings"
+        },
+        "sillage": {
+            "score": "5.2",
+            "votes": "10 Ratings"
+        },
+        "bottle": {
+            "score": "7.1",
+            "votes": "18 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Apheara",
+    "brand": "Parfums de Luxe",
+    "release_year": "2025",
+    "description": "A new perfume byParfums de Luxefor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/df/dfb097_apheara-parfums-de-luxe_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Grapefruit",
+        "Mandarin orange",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Blackcurrant",
+        "Caramel",
+        "Lily of the valley"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Patchouli",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

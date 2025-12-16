@@ -1,0 +1,49 @@
+{
+    "name": "Summer in Capri",
+    "brand": "Glowcane",
+    "release_year": "2025",
+    "description": "A new and limited perfume byGlowcanefor women, released in2025. The scent is citrusy-sweet.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/70/702c94_summer-in-capri-glowcane_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Sweet",
+        "Fresh",
+        "Floral",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Amalfi lemon",
+        "Sea breeze",
+        "Yuzu"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Magnolia",
+        "Water hyacinth"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cashmeran",
+        "Patchouli",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.7",
+            "votes": "9 Ratings"
+        },
+        "durability": {
+            "score": "5.7",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "5.5",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "6.3",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {}
+}

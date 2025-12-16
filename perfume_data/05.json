@@ -1,0 +1,25 @@
+{
+    "name": "05",
+    "brand": "AlBidaa",
+    "release_year": "2025",
+    "description": "A new perfume byAlBidaafor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e9/e9f2d1_05-albidaa_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Black pepper",
+        "Clary sage",
+        "Plum"
+    ],
+    "heart_notes": [
+        "Caramel",
+        "Jasmine",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Leather",
+        "Patchouli",
+        "Vanilla absolute"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,162 @@
+{
+    "name": "Era Elixir",
+    "brand": "Jaguar",
+    "release_year": "2025",
+    "description": "A new perfume byJaguarfor men, released in2025. The scent is spicy-sweet. It is being marketed byLalique Group / Art & Fragrance.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/3a/3a926b_era-elixir-jaguar_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Sweet",
+        "Fruity",
+        "Woody",
+        "Leathery"
+    ],
+    "top_notes": [
+        "Black pepper",
+        "Mandarin orange",
+        "Nutmeg",
+        "Bergamot",
+        "Cardamom",
+        "Elemi resin",
+        "Grapefruit",
+        "Lavender",
+        "Saffron",
+        "Sage",
+        "Watermelon"
+    ],
+    "heart_notes": [
+        "Lily of the valley",
+        "Violet leaf"
+    ],
+    "base_notes": [
+        "Suede",
+        "Cedarwood",
+        "Caramel",
+        "Cashmere",
+        "Leather",
+        "Musk",
+        "Patchouli",
+        "Sandalwood",
+        "Siam benzoin",
+        "Tobacco",
+        "Tonka bean",
+        "Vanilla",
+        "White chocolate"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "33 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "27 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "27 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "29 Ratings"
+        },
+        "pricing": {
+            "score": "8.4",
+            "votes": "27 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 14
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 13
+            },
+            {
+                "name": "Oriental",
+                "votes": 6
+            },
+            {
+                "name": "Leathery",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 7
+            },
+            {
+                "name": "Fruity",
+                "votes": 7
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 17
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 10
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 13
+            },
+            {
+                "name": "Fall",
+                "votes": 15
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 11
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 13
+            },
+            {
+                "name": "Leisure",
+                "votes": 13
+            },
+            {
+                "name": "Night Out",
+                "votes": 9
+            },
+            {
+                "name": "Business",
+                "votes": 10
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

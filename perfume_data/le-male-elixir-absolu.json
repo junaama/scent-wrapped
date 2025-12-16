@@ -1,0 +1,133 @@
+{
+    "name": "Le Mâle Elixir Absolu",
+    "brand": "Jean Paul Gaultier",
+    "release_year": "2025",
+    "description": "A new perfume byJean Paul Gaultierfor men, released in2025. The scent is sweet-creamy. Projection and longevity are above-average. It is being marketed byPuig.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c1/c102ae-le-male-elixir-absolu-jean-paul-gaultier_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Creamy",
+        "Gourmand",
+        "Fruity",
+        "Powdery"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "517 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "452 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "455 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "459 Ratings"
+        },
+        "pricing": {
+            "score": "7.3",
+            "votes": "428 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 43
+            },
+            {
+                "name": "Synthetic",
+                "votes": 24
+            },
+            {
+                "name": "Sweet",
+                "votes": 106
+            },
+            {
+                "name": "Powdery",
+                "votes": 55
+            },
+            {
+                "name": "Oriental",
+                "votes": 21
+            },
+            {
+                "name": "Gourmand",
+                "votes": 72
+            },
+            {
+                "name": "Fruity",
+                "votes": 67
+            },
+            {
+                "name": "Creamy",
+                "votes": 79
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 110
+            },
+            {
+                "name": "Feminine",
+                "votes": 15
+            },
+            {
+                "name": "Classic",
+                "votes": 16
+            },
+            {
+                "name": "Modern",
+                "votes": 88
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 107
+            },
+            {
+                "name": "Fall",
+                "votes": 107
+            },
+            {
+                "name": "Summer",
+                "votes": 17
+            },
+            {
+                "name": "Spring",
+                "votes": 54
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 35
+            },
+            {
+                "name": "Leisure",
+                "votes": 54
+            },
+            {
+                "name": "Night Out",
+                "votes": 106
+            },
+            {
+                "name": "Business",
+                "votes": 25
+            },
+            {
+                "name": "Evening",
+                "votes": 103
+            }
+        ]
+    }
+}

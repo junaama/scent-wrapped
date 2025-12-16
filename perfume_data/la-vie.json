@@ -1,0 +1,25 @@
+{
+    "name": "La Vie",
+    "brand": "Routine Paris",
+    "release_year": "2025",
+    "description": "A new perfume byRoutine Parisfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/34/34d780_la-vie-routine-paris_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Pimento",
+        "Rose",
+        "Rosemary"
+    ],
+    "heart_notes": [
+        "Iris",
+        "Jasmine",
+        "Neroli"
+    ],
+    "base_notes": [
+        "Patchouli",
+        "Sandalwood",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

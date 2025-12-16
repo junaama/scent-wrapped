@@ -1,0 +1,32 @@
+{
+    "name": "Tiramisù",
+    "brand": "Profumi di Polignano",
+    "release_year": "2025",
+    "description": "A new perfume byProfumi di Polignanofor women and men, released in2025. The scent is gourmand-sweet. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/5c/5cc4e8_tiramisu-extrait-de-parfum-profumi-di-polignano_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Bitter orange",
+        "Frangipani"
+    ],
+    "heart_notes": [
+        "Butter",
+        "Milk",
+        "Sugar"
+    ],
+    "base_notes": [
+        "Biscuit",
+        "Vanilla",
+        "White musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.8",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

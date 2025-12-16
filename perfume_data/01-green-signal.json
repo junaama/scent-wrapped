@@ -1,0 +1,30 @@
+{
+    "name": "01. Green Signal",
+    "brand": "Royal Water",
+    "release_year": "2025",
+    "description": "A new perfume byRoyal Waterfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6f/6f8717_01-green-signal-royal-water_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Aniseed",
+        "Bergamot",
+        "Lemon",
+        "Orange",
+        "Tangerine"
+    ],
+    "heart_notes": [
+        "Cyclamen",
+        "Gardenia",
+        "Lily of the valley",
+        "Orchid",
+        "Rose",
+        "Violet"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Moss",
+        "Musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

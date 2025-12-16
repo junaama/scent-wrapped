@@ -1,0 +1,145 @@
+{
+    "name": "Lü Bu",
+    "brand": "Sora Dora",
+    "release_year": "2025",
+    "description": "A new perfume bySora Dorafor women and men, released in2025. The scent is smoky-spicy. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/84/84ceb9_lu-bu-sora-dora_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Smoky",
+        "Spicy",
+        "Floral",
+        "Sweet",
+        "Woody"
+    ],
+    "top_notes": [
+        "Clove",
+        "Gun powder"
+    ],
+    "heart_notes": [
+        "Blood",
+        "Iris"
+    ],
+    "base_notes": [
+        "Metallic notes",
+        "Almond",
+        "Black vanilla absolute",
+        "Gaiac wood",
+        "Tonka bean absolute",
+        "Amyris",
+        "Cashmere wood",
+        "Virginia cedar",
+        "Tolu balm"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "28 Ratings"
+        },
+        "durability": {
+            "score": "8.2",
+            "votes": "23 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "23 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "24 Ratings"
+        },
+        "pricing": {
+            "score": "6.2",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 8
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Smoky",
+                "votes": 9
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 5
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

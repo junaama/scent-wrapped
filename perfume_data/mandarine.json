@@ -1,0 +1,138 @@
+{
+    "name": "Mandarine",
+    "brand": "Widian",
+    "release_year": "2025",
+    "description": "A new perfume byWidianfor women and men, released in2025. The scent is citrusy-fresh.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/44/44a54c_mandarine-widian-aj-arabia_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Fresh",
+        "Fruity",
+        "Sweet",
+        "Floral"
+    ],
+    "top_notes": [
+        "Mandarin orange",
+        "Fig",
+        "Lemon",
+        "Green Guatemala cardamom",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Juniper",
+        "Neroli"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Labdanum absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "123 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "115 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "113 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "107 Ratings"
+        },
+        "pricing": {
+            "score": "6.3",
+            "votes": "88 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 43
+            },
+            {
+                "name": "Sweet",
+                "votes": 24
+            },
+            {
+                "name": "Green",
+                "votes": 9
+            },
+            {
+                "name": "Fruity",
+                "votes": 35
+            },
+            {
+                "name": "Fresh",
+                "votes": 38
+            },
+            {
+                "name": "Floral",
+                "votes": 18
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 38
+            },
+            {
+                "name": "Feminine",
+                "votes": 40
+            },
+            {
+                "name": "Classic",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 24
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 47
+            },
+            {
+                "name": "Spring",
+                "votes": 38
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 42
+            },
+            {
+                "name": "Sport",
+                "votes": 21
+            },
+            {
+                "name": "Leisure",
+                "votes": 43
+            },
+            {
+                "name": "Night Out",
+                "votes": 19
+            },
+            {
+                "name": "Business",
+                "votes": 33
+            },
+            {
+                "name": "Evening",
+                "votes": 16
+            }
+        ]
+    }
+}

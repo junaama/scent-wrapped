@@ -1,0 +1,141 @@
+{
+    "name": "Ramsh Diva",
+    "brand": "Zimaya",
+    "release_year": "2025",
+    "description": "A new perfume byZimayafor women, released in2025. The scent is sweet-gourmand. It is being marketed byAfnan.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/65/650d77_ramsh-diva-zimaya_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Gourmand",
+        "Powdery",
+        "Creamy",
+        "Floral"
+    ],
+    "top_notes": [
+        "Vanilla",
+        "Fruity notes",
+        "Jasmine"
+    ],
+    "heart_notes": [
+        "Vanilla",
+        "Sugar",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Musk",
+        "Patchouli",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "33 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "31 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "29 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "31 Ratings"
+        },
+        "pricing": {
+            "score": "9.3",
+            "votes": "29 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 11
+            },
+            {
+                "name": "Powdery",
+                "votes": 7
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 8
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 11
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 11
+            },
+            {
+                "name": "Fall",
+                "votes": 11
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 8
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 9
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 9
+            }
+        ]
+    }
+}

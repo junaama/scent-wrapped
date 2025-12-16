@@ -1,0 +1,25 @@
+{
+    "name": "Phrom Phong",
+    "brand": "Reunrom",
+    "release_year": "2025",
+    "description": "A new perfume byReunromfor women and men, released in2025. It is being marketed byKarmarts.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/97/971ad0_phrom-phong-reunrom_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Grapefruit",
+        "Leaves",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Aquatic notes",
+        "Heliotrope",
+        "Orris root",
+        "Rose"
+    ],
+    "base_notes": [
+        "Gaiac wood",
+        "Musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

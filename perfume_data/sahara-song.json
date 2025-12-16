@@ -1,0 +1,53 @@
+{
+    "name": "Sahara Song",
+    "brand": "Roan",
+    "release_year": "2025",
+    "description": "A new perfume byRoanfor women and men, released in2025. The scent is floral-sweet.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/6b/6b8548_sahara-song-roan_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Coconut milk",
+        "Coffee bean",
+        "Mint tea",
+        "Pink pepper",
+        "Plum"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Rose",
+        "Vanilla orchid"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Musk",
+        "Vetiver"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            }
+        ]
+    }
+}

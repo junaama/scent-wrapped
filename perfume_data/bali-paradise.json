@@ -1,0 +1,131 @@
+{
+    "name": "Bali Paradise",
+    "brand": "Escada",
+    "release_year": "2025",
+    "description": "A new and limited perfume byEscadafor women, released in2025. The scent is fruity-sweet. It is being marketed byCoty.PronunciationCompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/a9/a952f7-bali-paradise-escada_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Synthetic",
+        "Fresh",
+        "Floral"
+    ],
+    "top_notes": [
+        "Dragon fruit"
+    ],
+    "heart_notes": [
+        "Strelitzia"
+    ],
+    "base_notes": [
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "66 Ratings"
+        },
+        "durability": {
+            "score": "6.3",
+            "votes": "51 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "50 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "56 Ratings"
+        },
+        "pricing": {
+            "score": "7.2",
+            "votes": "35 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 16
+            },
+            {
+                "name": "Sweet",
+                "votes": 27
+            },
+            {
+                "name": "Fruity",
+                "votes": 30
+            },
+            {
+                "name": "Fresh",
+                "votes": 14
+            },
+            {
+                "name": "Floral",
+                "votes": 9
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 29
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 13
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 29
+            },
+            {
+                "name": "Spring",
+                "votes": 21
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 20
+            },
+            {
+                "name": "Sport",
+                "votes": 8
+            },
+            {
+                "name": "Leisure",
+                "votes": 27
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 11
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "name": "Peaches & Cream",
+    "brand": "Wagazzi",
+    "release_year": "2025",
+    "description": "A new perfume byWagazzifor women and men, released in2025. The scent is creamy-fruity. Projection and longevity are above-average. It was last marketed byOro&Co.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ff/ffab51_peaches-cream-wagazzi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Creamy",
+        "Fruity",
+        "Sweet",
+        "Floral",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Ambroxan",
+        "Bergamot",
+        "Blossoms",
+        "Davana",
+        "Ylang-ylang"
+    ],
+    "heart_notes": [
+        "Coconut cream",
+        "Mandarin orange",
+        "Passion fruit",
+        "Peach",
+        "Sugar cane"
+    ],
+    "base_notes": [
+        "Amber",
+        "Heliotrope",
+        "Sandalwood",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "8 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "8.1",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "8.8",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            }
+        ]
+    }
+}

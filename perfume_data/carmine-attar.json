@@ -1,0 +1,42 @@
+{
+    "name": "Carmine",
+    "brand": "Vivace Perfumes",
+    "release_year": "2025",
+    "description": "A new and limited perfume byVivace Perfumesfor women and men, released in2025. The scent is floral-oriental.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/07/075e5b_carmine-attar-vivace-perfumes_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Oriental",
+        "Spicy",
+        "Resinous"
+    ],
+    "top_notes": [
+        "Aldehydes",
+        "Taif rose"
+    ],
+    "heart_notes": [
+        "Gardenia",
+        "Heliotrope",
+        "Jasmine sambac",
+        "Orange blossom",
+        "Rosa centifolia absolute",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cambodian oud",
+        "Castoreum",
+        "Cinnamon",
+        "Civet",
+        "Osmanthus",
+        "Sandalwood",
+        "Tolu balm absolute"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

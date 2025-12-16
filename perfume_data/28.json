@@ -1,0 +1,136 @@
+{
+    "name": "28",
+    "brand": "Daniel Josier",
+    "release_year": "2025",
+    "description": "A new perfume byDaniel Josierfor women and men, released in2025. The scent is sweet-creamy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/00/00ec7f_28-daniel-josier_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Creamy",
+        "Fruity",
+        "Gourmand",
+        "Woody"
+    ],
+    "top_notes": [
+        "Plum",
+        "Walnut",
+        "Banana"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Tobacco",
+        "Tonka bean",
+        "Cognac"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Tonka bean",
+        "Vanilla",
+        "Labdanum",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "19 Ratings"
+        },
+        "durability": {
+            "score": "7.4",
+            "votes": "18 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "17 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "18 Ratings"
+        },
+        "pricing": {
+            "score": "7.6",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Gourmand",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 6
+            },
+            {
+                "name": "Creamy",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

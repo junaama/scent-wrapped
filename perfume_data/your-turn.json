@@ -1,0 +1,141 @@
+{
+    "name": "Your Turn",
+    "brand": "Billie Eilish",
+    "release_year": "2025",
+    "description": "A new perfume byBillie Eilishfor women and men, released in2025. The scent is woody-fresh. It is being marketed byParlux Ltd.. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/fa/fabd53_your-turn-billie-eilish_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Fresh",
+        "Spicy",
+        "Sweet",
+        "Green"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Ginger",
+        "Bergamot zest"
+    ],
+    "heart_notes": [
+        "Coconut water",
+        "Night-blooming jasmine",
+        "Peach skin"
+    ],
+    "base_notes": [
+        "Australian sandalwood",
+        "Musk",
+        "Sylvamber™"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "64 Ratings"
+        },
+        "durability": {
+            "score": "6.6",
+            "votes": "42 Ratings"
+        },
+        "sillage": {
+            "score": "6.2",
+            "votes": "42 Ratings"
+        },
+        "bottle": {
+            "score": "5.9",
+            "votes": "74 Ratings"
+        },
+        "pricing": {
+            "score": "6.4",
+            "votes": "34 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 9
+            },
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Woody",
+                "votes": 17
+            },
+            {
+                "name": "Green",
+                "votes": 7
+            },
+            {
+                "name": "Fresh",
+                "votes": 12
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 11
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 10
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 12
+            },
+            {
+                "name": "Fall",
+                "votes": 14
+            },
+            {
+                "name": "Summer",
+                "votes": 11
+            },
+            {
+                "name": "Spring",
+                "votes": 14
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 12
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Night Out",
+                "votes": 11
+            },
+            {
+                "name": "Business",
+                "votes": 11
+            },
+            {
+                "name": "Evening",
+                "votes": 14
+            }
+        ]
+    }
+}

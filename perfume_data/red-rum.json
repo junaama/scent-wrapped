@@ -1,0 +1,42 @@
+{
+    "name": "Red Rum",
+    "brand": "Third Eye Fragrance Co.",
+    "release_year": "2025",
+    "description": "A new perfume byThird Eye Fragrance Co.for women and men, released in2025. The projection is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/11/115464_red-rum-third-eye-fragrance-co_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Black cherry",
+        "Davana",
+        "Spiced rum"
+    ],
+    "heart_notes": [
+        "Plum",
+        "Tobacco",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Amber",
+        "French vanilla",
+        "Oak"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.0",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "8.3",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "7.0",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {}
+}

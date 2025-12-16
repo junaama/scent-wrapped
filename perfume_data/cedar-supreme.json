@@ -1,0 +1,41 @@
+{
+    "name": "Cedar Supreme",
+    "brand": "Cyklar",
+    "release_year": "2025",
+    "description": "A new perfume byCyklarfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/67/6726f0_cedar-supreme-cyklar_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Artemisia",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Labdanum",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Amber",
+        "Ambroxan",
+        "Cedarwood",
+        "Tonka bean absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "4.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

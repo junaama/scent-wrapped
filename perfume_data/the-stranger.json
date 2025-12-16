@@ -1,0 +1,93 @@
+{
+    "name": "The Stranger",
+    "brand": "Antagonist",
+    "release_year": "2025",
+    "description": "A new and limited perfume byAntagonistfor women and men, released in2025. The scent is fresh-spicy. The longevity is above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/18/188ed7_the-stranger-antagonist_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Spicy",
+        "Aquatic",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Air accord",
+        "Espresso",
+        "Menthol",
+        "Rain accord",
+        "Salty air"
+    ],
+    "heart_notes": [
+        "Burnt vanilla",
+        "Glass accord",
+        "Honey",
+        "Mist note",
+        "Tobacco"
+    ],
+    "base_notes": [
+        "Amber",
+        "Ash",
+        "Cool notes",
+        "Dry woods",
+        "Forest accord",
+        "Oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "4 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

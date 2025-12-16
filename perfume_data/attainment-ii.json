@@ -1,0 +1,109 @@
+{
+    "name": "Attainment II",
+    "brand": "Amphora Exotica",
+    "release_year": "2025",
+    "description": "A new and limited perfume byAmphora Exoticafor women and men, released in2025. The scent is animal-spicy. The longevity is above-average. The production was apparently discontinued.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/46/466618_attainment-ii-amphora-exotica_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Animal",
+        "Spicy",
+        "Woody",
+        "Earthy",
+        "Floral"
+    ],
+    "top_notes": [
+        "Omani green frankincense"
+    ],
+    "heart_notes": [
+        "Afghan rose",
+        "Bulgarian rose",
+        "Civet",
+        "Kashmiri saffron"
+    ],
+    "base_notes": [
+        "Bushman's candle",
+        "Castoreum",
+        "False sandalwood",
+        "Indian oud",
+        "Oak wood",
+        "Siberian deer musk",
+        "Sumatran vanilla",
+        "White ambergris"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "8.6",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "8.8",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

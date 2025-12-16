@@ -1,0 +1,33 @@
+{
+    "name": "Mientus 001",
+    "brand": "Mientus",
+    "release_year": "2025",
+    "description": "A new perfume byMientusfor women and men, released in2025. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2d/2d7da5_mientus-001-mientus_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Iris",
+        "Sage"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Cardamom",
+        "Cocoa",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Leather",
+        "Musk",
+        "Patchouli",
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

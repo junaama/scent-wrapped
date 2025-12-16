@@ -1,0 +1,160 @@
+{
+    "name": "Sutro",
+    "brand": "Jinx",
+    "release_year": "2025",
+    "description": "A new perfume byJinxfor women and men, released in2025. The scent is floral-sweet. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/67/67cd24_sutro-jinx_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Woody",
+        "Animal",
+        "Green"
+    ],
+    "top_notes": [
+        "Cinnamon",
+        "Lemon grass",
+        "Pandanus",
+        "Peach",
+        "Red kelp"
+    ],
+    "heart_notes": [
+        "Blue lotus",
+        "Bushman's candle",
+        "Honeysuckle",
+        "Kenyan frankincense",
+        "Lilac",
+        "Pink champaca",
+        "Tobacco",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "White ambergris",
+        "Cistus",
+        "Mongolian deer musk",
+        "Musk ketone",
+        "Mysore sandalwood",
+        "Thai oud",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.1",
+            "votes": "11 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "8.5",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 3
+            },
+            {
+                "name": "Aquatic",
+                "votes": 1
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 3
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

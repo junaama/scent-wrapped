@@ -1,0 +1,128 @@
+{
+    "name": "Habik Women",
+    "brand": "Lattafa",
+    "release_year": "2025",
+    "description": "A new perfume byLattafafor women, released in2025. The scent is floral-fruity. It is being marketed byLattafa Perfumes Industries LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/f2/f2d221_habik-women-lattafa_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Fruity",
+        "Sweet",
+        "Fresh",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Freesia",
+        "Jasmine",
+        "Lily of the valley"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Oakmoss"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "23 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "21 Ratings"
+        },
+        "sillage": {
+            "score": "6.9",
+            "votes": "18 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "27 Ratings"
+        },
+        "pricing": {
+            "score": "8.6",
+            "votes": "21 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 5
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 6
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

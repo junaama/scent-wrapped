@@ -1,0 +1,155 @@
+{
+    "name": "Bisous Bisous",
+    "brand": "Pierre de Velay",
+    "release_year": "2025",
+    "description": "A new perfume byPierre de Velayfor women and men, released in2025. The scent is sweet-fruity.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/78/783010_bisous-bisous-pierre-de-velay_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Floral",
+        "Fresh",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Clary sage",
+        "Lemon",
+        "Mandarin orange",
+        "Provençal lavender"
+    ],
+    "heart_notes": [
+        "Blackcurrant",
+        "Cherry",
+        "Geranium"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedarwood",
+        "Cotton candy",
+        "Dry woods",
+        "Moss",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "20 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "19 Ratings"
+        },
+        "sillage": {
+            "score": "7.3",
+            "votes": "17 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "19 Ratings"
+        },
+        "pricing": {
+            "score": "5.7",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 11
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 10
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Fougère",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 5
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

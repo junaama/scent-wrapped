@@ -1,0 +1,32 @@
+{
+    "name": "Bulgarian Rose",
+    "brand": "Shaman Perfumery",
+    "release_year": "2025",
+    "description": "A new perfume byShaman Perfumeryfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/17/1716c4_bulgarian-rose-shaman-perfumery_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Balsamic notes",
+        "Bulgarian damask rose",
+        "Green notes",
+        "Pear"
+    ],
+    "heart_notes": [
+        "Lily of the valley",
+        "Peony",
+        "Sandalwood"
+    ],
+    "base_notes": [
+        "Ambrette seed",
+        "Musk",
+        "Vanilla",
+        "Woody notes"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

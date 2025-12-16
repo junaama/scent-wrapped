@@ -1,0 +1,144 @@
+{
+    "name": "Osola",
+    "brand": "Tiziana Terenzi",
+    "release_year": "2025",
+    "description": "A new perfume byTiziana Terenzifor women and men, released in2025. The scent is creamy-fresh. It is being marketed byCereria Terenzi Evelino.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/40/402332_osola-tiziana-terenzi_1200.jpg?width=240&aspect_ratio=1:1",
+    "main_accords": [
+        "Creamy",
+        "Fresh",
+        "Green",
+        "Fruity",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Brazilian coconut",
+        "Black tea",
+        "Brazilian petitgrain",
+        "Coconut milk",
+        "Green tea",
+        "Italian lemon",
+        "Italian mandarin orange"
+    ],
+    "heart_notes": [
+        "Mexican tuberose",
+        "Italian cedar wood",
+        "Italian orange blossom",
+        "Sicilian almond",
+        "Thai ylang-ylang"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Bourbon vanilla",
+        "Italian oak wood",
+        "White musk"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "24 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "20 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "19 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "26 Ratings"
+        },
+        "pricing": {
+            "score": "6.1",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

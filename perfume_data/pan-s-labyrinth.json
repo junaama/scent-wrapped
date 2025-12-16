@@ -1,0 +1,153 @@
+{
+    "name": "Pan's Labyrinth",
+    "brand": "Lost Tribe",
+    "release_year": "2025",
+    "description": "A new and limited perfume byLost Tribefor women and men, released in2025. The scent is powdery-fougèreartig. The longevity is above-average.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/f9/f9a0bd_pan-s-labyrinth-lost-tribe_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Powdery",
+        "Fougère",
+        "Earthy",
+        "Floral",
+        "Woody"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Bitter almond",
+        "Powder",
+        "Rose otto",
+        "White ambergris"
+    ],
+    "heart_notes": [
+        "Coumarin",
+        "Lavender",
+        "Patchouli",
+        "Rose absolute",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Bakhoor",
+        "Fir",
+        "French oakmoss",
+        "Labdanum",
+        "Malayan oud",
+        "Siberian musk",
+        "Sri Lankan sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.9",
+            "votes": "11 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "7.9",
+            "votes": "9 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fougère",
+                "votes": 2
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

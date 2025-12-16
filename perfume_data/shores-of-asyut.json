@@ -1,0 +1,147 @@
+{
+    "name": "Shores of Asyut",
+    "brand": "Estoras",
+    "release_year": "2025",
+    "description": "A new perfume byEstorasfor women and men, released in2025. The scent is green-fresh. It is being marketed byEstoras Enterprises GmbH.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c4/c4ed24_shores-of-asyut-estoras_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Fresh",
+        "Woody",
+        "Resinous",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Black pepper",
+        "Gin",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Iris",
+        "Tuberose",
+        "Violet leaf"
+    ],
+    "base_notes": [
+        "Sugar cane",
+        "Woods",
+        "Ambergris",
+        "Moss",
+        "Oak"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.4",
+            "votes": "8 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "6 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "6 Ratings"
+        },
+        "bottle": {
+            "score": "6.0",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 4
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Earthy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

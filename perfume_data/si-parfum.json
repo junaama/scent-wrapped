@@ -1,0 +1,153 @@
+{
+    "name": "Sì Parfum",
+    "brand": "Giorgio Armani",
+    "release_year": "2025",
+    "description": "A new perfume byGiorgio Armanifor women, released in2025. The scent is sweet-leathery. Projection and longevity are above-average. It is being marketed byL'Oréal.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/c3/c34fe2_si-parfum-giorgio-armani_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Leathery",
+        "Spicy",
+        "Fruity",
+        "Floral"
+    ],
+    "top_notes": [
+        "Blackcurrant nectar",
+        "Pear",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Bourbon vanilla",
+        "Candied fruits",
+        "Damask rose"
+    ],
+    "base_notes": [
+        "Bourbon vanilla",
+        "Sumatran patchouli",
+        "Suede"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "55 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "44 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "46 Ratings"
+        },
+        "bottle": {
+            "score": "8.1",
+            "votes": "44 Ratings"
+        },
+        "pricing": {
+            "score": "6.9",
+            "votes": "33 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 15
+            },
+            {
+                "name": "Sweet",
+                "votes": 17
+            },
+            {
+                "name": "Smoky",
+                "votes": 5
+            },
+            {
+                "name": "Powdery",
+                "votes": 8
+            },
+            {
+                "name": "Oriental",
+                "votes": 6
+            },
+            {
+                "name": "Leathery",
+                "votes": 15
+            },
+            {
+                "name": "Gourmand",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 14
+            },
+            {
+                "name": "Creamy",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 9
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 17
+            },
+            {
+                "name": "Classic",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 9
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 18
+            },
+            {
+                "name": "Fall",
+                "votes": 18
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 8
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Night Out",
+                "votes": 16
+            },
+            {
+                "name": "Business",
+                "votes": 8
+            },
+            {
+                "name": "Evening",
+                "votes": 18
+            }
+        ]
+    }
+}

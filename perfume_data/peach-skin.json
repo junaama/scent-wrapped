@@ -1,0 +1,52 @@
+{
+    "name": "Peach Skin",
+    "brand": "Phlur",
+    "release_year": "2025",
+    "description": "A new perfume byPhlurfor women and men, released in2025. The scent is fruity-sweet. The perfume is vegan according to the manufacturer.PronunciationCompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/f0/f0911e_peach-skin-phlur_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Sweet",
+        "Synthetic",
+        "Fresh",
+        "Floral"
+    ],
+    "top_notes": [
+        "Bellini",
+        "Peach skin",
+        "Bergamot",
+        "Plum"
+    ],
+    "heart_notes": [
+        "Jasmine nectar",
+        "Vanilla orchid",
+        "White freesia"
+    ],
+    "base_notes": [
+        "Sandalwood",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "33 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "26 Ratings"
+        },
+        "sillage": {
+            "score": "6.3",
+            "votes": "24 Ratings"
+        },
+        "bottle": {
+            "score": "6.3",
+            "votes": "28 Ratings"
+        },
+        "pricing": {
+            "score": "7.6",
+            "votes": "21 Ratings"
+        }
+    },
+    "community_charts": {}
+}

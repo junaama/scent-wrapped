@@ -1,0 +1,166 @@
+{
+    "name": "Floris Rex",
+    "brand": "Nebiru Parfvms",
+    "release_year": "2025",
+    "description": "A new perfume byNebiru Parfvmsfor women and men, released in2025. The scent is green-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8e/8e440f-floris-rex-nebiru-parfvms_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Spicy",
+        "Floral",
+        "Chypre",
+        "Woody"
+    ],
+    "top_notes": [
+        "Sichuan pepper",
+        "Rosemary",
+        "Tarragon",
+        "Cardamom",
+        "Clary sage",
+        "Italian lemon",
+        "Thyme"
+    ],
+    "heart_notes": [
+        "Siberian rhododendron",
+        "Blue cypress",
+        "French lavender",
+        "Gardenia",
+        "Magnolia",
+        "Omani frankincense",
+        "Pot marigold",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Fossilised amber",
+        "Atlas cedar",
+        "Black spruce absolute",
+        "Cade juniper wood",
+        "Castoreum",
+        "Gurjum balsam",
+        "Indonesian patchouli",
+        "Musk",
+        "Oakmoss",
+        "Texas cedar",
+        "White ambergris"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "40 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "35 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "34 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "31 Ratings"
+        },
+        "pricing": {
+            "score": "7.2",
+            "votes": "25 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 8
+            },
+            {
+                "name": "Smoky",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 6
+            },
+            {
+                "name": "Resinous",
+                "votes": 4
+            },
+            {
+                "name": "Green",
+                "votes": 10
+            },
+            {
+                "name": "Fresh",
+                "votes": 3
+            },
+            {
+                "name": "Earthy",
+                "votes": 4
+            },
+            {
+                "name": "Chypre",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 6
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 9
+            },
+            {
+                "name": "Summer",
+                "votes": 5
+            },
+            {
+                "name": "Spring",
+                "votes": 10
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

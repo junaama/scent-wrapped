@@ -1,0 +1,143 @@
+{
+    "name": "Crème Ébène",
+    "brand": "Nicolaï",
+    "release_year": "2025",
+    "description": "A new perfume byNicolaïfor women and men, released in2025. The scent is woody-spicy. The longevity is above-average.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/bb/bb261d_creme-ebene-nicolai-parfums-de-nicolai_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Spicy",
+        "Creamy",
+        "Sweet",
+        "Leathery"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Cumin",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Medjoul date",
+        "Atlas cedar",
+        "Virginia cedar"
+    ],
+    "base_notes": [
+        "White musk",
+        "Vanilla",
+        "Papyrus",
+        "Sandalwood",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "44 Ratings"
+        },
+        "durability": {
+            "score": "8.5",
+            "votes": "42 Ratings"
+        },
+        "sillage": {
+            "score": "8.0",
+            "votes": "41 Ratings"
+        },
+        "bottle": {
+            "score": "8.2",
+            "votes": "38 Ratings"
+        },
+        "pricing": {
+            "score": "7.5",
+            "votes": "32 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 16
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 12
+            },
+            {
+                "name": "Oriental",
+                "votes": 7
+            },
+            {
+                "name": "Leathery",
+                "votes": 9
+            },
+            {
+                "name": "Woody",
+                "votes": 17
+            },
+            {
+                "name": "Creamy",
+                "votes": 13
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 18
+            },
+            {
+                "name": "Feminine",
+                "votes": 17
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 10
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 19
+            },
+            {
+                "name": "Fall",
+                "votes": 20
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 11
+            },
+            {
+                "name": "Night Out",
+                "votes": 15
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 15
+            }
+        ]
+    }
+}

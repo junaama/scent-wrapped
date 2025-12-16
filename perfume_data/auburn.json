@@ -1,0 +1,128 @@
+{
+    "name": "Auburn",
+    "brand": "Cos Perfumery",
+    "release_year": "2025",
+    "description": "A new perfume byCos Perfumeryfor women and men, released in2025. The scent is spicy-sweet. It is being marketed byH&M Group.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/42/422792_auburn-cos-perfumery_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Sweet",
+        "Oriental",
+        "Gourmand",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Coffee",
+        "Green cardamom",
+        "Clove"
+    ],
+    "heart_notes": [
+        "Vanilla",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Labdanum",
+        "Sandalwood",
+        "Cistus"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "25 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "20 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "18 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "22 Ratings"
+        },
+        "pricing": {
+            "score": "7.5",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 12
+            },
+            {
+                "name": "Sweet",
+                "votes": 12
+            },
+            {
+                "name": "Smoky",
+                "votes": 3
+            },
+            {
+                "name": "Oriental",
+                "votes": 11
+            },
+            {
+                "name": "Gourmand",
+                "votes": 10
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 12
+            },
+            {
+                "name": "Feminine",
+                "votes": 11
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 13
+            },
+            {
+                "name": "Fall",
+                "votes": 15
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 3
+            },
+            {
+                "name": "Leisure",
+                "votes": 12
+            },
+            {
+                "name": "Night Out",
+                "votes": 12
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 13
+            }
+        ]
+    }
+}

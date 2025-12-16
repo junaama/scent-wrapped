@@ -1,0 +1,140 @@
+{
+    "name": "Barbicaja",
+    "brand": "Spoturno",
+    "release_year": "2025",
+    "description": "A new perfume bySpoturnofor women and men, released in2025. The scent is green-floral.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/64/64e3ec_barbicaja-spoturno_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Floral",
+        "Woody",
+        "Spicy",
+        "Fresh"
+    ],
+    "top_notes": [
+        "Freesia",
+        "Green notes",
+        "Hyacinth",
+        "Lily of the valley"
+    ],
+    "heart_notes": [
+        "Apricot",
+        "Jasminum grandiflorum",
+        "Orange blossom",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Patchouli",
+        "Vanilla",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "17 Ratings"
+        },
+        "durability": {
+            "score": "7.8",
+            "votes": "13 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "7.7",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Green",
+                "votes": 8
+            },
+            {
+                "name": "Fresh",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 8
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 7
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 5
+            },
+            {
+                "name": "Summer",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 8
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 7
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

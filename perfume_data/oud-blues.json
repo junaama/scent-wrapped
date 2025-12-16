@@ -1,0 +1,129 @@
+{
+    "name": "Oud Blues",
+    "brand": "Mystery, Modern Mark",
+    "release_year": "2025",
+    "description": "A new perfume byMystery, Modern Markfor women and men, released in2025. The scent is sweet-fruity. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/36/36b57f_oud-blues-mystery-modern-mark_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Fresh",
+        "Creamy",
+        "Leathery"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Black pepper",
+        "Cinnamon",
+        "Elemi resin"
+    ],
+    "heart_notes": [
+        "Plum",
+        "Patchouli",
+        "Sage",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Tonka bean",
+        "Vanilla",
+        "White musk",
+        "Leather",
+        "Oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "8 Ratings"
+        },
+        "durability": {
+            "score": "8.9",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "8.8",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "9 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Charme Intuit",
+    "brand": "Les Perles D'Orient",
+    "release_year": "2025",
+    "description": "A new perfume byLes Perles D'Orientfor women, released in2025. The scent is citrusy-woody. It is being marketed byDremar Parfum International.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/dc/dc34f7_charme-intuit-les-perles-d-orient_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Woody",
+        "Fruity",
+        "Floral",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Orange"
+    ],
+    "heart_notes": [
+        "Moss",
+        "Orange blossom",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Patchouli",
+        "Vetiver",
+        "White musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

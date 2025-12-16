@@ -1,0 +1,42 @@
+{
+    "name": "Greenhouse",
+    "brand": "Obscura Fragrancia",
+    "release_year": "2025",
+    "description": "A new perfume byObscura Fragranciafor women and men, released in2025. The scent is fruity-woody.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/1f/1f41ec_greenhouse-obscura-fragrancia_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Woody",
+        "Green",
+        "Sweet",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Fig",
+        "Fig leaf",
+        "Fig tree"
+    ],
+    "heart_notes": [
+        "Coconut",
+        "Green notes"
+    ],
+    "base_notes": [
+        "Cedar",
+        "Woody notes"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

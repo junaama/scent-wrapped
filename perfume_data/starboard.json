@@ -1,0 +1,30 @@
+{
+    "name": "Starboard",
+    "brand": "The Dua Brand",
+    "release_year": "2025",
+    "description": "A new perfume byThe Dua Brandfor women and men, released in2025. The perfume is vegan according to the manufacturer.PronunciationCompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/40/4067b9_starboard-the-dua-brand_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Iodine",
+        "Pineapple"
+    ],
+    "heart_notes": [
+        "Ginger",
+        "Passion fruit",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Caramel",
+        "White musk",
+        "Woods"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

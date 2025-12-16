@@ -1,0 +1,40 @@
+{
+    "name": "Pecan Pie",
+    "brand": "Jousset Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byJousset Parfumsfor women and men, released in2025.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/6a/6a4841_pecan-pie-jousset-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Caramel",
+        "Pecan"
+    ],
+    "heart_notes": [
+        "Custard",
+        "Pecan pie"
+    ],
+    "base_notes": [
+        "Maple",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "8.3",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

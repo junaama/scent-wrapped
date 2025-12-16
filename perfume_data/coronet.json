@@ -1,0 +1,35 @@
+{
+    "name": "Coronet",
+    "brand": "Thameen",
+    "release_year": "2025",
+    "description": "A new perfume byThameenfor women and men, released in2025. The scent is aquatic.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/9d/9d57cc_coronet-thameen_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Aquatic"
+    ],
+    "top_notes": [
+        "Cypress",
+        "Juniper berry",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Rose",
+        "Sage"
+    ],
+    "base_notes": [
+        "Amber",
+        "Atlas cedar",
+        "Frankincense",
+        "Musk",
+        "Oud",
+        "Vetiver"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

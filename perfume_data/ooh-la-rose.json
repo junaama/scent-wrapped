@@ -1,0 +1,31 @@
+{
+    "name": "Ooh La Rose",
+    "brand": "Christian Siriano",
+    "release_year": "2025",
+    "description": "A new perfume byChristian Sirianofor women, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b3/b3def4_ooh-la-rose-christian-siriano_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Pear",
+        "Pomegranate",
+        "Woodland strawberry"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Peony",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Patchouli",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "4.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

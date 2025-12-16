@@ -1,0 +1,159 @@
+{
+    "name": "Toy Boy 2",
+    "brand": "Moschino",
+    "release_year": "2025",
+    "description": "A new perfume byMoschinofor men, released in2025. The scent is spicy-sweet. The longevity is above-average. It is being marketed byEuroItalia.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/72/72540a_toy-boy-2-moschino_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Spicy",
+        "Sweet",
+        "Woody",
+        "Powdery",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Indian cardamom",
+        "Indian ginger",
+        "Indonesian nutmeg"
+    ],
+    "heart_notes": [
+        "Akigalawood®",
+        "Coffee CO2",
+        "Madagascan pepper Orpur®",
+        "Viginia cedar Orpur®"
+    ],
+    "base_notes": [
+        "Ambrofix",
+        "Haitian vetiver Orpur®",
+        "Myrrh",
+        "Spanish cistus Orpur®"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.0",
+            "votes": "18 Ratings"
+        },
+        "durability": {
+            "score": "8.1",
+            "votes": "14 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "15 Ratings"
+        },
+        "pricing": {
+            "score": "8.2",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 6
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 5
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Fresh",
+                "votes": 2
+            },
+            {
+                "name": "Creamy",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

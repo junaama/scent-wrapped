@@ -1,0 +1,28 @@
+{
+    "name": "Aspirant",
+    "brand": "Render Culture",
+    "release_year": "2025",
+    "description": "A new and limited perfume byRender Culturefor women and men, released in2025.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/2c/2ce114_aspirant-render-culture_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Citron"
+    ],
+    "heart_notes": [
+        "Coffee",
+        "Green apple",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

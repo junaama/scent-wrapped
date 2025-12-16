@@ -1,0 +1,28 @@
+{
+    "name": "Marinno",
+    "brand": "Lehmann",
+    "release_year": "2025",
+    "description": "A new perfume byLehmannfor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/07/074616_marinno-lehmann_1200.jpg?width=480&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Grapefruit",
+        "Lemon",
+        "Lime"
+    ],
+    "heart_notes": [
+        "Juniper berry",
+        "Lotus",
+        "Pink pepper"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Kelp",
+        "Musk",
+        "Oakmoss",
+        "Sandalwood"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

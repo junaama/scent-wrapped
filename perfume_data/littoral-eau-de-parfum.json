@@ -1,0 +1,67 @@
+{
+    "name": "Littoral",
+    "brand": "Black Swan Society",
+    "release_year": "2025",
+    "description": "A new perfume byBlack Swan Societyfor women, released in2025. The scent is aquatic-woody.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/b0/b052db_littoral-eau-de-parfum-black-swan-society_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Aquatic",
+        "Woody",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Aniseed",
+        "Mandarin orange"
+    ],
+    "heart_notes": [
+        "Elemi resin",
+        "Kelp"
+    ],
+    "base_notes": [
+        "Sea shell",
+        "Underwood"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Sport",
+                "votes": 1
+            }
+        ]
+    }
+}

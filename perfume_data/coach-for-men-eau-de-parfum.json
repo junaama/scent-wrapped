@@ -1,0 +1,146 @@
+{
+    "name": "Coach for Men",
+    "brand": "Coach",
+    "release_year": "2025",
+    "description": "A new perfume byCoachfor men, released in2025. The scent is leathery-woody. It is being marketed byInterparfums.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/66/66c567_coach-for-men-eau-de-parfum-coach_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Leathery",
+        "Woody",
+        "Spicy",
+        "Fresh",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Bergamot"
+    ],
+    "heart_notes": [
+        "Cedarwood",
+        "Geranium"
+    ],
+    "base_notes": [
+        "Morocco leather",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.9",
+            "votes": "37 Ratings"
+        },
+        "durability": {
+            "score": "6.8",
+            "votes": "30 Ratings"
+        },
+        "sillage": {
+            "score": "6.7",
+            "votes": "30 Ratings"
+        },
+        "bottle": {
+            "score": "7.8",
+            "votes": "30 Ratings"
+        },
+        "pricing": {
+            "score": "7.9",
+            "votes": "26 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 3
+            },
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Oriental",
+                "votes": 3
+            },
+            {
+                "name": "Leathery",
+                "votes": 5
+            },
+            {
+                "name": "Woody",
+                "votes": 5
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 5
+            },
+            {
+                "name": "Earthy",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Summer",
+                "votes": 4
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Sport",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 6
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

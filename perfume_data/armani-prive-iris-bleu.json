@@ -1,0 +1,133 @@
+{
+    "name": "Armani Privé - Iris Bleu",
+    "brand": "Giorgio Armani",
+    "release_year": "2025",
+    "description": "A new perfume byGiorgio Armanifor women and men, released in2025. The scent is floral-powdery. It is being marketed byL'Oréal.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/57/5797ce_armani-prive-iris-bleu-giorgio-armani_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Powdery",
+        "Woody",
+        "Fresh",
+        "Citrus"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.7",
+            "votes": "94 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "80 Ratings"
+        },
+        "sillage": {
+            "score": "6.5",
+            "votes": "79 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "70 Ratings"
+        },
+        "pricing": {
+            "score": "6.2",
+            "votes": "50 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 16
+            },
+            {
+                "name": "Spicy",
+                "votes": 16
+            },
+            {
+                "name": "Powdery",
+                "votes": 29
+            },
+            {
+                "name": "Woody",
+                "votes": 26
+            },
+            {
+                "name": "Fresh",
+                "votes": 19
+            },
+            {
+                "name": "Creamy",
+                "votes": 8
+            },
+            {
+                "name": "Floral",
+                "votes": 36
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 22
+            },
+            {
+                "name": "Feminine",
+                "votes": 38
+            },
+            {
+                "name": "Classic",
+                "votes": 17
+            },
+            {
+                "name": "Modern",
+                "votes": 15
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 11
+            },
+            {
+                "name": "Fall",
+                "votes": 28
+            },
+            {
+                "name": "Summer",
+                "votes": 30
+            },
+            {
+                "name": "Spring",
+                "votes": 39
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 31
+            },
+            {
+                "name": "Sport",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 31
+            },
+            {
+                "name": "Night Out",
+                "votes": 19
+            },
+            {
+                "name": "Business",
+                "votes": 31
+            },
+            {
+                "name": "Evening",
+                "votes": 20
+            }
+        ]
+    }
+}

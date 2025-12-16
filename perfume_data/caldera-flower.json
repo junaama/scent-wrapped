@@ -1,0 +1,48 @@
+{
+    "name": "Caldera Flower",
+    "brand": "Wit & West",
+    "release_year": "2025",
+    "description": "A new and limited perfume byWit & Westfor women and men, released in2025. The scent is citrusy-spicy.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/af/afaacb_caldera-flower-wit-west_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Spicy",
+        "Fresh",
+        "Floral",
+        "Gourmand"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Ginger",
+        "Neroli"
+    ],
+    "heart_notes": [
+        "Gardenia absolute",
+        "Magnolia",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Ambrette seed",
+        "Sandalwood",
+        "Tahitian vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "9.5",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        },
+        "sillage": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "5 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,149 @@
+{
+    "name": "Amber K",
+    "brand": "Ella K Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byElla K Parfumsfor women and men, released in2025. The scent is sweet-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/05/05c0a0_amber-k-ella-k-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Woody",
+        "Oriental",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Cuban cigar",
+        "Dominican spiderlily",
+        "Pink pepper CO2 Orpur®"
+    ],
+    "heart_notes": [
+        "Cocoa absolute",
+        "Indonesian patchouli",
+        "Iris absolue Orpur®",
+        "White cedarwood"
+    ],
+    "base_notes": [
+        "Vanilla",
+        "Amber",
+        "Sensual skin accord",
+        "Somali frankincense resin",
+        "Somalian frankincense",
+        "Tonka bean absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "49 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "42 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "42 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "38 Ratings"
+        },
+        "pricing": {
+            "score": "6.1",
+            "votes": "34 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 10
+            },
+            {
+                "name": "Synthetic",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 10
+            },
+            {
+                "name": "Smoky",
+                "votes": 4
+            },
+            {
+                "name": "Oriental",
+                "votes": 7
+            },
+            {
+                "name": "Woody",
+                "votes": 8
+            },
+            {
+                "name": "Resinous",
+                "votes": 5
+            },
+            {
+                "name": "Earthy",
+                "votes": 3
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 8
+            },
+            {
+                "name": "Feminine",
+                "votes": 10
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 8
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 10
+            },
+            {
+                "name": "Fall",
+                "votes": 13
+            },
+            {
+                "name": "Summer",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 7
+            },
+            {
+                "name": "Night Out",
+                "votes": 8
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

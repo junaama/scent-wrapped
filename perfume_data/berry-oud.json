@@ -1,0 +1,42 @@
+{
+    "name": "Berry Oud",
+    "brand": "Monkoku",
+    "release_year": "2025",
+    "description": "A new perfume byMonkokufor women and men, released in2025. The longevity is above-average. The perfume is vegan according to the manufacturer.CompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/5d/5d83c6_berry-oud-monkoku_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cypress",
+        "Oud",
+        "Violet"
+    ],
+    "heart_notes": [
+        "Lily of the valley",
+        "Raspberry"
+    ],
+    "base_notes": [
+        "Amber",
+        "Leather",
+        "Musk",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.4",
+            "votes": "5 Ratings"
+        },
+        "durability": {
+            "score": "8.4",
+            "votes": "5 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "5 Ratings"
+        },
+        "bottle": {
+            "score": "7.4",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {}
+}

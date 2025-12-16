@@ -1,0 +1,30 @@
+{
+    "name": "Gold Signature",
+    "brand": "Mustang Jeans",
+    "release_year": "2025",
+    "description": "A new perfume byMustang Jeansfor women, released in2025. It is being marketed byLuxess.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/30/30e043_gold-signature-mustang-jeans_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Cocoa",
+        "Ginger",
+        "Lavender",
+        "Peruvian pepper tree",
+        "Vanilla"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Lily of the valley",
+        "Mandarin orange",
+        "Pear",
+        "Red fruits"
+    ],
+    "base_notes": [
+        "Amber",
+        "Musk",
+        "Sandalwood",
+        "Tonka bean"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

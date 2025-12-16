@@ -1,0 +1,134 @@
+{
+    "name": "Coffee Blend",
+    "brand": "Maison Asrar",
+    "release_year": "2025",
+    "description": "A new perfume byMaison Asrarfor women and men, released in2025. The scent is creamy-gourmand. It is being marketed byGulf Orchid Fragrances.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/13/13a293_coffee-blend-maison-asrar_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Creamy",
+        "Gourmand",
+        "Spicy",
+        "Powdery",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Almond",
+        "Coffee",
+        "Milk"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Liquorice",
+        "White blossoms"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Musk",
+        "Nuts",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "11 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "9 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "8 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "11 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 3
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

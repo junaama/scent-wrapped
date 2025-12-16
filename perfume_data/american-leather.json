@@ -1,0 +1,40 @@
+{
+    "name": "American Leather",
+    "brand": "Perito Moreno",
+    "release_year": "2025",
+    "description": "A new perfume byPerito Morenofor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/83/830d0c_american-leather-perito-moreno_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Italian bergamot",
+        "Lemon",
+        "Lime",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Animalic notes",
+        "Clove",
+        "Orange blossom",
+        "Patchouli",
+        "Spices",
+        "Suede",
+        "Violet"
+    ],
+    "base_notes": [
+        "Amber",
+        "Atlas cedar",
+        "Birch",
+        "Cade juniper",
+        "Civet",
+        "Fabric",
+        "Gaiac wood",
+        "Leather",
+        "Sandalwood",
+        "Tonka bean",
+        "Vetiver",
+        "Virginia cedar wood",
+        "White musk"
+    ],
+    "ratings": {},
+    "community_charts": {}
+}

@@ -1,0 +1,71 @@
+{
+    "name": "05 Dyed",
+    "brand": "Concreted",
+    "release_year": "2025",
+    "description": "A new perfume byConcretedfor women and men, released in2025. The scent is fresh-woody.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d4/d416dc_05-dyed-concreted_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Woody"
+    ],
+    "top_notes": [
+        "Ink",
+        "Lemon",
+        "Lime"
+    ],
+    "heart_notes": [
+        "Cypriol",
+        "Eucalyptus",
+        "Jasmine",
+        "Pine",
+        "Rose",
+        "Walnut"
+    ],
+    "base_notes": [
+        "Cedarwood",
+        "Musk",
+        "Patchouli"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.8",
+            "votes": "2 Ratings"
+        },
+        "durability": {
+            "score": "7.0",
+            "votes": "2 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Business",
+                "votes": 1
+            }
+        ]
+    }
+}

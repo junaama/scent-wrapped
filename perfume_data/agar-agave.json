@@ -1,0 +1,141 @@
+{
+    "name": "Agar Agave",
+    "brand": "Miyaz Perfume",
+    "release_year": "2025",
+    "description": "A new perfume byMiyaz Perfumefor women and men, released in2025. The scent is woody-green. The production was apparently discontinued.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/2f/2f9736_agar-agave-miyaz-perfume_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Green",
+        "Spicy",
+        "Floral",
+        "Animal"
+    ],
+    "top_notes": [
+        "Tuberose absolute",
+        "Green tea"
+    ],
+    "heart_notes": [
+        "Verbena absolute",
+        "Sweet vernal grass"
+    ],
+    "base_notes": [
+        "Indian oud",
+        "Assam oud",
+        "Manipur oud",
+        "Oakmoss",
+        "Amber"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.1",
+            "votes": "18 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "7.1",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "13 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Leathery",
+                "votes": 2
+            },
+            {
+                "name": "Woody",
+                "votes": 8
+            },
+            {
+                "name": "Resinous",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 5
+            },
+            {
+                "name": "Animal",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 4
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 6
+            },
+            {
+                "name": "Fall",
+                "votes": 6
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 5
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 6
+            }
+        ]
+    }
+}

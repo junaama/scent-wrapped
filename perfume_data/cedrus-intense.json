@@ -1,0 +1,134 @@
+{
+    "name": "Cedrus Intense",
+    "brand": "Chloé",
+    "release_year": "2025",
+    "description": "A new perfume byChloéfor women, released in2025. The scent is woody-green. It is being marketed byCoty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/ee/ee8a50-cedrus-intense-chloe_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Green",
+        "Floral",
+        "Fresh",
+        "Citrus"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Leaves"
+    ],
+    "heart_notes": [
+        "Rose"
+    ],
+    "base_notes": [
+        "Australian sandalwood",
+        "Chinese cedar",
+        "Indian vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "41 Ratings"
+        },
+        "durability": {
+            "score": "7.6",
+            "votes": "30 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "30 Ratings"
+        },
+        "bottle": {
+            "score": "8.4",
+            "votes": "35 Ratings"
+        },
+        "pricing": {
+            "score": "7.2",
+            "votes": "23 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 8
+            },
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 17
+            },
+            {
+                "name": "Green",
+                "votes": 14
+            },
+            {
+                "name": "Fresh",
+                "votes": 10
+            },
+            {
+                "name": "Floral",
+                "votes": 11
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 12
+            },
+            {
+                "name": "Feminine",
+                "votes": 15
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 14
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Summer",
+                "votes": 14
+            },
+            {
+                "name": "Spring",
+                "votes": 18
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 16
+            },
+            {
+                "name": "Leisure",
+                "votes": 15
+            },
+            {
+                "name": "Night Out",
+                "votes": 6
+            },
+            {
+                "name": "Business",
+                "votes": 14
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

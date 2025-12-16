@@ -1,0 +1,46 @@
+{
+    "name": "Ruche",
+    "brand": "Serviette",
+    "release_year": "2025",
+    "description": "A new perfume byServiettefor women and men, released in2025. The scent is fruity-green.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8d/8d05a0_ruche-serviette_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Green",
+        "Woody",
+        "Fresh",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Black pepper",
+        "Nutmeg",
+        "Pink pepper"
+    ],
+    "heart_notes": [
+        "Raspberry",
+        "Turkish galbanum"
+    ],
+    "base_notes": [
+        "Patchouli",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.3",
+            "votes": "3 Ratings"
+        },
+        "durability": {
+            "score": "6.7",
+            "votes": "3 Ratings"
+        },
+        "sillage": {
+            "score": "6.0",
+            "votes": "3 Ratings"
+        },
+        "bottle": {
+            "score": "8.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {}
+}

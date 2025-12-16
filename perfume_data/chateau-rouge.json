@@ -1,0 +1,138 @@
+{
+    "name": "Château Rouge",
+    "brand": "Santos Luxury",
+    "release_year": "2025",
+    "description": "A new perfume bySantos Luxuryfor women and men, released in2025. The scent is sweet-leathery.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/17/178209_chateau-rouge-santos-luxury_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Leathery",
+        "Spicy",
+        "Citrus",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Apple",
+        "Grapefruit",
+        "Lemon",
+        "Lime",
+        "Musk",
+        "Spices"
+    ],
+    "heart_notes": [
+        "Currant",
+        "Cypriol",
+        "Fig nectar",
+        "Jasmine",
+        "Pepper",
+        "Vetiver"
+    ],
+    "base_notes": [
+        "Ambergris",
+        "Benzoin",
+        "Cedarwood",
+        "Labdanum",
+        "Leather",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "23 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "22 Ratings"
+        },
+        "sillage": {
+            "score": "7.8",
+            "votes": "22 Ratings"
+        },
+        "bottle": {
+            "score": "7.3",
+            "votes": "20 Ratings"
+        },
+        "pricing": {
+            "score": "7.0",
+            "votes": "19 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Spicy",
+                "votes": 2
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Leathery",
+                "votes": 2
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 2
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "name": "Hooked Intensly",
+    "brand": "Rue Broca",
+    "release_year": "2025",
+    "description": "A new perfume byRue Brocafor men, released in2025. The scent is gourmand-synthetic. The longevity is above-average. It is being marketed byAfnan.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/d4/d40ceb_hooked-intensly-rue-broca_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Synthetic",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Amber",
+        "Juniper",
+        "Pink pepper",
+        "Violet"
+    ],
+    "heart_notes": [
+        "Cinnamon",
+        "Musk",
+        "Sage",
+        "Toffee"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedar",
+        "Tonka bean",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "7.0",
+            "votes": "3 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

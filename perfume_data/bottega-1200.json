@@ -1,0 +1,28 @@
+{
+    "name": "Bottega 1200",
+    "brand": "Etèreo",
+    "release_year": "2025",
+    "description": "A new perfume byEtèreofor women and men, released in2025. It is being marketed byStuff of Dreams.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e3/e3de4b_bottega-1200-etereo_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Clove",
+        "Leather"
+    ],
+    "heart_notes": [
+        "Heliotrope",
+        "Violet"
+    ],
+    "base_notes": [
+        "Amber",
+        "Coffee",
+        "Tobacco"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

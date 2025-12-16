@@ -1,0 +1,145 @@
+{
+    "name": "Not Usual",
+    "brand": "Brogi",
+    "release_year": "2025",
+    "description": "A new perfume byBrogifor women and men, released in2025. The scent is sweet-fruity.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/37/371a54_not-usual-brogi_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Synthetic",
+        "Oriental",
+        "Spicy"
+    ],
+    "top_notes": [
+        "Raspberry",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Frankincense",
+        "Magnolia",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Leather",
+        "Oud",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.0",
+            "votes": "6 Ratings"
+        },
+        "durability": {
+            "score": "4.8",
+            "votes": "4 Ratings"
+        },
+        "sillage": {
+            "score": "4.8",
+            "votes": "4 Ratings"
+        },
+        "bottle": {
+            "score": "6.3",
+            "votes": "6 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Synthetic",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 2
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Resinous",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 3
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 2
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 2
+            }
+        ]
+    }
+}

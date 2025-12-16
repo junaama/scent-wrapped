@@ -1,0 +1,77 @@
+{
+    "name": "Cherry Éclair",
+    "brand": "Crémerie",
+    "release_year": "2025",
+    "description": "A new perfume byCrémeriefor women, released in2025. The scent is oriental-woody.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/8a/8a2c20_cherry-eclair-cremerie_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Oriental",
+        "Woody",
+        "Fruity",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Black cherry"
+    ],
+    "heart_notes": [
+        "Almond",
+        "Rose",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Caramel",
+        "Musk",
+        "Palo Santo"
+    ],
+    "ratings": {},
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

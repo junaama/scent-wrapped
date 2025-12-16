@@ -1,0 +1,137 @@
+{
+    "name": "Sequence",
+    "brand": "Amouage",
+    "release_year": "2025",
+    "description": "A new perfume byAmouagefor women and men, released in2025. The scent is leathery-fruity. Projection and longevity are above-average. It is being marketed bySabco Group / Oman Perfumery.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7c/7c43e5_sequence-amouage_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Leathery",
+        "Fruity",
+        "Woody",
+        "Spicy",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Lychee",
+        "Raspberry",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Osmanthus",
+        "Rose",
+        "Tonka bean"
+    ],
+    "base_notes": [
+        "Amberwood",
+        "Leather",
+        "Oud"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.3",
+            "votes": "35 Ratings"
+        },
+        "durability": {
+            "score": "8.8",
+            "votes": "32 Ratings"
+        },
+        "sillage": {
+            "score": "8.1",
+            "votes": "32 Ratings"
+        },
+        "bottle": {
+            "score": "8.5",
+            "votes": "37 Ratings"
+        },
+        "pricing": {
+            "score": "6.6",
+            "votes": "29 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 3
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 3
+            },
+            {
+                "name": "Leathery",
+                "votes": 6
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Fruity",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 6
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Classic",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 7
+            },
+            {
+                "name": "Fall",
+                "votes": 7
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 4
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 7
+            }
+        ]
+    }
+}

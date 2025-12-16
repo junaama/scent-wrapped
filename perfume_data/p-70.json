@@ -1,0 +1,140 @@
+{
+    "name": "P.70",
+    "brand": "Xerjoff",
+    "release_year": "2025",
+    "description": "A new and limited perfume byXerjofffor women and men, released in2025. The scent is leathery-resinous.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/64/64d05e_p-70-xerjoff_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Leathery",
+        "Resinous",
+        "Spicy",
+        "Fruity",
+        "Oriental"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Mango",
+        "Turkish rose",
+        "Violet"
+    ],
+    "heart_notes": [
+        "Amber",
+        "Clove",
+        "Jasmine",
+        "Leather"
+    ],
+    "base_notes": [
+        "Oakmoss",
+        "Peru balsam",
+        "Tobacco",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.8",
+            "votes": "41 Ratings"
+        },
+        "durability": {
+            "score": "7.9",
+            "votes": "37 Ratings"
+        },
+        "sillage": {
+            "score": "7.7",
+            "votes": "35 Ratings"
+        },
+        "bottle": {
+            "score": "8.7",
+            "votes": "38 Ratings"
+        },
+        "pricing": {
+            "score": "2.9",
+            "votes": "38 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 7
+            },
+            {
+                "name": "Sweet",
+                "votes": 2
+            },
+            {
+                "name": "Smoky",
+                "votes": 2
+            },
+            {
+                "name": "Oriental",
+                "votes": 3
+            },
+            {
+                "name": "Leathery",
+                "votes": 9
+            },
+            {
+                "name": "Resinous",
+                "votes": 7
+            },
+            {
+                "name": "Fruity",
+                "votes": 4
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 10
+            },
+            {
+                "name": "Feminine",
+                "votes": 7
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 10
+            },
+            {
+                "name": "Fall",
+                "votes": 10
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 5
+            },
+            {
+                "name": "Night Out",
+                "votes": 7
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 8
+            }
+        ]
+    }
+}

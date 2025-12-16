@@ -1,0 +1,136 @@
+{
+    "name": "Policromia",
+    "brand": "Bois 1920",
+    "release_year": "2025",
+    "description": "A new perfume byBois 1920for women and men, released in2025. The scent is sweet-fruity. It is being marketed byArnoway.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/a9/a91fd7_policromia-bois-1920_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Fruity",
+        "Floral",
+        "Aquatic",
+        "Woody"
+    ],
+    "top_notes": [
+        "Lime",
+        "Mandarin orange",
+        "Pink pepper",
+        "Raspberry"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Salt",
+        "Tuberose",
+        "Orchid"
+    ],
+    "base_notes": [
+        "Musk",
+        "Amber",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "5.6",
+            "votes": "24 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "19 Ratings"
+        },
+        "sillage": {
+            "score": "7.4",
+            "votes": "17 Ratings"
+        },
+        "bottle": {
+            "score": "8.7",
+            "votes": "31 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 2
+            },
+            {
+                "name": "Sweet",
+                "votes": 8
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Fruity",
+                "votes": 6
+            },
+            {
+                "name": "Floral",
+                "votes": 4
+            },
+            {
+                "name": "Aquatic",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 5
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 3
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 8
+            },
+            {
+                "name": "Spring",
+                "votes": 8
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 6
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 5
+            },
+            {
+                "name": "Business",
+                "votes": 3
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

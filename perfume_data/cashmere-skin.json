@@ -1,0 +1,129 @@
+{
+    "name": "Cashmere Skin",
+    "brand": "Phlur",
+    "release_year": "2025",
+    "description": "A new perfume byPhlurfor women and men, released in2025. The scent is sweet-creamy. The perfume is vegan according to the manufacturer.PronunciationCompareVegan",
+    "image_url": "https://media.parfumo.com/perfumes/97/9742bd_cashmere-skin-phlur_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Creamy",
+        "Gourmand",
+        "Powdery",
+        "Woody"
+    ],
+    "top_notes": [
+        "Almond",
+        "Cashmere",
+        "Cyclamen"
+    ],
+    "heart_notes": [
+        "Cream",
+        "Sandalwood",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Ambrette",
+        "Musk",
+        "Peru balsam"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.4",
+            "votes": "26 Ratings"
+        },
+        "durability": {
+            "score": "6.3",
+            "votes": "20 Ratings"
+        },
+        "sillage": {
+            "score": "5.7",
+            "votes": "20 Ratings"
+        },
+        "bottle": {
+            "score": "6.1",
+            "votes": "18 Ratings"
+        },
+        "pricing": {
+            "score": "7.3",
+            "votes": "15 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 9
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 3
+            },
+            {
+                "name": "Creamy",
+                "votes": 7
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            },
+            {
+                "name": "Feminine",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 4
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 8
+            },
+            {
+                "name": "Fall",
+                "votes": 8
+            },
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 7
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 5
+            }
+        ]
+    }
+}

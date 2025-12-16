@@ -1,0 +1,113 @@
+{
+    "name": "Dorian's Spleen",
+    "brand": "L'Entropiste",
+    "release_year": "2025",
+    "description": "A new perfume byL'Entropistefor women and men, released in2025. The scent is gourmand-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/70/702b04-dorian-s-spleen-l-entropiste_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Gourmand",
+        "Spicy",
+        "Woody",
+        "Smoky",
+        "Sweet"
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "24 Ratings"
+        },
+        "durability": {
+            "score": "7.7",
+            "votes": "15 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "15 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "26 Ratings"
+        },
+        "pricing": {
+            "score": "6.1",
+            "votes": "14 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 5
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Smoky",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 4
+            },
+            {
+                "name": "Resinous",
+                "votes": 3
+            },
+            {
+                "name": "Gourmand",
+                "votes": 5
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 2
+            },
+            {
+                "name": "Modern",
+                "votes": 3
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 4
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 2
+            },
+            {
+                "name": "Night Out",
+                "votes": 4
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 4
+            }
+        ]
+    }
+}

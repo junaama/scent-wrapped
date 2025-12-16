@@ -1,0 +1,128 @@
+{
+    "name": "L'Interdit Parfum",
+    "brand": "Givenchy",
+    "release_year": "2025",
+    "description": "A new perfume byGivenchyfor women, released in2025. The scent is floral-sweet. It is being marketed byLVMH.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/11/11520e_l-interdit-parfum-givenchy_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Sweet",
+        "Fruity",
+        "Spicy",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Nashi pear",
+        "Ginger"
+    ],
+    "heart_notes": [
+        "Bitter almond",
+        "Grasse mimosa absolute",
+        "Jasmine sambac absolute",
+        "Orange blossom",
+        "Tuberose absolute"
+    ],
+    "base_notes": [
+        "Patchouli",
+        "Myrrh absolute",
+        "Benzoin",
+        "Opoponax",
+        "Vetiver"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.1",
+            "votes": "71 Ratings"
+        },
+        "durability": {
+            "score": "7.3",
+            "votes": "58 Ratings"
+        },
+        "sillage": {
+            "score": "7.2",
+            "votes": "55 Ratings"
+        },
+        "bottle": {
+            "score": "7.9",
+            "votes": "56 Ratings"
+        },
+        "pricing": {
+            "score": "6.6",
+            "votes": "45 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 13
+            },
+            {
+                "name": "Sweet",
+                "votes": 22
+            },
+            {
+                "name": "Fruity",
+                "votes": 16
+            },
+            {
+                "name": "Creamy",
+                "votes": 9
+            },
+            {
+                "name": "Floral",
+                "votes": 25
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 20
+            },
+            {
+                "name": "Classic",
+                "votes": 6
+            },
+            {
+                "name": "Modern",
+                "votes": 11
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 19
+            },
+            {
+                "name": "Fall",
+                "votes": 21
+            },
+            {
+                "name": "Spring",
+                "votes": 14
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 13
+            },
+            {
+                "name": "Leisure",
+                "votes": 15
+            },
+            {
+                "name": "Night Out",
+                "votes": 18
+            },
+            {
+                "name": "Business",
+                "votes": 10
+            },
+            {
+                "name": "Evening",
+                "votes": 18
+            }
+        ]
+    }
+}

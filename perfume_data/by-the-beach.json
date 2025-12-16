@@ -1,0 +1,32 @@
+{
+    "name": "By the Beach",
+    "brand": "Speaks to me",
+    "release_year": "2025",
+    "description": "A new perfume bySpeaks to mefor women and men, released in2025.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/1d/1d4a08_by-the-beach-speaks-to-me_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [],
+    "top_notes": [
+        "Bergamot",
+        "Berries",
+        "Lemon"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Marine notes",
+        "Milk",
+        "Rose"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cashmeran",
+        "Moss",
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {}
+}

@@ -1,0 +1,128 @@
+{
+    "name": "Spring 25",
+    "brand": "Ffern",
+    "release_year": "2025",
+    "description": "A new and limited perfume byFfernfor women and men, released in2025. The scent is fresh-green.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/e4/e43e57_spring-25-ffern_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fresh",
+        "Green",
+        "Floral",
+        "Citrus",
+        "Powdery"
+    ],
+    "top_notes": [
+        "Indian peppermint",
+        "Sicilian lemon zest"
+    ],
+    "heart_notes": [
+        "Egyptian violet",
+        "Calabrian bergamot peel",
+        "Chinese blue gum eucalyptus",
+        "Grasse narcissus",
+        "Madagascan ylang-ylang",
+        "May rose"
+    ],
+    "base_notes": [
+        "Indian jasmine sambac",
+        "Haitian vetiver",
+        "Provençal lavender",
+        "Virginia cedar"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.6",
+            "votes": "45 Ratings"
+        },
+        "durability": {
+            "score": "5.5",
+            "votes": "40 Ratings"
+        },
+        "sillage": {
+            "score": "5.7",
+            "votes": "38 Ratings"
+        },
+        "bottle": {
+            "score": "7.6",
+            "votes": "35 Ratings"
+        },
+        "pricing": {
+            "score": "6.4",
+            "votes": "31 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 10
+            },
+            {
+                "name": "Powdery",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 11
+            },
+            {
+                "name": "Fresh",
+                "votes": 11
+            },
+            {
+                "name": "Floral",
+                "votes": 11
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 5
+            },
+            {
+                "name": "Feminine",
+                "votes": 8
+            },
+            {
+                "name": "Classic",
+                "votes": 3
+            },
+            {
+                "name": "Modern",
+                "votes": 7
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 10
+            },
+            {
+                "name": "Spring",
+                "votes": 14
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 12
+            },
+            {
+                "name": "Sport",
+                "votes": 4
+            },
+            {
+                "name": "Leisure",
+                "votes": 8
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 5
+            }
+        ]
+    }
+}

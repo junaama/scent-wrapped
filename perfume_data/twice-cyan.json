@@ -1,0 +1,37 @@
+{
+    "name": "Twice Cyan",
+    "brand": "Iceberg",
+    "release_year": "2025",
+    "description": "A new perfume byIcebergfor men, released in2025. The scent is green-citrusy. It is being marketed byGBB (Give Back Beauty) / Brands Beyond Beauty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/53/539793_twice-cyan-iceberg_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Green",
+        "Citrus",
+        "Spicy",
+        "Woody",
+        "Fruity"
+    ],
+    "top_notes": [
+        "Grapefruit",
+        "Italian lemon",
+        "Cardamom",
+        "Eucalyptus"
+    ],
+    "heart_notes": [
+        "Geranium",
+        "Rosemary",
+        "Lavender"
+    ],
+    "base_notes": [
+        "Spanish cistus",
+        "Cashmere wood",
+        "Gaiac wood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.6",
+            "votes": "7 Ratings"
+        }
+    },
+    "community_charts": {}
+}

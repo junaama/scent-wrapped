@@ -1,0 +1,97 @@
+{
+    "name": "Aghla",
+    "brand": "Touch of Oud",
+    "release_year": "2025",
+    "description": "A new perfume byTouch of Oudfor women and men, released in2025. The scent is citrusy-spicy. The longevity is above-average. It is being marketed byMaylaa International Trading LLC.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/e4/e4612f_aghla-extrait-de-parfum-touch-of-oud_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Citrus",
+        "Spicy",
+        "Oriental",
+        "Floral",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Bergamot",
+        "Lemon",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Orange blossom absolute",
+        "Patchouli",
+        "Toffee"
+    ],
+    "base_notes": [
+        "Amber",
+        "Ambroxan",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.5",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Citrus",
+                "votes": 1
+            },
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Oriental",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

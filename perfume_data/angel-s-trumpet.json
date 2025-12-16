@@ -1,0 +1,88 @@
+{
+    "name": "Angel's Trumpet",
+    "brand": "Heretic",
+    "release_year": "2025",
+    "description": "A new perfume byHereticfor women and men, released in2025. The scent is floral-powdery.PronunciationCompare",
+    "image_url": "https://media.parfumo.com/perfumes/a1/a1df62_angel-s-trumpet-heretic_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Floral",
+        "Powdery",
+        "Green",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Geranium",
+        "Green freesia",
+        "Hyssop"
+    ],
+    "heart_notes": [
+        "Jasmine",
+        "Pink water lily",
+        "Tiaré",
+        "Ylang-ylang"
+    ],
+    "base_notes": [
+        "Vetiver",
+        "Violet leaf"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.2",
+            "votes": "12 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "8 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "7 Ratings"
+        },
+        "bottle": {
+            "score": "7.5",
+            "votes": "8 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Powdery",
+                "votes": 2
+            },
+            {
+                "name": "Green",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 2
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 2
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}

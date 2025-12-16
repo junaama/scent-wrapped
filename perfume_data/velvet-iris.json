@@ -1,0 +1,153 @@
+{
+    "name": "Velvet Iris",
+    "brand": "Essential Parfums",
+    "release_year": "2025",
+    "description": "A new perfume byEssential Parfumsfor women and men, released in2025. The scent is woody-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/98/98f4b9_velvet-iris-essential-parfums_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Spicy",
+        "Floral",
+        "Green",
+        "Leathery"
+    ],
+    "top_notes": [
+        "Buchu",
+        "Pink pepper",
+        "Turmeric leaf"
+    ],
+    "heart_notes": [
+        "Orris concrete",
+        "Galbanum",
+        "Mastic"
+    ],
+    "base_notes": [
+        "Saffiano™",
+        "Sandalwood",
+        "Labdanum"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "6.8",
+            "votes": "157 Ratings"
+        },
+        "durability": {
+            "score": "7.1",
+            "votes": "130 Ratings"
+        },
+        "sillage": {
+            "score": "6.8",
+            "votes": "130 Ratings"
+        },
+        "bottle": {
+            "score": "7.2",
+            "votes": "116 Ratings"
+        },
+        "pricing": {
+            "score": "7.8",
+            "votes": "94 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 33
+            },
+            {
+                "name": "Synthetic",
+                "votes": 15
+            },
+            {
+                "name": "Sweet",
+                "votes": 11
+            },
+            {
+                "name": "Powdery",
+                "votes": 25
+            },
+            {
+                "name": "Leathery",
+                "votes": 25
+            },
+            {
+                "name": "Woody",
+                "votes": 40
+            },
+            {
+                "name": "Resinous",
+                "votes": 17
+            },
+            {
+                "name": "Green",
+                "votes": 31
+            },
+            {
+                "name": "Earthy",
+                "votes": 20
+            },
+            {
+                "name": "Floral",
+                "votes": 31
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 44
+            },
+            {
+                "name": "Feminine",
+                "votes": 29
+            },
+            {
+                "name": "Classic",
+                "votes": 14
+            },
+            {
+                "name": "Modern",
+                "votes": 31
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 31
+            },
+            {
+                "name": "Fall",
+                "votes": 45
+            },
+            {
+                "name": "Summer",
+                "votes": 26
+            },
+            {
+                "name": "Spring",
+                "votes": 45
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 33
+            },
+            {
+                "name": "Leisure",
+                "votes": 48
+            },
+            {
+                "name": "Night Out",
+                "votes": 26
+            },
+            {
+                "name": "Business",
+                "votes": 34
+            },
+            {
+                "name": "Evening",
+                "votes": 30
+            }
+        ]
+    }
+}

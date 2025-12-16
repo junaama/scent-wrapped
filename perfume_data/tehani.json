@@ -1,0 +1,145 @@
+{
+    "name": "Tehani",
+    "brand": "Florian Pontier",
+    "release_year": "2025",
+    "description": "A new perfume byFlorian Pontierfor women and men, released in2025. The scent is sweet-spicy. The longevity is above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/0b/0bc84a_tehani-florian-pontier_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Gourmand",
+        "Aquatic",
+        "Woody"
+    ],
+    "top_notes": [
+        "Cardamom",
+        "Coconut",
+        "Tagetes"
+    ],
+    "heart_notes": [
+        "Madagascan cinnamon",
+        "Marine notes",
+        "Tuberose"
+    ],
+    "base_notes": [
+        "Bourbon vanilla absolute",
+        "Sandalwood",
+        "Tonka bean absolute"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "8.6",
+            "votes": "17 Ratings"
+        },
+        "durability": {
+            "score": "8.0",
+            "votes": "14 Ratings"
+        },
+        "sillage": {
+            "score": "7.6",
+            "votes": "14 Ratings"
+        },
+        "bottle": {
+            "score": "8.8",
+            "votes": "19 Ratings"
+        },
+        "pricing": {
+            "score": "7.9",
+            "votes": "10 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 3
+            },
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Powdery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 2
+            },
+            {
+                "name": "Gourmand",
+                "votes": 2
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 2
+            },
+            {
+                "name": "Aquatic",
+                "votes": 2
+            },
+            {
+                "name": "Animal",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 2
+            },
+            {
+                "name": "Feminine",
+                "votes": 4
+            },
+            {
+                "name": "Modern",
+                "votes": 2
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 3
+            },
+            {
+                "name": "Spring",
+                "votes": 2
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 3
+            },
+            {
+                "name": "Night Out",
+                "votes": 2
+            },
+            {
+                "name": "Business",
+                "votes": 2
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

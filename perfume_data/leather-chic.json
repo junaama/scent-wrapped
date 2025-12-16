@@ -1,0 +1,97 @@
+{
+    "name": "Leather Chic",
+    "brand": "Zhor",
+    "release_year": "2025",
+    "description": "A new perfume byZhorfor women and men, released in2025. The scent is sweet-spicy. Projection and longevity are above-average.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/48/48e63f_leather-chic-zhor_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Sweet",
+        "Spicy",
+        "Leathery",
+        "Woody",
+        "Creamy"
+    ],
+    "top_notes": [
+        "Juniper berry",
+        "Pink pepper",
+        "Saffron"
+    ],
+    "heart_notes": [
+        "Jasmine absolute",
+        "Osmanthus",
+        "Oud",
+        "Praliné"
+    ],
+    "base_notes": [
+        "Amber",
+        "Leather",
+        "Patchouli",
+        "Siam benzoin",
+        "Somalian frankincense",
+        "Vanilla"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "8.0",
+            "votes": "2 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Leathery",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Creamy",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Leisure",
+                "votes": 1
+            },
+            {
+                "name": "Night Out",
+                "votes": 1
+            },
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

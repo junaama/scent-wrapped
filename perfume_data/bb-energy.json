@@ -1,0 +1,149 @@
+{
+    "name": "bb Energy",
+    "brand": "Bruno Banani",
+    "release_year": "2025",
+    "description": "A new perfume byBruno Bananifor men, released in2025. The scent is fruity-fresh. It is being marketed byCoty.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/7a/7ab75f_bb-energy-bruno-banani_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Fresh",
+        "Green",
+        "Synthetic",
+        "Sweet"
+    ],
+    "top_notes": [
+        "Ice accord",
+        "Iris",
+        "Lavender",
+        "Leaves"
+    ],
+    "heart_notes": [
+        "Green pineapple",
+        "Spicy notes"
+    ],
+    "base_notes": [
+        "Amber",
+        "Cedar",
+        "Tonka bean"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "7.5",
+            "votes": "18 Ratings"
+        },
+        "durability": {
+            "score": "6.9",
+            "votes": "16 Ratings"
+        },
+        "sillage": {
+            "score": "6.6",
+            "votes": "16 Ratings"
+        },
+        "bottle": {
+            "score": "6.9",
+            "votes": "17 Ratings"
+        },
+        "pricing": {
+            "score": "8.8",
+            "votes": "16 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 4
+            },
+            {
+                "name": "Synthetic",
+                "votes": 4
+            },
+            {
+                "name": "Sweet",
+                "votes": 4
+            },
+            {
+                "name": "Woody",
+                "votes": 3
+            },
+            {
+                "name": "Green",
+                "votes": 5
+            },
+            {
+                "name": "Fruity",
+                "votes": 6
+            },
+            {
+                "name": "Fresh",
+                "votes": 6
+            },
+            {
+                "name": "Aquatic",
+                "votes": 4
+            }
+        ],
+        "Style": [
+            {
+                "name": "Masculine",
+                "votes": 7
+            },
+            {
+                "name": "Feminine",
+                "votes": 3
+            },
+            {
+                "name": "Classic",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 6
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 2
+            },
+            {
+                "name": "Fall",
+                "votes": 4
+            },
+            {
+                "name": "Summer",
+                "votes": 6
+            },
+            {
+                "name": "Spring",
+                "votes": 7
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 5
+            },
+            {
+                "name": "Sport",
+                "votes": 5
+            },
+            {
+                "name": "Leisure",
+                "votes": 6
+            },
+            {
+                "name": "Night Out",
+                "votes": 3
+            },
+            {
+                "name": "Business",
+                "votes": 4
+            },
+            {
+                "name": "Evening",
+                "votes": 3
+            }
+        ]
+    }
+}

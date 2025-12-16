@@ -1,0 +1,97 @@
+{
+    "name": "Enchanté",
+    "brand": "Brigion",
+    "release_year": "2025",
+    "description": "A new perfume byBrigionfor women and men, released in2025. The scent is woody-spicy.Compare",
+    "image_url": "https://media.parfumo.com/perfumes/36/36ed43_enchante-brigion_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Woody",
+        "Spicy",
+        "Gourmand",
+        "Sweet",
+        "Smoky"
+    ],
+    "top_notes": [
+        "Cinnamon",
+        "Vanilla"
+    ],
+    "heart_notes": [
+        "Hedione",
+        "Rum",
+        "Saffron",
+        "Vanilla"
+    ],
+    "base_notes": [
+        "Rum",
+        "Sandalwood",
+        "Tobacco"
+    ],
+    "ratings": {
+        "scent": {
+            "score": "4.9",
+            "votes": "12 Ratings"
+        },
+        "durability": {
+            "score": "4.8",
+            "votes": "12 Ratings"
+        },
+        "sillage": {
+            "score": "5.2",
+            "votes": "12 Ratings"
+        },
+        "bottle": {
+            "score": "4.7",
+            "votes": "13 Ratings"
+        },
+        "pricing": {
+            "score": "5.2",
+            "votes": "12 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Spicy",
+                "votes": 1
+            },
+            {
+                "name": "Sweet",
+                "votes": 1
+            },
+            {
+                "name": "Smoky",
+                "votes": 1
+            },
+            {
+                "name": "Woody",
+                "votes": 1
+            },
+            {
+                "name": "Gourmand",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Classic",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Winter",
+                "votes": 1
+            },
+            {
+                "name": "Fall",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Evening",
+                "votes": 1
+            }
+        ]
+    }
+}

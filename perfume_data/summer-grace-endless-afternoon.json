@@ -1,0 +1,78 @@
+{
+    "name": "Summer Grace Endless Afternoon",
+    "brand": "Philosophy",
+    "release_year": "2025",
+    "description": "A new and limited perfume byPhilosophyfor women, released in2025. The scent is fruity-fresh. It is being marketed byCoty.CompareLimited",
+    "image_url": "https://media.parfumo.com/perfumes/10/101840_summer-grace-endless-afternoon-philosophy_1200.jpg?width=720&aspect_ratio=1:1",
+    "main_accords": [
+        "Fruity",
+        "Fresh",
+        "Floral",
+        "Synthetic"
+    ],
+    "top_notes": [
+        "Jasmine"
+    ],
+    "heart_notes": [
+        "Peach"
+    ],
+    "base_notes": [
+        "Sandalwood"
+    ],
+    "ratings": {
+        "bottle": {
+            "score": "6.5",
+            "votes": "4 Ratings"
+        }
+    },
+    "community_charts": {
+        "Type": [
+            {
+                "name": "Synthetic",
+                "votes": 1
+            },
+            {
+                "name": "Fruity",
+                "votes": 1
+            },
+            {
+                "name": "Fresh",
+                "votes": 1
+            },
+            {
+                "name": "Floral",
+                "votes": 1
+            }
+        ],
+        "Style": [
+            {
+                "name": "Feminine",
+                "votes": 1
+            },
+            {
+                "name": "Modern",
+                "votes": 1
+            }
+        ],
+        "Season": [
+            {
+                "name": "Summer",
+                "votes": 1
+            },
+            {
+                "name": "Spring",
+                "votes": 1
+            }
+        ],
+        "Occasion": [
+            {
+                "name": "Daily",
+                "votes": 1
+            },
+            {
+                "name": "Leisure",
+                "votes": 1
+            }
+        ]
+    }
+}
