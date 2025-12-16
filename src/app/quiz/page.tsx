@@ -132,7 +132,13 @@ export default function QuizPage() {
       </ScreenWrapper>
     );
   }
-
+  const currentRoundHeaderText = [
+    'now we\'re going to narrow down on your fashion style',
+    'ok, cool. what about between these two?',
+      ' need a little bit more info...',
+      'oh interesting. we almost got it',
+      'last one...' 
+  ]
   return (
     <ScreenWrapper
       currentStep={currentRound}
@@ -140,10 +146,8 @@ export default function QuizPage() {
       className="flex flex-col items-center justify-center"
     >
       {/* Top instruction text */}
-      <p className="text-sm text-center mb-8 text-slate-600">
-        now we&apos;re going to
-        <br />
-        narrow down on your fashion style
+      <p className="text-sm text-center mb-8">
+        {currentRoundHeaderText[currentRound - 1]}
       </p>
 
       {/* Main heading */}
@@ -210,9 +214,9 @@ export default function QuizPage() {
       )}
 
       {/* Round indicator */}
-      <p className="text-xs text-slate-400 mt-6">
+      {/* <p className="text-xs text-slate-400 mt-6">
         {currentRound} of {totalRounds}
-      </p>
+      </p> */}
     </ScreenWrapper>
   );
 }

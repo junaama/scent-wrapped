@@ -39,7 +39,7 @@ export default function LoadingPage() {
       localStorage.setItem('wrappedData', JSON.stringify(data));
 
       // Only route after data is ready
-      router.push('/wrapped/genres');
+      router.push('/quiz');
     } catch (err) {
       console.error('Error fetching wrapped data:', err);
       setError('Failed to load your music data. Please try again.');
