@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import Image from 'next/image';
-import { ScreenWrapper, Button } from '@/components';
+import { ScreenWrapper, Button, PerfumePentagram, createPentagramPoints } from '@/components';
 
 interface Recommendation {
   name: string;
@@ -38,11 +38,28 @@ interface ResultsData {
   recommendations: Recommendation[];
 }
 
+const rotatingLoadingText = [
+  'figuring you out...',
+  'touching grass...',
+  'picking you, choosing you, loving you...',
+];
+
 export default function ResultsPage() {
   const router = useRouter();
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [results, setResults] = useState<ResultsData | null>(null);
+  const [loadingTextIndex, setLoadingTextIndex] = useState(0);
+
+  useEffect(() => {
+    let interval: ReturnType<typeof setInterval>;
+    if (isLoading) {
+      interval = setInterval(() => {
+        setLoadingTextIndex((prev) => (prev + 1) % rotatingLoadingText.length);
+      }, 1000);
+    }
+    return () => clearInterval(interval);
+  }, [isLoading]);
 
   useEffect(() => {
     fetchResults();
@@ -88,13 +105,13 @@ export default function ResultsPage() {
     entries.sort((a, b) => b[1] - a[1]);
     return entries[0][0];
   };
-
   if (isLoading) {
     return (
       <ScreenWrapper className="flex flex-col items-center justify-center text-center gap-4">
         <div className="animate-pulse">
-          <p className="text-sm text-slate-500">Analyzing your style...</p>
-          <p className="text-xs text-slate-400 mt-2">Finding your perfect scents</p>
+          <p className="text-xs mt-2">
+            {rotatingLoadingText[loadingTextIndex]}
+          </p>
         </div>
       </ScreenWrapper>
     );
@@ -124,7 +141,7 @@ export default function ResultsPage() {
       </h1>
 
       {/* Scent Profile Summary */}
-      <div className="w-full bg-slate-50 rounded-2xl p-4 mb-8">
+      <div className="w-full bg-slate-50 rounded-2xl p-4 mb-4">
         <p className="text-xs text-slate-500 uppercase tracking-wider mb-2">Your vibe</p>
         <div className="flex flex-wrap gap-2 mb-3">
           {results.scentProfile.accords.map((accord) => (
@@ -139,6 +156,14 @@ export default function ResultsPage() {
         <p className="text-xs text-slate-600 capitalize">
           {getTopStyle(results.scentProfile.style)} • {results.userTaste.topTags.slice(0, 3).join(' • ')}
         </p>
+      </div>
+
+      {/* Scent Pentagram */}
+      <div className="w-full bg-black rounded-2xl p-6 mb-8">
+        <p className="text-xs text-slate-400 uppercase tracking-wider mb-4 text-center">
+          Your scent profile
+        </p>
+        <PerfumePentagram points={createPentagramPoints(results.scentProfile.accords)} />
       </div>
 
       {/* Recommendations */}
