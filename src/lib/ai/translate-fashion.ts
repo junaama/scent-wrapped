@@ -1,7 +1,7 @@
 "use server";
 
 import { generateObject } from "ai";
-import { vertex } from "@ai-sdk/google-vertex";
+import { google } from "@ai-sdk/google";
 import { z } from "zod";
 import { ACCORD_VOCABULARY, STYLE_VOCABULARY } from "../perfumes";
 
@@ -38,7 +38,7 @@ export async function translateFashionToScentWithLLM(
   const styleList = STYLE_VOCABULARY.join(", ");
 
   const { object } = await generateObject({
-    model: vertex("gemini-2.5-flash"),
+    model: google("gemini-2.0-flash"),
     schema: ScentProfileSchema,
     prompt: `You are an expert perfumer and fashion stylist who understands the deep connections between visual aesthetics and scent profiles.
 
