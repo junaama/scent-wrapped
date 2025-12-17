@@ -4,6 +4,8 @@ import { initializeQuiz } from "@/lib/recommendation-engine";
 
 export const dynamic = "force-dynamic";
 
+type GenderPreference = 'feminine' | 'masculine' | 'neutral';
+
 /**
  * POST /api/quiz/start
  * Starts a new quiz session and returns the first outfit pair
@@ -13,9 +15,10 @@ export async function POST(request: Request) {
     const body = await request.json().catch(() => ({}));
     const poolSize = body.poolSize || 50; // Number of outfits to sample for the quiz
     const totalRounds = body.totalRounds || 5;
+    const gender = body.gender as GenderPreference | undefined;
 
-    // Sample diverse outfits for the quiz pool
-    const outfitPool = await sampleDiverseOutfits(poolSize);
+    // Sample diverse outfits for the quiz pool, filtered by gender preference
+    const outfitPool = await sampleDiverseOutfits(poolSize, gender);
 
     if (outfitPool.length < 2) {
       return NextResponse.json(

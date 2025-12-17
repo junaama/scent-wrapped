@@ -92,9 +92,9 @@ export function processChoice(
   const chosenVectors = newChoices.map((c) => c.chosen.tagVector);
   const newTasteVector = averageVectors(chosenVectors);
 
-  // Remove chosen and rejected from pool
+  // Remove chosen and rejected from pool (using imageUrl for comparison since references are lost during JSON serialization)
   const newPool = state.candidatePool.filter(
-    (o) => o !== chosen && o !== rejected
+    (o) => o.outfit.imageUrl !== chosen.outfit.imageUrl && o.outfit.imageUrl !== rejected.outfit.imageUrl
   );
 
   const newState: QuizState = {
@@ -229,7 +229,7 @@ export async function getRecommendationsFromQuiz(
   scentProfile: ScentProfile;
 }> {
   const userTaste = buildUserTasteVector(quizChoices);
-  const { recommendations, scentProfile } = await findMatchingPerfumes(userTaste, 3, useLLM);
+  const { recommendations, scentProfile } = await findMatchingPerfumes(userTaste, 5, useLLM);
 
   return { userTaste, recommendations, scentProfile };
 }

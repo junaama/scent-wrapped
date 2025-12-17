@@ -156,12 +156,55 @@ export async function loadOutfitVectors(): Promise<OutfitVector[]> {
 }
 
 /**
+ * Checks if an outfit is from a menswear collection
+ */
+function isMenswearOutfit(outfit: RunwayOutfit): boolean {
+  return outfit.season.toLowerCase().includes('menswear');
+}
+
+/**
+ * Filters outfit vectors based on gender preference
+ * - feminine: exclude menswear
+ * - masculine/neutral: include menswear only
+ */
+export function filterOutfitsByGender(
+  vectors: OutfitVector[],
+  gender: 'feminine' | 'masculine' | 'neutral'
+): OutfitVector[] {
+  if (gender === 'feminine') {
+    // Feminine: exclude menswear outfits
+    return vectors.filter((v) => !isMenswearOutfit(v.outfit));
+  } else {
+    // Masculine or Neutral: include only menswear outfits
+    return vectors.filter((v) => isMenswearOutfit(v.outfit));
+  }
+}
+
+/**
+ * Fisher-Yates shuffle for arrays
+ */
+function shuffleArray<T>(array: T[]): T[] {
+  const result = [...array];
+  for (let i = result.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [result[i], result[j]] = [result[j], result[i]];
+  }
+  return result;
+}
+
+/**
  * Gets a random sample of outfit vectors with good diversity
  */
 export async function sampleDiverseOutfits(
-  count: number = 100
+  count: number = 300,
+  gender?: 'feminine' | 'masculine' | 'neutral'
 ): Promise<OutfitVector[]> {
-  const allVectors = await loadOutfitVectors();
+  let allVectors = await loadOutfitVectors();
+
+  // Filter by gender if specified
+  if (gender) {
+    allVectors = filterOutfitsByGender(allVectors, gender);
+  }
 
   // Stratified sampling by brand to ensure diversity
   const byBrand = new Map<string, OutfitVector[]>();
@@ -174,7 +217,8 @@ export async function sampleDiverseOutfits(
   }
 
   const sampled: OutfitVector[] = [];
-  const brands = Array.from(byBrand.keys());
+  // Shuffle brands to avoid alphabetical bias
+  let brands = shuffleArray(Array.from(byBrand.keys()));
 
   // Round-robin sample from each brand
   let brandIdx = 0;
@@ -194,7 +238,8 @@ export async function sampleDiverseOutfits(
     }
   }
 
-  return sampled;
+  // Shuffle final result to randomize order for pair selection
+  return shuffleArray(sampled);
 }
 
 // Clear cache (useful for development/testing)

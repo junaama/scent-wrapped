@@ -45,10 +45,13 @@ export default function QuizPage() {
       setIsLoading(true);
       setError(null);
 
+      // Get gender preference from localStorage
+      const gender = localStorage.getItem('genderPreference') || 'neutral';
+
       const res = await fetch('/api/quiz/start', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ poolSize: 50, totalRounds: 5 }),
+        body: JSON.stringify({ poolSize: 300, totalRounds: 5, gender }),
       });
 
       if (!res.ok) throw new Error('Failed to start quiz');
@@ -139,6 +142,7 @@ export default function QuizPage() {
       'oh interesting. we almost got it',
       'last one...' 
   ]
+  console.log("pair", pair)
   return (
     <ScreenWrapper
       currentStep={currentRound}
