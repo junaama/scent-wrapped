@@ -158,11 +158,44 @@ Get scent recommendations (calls Gemini LLM).
 ## Tech Stack
 
 - **Framework**: Next.js 15 (App Router)
-- **AI**: Vercel AI SDK + Google Gemini 1.5 Flash
+- **AI**: Vercel AI SDK + Google Gemini 2.5 Flash
 - **Styling**: Tailwind CSS
 - **Fonts**: Geist Sans, Playfair Display
 
 
+## Email collection flow
+
+1) Email Collection Timing
+
+Show users their #1 match, then gate the remaining 4 recommendations behind email signup.
+
+2) Email Collection Method
+
+- Primary: Simple email input field
+- (Implement later) Secondary: "Or continue with Google" button below
+
+- Use https://github.com/reacherhq/check-if-email-exists/ to check if email exists
+- If doesn't exist show a user friendly error message
+
+
+3) Full Results after email collection
+
+**Show full results on the site immediately after email entry**, then also send a follow-up email. Here's the optimal flow:
+
+1. User enters email
+2. Instantly show all 5 fragrances in place of email collection inputs (satisfies their curiosity immediately)
+3. Send email within minutes with:
+   - Their complete results
+   - (Later) Affiliate links to each of their results available on eBay (if found).
+4. Use Resend for email delivery
+
+This approach maximizes satisfaction (they get instant gratification) while also giving you an email touchpoint for remarketing.
+
+- Add a small privacy note: "We'll email your results and you'll be first to know of future apps we create :)" 
+
+4) Full results content
+1. Everything from ShareScentCard
+2. Alongside the commented out code in @src/app/quiz/results/page.tsx Showing the accords, match reason, score, selected outfits preview, and AI reasoning. 
 
 ## Scent Recommendation Process from Gemini
 
