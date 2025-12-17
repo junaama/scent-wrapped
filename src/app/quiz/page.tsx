@@ -142,7 +142,6 @@ export default function QuizPage() {
       'oh interesting. we almost got it',
       'last one...' 
   ]
-  console.log("pair", pair)
   return (
     <ScreenWrapper
       currentStep={currentRound}

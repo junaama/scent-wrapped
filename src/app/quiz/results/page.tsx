@@ -54,6 +54,13 @@ export default function ResultsPage() {
   const [isSharing, setIsSharing] = useState(false);
   const shareCardRef = useRef<HTMLDivElement>(null);
 
+  // Email collection state
+  const [email, setEmail] = useState('');
+  const [emailError, setEmailError] = useState<string | null>(null);
+  const [isValidatingEmail, setIsValidatingEmail] = useState(false);
+  const [isUnlocked, setIsUnlocked] = useState(false);
+  const [isSubmittingEmail, setIsSubmittingEmail] = useState(false);
+
   useEffect(() => {
     let interval: ReturnType<typeof setInterval>;
     if (isLoading) {
@@ -159,6 +166,69 @@ export default function ResultsPage() {
     link.href = dataUrl;
     link.click();
   };
+
+  const validateEmail = async (emailToValidate: string): Promise<boolean> => {
+    try {
+      const res = await fetch('/api/email/validate', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email: emailToValidate }),
+      });
+      const data = await res.json();
+      if (!data.valid) {
+        setEmailError(data.error || 'Invalid email address');
+        return false;
+      }
+      return true;
+    } catch {
+      setEmailError('Failed to validate email');
+      return false;
+    }
+  };
+
+  const handleEmailSubmit = async (e: React.FormEvent) => {
+    e.preventDefault();
+    if (!email.trim() || !results) return;
+
+    setEmailError(null);
+    setIsValidatingEmail(true);
+
+    // Validate email first
+    const isValid = await validateEmail(email.trim());
+    setIsValidatingEmail(false);
+
+    if (!isValid) return;
+
+    // Submit email and send results
+    setIsSubmittingEmail(true);
+    try {
+      const res = await fetch('/api/email/submit', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          email: email.trim(),
+          styleLabel: getStyleLabel(),
+          scentProfile: results.scentProfile,
+          recommendations: results.recommendations,
+          selectedOutfits: results.userTaste.selectedOutfits,
+        }),
+      });
+
+      if (!res.ok) {
+        const data = await res.json();
+        setEmailError(data.error || 'Failed to submit email');
+        return;
+      }
+
+      // Unlock full results
+      setIsUnlocked(true);
+    } catch {
+      setEmailError('Failed to submit email. Please try again.');
+    } finally {
+      setIsSubmittingEmail(false);
+    }
+  };
+
   if (isLoading) {
     return (
       <ScreenWrapper className="flex flex-col items-center justify-center text-center gap-4">
@@ -243,119 +313,181 @@ export default function ResultsPage() {
 
        
       </div>
-      {/* Recommendations */}
-        <p className="text-2xl lowercase tracking-wider font-serif my-6 ">Here&apos;s {results.recommendations.slice(1).length} others for you</p>
-      <div className="w-full space-y-4 grid grid-cols-2">
-      
+      {/* Email Gate or Full Recommendations */}
+      {!isUnlocked ? (
+        /* Email Collection Form */
+        <div className="w-full mt-8 py-6 ">
+          <p className="text-xl font-serif text-center mb-2">
+            Want to see {results.recommendations.slice(1).length} more matches?
+          </p>
+          <p className="text-sm text-slate-500 text-center mb-6">
+            Enter your email to unlock your full results
+          </p>
 
-        {results.recommendations.slice(1).map((rec, index) => (
-          <div
-            key={rec.name}
-            className="flex gap-4 p-4 "
-          >
-            {/* Perfume image */}
-            <div className="w-20 h-20 relative rounded-xl overflow-hidden bg-slate-100 flex-shrink-0">
-              {rec.imageUrl ? (
-                <Image
-                  src={rec.imageUrl}
-                  alt={rec.name}
-                  fill
-                  className="object-cover"
-                  sizes="80px"
-                />
-              ) : (
-                <div className="w-full h-full flex items-center justify-center text-2xl">
-                  🧴
-                </div>
+          <form onSubmit={handleEmailSubmit} className="space-y-4">
+            <div>
+              <input
+                type="email"
+                value={email}
+                onChange={(e) => {
+                  setEmail(e.target.value);
+                  setEmailError(null);
+                }}
+                placeholder="your@email.com"
+                className="w-full px-4 py-3 rounded-full border border-slate-300 focus:border-black focus:outline-none text-center"
+                disabled={isValidatingEmail || isSubmittingEmail}
+              />
+              {emailError && (
+                <p className="text-sm text-red-500 text-center mt-2">{emailError}</p>
               )}
             </div>
 
-            {/* Perfume info */}
-            <div className="flex-1 min-w-0">
-              <div className="flex items-start justify-between gap-2">
-                <div>
-                  <p className="font-medium text-sm text-wrap">{rec.name}</p>
-                  {/* <p className="text-xs text-slate-500">{rec.brand}</p> */}
-                </div>
-
-              </div>
-              <span className="text-xs bg-black text-white px-2 py-1 rounded-full flex-shrink-0">
-                #{index + 2}
-              </span>
-              {/* Accords */}
-              {/* <div className="flex flex-wrap gap-1 mt-2">
-                {rec.mainAccords.slice(0, 3).map((accord) => (
-                  <span
-                    key={accord}
-                    className="text-xs px-2 py-0.5 bg-slate-100 rounded-full"
-                  >
-                    {accord}
-                  </span>
-                ))}
-              </div> */}
-
-              {/* Match reason */}
-              {/* <p className="text-xs text-slate-500 mt-2 line-clamp-2">
-                {rec.matchReason}
-              </p> */}
-
-              {/* Score */}
-              {/* <div className="flex items-center gap-2 mt-2">
-                <div className="flex-1 h-1 bg-slate-100 rounded-full overflow-hidden">
-                  <div
-                    className="h-full bg-black rounded-full"
-                    style={{ width: `${rec.score}%` }}
-                  />
-                </div>
-                <span className="text-xs text-slate-500">{rec.score}%</span>
-              </div> */}
-            </div>
-          </div>
-        ))}
-      </div>
-
-      {/* Selected outfits preview */}
-      {/* <div className="w-full mt-8">
-        <p className="text-xs text-slate-500 uppercase tracking-wider mb-3">Based on your picks</p>
-        <div className="flex gap-2 overflow-x-auto pb-2">
-          {results.userTaste.selectedOutfits.map((outfit, index) => (
-            <div
-              key={index}
-              className="w-16 h-20 relative rounded-lg overflow-hidden flex-shrink-0"
+            <Button
+              type="submit"
+              disabled={!email.trim() || isValidatingEmail || isSubmittingEmail}
+              className="w-full"
             >
-              <Image
-                src={outfit.imageUrl}
-                alt={`${outfit.brand} selection`}
-                fill
-                className="object-cover"
-                sizes="64px"
-              />
-            </div>
-          ))}
-        </div>
-      </div> */}
+              {isValidatingEmail ? 'Checking...' : isSubmittingEmail ? 'Unlocking...' : 'Unlock full results'}
+            </Button>
+          </form>
 
-      {/* AI reasoning */}
-      {/* {results.scentProfile.reasoning && (
-        <div className="w-full mt-6 p-4 bg-slate-50 rounded-2xl">
-          <p className="text-xs text-slate-500 mb-1">Why these scents?</p>
-          <p className="text-sm text-slate-700">{results.scentProfile.reasoning}</p>
+          <p className="text-xs text-slate-400 text-center mt-4">
+            We&apos;ll email your results and you&apos;ll be first to know of future apps we create :)
+          </p>
         </div>
-      )} */}
-      {/* <p className="text-xs text-slate-600 capitalize">
-          {getTopStyle(results.scentProfile.style)} • {results.userTaste.topTags.slice(0, 3).join(' • ')}
-        </p> */}
-      {/* Actions */}
+      ) : (
+        /* Full Results - Unlocked */
+        <>
+          {/* Scent Profile Summary */}
+          {/* <div className="w-full p-4 mt-8 mb-4">
+            <p className="text-xs text-slate-500 uppercase tracking-wider mb-2">Your vibe</p>
+            <div className="flex flex-wrap gap-2 mb-3">
+              {results.scentProfile.accords.map((accord) => (
+                <span
+                  key={accord}
+                  className="px-3 py-1 bg-white rounded-full text-sm border border-slate-200"
+                >
+                  {accord}
+                </span>
+              ))}
+            </div>
+            <p className="text-xs text-slate-600 capitalize">
+              {getTopStyle(results.scentProfile.style)} • {results.userTaste.topTags.slice(0, 3).join(' • ')}
+            </p>
+          </div> */}
+
+          {/* Recommendations */}
+          <p className="text-2xl lowercase tracking-wider font-serif my-6">
+            Here&apos;s {results.recommendations.slice(1).length} others for you
+          </p>
+
+          <div className="w-full space-y-4  grid grid-cols-2">
+            {results.recommendations.slice(1).map((rec, index) => (
+              <div
+                key={rec.name}
+                className="flex gap-4 p-4"
+              >
+                {/* Perfume image */}
+                <div className="w-20 h-20 relative rounded-xl overflow-hidden bg-white flex-shrink-0">
+                  {rec.imageUrl ? (
+                    <Image
+                      src={rec.imageUrl}
+                      alt={rec.name}
+                      fill
+                      className="object-cover"
+                      sizes="80px"
+                    />
+                  ) : (
+                    <div className="w-full h-full flex items-center justify-center text-2xl">
+                      🧴
+                    </div>
+                  )}
+                </div>
+
+                {/* Perfume info */}
+                <div className="flex-1 min-w-0">
+                  <div className="flex items-start justify-between gap-2">
+                    <div>
+                      <p className="font-medium text-sm text-wrap">{rec.name}</p>
+                      <p className="text-xs text-slate-500">{rec.brand}</p>
+                    </div>
+                    {/* <span className="text-xs bg-black text-white px-2 py-1 rounded-full flex-shrink-0">
+                      #{index + 2}
+                    </span> */}
+                  </div>
+
+                  {/* Accords */}
+                  {/* <div className="flex flex-wrap gap-1 mt-2">
+                    {rec.mainAccords.slice(0, 3).map((accord) => (
+                      <span
+                        key={accord}
+                        className="text-xs px-2 py-0.5 bg-white rounded-full"
+                      >
+                        {accord}
+                      </span>
+                    ))}
+                  </div> */}
+
+                  {/* Match reason */}
+                  {/* {rec.matchReason && (
+                    <p className="text-xs text-slate-500 mt-2 line-clamp-2 italic">
+                      &quot;{rec.matchReason}&quot;
+                    </p>
+                  )} */}
+
+                  {/* Score */}
+                  {/* <div className="flex items-center gap-2 mt-2">
+                    <div className="flex-1 h-1 bg-white rounded-full overflow-hidden">
+                      <div
+                        className="h-full bg-black rounded-full"
+                        style={{ width: `${rec.score}%` }}
+                      />
+                    </div>
+                    <span className="text-xs text-slate-500">{rec.score}%</span>
+                  </div> */}
+                </div>
+              </div>
+            ))}
+          </div>
+
+          {/* Selected outfits preview */}
+          {/* {results.userTaste.selectedOutfits.length > 0 && (
+            <div className="w-full mt-8">
+              <p className="text-xs text-slate-500 uppercase tracking-wider mb-3">Based on your picks</p>
+              <div className="flex gap-2 overflow-x-auto pb-2">
+                {results.userTaste.selectedOutfits.map((outfit, index) => (
+                  <div
+                    key={index}
+                    className="w-16 h-20 relative rounded-lg overflow-hidden flex-shrink-0"
+                  >
+                    <Image
+                      src={outfit.imageUrl}
+                      alt={`${outfit.brand} selection`}
+                      fill
+                      className="object-cover"
+                      sizes="64px"
+                    />
+                  </div>
+                ))}
+              </div>
+            </div>
+          )} */}
+
+          {/* AI reasoning */}
+          {/* {results.scentProfile.reasoning && (
+            <div className="w-full mt-6 p-4 bg-slate-50 rounded-2xl">
+              <p className="text-xs text-slate-500 mb-1">Why these scents?</p>
+              <p className="text-sm text-slate-700">{results.scentProfile.reasoning}</p>
+            </div>
+          )} */}
+        </>
+      )}
+
+      {/* Actions - Share button only after unlock */}
       <div className="flex flex-col gap-3 w-full mt-8">
         <Button onClick={handleShare} disabled={isSharing} variant="outline">
           {isSharing ? 'Creating image...' : 'Share with my friends'}
         </Button>
-        {/* <Button variant="outline" onClick={() => router.push('/')}>
-          Take quiz again
-        </Button> */}
-        {/* <Button variant="outline" onClick={() => router.push('/')}>
-          Back to home
-        </Button> */}
       </div>
 
       {/* Hidden Shareable Card for image generation */}

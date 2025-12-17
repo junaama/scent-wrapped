@@ -23,6 +23,11 @@ const nextConfig: NextConfig = {
         hostname: 'media.parfumo.com',
         pathname: '/perfumes/**',
       },
+      {
+        protocol: 'https',
+        hostname: 'images.parfumo.de',
+        pathname: '/**',
+      },
     ],
   },
 };
