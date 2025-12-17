@@ -34,11 +34,24 @@ export default function QuizPage() {
   const [quizState, setQuizState] = useState<QuizState | null>(null);
   const [isTransitioning, setIsTransitioning] = useState(false);
   const [selectedIndex, setSelectedIndex] = useState<0 | 1 | null>(null);
+  const [pendingPair, setPendingPair] = useState<[OutfitData, OutfitData] | null>(null);
+  const [imagesLoaded, setImagesLoaded] = useState({ left: false, right: false });
 
   // Start the quiz on mount
   useEffect(() => {
     startQuiz();
   }, []);
+
+  // Swap in pending pair once both images are loaded
+  useEffect(() => {
+    if (pendingPair && imagesLoaded.left && imagesLoaded.right) {
+      setPair(pendingPair);
+      setPendingPair(null);
+      setImagesLoaded({ left: false, right: false });
+      setSelectedIndex(null);
+      setIsTransitioning(false);
+    }
+  }, [pendingPair, imagesLoaded]);
 
   const startQuiz = async () => {
     try {
@@ -100,17 +113,17 @@ export default function QuizPage() {
         localStorage.setItem('quizChoices', JSON.stringify(data._state.choices));
         router.push('/quiz/results');
       } else {
-        // Next round
-        setPair([data.pair[0], data.pair[1]]);
+        // Next round - set pending pair and wait for images to load
+        setPendingPair([data.pair[0], data.pair[1]]);
         setCurrentRound(data.currentRound);
         setQuizState(data._state);
-        setSelectedIndex(null);
+        // isTransitioning and selectedIndex will be reset by the useEffect once images load
       }
     } catch (err) {
       setError('Failed to submit choice. Please try again.');
       console.error(err);
-    } finally {
       setIsTransitioning(false);
+      setSelectedIndex(null);
     }
   };
 
@@ -186,10 +199,13 @@ export default function QuizPage() {
               src={pair[0].imageUrl}
               alt={`${pair[0].brand} - ${pair[0].season}`}
               fill
-              className="object-cover"
+              className={`object-cover transition-opacity duration-200 ${isTransitioning ? 'opacity-50' : ''}`}
               sizes="(max-width: 768px) 45vw, 200px"
               priority
             />
+            {isTransitioning && (
+              <div className="absolute inset-0 bg-black/10 animate-pulse" />
+            )}
           </button>
 
           {/* Right outfit */}
@@ -208,18 +224,39 @@ export default function QuizPage() {
               src={pair[1].imageUrl}
               alt={`${pair[1].brand} - ${pair[1].season}`}
               fill
-              className="object-cover"
+              className={`object-cover transition-opacity duration-200 ${isTransitioning ? 'opacity-50' : ''}`}
               sizes="(max-width: 768px) 45vw, 200px"
               priority
             />
+            {isTransitioning && (
+              <div className="absolute inset-0 bg-black/10 animate-pulse" />
+            )}
           </button>
         </div>
       )}
 
-      {/* Round indicator */}
-      {/* <p className="text-xs text-slate-400 mt-6">
-        {currentRound} of {totalRounds}
-      </p> */}
+      {/* Hidden preload images for next pair */}
+      {pendingPair && (
+        <div className="hidden">
+          <Image
+            src={pendingPair[0].imageUrl}
+            alt="preload"
+            width={1}
+            height={1}
+            onLoad={() => setImagesLoaded(prev => ({ ...prev, left: true }))}
+            priority
+          />
+          <Image
+            src={pendingPair[1].imageUrl}
+            alt="preload"
+            width={1}
+            height={1}
+            onLoad={() => setImagesLoaded(prev => ({ ...prev, right: true }))}
+            priority
+          />
+        </div>
+      )}
+
     </ScreenWrapper>
   );
 }

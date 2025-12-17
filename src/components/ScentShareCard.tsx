@@ -203,8 +203,8 @@ export const ScentShareCard = forwardRef<HTMLDivElement, ScentShareCardProps>(
         <div
           style={{
             width: '140px',
-            height: '180px',
-            marginTop: '24px',
+            height: '140px',
+            marginTop: '16px',
             display: 'flex',
             alignItems: 'center',
             justifyContent: 'center',
@@ -227,10 +227,10 @@ export const ScentShareCard = forwardRef<HTMLDivElement, ScentShareCardProps>(
         <p
           style={{
             color: '#fff',
-            fontSize: '28px',
+            fontSize: '24px',
             fontFamily: 'Georgia, serif',
             textAlign: 'center',
-            margin: '20px 0 0 0',
+            margin: '16px 0 0 0',
           }}
         >
           {topPerfume.name.toLowerCase()}
@@ -252,7 +252,7 @@ export const ScentShareCard = forwardRef<HTMLDivElement, ScentShareCardProps>(
         <div
           style={{
             marginTop: 'auto',
-            paddingTop: '48px',
+            paddingTop: '36px',
             textAlign: 'center',
           }}
         >

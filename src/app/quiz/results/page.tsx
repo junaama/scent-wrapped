@@ -137,13 +137,13 @@ export default function ResultsPage() {
       if (navigator.share && navigator.canShare) {
         const response = await fetch(dataUrl);
         const blob = await response.blob();
-        const file = new File([blob], 'scent-wrapped.png', { type: 'image/png' });
+        const file = new File([blob], 'scent-taste.png', { type: 'image/png' });
 
         if (navigator.canShare({ files: [file] })) {
           await navigator.share({
             files: [file],
-            title: 'My Scent Profile',
-            text: 'Check out my signature scent from Scent Wrapped!',
+            title: 'Let Me Scent You',
+            text: 'Check out my signature scent from https://scent.getstuff.city!',
           });
         } else {
           // Fallback to download
@@ -162,7 +162,7 @@ export default function ResultsPage() {
 
   const downloadImage = (dataUrl: string) => {
     const link = document.createElement('a');
-    link.download = 'scent-wrapped.png';
+    link.download = 'scent-taste.png';
     link.href = dataUrl;
     link.click();
   };
@@ -388,7 +388,7 @@ export default function ResultsPage() {
                 className="flex gap-4 p-4"
               >
                 {/* Perfume image */}
-                <div className="w-20 h-20 relative rounded-xl overflow-hidden bg-white flex-shrink-0">
+                <div className="w-20 h-20 relative rounded-xl overflow-hidden bg-white shrink-0">
                   {rec.imageUrl ? (
                     <Image
                       src={rec.imageUrl}
@@ -429,7 +429,7 @@ export default function ResultsPage() {
                   </div> */}
 
                   {/* Match reason */}
-                  {/* {rec.matchReason && (
+                 {/* {rec.matchReason && (
                     <p className="text-xs text-slate-500 mt-2 line-clamp-2 italic">
                       &quot;{rec.matchReason}&quot;
                     </p>
@@ -474,15 +474,21 @@ export default function ResultsPage() {
           )} */}
 
           {/* AI reasoning */}
-          {/* {results.scentProfile.reasoning && (
+          
+
+        </>
+      )}
+       
+                    <p className="text-xs text-slate-500 mt-2 line-clamp-2 italic">
+                    Fragrances are selected from 2025 releases.
+                    </p>
+                  
+ {results.scentProfile.reasoning && (
             <div className="w-full mt-6 p-4 bg-slate-50 rounded-2xl">
               <p className="text-xs text-slate-500 mb-1">Why these scents?</p>
               <p className="text-sm text-slate-700">{results.scentProfile.reasoning}</p>
             </div>
-          )} */}
-        </>
-      )}
-
+          )}
       {/* Actions - Share button only after unlock */}
       <div className="flex flex-col gap-3 w-full mt-8">
         <Button onClick={handleShare} disabled={isSharing} variant="outline">

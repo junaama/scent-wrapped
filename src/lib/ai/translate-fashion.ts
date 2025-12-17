@@ -22,7 +22,7 @@ const ScentProfileSchema = z.object({
     .describe("Style weights that should sum to approximately 1"),
   reasoning: z
     .string()
-    .describe("Brief explanation of why these accords match the fashion aesthetic"),
+    .describe("One short sentence: 'Your fashion choices reflect [adjectives from tags] which suggest a fragrance profile that is [accords].'"),
 });
 
 export type ScentProfile = z.infer<typeof ScentProfileSchema>;
@@ -61,7 +61,10 @@ Consider these connections:
 - Luxurious/elegant styles → Floral, Oriental, Powdery accords
 - Streetwear/modern looks → Fresh, Synthetic, Woody accords
 
-Return a scent profile that would complement someone who loves this fashion aesthetic.`,
+Return a scent profile that would complement someone who loves this fashion aesthetic.
+
+For reasoning, use exactly this format in ONE short sentence:
+"Your fashion choices reflect [style adjectives] which suggest a fragrance profile that is [accord adjectives]."`,
   });
 
   return object;
@@ -125,7 +128,7 @@ export async function translateFashionToScentFallback(
       modern: styleCounts.Modern / totalStyle,
       classic: styleCounts.Classic / totalStyle,
     },
-    reasoning: `Based on your ${fashionTags.slice(0, 3).join(", ")} style preferences`,
+    reasoning: `Your fashion choices reflect ${fashionTags.slice(0, 3).join(", ")} elements which suggest a fragrance profile that is ${sortedAccords.slice(0, 3).join(", ").toLowerCase()}.`,
   };
 }
 
